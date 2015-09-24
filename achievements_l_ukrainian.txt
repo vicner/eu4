@@ -1,4 +1,4 @@
-l_english:
+l_ukrainian:
  achievement_for_the_glory: "Заради слави"
  desc_achievement_for_the_glory: "Дипломатично приєднайте васала."
  achievement_grand_army: "Це Велика армія"
