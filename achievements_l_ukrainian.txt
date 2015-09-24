@@ -229,4 +229,3 @@ achievement_holy_trinity: "Свята Трійця"
  desc_achievement_kirishitan_japan: "Почніть гру за японського даймьо та наверніть усю Японію у християнство."
  achievement_hessian_mercenaries: "Гессенські найманці"
  desc_achievement_hessian_mercenaries: "Граючи за Гессен майте не менше 50 загонів найманців та жодного боргу."
- 
