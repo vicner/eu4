@@ -1,4 +1,4 @@
-l_english:
+l_ukrainian:
  ALLOW_ATTACH: "Дозволити\nз'єднання"
  DIPLO_ALLY_IN_WAR: "Союзник у війні: "  
  DIPLO_ALLIANCE_WINNING_WAR: "Воєнний рахунок альянсу: "

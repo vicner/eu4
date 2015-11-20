@@ -1,4 +1,4 @@
-l_english:
+l_ukrainian:
  HAS_NO_FRIENDLY_REFORMATION_CENTER: "Не має центра реформації $NAME$"
  HAS_FRIENDLY_REFORMATION_CENTER: "Має центр реформації $NAME$"
  HAS_NO_HOSTILE_REFORMATION_CENTER: "Не має ворожих центрів реформації"

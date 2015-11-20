@@ -1,4 +1,4 @@
-l_english:
+l_ukrainian:
  TAKE_BANK_LOAN: "Взяти позику §Y$AMOUNT$§W на §Y5§W років. У вас може бути до §Y$SUPPORT$§W позик одночасно."
  NO_COMMANDER: "(Немає командира)"
  MORALE: "Бойовий дух"
