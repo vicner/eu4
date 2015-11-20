@@ -30,7 +30,7 @@ l_ukrainian:
  MOVE_CAPITAL_TO_FIXED: "Ви можете перемістити столицю держави $WHO$ тільки в провінцію §Y$PROV$§!."
  MOVE_CAPITAL_FIXED: "Ви не можете перемістити столицю держави $WHO$ за межі провінції §Y$PROV$§!."
  MAPMODE_PLAYERS: "Мапа гравців"
- MAPMODE_ACCEPTEDCULTURES: "Мапа державних культур"
+ MAPMODE_ACCEPTEDCULTURES: "Мапа визнаних культур"
  MAPMODE_CLIMATE: "Мапа клімату"
  MAPMODE_WINTER: "Мапа зим"
  MAPMODE_FEDERATIONS: "Мапа федерацій"
