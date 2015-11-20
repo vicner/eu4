@@ -1,4 +1,4 @@
-l_english:
+l_ukrainian:
  MENU_MESSAGES_DISABLE_ALL: "Відключити все"
  ai_handicap: "Фора ШІ"
  player_handicap: "Фора гравцеві"
