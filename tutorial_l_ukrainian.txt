@@ -344,7 +344,7 @@ l_ukrainian:
  TUT_CAM_CHAPTER03_PAGE01_TEXT: "Дослідження та колонізація важлива частина Europa Universalis IV. Відкриття нових земель та заснування в них колоній - відносно мирний шлях розширення вашої імперії. "
  TUT_CAM_CHAPTER03_PAGE01_OBJECTIVES: "Натисніть §MДалі§! для продовження"
  TUT_CAM_CHAPTER03_PAGE02_TITLE: "§YДослідження (2/8)§!"
- TUT_CAM_CHAPTER03_PAGE02_TEXT: "Невідомі землі приховані як §MTerra Incognita§!. Вам необхідно мати §MExplorer§! чи §MConquistador§! для переміщення юнітів у територію Terra Incognita. Перш ніж наймати дослідників чи конкістадорів, необхідно розблокувати ідею §MПодорож у Новий Світ§!."
+ TUT_CAM_CHAPTER03_PAGE02_TEXT: "Невідомі землі приховані як §MTerra Incognita§!. Вам необхідно мати §MExplorer§! чи §MConquistador§! для переміщення юнітів у територію Terra Incognita. Перш ніж наймати мореплавців чи конкістадорів, необхідно розблокувати ідею §MПодорож у Новий Світ§!."
  TUT_CAM_CHAPTER03_PAGE02_OBJECTIVES: "Виберіть ваш флот у провінції §MАндалусія§! для продовження."
  TUT_CAM_CHAPTER03_PAGE03_TITLE: "§YTerra Incognita (3/8)§!"
  TUT_CAM_CHAPTER03_PAGE03_TEXT: "Explorers очолюють флоти, а Conquistadors - армії. На чолі обраного флоту знаходиться Explorer Христофор Колумб.\n\n§Yвіддайте наказ вашим кораблям рухатися в території §MTerra Incognita§Y, натиснувши ПКМ на невідому землю.\n\nНе забудьте зняти гру з пузи.§!"

@@ -408,7 +408,7 @@ l_ukrainian:
  christian: "Християнство"
  confucianism: "Конфуціанство"
  eastern: "Східна"
- hinduism: "Індуїзм"
+ hinduism: "Гіндуїзм"
  muslim: "Іслам"
  orthodox: "Православ'я"
  pagan: "Язичництво"
