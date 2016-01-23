@@ -15,7 +15,7 @@ l_ukrainian:
  GALLEY_POWER: "Вогнева сила галер"
  TRANSPORT_POWER: "Вогнева сила транспортних кораблів"
  NUM_OF_ALLIES: "Можливі союзи"
- MANPOWER_RECOVERY: "Швидкість відновлення новобранців"
+ MANPOWER_RECOVERY: "Швидкість поповнення новобранців"
  HOSTILE_ATTRITION: "Виснаження ворожих армій"
  MODIFIER_CORE_CREATION: "Вартість націоналізації"
  MODIFIER_FREE_LEADER_POOL: "Лідер(и) без утримання"
