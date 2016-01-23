@@ -22,7 +22,7 @@ l_ukrainian:
  DIPLO_RECENT_OFFENSIVE_CALL: "Не приєднається до іншої загарбницької війни держави $WHO$ до §Y$DATE$§!: "
  DIPLO_HAS_ALLIANCE: "У союзі з: "
  DIPLO_NOT_BORDERING_RIVAL: "Держава $WHO$ не межує з ворогом або суперником держави $OVERLORD$: "
- DIPLO_BORDERING_UNZED: "$WHO$ межує із землями, які можна колонізувати: "
+DIPLO_BORDERING_UNCOLONIZED: "$WHO$ межує із землями, які можна колонізувати: "
  DIPLO_UNLAWFUL_TERRITORY: "Незаконна територія в Імперії: "
  DIPLO_NOT_DEMAND: "Не має вимог: "
  DIPLO_TOO_LARGE_MARCH: "Має надто високий розвиток в порівнянні з державою $OVERLORD$: "
