@@ -20,7 +20,7 @@ l_ukrainian:
  MAY_SOW_DISCONTENT: "- Можна розпалювати невдоволення\n"
  MAY_INFILTRATE_ADMINISTRATION: "- Можна проникати в адміністрацію\n"
  NO_COST_FOR_REINFORCING: "- Безкоштовне поповнення війська\n"
- MAY_STUDY_TECHNOLOGY: "- Можна переймати технології\n"
+ MAY_STUDY_TECHNOLOGY: "- Доступний технологічний шпіонаж\n"
  MAY_AGITATE_FOR_LIBERTY: "- Можна агітувати за свободу\n"
  MAY_FORCE_MARCH: "- Дозволяє віддавати накази арміям на §Yфорсований марш§!, збільшуючи їхню швидкість за рахунок військових балів."
  POWER_INCREASE: "Щомісячний приріст: $TOTAL|+=$\nчерез\nбазове значення: $BASE|Y$\n"
