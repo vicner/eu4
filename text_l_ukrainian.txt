@@ -2239,7 +2239,7 @@ l_ukrainian:
  MENU_BAR_MESSAGE_SETTINGS: "Налаштувати повідомлення"
  MENU_BAR_CLOSE: "Назад"
  MENU_BAR_SAVE: "Зберегти"
- MENU_BAR_SAVE_GAME_FILENAME: "Назва файлу збереження:"
+ MENU_BAR_SAVE_GAME_FILENAME: "Назва збереження:"
  MENU_BAR_SAVE_GAME_COMPRESSED: "Стискання"
  CHAT_ALLIES: "Друзі"
  CHAT_FOES: "Вороги"
