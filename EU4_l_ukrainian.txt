@@ -1796,7 +1796,7 @@
  TARGET_SECONDARYCULTURE: "$NAME$ також приймає такі культури:"
  CULTURE_IS_IN_GROUP: "§Y$CULTURE$§W культура знаходиться в культурній групі §Y$GROUP$§W."
  NOT_ACCEPTED_CULTURE: "$CULTURE|Y$ культура §Rне є§W визнаною в державі $COUNTRY$."
- ACCEPTED_CULTURE: "$CULTURE|Y$а культура є §Gвизнаною§! в державі $COUNTRY$."
+ ACCEPTED_CULTURE: "$CULTURE|Y$ культура є §Gвизнаною§! в державі $COUNTRY$."
  PRIMARY_CULTURE: "$CULTURE|Y$ культура є §Gосновною§! в державі $COUNTRY$."
  NOT_ACCEPTED_CULTURE_PRIMARY_GROUP: "$CULTURE|Y$ §Rне є§W визнаною в державі $COUNTRY$, але вона належить до основної культурної групи - $GROUP|Y$."
  ACCEPTED_CULTURES: "Прийняті культури в державі $COUNTRY$:"
