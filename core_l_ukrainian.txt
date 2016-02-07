@@ -328,7 +328,7 @@ l_ukrainian:
  PROVVIEW_OCCUPIED_BY: "§YЗахоплено державою $WHO$§!"
  PROVVIEW_OCCUPIED_BY_YOU: "§YЗахоплено вами§!"
  TRANSFER_OCCUPATION_SHIELD_DESC: "Клацніть на щиток, якщо хочете передати захоплену провінцію своєму союзнику у поточній війні."
- PROVINCE_TRANSFER_UNDER_SIEGE: "Неможливо передати контроль над провінціею, яка під облогою."
+ PROVINCE_TRANSFER_UNDER_SIEGE: "Неможливо передати контроль над провінцією, яка під облогою."
  PROVINCE_TRANSFER_NO_VALID: "У вас немає союзників, яким можна передати провінцію."
  TRANSFER_NOT_CONTROLLER: "Лише той, хто захопив провінцію, може передати контроль над нею."
  TRANSFER_VALID_ALLIES: "Ви можете передати контроль: $LIST$."
