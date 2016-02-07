@@ -3023,7 +3023,7 @@
  elections.EVTNAME708: "[Root.Monarch.GetTitle] помер!"
  elections.EVTDESC708: "Передчасна смерть [Root.Monarch.GetName] змусила провести вибори на посаду [Root.Monarch.GetTitle]. Були висунуто три основні кандидати..."
  elections.EVTNAME709: "[Root.Monarch.GetTitle] помер!"
- elections.EVTDESC709: "Будемо вважати, що [Root.Colonialparent.GetName] відправить нам гарну заміну..."
+ elections.EVTDESC709: "Будемо вважати, що [Root.ColonialParent.GetName] відправить нам гарну заміну..."
  elections.EVTOPTB709: "Помолимося"
  elections.EVTNAME710: "[From.Monarch.GetTitle] помер!"
  elections.EVTDESC710: "[From.Monarch.GetTitle] з колонії [From.GetName] раптово помер. Хто повинен його замінити?"

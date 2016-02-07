@@ -148,3 +148,5 @@ l_ukrainian:
  secularized_monastic_order: "Секуляризував монастирський орден"
  secularized_bishopric: "Секуляризована єпархія"
  share_advanced_neighbor: "Розвиненіший сусід"
+ razed_province: "Зруйнував наші провінції"
+ pirated_us: "Пиратствував проти нас"
