@@ -467,7 +467,7 @@ l_ukrainian:
  supported_independence_of_vassal: "Підтримали незалежність нашої автономії"
  supporting_independence_of_vassal: "Підтримує незалежність нашої автономії"
  break_supporting_independence: "Розірвали договір підтримки незалежності"
- rejected_support_independence: "Відмовилися підтримати нашу незалежність"
+ rejected_support_independence: "Відхилено пропозицію про підтримку незалежності"
  desc_bonus_from_merchant_republics: "Торгові республіки, які торгують у торговому вузлі, надають бонус до виробництва товарів пропорційно до їхньої торгової сили."
  cerro_rico_modifier: "Серро Ріко"
  desc_cerro_rico_modifier: "'Багаті гори' або Великі Срібні Гори Потосі є одними з найбагатших срібних копалень у світі. Між 1575 і 1600 роками на них припадала половина всього срібла, видобутого в Америці."
@@ -491,7 +491,6 @@ l_ukrainian:
  desc_growing_spice_trade: "Наші зусилля з пошуку додаткових джерел спецій не залишилися непоміченими торговцями. Переконані, що держава піклується про їхні інтереси, вони стали виплачувати податки і портові збори з куди більшим ентузіазмом, ніж раніше."
  growing_chinaware_trade: "Торгівля порцеляною"
  desc_growing_chinaware_trade: "Наші зусилля з пошуку додаткових джерел порцеляни не залишилися непоміченими торговцями. Переконані, що держава піклується про їхні інтереси, вони стали виплачувати податки і портові збори з куди більшим ентузіазмом, ніж раніше."
- 
  add_unrest_5_modifier: "Rebellious People"
  desc_add_unrest_5_modifier: "Your actions have upset the people in this province."
  remove_unrest_5_modifier: "Happy People"
@@ -642,3 +641,5 @@ l_ukrainian:
  desc_eng_court_star_chamber: "The Star Chamber is a court composed of privy councillors and common-law judges. The high position of this court ensures that we can prosecute even socially and politically prominent offenders. While the court is in general a great way to promote Royal Justice in our lands some MPs are opposed to what they see as arbitrary rulings designed to strengthen the monarchy."
  emperor_friendly_with_elector: "Supportive Elector"
  desc_emperor_friendly_with_elector: "By ensuring to maintain the support of our electors we have strengthened our influence in the Empire."
+ old_rights_granted_to_nobility: "Defended Rights of the Nobility"
+ desc_old_rights_granted_to_nobility: "We have affirmed the rights of the nobility to act independently of the monarch in thier own domains. While this has pleased many nobles greatly it has meant a loss of state authority nationally."
