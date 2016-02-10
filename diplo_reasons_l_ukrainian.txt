@@ -131,7 +131,7 @@ l_ukrainian:
  DIPLO_IS_DEPENDENT_ON: "Залежний від держави $WHO$: "
  DIPLO_NUM_OF_PROVINCES: "Кількість провінцій: "
  DIPLO_HAS_NO_PROVINCES: "Не має провінцій: "
- DIPLO_BASE_TAX: "Базовий податок держави $WHO$ у порівнянні з державою $OTHER$: "
+ DIPLO_BASE_TAX: "Економіка $WHO$ої держави у порівнянні з державою $OTHER$: "
  DIPLO_MORE_BASE_TAX_THAN: "Розвиток держави $WHO$ більше $VAL$: " 
  DIPLO_LESS_BASE_TAX_THAN: "Розвиток держави $WHO$ менше $VAL$: "
  DIPLO_MILITARY_POWER: "Військова сила держави $WHO$ у порівнянні з державою $OTHER$: " 
