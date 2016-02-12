@@ -1320,7 +1320,7 @@ l_ukrainian:
  ESTATES_TITLE: "Стани"
  ACHIEVEMENTS_FIX_SETTINGS: "Змінити налаштування, щоб дозволити досягнення"
  RNW_GENERATION_HOST: "Генерація Випадкового Нового Світу..."
- RNW_GENERATION_CLIENT: "Хост генерує Випадковий Новий Світ і якийсь час не відповідатиме..."
+ RNW_GENERATION_CLIENT: "Host генерує Випадковий Новий Світ і якийсь час не відповідатиме..."
  LOYALTY: "Лояльність"
  INFLUENCE: "Вплив"
  TERRITORY: "Території" 
