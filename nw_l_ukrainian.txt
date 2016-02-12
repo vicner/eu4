@@ -75,7 +75,7 @@ l_ukrainian:
  MIGRATE_REASON_WAR: "Міграція неможлива в умовах війни."
  MIGRATE_REASON_COOLDOWN: "Наступна міграція стане можливою $DATE|Y$."
  MIGRATE_COOLDOWN: "$COUNTRY$ зможе мігрувати через $DAYS|Y$ дн. ($DATE|Y$)"
- MIGRATE_POSSIBLE_BUTTON_DESC: "Натисніть, щоб відкрити екран міграції."
+ MIGRATE_POSSIBLE_BUTTON_DESC: "Клацніть, щоб відкрити екран міграції."
  MIGRATE_TO_DESC: "$COUNTRY$ мігрує в провінцію $NEWPROV$ і втратить контроль над провінцією $OLDPROV$. $COUNTRY$ отримає $ADM$£adm£, $DIP$£dip£ і $MIL$£mil£ від міграції. $COUNTRY$ зможе мігрувати знову тільки $DATE$."
  alert_can_migrate_instant: "§YМіграція можлива.§!"
  alert_can_migrate_delayed: "Можлива міграція в сусідню провінцію."
