@@ -540,7 +540,7 @@
  PAY_CASH_TO_MULTIPLE: "$WHO$ виплатить §Y$WHAT$§! дукатів державі $WHOM$та її союзникам."
  GET_PART_OF_CASH: "$WHO$ отримає §Y$WHAT$§! від цієї суми."
  CORE_RETURN: "$WHO$ передасть національні провінції $WHAT$ державі $TO$."
- CB_ALLOWED_RETURN_CORE: "Повернення національних провінцій"
+ CB_ALLOWED_RETURN_CORE: "Повернення нац. провінцій"
  sent_gift: "Надіслали подарунок"
  IMPROVING_RELATIONS_WE: "Покращуємо стосунки з: $LIST$."
  IMPROVING_RELATIONS_THEY: "Покращують стосунки: $LIST$."
