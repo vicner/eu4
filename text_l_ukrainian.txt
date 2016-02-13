@@ -7589,7 +7589,7 @@ l_ukrainian:
  ND_CONFIRM_CHANGE_DATE_MP_DESC: "Зміна стартової дати видалить всі індивідуальні держави, створені гравцями.\n Ви справді хочете продовжити?"
  ND_ABORTED_BY_SERVER_TITLE: "Редактор країн було очищено"
  ND_ABORTED_BY_SERVER_DESC: "Створені держави були видалені хостом при зміні стартової дати."
- ND_CANNOT_SELECT_IMPASSABLE_TERRAIN: "§Rпустоши не можуть бути частиною Вашої держави.§!"
+ ND_CANNOT_SELECT_IMPASSABLE_TERRAIN: "§Rпустища не можуть бути частиною вашої держави.§!"
  ND_PROVINCE_OWNED_BY_PLAYER: "§RЦя провінція вже належить гравцеві $NAME$.§!"
  ND_NO_PATH_TO_PROVINCE: "§RЦя провінція заблокована непрохідною місцевістю.§!"
  ND_PROVINCE_TO_FAR_AWAY: "§RЦя провінція занадто далека від наших рідних земель.§!"
