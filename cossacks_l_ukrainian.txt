@@ -1,4 +1,4 @@
-l_english:
+l_ukrainian:
  estate_nobles: "Дворяни"
  estate_nobles_desc: "This estate represents the families of landed aristocrats in your country. Their privileges are guaranteed by old traditions and most have originally been won through performing great services to the state. Their traditional responsibility is to fight and protect the realm against outside dangers as well as help the ruler keep the peace."
  estate_church: "Священнослужителі"
@@ -14,7 +14,7 @@ l_english:
  MAPMODE_ESTATES: "Стани"
  MAPMODE_ESTATES_DESC: "Зафарбовує ваші провінції відповідно до їхньої приналежності до станів."
  VITAL_PROVINCES: "Провінції, що являють інтерес"
- VITAL_PROVINCES_DESC: "Click on a province on the map to set it as a province of vital interest."
+ VITAL_PROVINCES_DESC: "Клацніть на провінції, щоб позначити такою, що відповідає вашим стратегічним інтересам."
  PROMISE_LAND_DIALOG: "Пообіцяти землі"
  FORT_PROTECTED_AGAINST_REBELS: "Через те, що у провінції $FORT|Y$ розташована фортеця, це ніяк не вплинуло на провінцію."
  FORT_DESCRIPTION: "Фортеця має зону контролю над усіма прилеглими територіями, що зупиняє пересування по ним ворожих армій та запобігає негативним ефектам під час захоплення провінцій повстанцями."
@@ -117,7 +117,7 @@ l_english:
  ESTATE_TERRITORY_TOOLTIP_2: " й очікують, що контролюватимуть щонайменше $MIN|Y$."
  ESTATE_TERRITORY_TOOLTIP_3: " Виходячи з цього, їхня лояльність змінюється на $VAL|R$ щомісяця."
  ESTATE_TERRITORY_TOOLTIP_4: "Ці території збільшують їхній вплив на $INF|Y$ ($AMT|Y$ впливу за §Y1%§! від вашого загального не заморського розвитку, але не більше $MAX|Y$.)"
- ESTATE_TERRITORY_TOOLTIP_DELAYED: Число територій, яке вони очікують контролювати залежить від:"
+ ESTATE_TERRITORY_TOOLTIP_DELAYED: "Число територій, яке вони очікують контролювати залежить від:"
  ESTATE_INFLUENCE_MODIFIER_NOT: "$ESTATE|Y$ НЕ мають модифікатору впливу, який дорівнює $VALUE|Y$."
  ESTATE_INFLUENCE_MODIFIER: "$ESTATE|Y$ мають модифікатор впливу, який дорівнює $VALUE|Y$."
  ESTATE_LOYALTY_MODIFIER_NOT: "$ESTATE|Y$ НЕ мають модифікатору лояльності, який дорівнює $VALUE|Y$."
