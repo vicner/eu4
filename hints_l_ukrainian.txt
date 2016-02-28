@@ -1,4 +1,4 @@
-l_ukrainian: 
+﻿l_ukrainian: 
  HINTS_DISABLE_ALL_HINTS: "Вимкнути"
  HINTS_DISABLE_HINT: "Відключити"
  HINT_CONFIRM_DISABLE_TITLE: "Вимкнути підказки"

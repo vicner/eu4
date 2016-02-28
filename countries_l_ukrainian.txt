@@ -525,7 +525,7 @@ l_ukrainian:
  TUS_ADJ: "Тосканськ"
  TVE_ADJ: "Тверськ"
  TYR_ADJ: "Тайронськ"
- UKR_ADJ: "Русинськ"
+ UKR_ADJ: "Руськ"
  URB_ADJ: "Урбінськ"
  USA_ADJ: "Американськ"
  UTR_ADJ: "Утрехтськ"
