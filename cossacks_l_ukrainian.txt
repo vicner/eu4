@@ -1,6 +1,6 @@
 l_ukrainian:
  estate_nobles: "Дворяни"
- estate_nobles_desc: "This estate represents the families of landed aristocrats in your country. Their privileges are guaranteed by old traditions and most have originally been won through performing great services to the state. Their traditional responsibility is to fight and protect the realm against outside dangers as well as help the ruler keep the peace."
+ estate_nobles_desc: "Цей стан представляє інтересиThis estate represents the families of landed aristocrats in your country. Their privileges are guaranteed by old traditions and most have originally been won through performing great services to the state. Their traditional responsibility is to fight and protect the realm against outside dangers as well as help the ruler keep the peace."
  estate_church: "Священнослужителі"
  estate_church_desc: "This estate represents the educated priests of your state religion. They have a long tradition of serving in the administration of your country and their traditional responsibility is to care for the spiritual well being of it and your people. Over the centuries they have acquired both land properties and privileges from former rulers as well as pious individuals."
  estate_burghers: "Міщани"
