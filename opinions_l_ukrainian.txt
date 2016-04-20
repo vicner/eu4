@@ -1,4 +1,5 @@
 l_ukrainian:
+ in_same_trade_league: "В одній Торговій лізі"
  rejected_alliance: "Відхилений альянс"
  selfish_ally: "Не було захоплених національних провінцій або претензій під час миру."
  opinion_enforced_religious_unity: "Насильницьке навернення"
@@ -150,3 +151,9 @@ l_ukrainian:
  share_advanced_neighbor: "Розвиненіший сусід"
  razed_province: "Зруйнував наші провінції"
  pirated_us: "Пиратствував проти нас"
+ opinion_emperor_tus_refused: "Відмовився поступитися Імператору"
+ opinion_papal_tus_refused: "Відмовився поступитися Імператору"
+ opinion_emperor_tus_yielded: "Поступився Імператору"
+ opinion_papal_tus_yielded: "Поступився Імператору"
+ opinion_welcomed_fernandes: "Привітали Фернандеша"
+ opinion_killed_fernandes: "Вбили Фернандеша"
