@@ -190,3 +190,6 @@ l_ukrainian:
  girin: "Гірін"
  xian: "Сіань"
  chengdu: "Ченду"
+ zambezi: "Замбезі"
+ african_great_lakes: "Великі озера"
+ kongo: "Конго"
