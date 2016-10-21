@@ -2204,7 +2204,7 @@ l_ukrainian:
  flavor_ful.1.t:0 "Marabout Unrest in $PROVINCENAME$"
  flavor_ful.1.d:0 "Marabout preachers inspired by the charismatic Nasir al-din have begun propagating for a an Islamic reformation in $PROVINCENAME$. Many local warriors have joined with the Marabout and together they are now working outside of the state to create a society here following the Sharia in its purest form. They are violently opposed to any pagan traditions or foreign influences."
  flavor_ful.1.a:0 "Гаразд"
- flavor_ful.2.t:0 "Orthodox Islamic Revolution"
+ flavor_ful.2.t:0 "Ортодоксальна ісламська революція"
  flavor_ful.2.d:0 "Religious tensions have been slowly rising in our country since the rise of the Marabouts in the middle of the 17th century. Now the The Marabout faction in $COUNTRYNAME$ have come out in open revolt against the old aristocracy in $CAPITAL_CITY$. The promised revolution has quickly gotten the support of many of the Fulani herdsmen that are present in large parts of our state and it is clear that we will soon have a very serious revolt on our hands."
  flavor_ful.2.a:0 "We must join the revolution, death to the aristocrats!"
  flavor_ful.2.b:0 "We must preserve our traditions!"
