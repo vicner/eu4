@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  PROV1:0 "Стокгольм"
  PROV2:0 "Естерйотланд"
  PROV3:0 "Смоланд"

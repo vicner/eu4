@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  refused_aid_traders:0 "Торговцям відмовлено в допомозі"
  desc_refused_aid_traders:0 "Ми не стали допомагати місцевим торговцям боротися з каперами."
  reckless_privateer:0 "Безрозсудний капер"

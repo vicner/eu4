@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  shiva:0 "Культ Шиви"
  ganesha:0 "Культ Ґанешу"
  surya:0 "Культ Сур'ї"

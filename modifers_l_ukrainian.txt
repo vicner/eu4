@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  MODIFIER_DIPLOMATIC_UPKEEP:0 "Дипломатичні відносини"
  MODIFIER_UNJUSTIFIED_DEMANDS:0 "Необґрунтовані вимоги"
  PROVINCE_TRADE_EFFICIENCY:0 "Місцева ефективність торгівлі"

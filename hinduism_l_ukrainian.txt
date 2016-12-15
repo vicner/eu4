@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  shiva_srishti:0 "Шрішті"
  desc_shiva_srishti:0 "Розуміння божественної ролі Шиви у створенні спонукає правителя на створення своєї спадщини."
  shiva_tirodhana:0 "Тіробхава"

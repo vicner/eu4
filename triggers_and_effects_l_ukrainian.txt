@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  ADM_EFFECT:0 "$WHO$ $DIRECTION$ $VALUE$ £adm£\n"
  DIP_EFFECT:0 "$WHO$ $DIRECTION$ $VALUE$ £dip£\n"
  MIL_EFFECT:0 "$WHO$ $DIRECTION$ $VALUE$ £mil£\n"

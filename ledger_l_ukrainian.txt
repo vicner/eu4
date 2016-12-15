@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  LEDGER_COUNTRY:0 "Країна"
  LEDGER_STABILITY:0 "Стабільність"
  LEDGER_INCOME:0 "Дохід"

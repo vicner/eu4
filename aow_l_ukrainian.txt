@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  LOCAL_AUTONOMY_EFFECTS:0 "Місцева автономія в провінції $NAME$ дає такі ефекти:\n$EFFECT$"
  LOCAL_AUTONOMY_DECREASE_EFFECT:0 "Якщо безладдя в провінції $NAME$ становить §Y0.0%§!, рівень місцевої автономії може бути знижений.\n\n"
  LOCAL_AUTO_CHANGE:0 "Він буде змінюватися на $DECREASE$ щомісяця, завдяки наступним ефектам:\n$DESC$"

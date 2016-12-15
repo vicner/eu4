@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  mil_tech_cost_modifier:0 "Вартість воєн. технологій"
  adm_tech_cost_modifier:0 "Вартість адм. технологій"
  dip_tech_cost_modifier:0 "Вартість дип. технологій"

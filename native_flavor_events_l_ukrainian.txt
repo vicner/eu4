@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  learning_from_the_land:0 "Пізнання землі"
  desc_learning_from_the_land:0 "Відмовившись від чужої допомоги, ми повинні самі адаптуватися до суворого клімату."
  counting_coup:0 "Підрахунок вдач"

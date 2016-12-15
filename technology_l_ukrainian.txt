@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  MAY_MERCHANTS:0 "Можна посилати §Yторговців§W.\n"
  MAY_BLOCKADE:0 "Можна §Yблокувати порти§W."
  MAY_FORM_COALITION:0 "Можна формувати §Yкоаліції§W."

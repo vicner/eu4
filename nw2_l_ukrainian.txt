@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  ALLOW_ATTACH:0 "Союзники\nможуть приєднуватися"
  DIPLO_ALLY_IN_WAR:0 "Союзник у війні: "
  DIPLO_COALITION_WAR:0 "Коаліційна війна: "

@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  in_same_trade_league:0 "В одній Торговій лізі"
  rejected_alliance:0 "Відхилений альянс"
  selfish_ally:0 "Не було захоплених національних провінцій або претензій під час миру."

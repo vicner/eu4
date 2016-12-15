@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  DIPLO_NO_FIGHTING:0 "Немає поточних боїв: "
  DIPLO_UNCONDITIONALLY_SURRENDERED:1 "Держава $WHO$ беззастережно капітулювала перед державою $THEM$: "
  DIPLO_SET_PROVINCES_AS_VITAL:0 "$THEM$ розглядає провінції держави $WE$ як нагально необхідні: "

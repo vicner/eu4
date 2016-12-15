@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  banaadir_region:0 "Банаадір"
  haud_region:0 "Хауд"
  kaffa_region:0 "Кафа"

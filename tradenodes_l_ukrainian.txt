@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  ON_TRADE_MISSION_IRO:0 "Захист наших торгових інтересів у вузлі §Y$WHERE$§! за допомогою §Y$COUNT$§! легких кораблів."
  ON_PRIVATEER_MISSION_IRO:0 "Перешкоджання торговим інтересам наших ворогів у вузлі §Y$WHERE$§! за допомогою §Y$COUNT$§! легких кораблів."
  TRADEMAP_OUTGOING:0 "§Y$VAL$§W¤ направляється в торговий вузол §Y$NAME$§W."

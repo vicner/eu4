@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  THEYDECLINESHAREMAP_TITLE:0 "Відмовилися поділитися мапами"
  THEYDECLINESHAREMAP_SETUP:0 "Наша вимога поділитися мапами відхилена."
  THEYDECLINESHAREMAP_HEADER:0 "$MESSENGER$"

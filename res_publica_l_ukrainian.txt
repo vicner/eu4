@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  embraced_absolutism:0 "Підтримані ідеї абсолютизму"
  rejected_absolutism:0 "Відхилені ідеї абсолютизму"
  accepted_act_of_seclusion:0 "Прийнятий указ про ізоляцію"

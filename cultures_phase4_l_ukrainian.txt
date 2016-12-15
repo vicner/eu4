@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  cushitic:0 "Кушитськ"
  tigray:0 "Тиграйськ"
  sidamo:0 "Сидамськ"
