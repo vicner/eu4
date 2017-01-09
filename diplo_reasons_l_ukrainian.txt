@@ -238,7 +238,7 @@
  DIPLO_UNION_WAR_GREAT_POWER:0 "$WHO$ не хоче щоб $TARGET$ була в унії під державою $THEM$: "
  DIPLO_PLAYER_AI_PREFS_FIGHT_TO_DEATH:0 "$WHO$ §Gхоче підписати швидкий мир§! Налаштування ШІ §Gувімкнено§!: "
  DIPLO_VASSAL_UNDER:0 "$VASSAL$ - васал держави $LEADER$: "
- DIPLO_VASSAL_LOYAL:0 "$VASSAL$ лояльна до $OVERLORD$"
+ DIPLO_VASSAL_LOYAL:0 "$VASSAL$ ставиться лояльно до держави $OVERLORD$"
  DIPLO_UNION_UNDER:0 "$UNDER$ - молодший партнер в унії під державою $LEADER$: "
  DIPLO_IN_OUR_UNION:0 "$WHO$ в унії з нами: "
  DIPLO_SUPPORTING_INDEPENDENCE:0 "$COUNTRY01$ підтримує $COUNTRY02_ADJ$у незалежність: "
