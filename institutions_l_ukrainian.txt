@@ -66,7 +66,7 @@
  tooltip_colonial_overlord_global_trade:0 "Порт/Столиця - Метрополія запровадила §YГлобальну торгівлю§!"
  tooltip_colonial_overlord_manufactories:0 "Порт/Столиця - Метрополія запровадила §YМануфактури§!"
  tooltip_colonial_overlord_enlightenment:0 "Порт/Столиця - Метрополія запровадила §YПросвітництво§!"
- tooltip_has_colonial_subject_in_new_world:1 "Порт/Столиця держави, що має у Новому Світі колоніальні автономії"
+ tooltip_has_colonial_subject_in_new_world:1 "Порт/Столиця держави, що має колоніальні автономії у Новому Світі"
  tooltip_has_protectorate:0 "Порт/Столиця - держави, що має протекторат"
  tooltip_enlightenment_embraced:0 "Власник запровадив §YПросвітництво§!"
  tooltip_feudalism_embraced:0 "Власник запровадив §YФеодалізм§!"
