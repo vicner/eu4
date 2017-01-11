@@ -1,4 +1,4 @@
 ﻿l_english:
- drylands:0 "Drylands"
- savannah:0 "Savanna"
+ drylands:0 "Посушливі землі"
+ savannah:0 "Саванна"
  
