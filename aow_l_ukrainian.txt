@@ -1,5 +1,6 @@
 ﻿l_ukrainian:
  LOCAL_AUTONOMY_EFFECTS:0 "Місцева автономія в провінції $NAME$ дає такі ефекти:\n$EFFECT$"
+ NO_LOCAL_AUTONOMY_EFFECTS:0 "Місцева автономія в провінції $NАМЕ$ не надає ніяких ефектів."
  LOCAL_AUTONOMY_DECREASE_EFFECT:0 "Якщо рівень заворушень в провінції $NAME$ становить §Y0.0%§!, рівень місцевої автономії може бути знижений.\n\n"
  LOCAL_AUTO_CHANGE:0 "Він буде змінюватися на $DECREASE$ щомісяця, завдяки наступним ефектам:\n$DESC$"
  LOCAL_AUTONOMY_MOD:0 "Щомісячна зміна автономії"
