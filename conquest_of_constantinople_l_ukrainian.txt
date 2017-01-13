@@ -1,4 +1,4 @@
-﻿l_english:
- atthegatesofconstantinople:0 "Врата Константинополя"
+﻿l_ukrainian:
+ atthegatesofconstantinople:0 "У брами Константинополя"
  thecaravan:0 "Караван"
  welcometoconstantinople:0 "Ласкаво просимо до Константинополя"
