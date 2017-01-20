@@ -26,7 +26,7 @@
  INF_SHO_INCREASE:0 "Сила натиску піхоти: §G+$VALUE$§W\n"
  CAV_SHO_INCREASE:0 "Сила натиску кавалерії: §G+$VALUE$§W\n"
  ART_SHO_INCREASE:0 "Сила натиску артилерії: §G+$VALUE$§W\n"
- TECH_SETUP:0 "Коли рівень технологій буде підвищено"
+ TECH_SETUP:0 "Коли рівень технологій буде підвищено."
  WESTERN_NAVAL_TECH:0 "Флоти"
  TECH_HEADER:0 "$MESSENGER$"
  TECH_1:0 "Покращені $TYPE$!"
