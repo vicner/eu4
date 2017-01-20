@@ -244,6 +244,7 @@
  ADM_SCORE_OCCUPATION:0 "Окупація: §R$VAL$§!\n"
  MIL_SCORE_EXHAUSTION:0 "Втома від війни: §R$VAL$§!\n"
  DIP_SCORE_WARSCORE:0 "Програні війни: §R$VAL$§!\n"
+ MIL_SCORE_MAIN_FORT:0 "Утримання фортець: $VAL$\n"
  ENVOY_DIPLOMATING_IMPROVING_RELATION_DONE:0 "Ми можемо покращити наші відносини на $OPINION|+$ до $DATE|Y$."
  MAPMODE_TRADECOMPANTYREGIONS:0 "Торгові регіони"
  MAPMODE_TRADECOMPANTYREGIONS_DESC:0 "Кольором позначено регіони, на яких можливе формування торгових компаній."
