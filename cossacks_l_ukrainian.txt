@@ -1373,7 +1373,7 @@
  NO_NATION_RUINING_WAR:0 "§RYou cannot break truces until §!§Y$DATE$§!§R because you recently lost a war and the host has enabled the §!§Y$OPTION$§!§R Option.§!"
  NO_NATION_RUINING_SELL_PROVINCE:0 "§RYou cannot sell core provinces until §!§Y$DATE$§!§R because you recently lost a war and the host has enabled the §!§Y$OPTION$§!§R Option.§!"
  NO_NATION_RUINING_LOANS:0 "§RYou cannot take loans until §!§Y$DATE$§!§R because you recently lost a war and the host has enabled the §!§Y$OPTION$§!§R Option.§!"
- NO_NATION_RUINING_DEBASING:0 "§RВи не можете знецінити валюту до §!§Y$DATE$§!§R, тому що ви недавно програли війну і host увімкнув §Rопцію§! §!§Y$OPTION$§!."
+ NO_NATION_RUINING_DEBASING:0 "§RВи не можете псувати монети до §!§Y$DATE$§!§R, тому що ви недавно програли війну і host увімкнув §Rопцію§! §!§Y$OPTION$§!."
  NO_NATION_RUINING_RELEASE_VASSALS:0 "§RYou cannot release vassals until §!§Y$DATE$§!§R because you recently lost a war and the host has enabled the §!§Y$OPTION$§!§R Option.§!"
  NO_NATION_RUINING_CLIENT_STATES:0 "§RYou cannot turn over core provinces to Client States until §!§Y$DATE$§!§R because you recently lost a war and the host has enabled the §!§Y$OPTION$§!§R Option.§!"
  NO_NATION_RUINING_ACCEPT_DEMANDS:0 "§RYou cannot accept demands from rebels with less than 50% progress until §!§Y$DATE$§!§R because you recently lost a war and the host has enabled the §!§Y$OPTION$§!§R Option.§!"
