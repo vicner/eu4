@@ -708,7 +708,7 @@
  TRANSFER_SAVEGAME:0 "Перерахунок збереження: $NAME|Y%$"
  LOADING_SAVEGAME:0 "Завантаження збереження: $NAME|Y%$"
  CONFIRMUNSYNCTITLE:0 "Файл не було синхронізовано"
- CONFIRMUNSYNCTEXT:0 "Ви справді хочете вилучити §Y$NAME$§! з Steam Cloud?"
+ CONFIRMUNSYNCTEXT:0 "Бажаєте вилучити §Y$NAME$§! зі Steam Cloud?"
  CLOUDSAVE_SPACE_NEEED:0 "Для збереження гри необхідно $NEEDED$."
  CLOUDSAVE_UNSYNC_LABEL:0 "Виберіть файл(и) для видалення зі Steam Cloud\nЦе не зачепить файл(и) на локальному диску."
  CONTENTVIEW_PUBLISH:0 "Опублікувати"

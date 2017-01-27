@@ -147,7 +147,7 @@
  GREAT_TULKU:0 "Великий тулку"
  ELDER:0 "Старійшина"
  HIGH_ELDER:0 "Головний старійшина"
- PARAMOUNT_ELDER:0 Верховний старійшина"
+ PARAMOUNT_ELDER:0 "Верховний старійшина"
  SON_OF_HEAVEN:0 "Син Неба"
  DAUGHTER_OF_HEAVEN:0 "Дочка Неба"
  MISL:0 "Місаль"
