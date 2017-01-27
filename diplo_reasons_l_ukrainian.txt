@@ -183,7 +183,7 @@
  DIPLO_DIPLOMATIC_SKILL_MODIFIERS_DIFF:0 "Модифікатори відмінності дипломатичної майстерності держав $WHO$ та $WHO2$: "
  DIPLO_NUMBER_OF_ALLIES:0 "Кількість союзників держави $WHO$: "
  DIPLO_NUMBER_OF_GREAT_POWER_ALLIES:0 "Кількість сильних союзників держави $WHO$: "
- DIPLO_GREAT_POWER:0 "$WНО$ є Величною Державою: "
+ DIPLO_GREAT_POWER:0 "$WНО$ є Великою Державою: "
  DIPLO_TRUST_WITH:0 "Довіра до держави $WНО$: "
  DIPLO_NUMBER_OF_POWERFUL_ALLIES:0 "$WHO$ вже має сильного союзника в $ALLY$: "
  DIPLO_THREATENED_BY_RIVAL:0 "Держава $WHO$ налякана суперником $RIVAL$: "

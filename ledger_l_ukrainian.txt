@@ -197,7 +197,7 @@
  LEDGER_CONTINENT:0 "Континент"
  LEDGER_TRADENODE:0 "Торговий вузол"
  LEDGER_SCORE_PLACEMENT:0 "Розташ."
- LEDGER_GREAT_POWERS:0 "Величні Держави"
+ LEDGER_GREAT_POWERS:0 "Великі Держави"
  LEDGER_GREAT_POWER_RANK:0 "Рейтинг"
  LEDGER_GREAT_POWER_SCORE:0 "Великодержавний Рейтинг"
  LEDGER_TECH_COST:0 "Вартість технологій"
