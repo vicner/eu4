@@ -978,7 +978,7 @@
  canal_events.29.d:0 "Наш суб'єкт [From.Owner.GetName] повідомляє, що будівництво каналу відбувається швидшими темпами, ніж очікувалося, завдяки їхньому вмілому керуванню проектом."
  canal_events.29.a:0 "Wonderful!"
  CS_CONFIRM_ADD_PROVINCE_TITLE:0 "Додати провінції дочірній державі"
- CS_CONFIRM_ADD_PROVINCE_DESC:0 "Ви справді хочете передати провінцію §Y$PROVINCE$§! дочірній державі §Y$COUNTRY$§!?"
+ CS_CONFIRM_ADD_PROVINCE_DESC:0 "Бажаєте передати провінцію §Y$PROVINCE$§! дочірній державі §Y$COUNTRY$§!?"
  CS_NEW_TITLE:0 "Створити нову дочірню державу"
  CS_NEW_CREATED:0 "Створено державу $COUNTRY$!"
  CS_EDIT_TITLE:0 "Редагування країни $COUNTRY$"
