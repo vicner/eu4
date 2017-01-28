@@ -32,7 +32,7 @@
  MODIFIER_GLOBAL_FOREIGN_TRADE_POWER:0 "Торгова сила за кордоном"
  MODIFIER_GLOBAL_OWN_TRADE_POWER:0 "Торгова сила всередині країни"
  MODIFIER_INFLATION_ACTION_COST:0 "Вартість зниження інфляції"
- IMPROVE_RELATION_MODIFIER:0 "Покращення відносин"
+ IMPROVE_RELATION_MODIFIER:0 "Покращення стосунків"
  MINIMUM_GLOBAL_AUTONOMY:0 "Мінімум автономії"
  MINIMUM_LOCAL_AUTONOMY:0 "Мінімум місцевої автономії"
  MODIFIER_ALL_POWER_COST:0 "Вартість всіх балів монарха"
