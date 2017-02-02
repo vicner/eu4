@@ -1031,7 +1031,7 @@
  BOTH_OVERLORD_AND_SUBJECT_MONARCHIES:0 "І суб'єкт і сюзерен повинні бути монархіями."
  SUBJECT_MUST_BE_REGENCY:0 "Васалом повинен керувати регентська рада."
  YOU_CANT_HAVE_REGENCY:0 "Ви не можете зробити це, поки країною керує регентська рада."
- SAME_DYNASTY_ALREADY:0 "Династія $DYNASTY$ вже править у державі COUNTRY$."
+ SAME_DYNASTY_ALREADY:0 "Династія $DYNASTY$ вжe пpaвиtь у дepжaвi COUNTRY$."
  NEED_POSITIVE_PRESTIGE:0 "Необхідно мати позитивний престиж."
  THEY_ARE_IN_DEBT:0 "Вони в боргах."
  NEED_POSITIVE_OPINION_OF_US:0 "Їх думка про нас має бути позитивною."
