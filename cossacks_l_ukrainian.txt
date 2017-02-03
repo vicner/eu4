@@ -126,7 +126,7 @@
  ESTATE_TERRITORY_TOOLTIP_2:0 " й очікують, що контролюватимуть щонайменше $MIN|Y$."
  ESTATE_TERRITORY_TOOLTIP_3:0 " Виходячи з цього, їхня лояльність змінюється на $VAL|R$ щомісяця."
  ESTATE_TERRITORY_TOOLTIP_4:0 "Ці землі збільшують їхній вплив на $INF|Y$ ($AMT|Y$ впливу за §Y1%§! від загального розвитку ваших Володінь, але не більше $MAX|Y$.)"
- ESTATE_TERRITORY_TOOLTIP_DELAYED:0 "Число земель, яке вони очікують контролювати залежить від:"
+ ESTATE_TERRITORY_TOOLTIP_DELAYED:0 "Число земель, яке вони очікують контролювати, залежить від:"
  ESTATE_INFLUENCE_MODIFIER_NOT:0 "$ESTATE|Y$ НЕ мають модифікатору впливу, який дорівнює $VALUE|Y$."
  ESTATE_INFLUENCE_MODIFIER:0 "$ESTATE|Y$ мають модифікатор впливу, який дорівнює $VALUE|Y$."
  ESTATE_LOYALTY_MODIFIER_NOT:0 "$ESTATE|Y$ НЕ мають модифікатору лояльності, який дорівнює $VALUE|Y$."
