@@ -1628,7 +1628,7 @@
  MOVE_BLOCKED_BY_FORT_IN_PROVINCE:0 "§RРух заблоковано через ворожу фортецю в провінції $PROV$§!"
  MOVE_BLOCKED_BY_FORT:0 "§RРух по суші блокує ворожа фортеця.§!"
  PROVINCE_IN_FORT_ZONE_OF_CONTROL:0 "§GЗнаходиться в зоні контролю фортеці $NAME$.§!"
- PROVINCE_IN_HOSTILE_FORT_ZONE_OF_CONTROL:0 "У зоні контролю ворожої фортеці $HOSTILE|R$ держави $NAME|Y$."
+ PROVINCE_IN_HOSTILE_FORT_ZONE_OF_CONTROL:0 "Зона контролю фортеці $NAME|Y$, яка належить ворожій $HOSTILE|R$ій державі."
  HAS_CAPITAL_FORT:0 "Столиця має фортецю."
  HAS_FULLY_MAINTAINED_FORT:0 "Є повністю укомплектована фортеця."
  HAS_MOTHBALLED_FORT:0 "§YЄ законсервована фортеця.§!"
