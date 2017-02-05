@@ -662,7 +662,7 @@
  NEWACTIVECARDINAL_1:0 "Новий кардинал!"
  NEWACTIVECARDINAL_2:0 "§Y$PROVINCE$§W представила свого кардинала"
  NEWACTIVECARDINAL_3:0 "Він прихильний до держави §Y$COUNTRY$§W."
- NEWACTIVECARDINAL_4:0 "На даний момент вони мають §Y$NCARDINALS$§W діючих кардиналів."
+ NEWACTIVECARDINAL_4:0 "На даний момент вони мають §Y$NCARDINALS$§W діючих кардинали."
  NEWACTIVECARDINAL_5:0 ""
  NEWACTIVECARDINAL_6:0 ""
  NEWACTIVECARDINAL_LOG:0 "Новий кардинал від провінції $PROVINCE$"
