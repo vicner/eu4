@@ -378,7 +378,7 @@
  WARSCORE_AGAINST_MORE_THAN:0 "Воєнний рахунок проти держави $WHO$ щонайменше $SCORE|Y%$"
  NOT_HAS_HARSH_TREATMENT:0 "Жорстке ставлення не застосовується"
  HAS_HARSH_TREATMENT:0 "Застосовується жорстке ставлення"
- ADD_TRUCE_WITH_EFFECT:0 "З'явилось перемир'я з державою $WHO|Y$"
+ ADD_TRUCE_WITH_EFFECT:0 "Настане перемир'я з державою $WHO|Y$"
  NOT_IS_REPUBLIC:0 "Не республіка"
  IS_REPUBLIC:0 "Республіка"
  HAS_DEITY:0 "Обраний $DEITY|Y$"
