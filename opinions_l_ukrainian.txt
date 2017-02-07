@@ -117,7 +117,7 @@
  opinion_reconcile:0 "Примиряти"
  opinion_ignorant_monarch:0 "Неосвічений монарх"
  opinion_supportive_monarch:0 "Підтримуваний монарх"
- opinion_union_in_name:0 "Не союз, а одно назва"
+ opinion_union_in_name:0 "Не союз, а одна назва"
  opinion_backward_monarch:0 "Боязкий монарх"
  opinion_bad_monarch:0 "Бездарний правитель"
  opinion_one_and_same:0 "Одні і ті ж"

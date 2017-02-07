@@ -215,7 +215,7 @@
  PLAYER_ENTERING_GAME:0 "Гравці швидкого приєднання заходять у гру."
  SENDING_SAVEGAME:0 "Відправлення файлу збереження гравцеві $NAME|Y$."
  SAVE_TRANSFER_COMPLETE:0 "Гравець $NAME|Y$ отримав файл збереження."
- CURRENTLY_ASSIGNED_TO:0 "Зараз призначений командувачем $NАМЕ|Y$ у провінції $WНЕRЕ|Y$."
+ CURRENTLY_ASSIGNED_TO:0 "Зараз призначений командувачем $NAME|Y$ у провінції $WHERE|Y$."
  NOT_CURRENTLY_ASSIGNED:0 "Цього командувача не призначено керувати армією."
  UNIT_VIEW_CHOOSE_LEADER_RETREAT:0 "Не можна вибрати командувача, тому що армія відступає!"
  UNIT_VIEW_CHOOSE_LEADER_COMBAT:0 "Не можна вибрати командувача, тому що армія в бою!"
