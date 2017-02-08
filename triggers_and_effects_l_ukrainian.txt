@@ -124,7 +124,7 @@
  REFORM_DESIRE_IS_LESS_THAN:0 "Бажання реформ менше §Y$SIZE$§!.\n"
  REFORM_DESIRE_IS_AT_LEAST:0 "Бажання реформ щонайменше §Y$SIZE$§!.\n"
  REFORM_DESIRE_EFFECT:0 "Католицизм: бажання реформ $DIRECTION$ на $PERC$.\n"
- RELIG_ATTACK:0 "Напад на іновірців"
+ RELIG_ATTACK:0 "Напад на невірних"
  GOV_ATTACK:0 "Напасти на носія іншої форми правління"
  HAS_NOT_IDEA_ALLOWING:0 "Немає ідеї, що дозволяє '§WHICH§!'.\n"
  HAS_IDEA_ALLOWING:0 "Є ідея, що дозволяє '§WHICH§!'.\n"
