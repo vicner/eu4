@@ -355,7 +355,7 @@
  VICTORYCARD_4:0 "Якщо ми повністю конролюватимемо і володітимемо провінціїями цього регіону,"
  VICTORYCARD_5:1 "наші залікові бали зростатимуть щомісяця, поки не досягнуть максимального значення у §Y$SCORE$§!"
  VICTORYCARD_6:0 ""
- VICTORYCARD_LOG:0 "$АRЕА$ є нашою метою, якщо ми прагнемо перемогти в грі."
+ VICTORYCARD_LOG:0 "$AREA$ є нашою метою, якщо ми прагнемо перемогти в грі."
  VICTORYCARD_BTN1:0 "Гаразд"
  VICTORYCARD_BTN2:0 "Гаразд"
  VICTORYCARD_BTN3:0 "Перейти"
@@ -1967,7 +1967,7 @@
  BANKRUPT_BTN2:0 "Кляті зрадники!"
  BANKRUPT_BTN3:0 "Перейти"
  BANKRUPT_MAP:0 ""
- 
+
  DEBASE_CURRENCY_TITLE:0 "Псування монет"
  DEBASE_CURRENCY_SETUP:0 "Коли Ви псуєте монети"
  DEBASE_CURRENCY_HEADER:0 "Псування монет."
@@ -1982,7 +1982,7 @@
  DEBASE_CURRENCY_BTN2:0 "Гаразд"
  DEBASE_CURRENCY_BTN3:0 "Перейти"
  DEBASE_CURRENCY_MAP:0 ""
- 
+
  BANKLOAN_TITLE:0 "Взяли позику"
  BANKLOAN_SETUP:0 "Ми беремо позику"
  BANKLOAN_HEADER:0 "Наш канцлер повідомляє:"
@@ -7198,7 +7198,7 @@
  TECH_TITLE:0 "Підвищення рівню технологій"
  RELEASEDCOLONY_TITLE:0 "Незалежність колонії"
  NEWCOLONIALCOUNTRY_TITLE:0 "Нова колоніальна держава"
- 
+
  CONDOTTIERI_ACCEPTED_TITLE:0 "Прийнято пропозицію кондотьєрів"
  CONDOTTIERI_ACCEPTED_SETUP:0 "Інша держава приймає вашу пропозицію кондотьєрів"
  CONDOTTIERI_ACCEPTED_HEADER:0 "Погодилися найняти кондотьєрів"
@@ -7318,7 +7318,7 @@
  WEFORCEDBREAKALLIANCE_BTN2:0 "Гаразд"
  WEFORCEDBREAKALLIANCE_BTN3:0 "Перейти"
  WEFORCEDBREAKALLIANCE_MAP:0 ""
- 
+
  FORCEDBREAKALLIANCE_TITLE:0 "Розірвати військовий союз"
  FORCEDBREAKALLIANCE_SETUP:0 "Коли Велика Держава змушує нас розірвати військовий союз"
  FORCEDBREAKALLIANCE_HEADER:0 "Вісник держави"
@@ -7333,7 +7333,7 @@
  FORCEDBREAKALLIANCE_BTN2:0 "Гаразд"
  FORCEDBREAKALLIANCE_BTN3:0 "Перейти"
  FORCEDBREAKALLIANCE_MAP:0 ""
- 
+
  OTHERFORCEDBREAKALLIANCE_TITLE:0 "Розірвати військовий союз"
  OTHERFORCEDBREAKALLIANCE_SETUP:0 "Коли Велика Держава змушує державу розірвати військовий союз"
  OTHERFORCEDBREAKALLIANCE_HEADER:0 "Вісник держави"
@@ -7363,7 +7363,7 @@
  FORCEDALLYBREAKALLIANCE_BTN2:0 "Гаразд"
  FORCEDALLYBREAKALLIANCE_BTN3:0 "Перейти"
  FORCEDALLYBREAKALLIANCE_MAP:0 ""
- 
+
  BREAKALLIANCE_DECLINED_TITLE:0 "Вимогу розірвати військовий союз було відхилено"
  BREAKALLIANCE_DECLINED_SETUP:0 "Коли держава відмовляється розірвати військовий союз"
  BREAKALLIANCE_DECLINED_HEADER:0 "Вимогу розірвати військовий союз відхилено"
@@ -7393,7 +7393,7 @@
  OVERLORD_DEVELOPED_SUBJECT_PROVINCE_BTN2:0 "Гаразд"
  OVERLORD_DEVELOPED_SUBJECT_PROVINCE_BTN3:0 "Перейти"
  OVERLORD_DEVELOPED_SUBJECT_PROVINCE_MAP:0 ""
- 
+
  GREAT_POWER_STATUS_GAINED_TITLE:0 "Ми стали Великою Державою."
  GREAT_POWER_STATUS_GAINED_SETUP:0 "Коли ми отримуємо статус Великої Держави."
  GREAT_POWER_STATUS_GAINED_HEADER:0 "Отримано статус Великої Держави."
