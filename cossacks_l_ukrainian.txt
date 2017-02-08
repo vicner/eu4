@@ -343,7 +343,7 @@ l_ukrainian:
  tengri_monastic_order:0 "Розвиток монастирів"
  desc_tengri_monastic_order:0 "Цей регіон є домом для зростаючого чернечого ордену, який освоює деякі раніше невикористовувані землі для більш продуктивного використання."
  tengri_pali_legal_traditions:0 "Збірник законів"
- desc_tengri_pali_legal_traditions:0 "Thanks to the work of Theravada Monks we currently have a structured collection of rulings to help us with future legal cases. This will allow our judges to rule fairly and consistently all over the lands we control. As new rulings accumulate it is probable that a new collection will have to be made in the future."
+ desc_tengri_pali_legal_traditions:0 "Завдяки старанням ченців Тхеравади ми маємо структорований звід законів і правил. Це дозволить нашим суддям правити справедливо і послідовно на всіх, контрольованих нами, землях. У міру появи та накопичення нових правил стає ймовірно, що в майбутньому доведеться створювати новий звід законів."
  tengri_stood_up_for_yassa:0 "Yassa Defended"
  desc_tengri_stood_up_for_yassa:0 "We have defended the traditional laws of our people, choosing to keep the old Yassa traditions of Genghis Khan in favor of foreign, and possibly more consistent, legal codes. For this the warrior elites of our society respect us."
  tengri_shiite_immigration:0 "Шиїтська імміграція"
