@@ -790,7 +790,7 @@
  desc_bra_kreditwerk:0 "We have expanded the privileges and prerogatives of the estate-run Kreditwerk which is one of the most important financial institutions in our state."
  accepted_culture_demoted:0 "Недавно понижена культура"
  MODIFIER_LOCAL_CORE_CREATION:0 "Місцева вартість націоналізації"
-bergen_riots:0 "Loss of Influence in Bergen"
+ bergen_riots:0 "Loss of Influence in Bergen"
  nor_hollendertiden:0 "Hollendertiden"
  desc_nor_hollendertiden:0 "Dutch Merchants are dominating our economy and we are as a result becoming an increasingly naval-oriented country."
  nor_prospecting_the_skands:0 "Prospecting the Scandes"

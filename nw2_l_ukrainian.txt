@@ -436,4 +436,3 @@
  OWNED_BY_OR_VASSALS:0 "Належить державі §Y$COUNTRY$§! або її автономіям."
  NOT_OWNED_BY_OR_VASSALS:0 "Не належить державі §Y$COUNTRY$§! або її автономіям."
  FE_USE_DYNAMIC_PROVINCE_NAMES:0 "Динамічні провінції"
- 
