@@ -1822,7 +1822,7 @@
  opinion_invasion:0 "Вторгнення"
  INDEPENDANT:0 "Незалежна держава"
  indep_nation:0 "Незалежна держава"
- subject_nation:0 "Підлегла держава"
+ subject_nation:0 "Залежна держава"
  vassal_nation:0 "Васальна держава"
  VASSAL_SUBJECT:0 "Васал держави $LORD$"
  UNION_SUBJECT:0 "В унії з державою $LORD$"
