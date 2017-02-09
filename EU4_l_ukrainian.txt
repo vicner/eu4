@@ -1196,7 +1196,7 @@
  HREVOTE_HERETIC2:0 "Єретики: §R$VAL$§!\n"
  HREVOTE_RELATION:0 "Відносини: $VAL$§!\n"
  HREVOTE_OVERLORD:0 "Є васалом або членом унії: §G+$VAL$§!\n"
- HREVOTE_BIG_IN_HRE:0 "Велика держава: §G+$VAL$§!\n"
+ HREVOTE_BIG_IN_HRE:0 "Велика Держава: §G+$VAL$§!\n"
  HREVOTE_WE_TOO_SMALL:0 "Занадто мала держава: §R$VAL$§!\n"
  HREVOTE_NON_MEMBER:0 "Не є членом СРІ: §R$VAL$§!\n"
  HREVOTE_IMPERIAL_AUTHORITY:0 "Імперський авторитет: §G+$VAL$§!\n"
