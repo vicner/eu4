@@ -339,7 +339,7 @@
  FAVORSGAINED_1:0 "Накопичено прихильність!"
  FAVORSGAINED_2:0 "Завдяки нашій неоціненній допомозі в їхніх війнах,"
  FAVORSGAINED_3:0 "$WHO$"
- FAVORSGAINED_4:0 "тепер винна нам $NUM|Y$ Прихильності."
+ FAVORSGAINED_4:0 "тепер винні нам $NUM|Y$ Прихильності."
  FAVORSGAINED_5:0 "Ми знайдемо хороше використання для цих балів."
  FAVORSGAINED_6:0 ""
  FAVORSGAINED_LOG:0 "Прихильність держави $WHO$ до нас зросла на $NUM$."
