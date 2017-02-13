@@ -115,7 +115,7 @@
  institution_events.21.dc:0 "Європейські торговці стають все більш поширеним явищем у великих портах, їх товари проникають навіть на самі віддалені ринки в нашій країні. Вони, серед багатьох нових продуктів, постачають культури з Північної і Південної Америк - картоплю, помідори і кукурудзу. Може вони і знайдуть місце в нашому раціоні, але селяни не поспішають вирощувати їх."
  institution_events.21.a:0 "Безумовно, в це варто вкластися."
  institution_events.21.b:0 "Мій шлунок занадто легко розладнати..."
- institution_events.22.t:0 "Slave Traders"
+ institution_events.22.t:0 "Работорговці"
  institution_events.22.d:0 "The numbers of [slaver_country.GetAdjective] merchants who seek out our markets have grown from a trickle to a steady stream. Their main interest seems to be in procuring slaves either directly or through procuring trade goods we have that can be traded for slaves. So far this has made a few local chieftains very rich, which is a dangerous development as it both empowers these local potentates and impoverishes the surrounding settlements.\nThe slave traders of [Root.Capital.GetCapitalName] are asking that we create a more consistent framework and regulate the trade through royal monopolies. The [slaver_country.GetAdjective] themselves also seem interested in more formal and permanent arrangements."
  institution_events.22.a:0 "Make a deal with the [slaver_country.GetAdjective]."
  institution_events.22.b:0 "We cannot tolerate the sale of human lives."
