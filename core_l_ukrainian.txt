@@ -785,7 +785,7 @@
  bg_info_prestige_6:0 "Держава $WHO|Y$ доволі відома"
  bg_info_prestige_7:0 "Держава $WHO|Y$ добре відома"
  bg_info_prestige_8:0 "Люди наслідують §Y$WHOADJ|Y$ий§! спосіб життя"
- bg_info_prestige_9:0 "Всі люди заздрять §Y$WHOADJ|Y$і§!й нації"
+ bg_info_prestige_9:0 "Всі люди заздрять §Y$WHOADJ|Y$ій§! нації"
  bg_info_prestige_10:0 "Про державу $WHO|Y$ говорять в цілому світі"
  bg_info_prestige_11:0 "$WHO|Y$ - найвеличніша держава"
  RELATION_CHANGE_HEADER_DESC:0 "Зміняться відносини між державою $WHO|Y$ і такими державами:"
