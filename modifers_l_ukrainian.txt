@@ -3,7 +3,7 @@
  MODIFIER_UNJUSTIFIED_DEMANDS:0 "Необґрунтовані вимоги"
  PROVINCE_TRADE_EFFICIENCY:0 "Місцева ефективність торгівлі"
  PROVINCE_TRADE_VALUE:0 "Місцева торгова сила"
- MODIFIER_TRADE_STEERING:0 "Керівництво торгівлею"
+ MODIFIER_TRADE_STEERING:0 "Керування торгівлею"
  INFANTRY_POWER:0 "Вогнева сила піхоти"
  CAVALRY_POWER:0 "Вогнева сила кавалерії"
  ARTILLERY_POWER:0 "Вогнева сила артилерії"
