@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  #Personality Options to existing events:
  personality_options.710.a:0 "Strike down any who would oppose our bailiff."
  personality_options.711.a:0 "We must learn to live and let live."
