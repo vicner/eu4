@@ -3,8 +3,8 @@
  personality_options.710.a:0 "Убити будь-кого, хто буде виступати проти нашого пристава."
  personality_options.711.a:0 "Ми повинні навчитися жити і давати жити іншим."
  personality_options.714.a:0 "Спробувати поєднати найкраще з двох шкіл."
- personality_options.714.b:0 "[Root.Monarch.GetTitle] воліє наступати."
- personality_options.714.c:0 "[Root.Monarch.GetTitle] воліє оборонятися."
+ personality_options.714.b:0 "[Root.Monarch.GetTitle] віддає перевагу наступу."
+ personality_options.714.c:0 "[Root.Monarch.GetTitle] віддає перевагу обороні."
  personality_options.715.a:0 "Спробувати зменшити заподіяну шкоду."
  personality_options.717.a:0 "Нехай [Root.Monarch.GetTitle] безперешкодно реформує економіку."
  personality_options.718.a:0 "Бідний народ..."
@@ -463,7 +463,7 @@
  personality_events.58.b:0 "We cannot risk the life of our [Root.Monarch.GetTitle]'s heir."
  personality_events.58.b.tooltip:0 "§Y[Root.Heir.GetName]§! is not made general."
 
- NO_LOCATION:0 "їх будинок"
+ NO_LOCATION:0 "їхній дім"
 
  #Death Reasons
  DEATH_IN_BATTLE:0 "[Root.Monarch.GetSheHeCap] помер(ла), ведучи наші війська в провінції $NAME$."
@@ -573,7 +573,7 @@
  careful_personality:0 "Обережний"
  secretive_personality:0 "Скритний"
  intricate_web_weaver_personality:0 "Інтриган"
- fertile_personality:0 "Плодючий"
+ fertile_personality:0 "Плодовитий"
  well_advised_personality:0 "Розсудливий"
  benevolent_personality:0 "Великодушний"
  tolerant_personality:0 "Терпимий"
@@ -608,7 +608,7 @@
  craven_personality:0 "Боягуз"
  loose_lips_personality:0 "Базіка"
  obsessive_perfectionist_personality:0 "Нав'язливий перфекціоніст"
- malevolent_personality:0 "Злобний"
+ malevolent_personality:0 "Недоброзичливий"
  #Personality Modifier Descriptions - Note: don't refer directly to the sex or title of the monarch.
  desc_conqueror_personality:0 "This ruler is a conqueror. We will be able to incorporate new lands into our realm more efficiently under this regime."
  desc_tolerant_personality:0 "This ruler is Tolerant. Religious minorities will thrive during our regime."
