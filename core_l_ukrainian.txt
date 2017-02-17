@@ -526,7 +526,7 @@
  RIGHT_CLICK_TO_CENTER:0 "Клацніть ПКМ, щоб перейти до цього підрозділу."
  CLICK_TO_CENTER:0 "Перейти до цього полку."
  GAMESETUP_SHOW_UNSAFE:0 "Показати несумісні файли збереження"
- MENU_BAR_LOCALGAMES:0 "На локальному диску"
+ MENU_BAR_LOCALGAMES:0 "Локальний диск"
  MENU_BAR_CLOUDGAMES:0 "Steam Cloud"
  MENU_BAR_DELETE_ALL:0 "Видалити все"
  CONFIRMDELETETITLE:0 "Видалити файл"
