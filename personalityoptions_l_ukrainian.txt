@@ -463,7 +463,7 @@
  personality_events.58.b:0 "We cannot risk the life of our [Root.Monarch.GetTitle]'s heir."
  personality_events.58.b.tooltip:0 "§Y[Root.Heir.GetName]§! is not made general."
 
- NO_LOCATION:0 "their home"
+ NO_LOCATION:0 "їх будинок"
 
  #Death Reasons
  DEATH_IN_BATTLE:0 "[Root.Monarch.GetSheHeCap] помер(ла), ведучи наші війська в провінції $NAME$."
