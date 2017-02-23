@@ -3236,7 +3236,7 @@
  ALLY_JOIN_CHANCE:0 "$NAME$: §Y$VAL$§Y"
  WAS_ALREADY_IN_WAR:0 "Раніше вони вже брали участь в цій війні."
  already_IN_WAR_CALL:0 "Вони вже беруть участь у цій війні."
- already_IN_WAR_WITH:0 "Вони вже беруть участь у війні з державою §Y$COUNTRY$§!."
+ already_IN_WAR_WITH:0 "Вони вже воюють з державою §Y$COUNTRY$§!."
  ALLIED_TO_ENEMY:0 "Вони союзники нашого ворога."
  ALLREADY_ALIGNED_WITH_ENEMY:0 "Вони беруть участь у війні на стороні нашого противника."
  CANNOT_INTERVENE_WAR_ALLY:0 "§Y$COUNTRY$§! не може вступити в цю війну, оскільки держава §Y$SUBJECT$§! вже вступила у війну проти держави §Y$DEFENDER$§!, а §Y$COUNTRY$§! вже воює з державою §Y$SUBJECT$§! на одній стороні в другій війні."
