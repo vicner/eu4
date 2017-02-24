@@ -9,7 +9,7 @@
  GOV_MAX_STATES:0 "Максимум володінь: $NUM$"
  MAX_STATE_TITLE_TECH:0 "Число володінь"
  MAKESTATE_NOT_CORE:0 "Провінція $NAME$ не національна.\n"
- STATE_MAINTENANCE_MODIFIER:0 "Зміст володінь"
+ STATE_MAINTENANCE_MODIFIER:0 "Утримання володінь"
  ECONOMY_STATE_MAINTENANCE_DRO:0 "Ми повинні щомісяця витрачати гроші на підтримку адміністративного апарату в своїх володіннях, якщо вони не є столичними. Розмір утримання залежить від загального розвитку і відстані до столиці."
  PROMOTE_MERCANTILISM:0 "Підняти меркантилізм"
  WATCH_TIMELINE:0 "Показати хронологію"
