@@ -1328,7 +1328,7 @@
  INTERVENE_OTHER_SIDE_SETUP:0 "Коли хтось втручається в нашу війну не на нашому боці"
  INTERVENE_OTHER_SIDE_HEADER:0 "$MESSENGER$"
  INTERVENE_OTHER_SIDE_1:0 "$MONARCHTITLE$"
- INTERVENE_OTHER_SIDE_2:1 "Велика Держава $ACTORS$"
+ INTERVENE_OTHER_SIDE_2:1 "Велика Держава $ACTORS$а"
  INTERVENE_OTHER_SIDE_3:1 "втрутилася і приєдналася до наших ворогів у війні"
  INTERVENE_OTHER_SIDE_4:0 "$WARNAME$."
  INTERVENE_OTHER_SIDE_5:0 "Ніби це їм допоможе."
