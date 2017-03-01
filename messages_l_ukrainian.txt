@@ -4683,7 +4683,7 @@
  OTHERTHREATENWAR_1:0 "Ультиматум прийнято"
  OTHERTHREATENWAR_2:0 "$MONARCHTITLE$, держава $RECIPIENT$"
  OTHERTHREATENWAR_3:0 "прийняла вимоги"
- OTHERTHREATENWAR_4:0 "і передала нам провінцію"
+ OTHERTHREATENWAR_4:0 "і передала провінцію"
  OTHERTHREATENWAR_5:0 "$PROVINCE$ державі $ACTOR$."
  OTHERTHREATENWAR_6:0 "Перемир'я між ними діятиме до $TRUCEDATE$"
  OTHERTHREATENWAR_LOG:0 "Під загрозою оголошення війни, держава $ACTOR$ зажадала провінцію $PROV$ держави $RECIPIENT$. Та була вимушена підкоритися."
