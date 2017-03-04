@@ -253,7 +253,7 @@
  ANY_HERETIC_PROVINCE_STARTS:0 "Будь-яка єретична провінція"
  ANY_PRIVATEERING_COUNTRY:0 "Будь-яка держава, що займається піратством у вузлі $NODE$"
  ALL_PRIVATEERING_COUNTRY:0 "Всі держави, що займаються піратством у вузлі $NODE$"
- TARGET_GETS_NEW_CORE_EFFECT:0 "§Y$WHO$§W отримує національну провінцію §Y$NEW$§W.\n"
+ TARGET_GETS_NEW_CORE_EFFECT:0 "§Y$WHO$§W націолізує провінцію §Y$NEW$§W.\n"
  TARGET_LOSE_CORE_EFFECT:0 "§Y$WHO$§W втрачає національну провінцію §Y$LOSE$§W.\n"
  AT_LEAST_ONE_PROVINCE_IN_SUPERREGION:0 "Щонайменше одна провінція розташована у субконтиненті $SUPERREGION$"
  NOT_ONE_PROVINCE_IN_SUPERREGION:0 "Жодної провінції у субконтиненті $SUPERREGION$"

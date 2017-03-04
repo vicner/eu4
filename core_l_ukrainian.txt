@@ -282,7 +282,7 @@
  SORT_BY_TAX:0 "Сортувати за податками"
  SORT_BY_DEVELOPMENT:0 "Сортувати за розвитком"
  SORT_BY_CULTURE:0 "Сортувати за культурою"
- SORT_BY_PRIMARY_CULTURE_GROUP:0 "Сортувати за державною культурною групою."
+ SORT_BY_PRIMARY_CULTURE_GROUP:0 "Сортувати за основною культурною групою."
  BUTTON_EMBRACE:0 "Прийняти"
  INSTI_NOT_ACTIVE:0 "$NAME|Y$ ще не винайдено."
  INSTI_PRIMITIVE_CANNOT_EMBRACE_RELIGION:0 "Примітивні держави повинні реформувати свою релігію, щоб впровадити інституції."
