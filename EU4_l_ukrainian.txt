@@ -1071,7 +1071,7 @@
  HAVE_LESS_THAN_GALLEY_IN:0 "Число галер у провінції $Province$ менше $UNITS$"
  HAVE_MORE_THAN_TRANSPORT_IN:0 "Число транспортів у провінції $Province$ не менше $UNITS$"
  HAVE_LESS_THAN_TRANSPORT_IN:0 "Число транспортів у провінції $Province$ менше $UNITS$"
- ENVOY_COLONIZING:0 "Держава $NAME$ колонізує провінцію §Y$PROV$§!"
+ ENVOY_COLONIZING:0 "$NAME$ колонізує провінцію §Y$PROV$§!"
  ENVOY_COLONIST:0 "Колоніст"
  ENVOY_MERCHANT:0 "Торговець"
  ENVOY_MISSIONARY:0 "Місіонер"
