@@ -21,7 +21,7 @@
  PRESIDENTIAL_DICTATORSHIP:0 "Президентська диктатура"
  ARCHBISHOP:0 "Архієпископ"
  PATRIARCH:0 "Патріарх"
- MATRIARCH:0 "Матриарх"
+ MATRIARCH:0 "Матріарх"
  HORDE:0 "Орда"
  KHANATE:0 "Ханство"
  GREAT_KHANATE:0 "Велике ханство"

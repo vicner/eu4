@@ -77,7 +77,7 @@
  personality_options.5060.a:0 "Вражаюче!"
  personality_options.5024.c:0 "Немає нічого поза мого контролю!"
  personality_options.5024.dd:0 "Ми дипломатична наддержава!"
- personality_options.5025.c:0 "[Root.Monarch.GetTitle] - ось кого варто за це дякувати."
+ personality_options.5025.c:0 "[Root.Monarch.GetTitle] - ось кому варто за це дякувати."
  personality_options.5027.c:0 "Давайте втілимо в життя більш амбітну програму модернізації."
  personality_options.5027.dd:0 "[Root.Monarch.GetName] прекрасно скористається цією можливістю."
  personality_options.5040.a:0 "Викорінити корупцію в нашому уряді."
