@@ -574,7 +574,7 @@
  TECH_GROUP_INFO_POWER:0 ", а кількість щомісячних балів влади менша на §R$VAL$§!."
  HARSH_EXPLAIN_BUY:0 "Витратьте §Y$POINTS$§W£mil£, щоб зменшити ризик повстання в провінції $NAME$."
  CHANGE_CULTURE_EXPLAIN_BUY:0 "Витратьте §Y$POINTS$§W£dip£, щоб у цій провінції розповсюдилась §Y$CULTURE$§! культура."
- CUL_TIME_MONTHS:0 "Зміна культури візьме $MONTHS|Y$ міс."
+ CUL_TIME_MONTHS:0 "Зміна культури займе $MONTHS|Y$ міс.."
  NO_EFFECT_ON_SIEGE:0 "Це не має безпосереднього впливу на статус облоги."
  SIEGE_STATUS_EFFECT:0 "Це позначилося на статусі облоги на §Y+$VAL$§!."
  MANU_ONLY_IN_FOR_BONUS:0 "Можна побудувати в провінції §Y$NAME$§!."
