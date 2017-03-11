@@ -1319,7 +1319,7 @@
  CV_IDEAS_GROUP_UNLOCK:0 "Вільний слот"
  CV_IDEAS_GROUP_UNLOCK_UNLOCKED:0 "Виберіть групу ідей для вільного слоту '$NAME$'"
  CV_IDEAS_GROUP_UNLOCK_LOCKED:0 "Вам необхідно дослідити технологію '$NAME$' щоб відкрити наступний слот"
- CV_IDEA_UNLOCK_NOPOWER:0 "У вас недостатньо $TYPE$ балів щоб відкрити цю ідею! Вам потрібно §Y$POWER_COST$§!, а зараз доступно лише §Y$POWER_AVAILABLE$§!."
+ CV_IDEA_UNLOCK_NOPOWER:0 "У вас недостатньо $TYPE$ балів щоб відкрити цю ідею! Вам потрібно $POWER_COST|Y0$, зараз же доступно лише $POWER_AVAILABLE|Y$. Ми очікуємо накопичити достатньо сили до $DATE|Y$."
  CV_UNLOCK_IDEA_DIALOG_TITLE:0 "Підтвердіть вибір ідеї $NAME$"
  CV_ABANDON_IDEA_GROUP_DIALOG_TITLE:0 "Підтвердіть відміну групи ідей - $NAME$"
  CV_UNLOCK_IDEA_DIALOG_DESC:0 "Ця дія відкриє ідею $NAME$ за §Y$POWER_COST$§! $TYPE$ балів.\n"
