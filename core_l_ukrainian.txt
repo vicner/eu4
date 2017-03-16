@@ -364,7 +364,7 @@
  CONSTRUCTION_QUEUE_NONE:0 "Немає."
  DISMANTLE_HRE_PRESTIGE_DESC:0 "§G$VAL$§! престижу буде отримано за ліквідацію Священної Римської Імперії."
  DEFENDER_HAVE_POSITIVE_PRESTIGE:0 "Поточний захисник має позитивний престиж."
- PROVVIEW_OCCUPIED_BY:0 "§YЗахоплено державою $WHO$§!"
+ PROVVIEW_OCCUPIED_BY:0 "§YЗахоплено: $WHO$§!"
  PROVVIEW_OCCUPIED_BY_YOU:0 "§YЗахоплено вами§!"
  TRANSFER_OCCUPATION_SHIELD_DESC:0 "Клацніть на щиток, якщо хочете передати захоплену провінцію своєму союзнику у поточній війні."
  PROVINCE_TRANSFER_UNDER_SIEGE:0 "Неможливо передати контроль над провінцією, яка під облогою."
