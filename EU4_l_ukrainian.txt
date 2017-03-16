@@ -1513,7 +1513,7 @@
  CV_ECONOMY_LOOT_BLOCKADE:0 "Отримано завдяки облозі провінції $PROV$: §G$VAL$§!¤"
  CV_ECONOMY_OTHERS:0 "та інші: $VAL|Y2$¤"
  CV_ECONOMY_LOAN_LENDER:0 "Позикодавець: $TAG$ $NAME$"
- CV_ECONOMY_LOAN_AMOUNT_INTEREST:0 "Позика в розмірі $AMOUNT$¤ під §Y$INTEREST$§!%."
+ CV_ECONOMY_LOAN_AMOUNT_INTEREST:0 "Позика $AMOUNT$¤ під §Y$INTEREST$§!%."
  CV_ECONOMY_LOAN_TOTAL:0 "(Загалом: $TOTAL$¤)"
  CV_ECONOMY_LOAN_EXPIRE:0 "Строк минає $DATE$"
  CV_ECONOMY_LOAN_REPAY:0 "Виплатити"

@@ -69,7 +69,7 @@
  TRADELEAGUE_TRADING_BONUS:0 "Торговий бонус для членів Ліги:"
  ICON_TRADELEAGUEINVITE:0 "§YЗапрошення§! на членство до Торгової Ліги"
  ICON_TRADELEAGUEREQUEST:0 "§YЗапит§! на членство до Торгової Ліги"
- ICON_REQUESTSHAREMAP:0 "A §YПрохання§! передати свої карти регіону $REGION$"
+ ICON_REQUESTSHAREMAP:0 "§YПрохання§! передати свої карти регіону $REGION$"
  AUTO_DUE_TO_MOD:0 "Не може бути нижче §Y$VAL$%§!, через такі чинники:\n$WHAT$"
  MODIFIER_YEARLY_CORRUPTION:0 "Річна зміна корупції"
  CORRUPTION_IRO:0 "§YКорупція§!\nПоточний рівень: $CURR|Y$.\nЩороку корупція змінюється на $CHANGE$ через такі чинники:\n$WHY$"
