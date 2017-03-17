@@ -264,7 +264,7 @@
  WG_ALLOW_TRADE_POWER:0 "Перенаправлення $AMOUNT|Y%1$ торгової сили"
  TRANSFER_TRADE_POWER_TO_DESC:0 "Держава $FROM$ перенаправлятиме $AMOUNT|Y%1$ торгової сили державі $TO$. Це триватиме до закінчення перемир'я."
  WOULD_CANCEL_TRANSFERING_TO_OTHER:0 "\n\nВони також скасують свою передачу впливу державі $WHO$."
- TRANSFER_OTHERS_TRADE_POWER_TO_DESC:0 "Держава $FROM$ більше не передаватиме торгову силу $ORG$. Замість цього, вони передаватимуть §Y$AMOUNT|Y%1$§! своєї торгової сили державі $TO$. Це діятиме на протязі всього перемир'я."
+ TRANSFER_OTHERS_TRADE_POWER_TO_DESC:0 "Держава $FROM$ більше не передаватиме торгову силу $ORG$. Замість цього, вони передаватимуть §Y$AMOUNT|Y%1$§! своєї торгової сили державі $TO$. Це діятиме протягомвсього перемир'я."
  HUMILIATE_PEACE_DESC:0 "$FROM$ втратить $AMOUNT|0Y$ престижу, а $TO$ отримає $POWER|0Y$ балів кожної сили монарха."
  HUMILIATE_RIVAL_PEACE_DESC:0 "Державу $FROM$ буде принижено."
  PEACE_TRANSFER_TRADE_POWER:0 "Перенаправлення торгової сили"
