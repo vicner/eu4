@@ -23,7 +23,7 @@
  MODIFIER_CORE_CREATION:0 "Вартість націоналізації"
  MODIFIER_FREE_LEADER_POOL:0 "Лідер(и) без утримання"
  MODIFIER_ENEMY_CORE_CREATION:0 "Час націоналізації ворогами наших провінцій"
- MODIFIER_HEIR_CHANCE:0 "Підвищений шанс на спадкоємця"
+ MODIFIER_HEIR_CHANCE:0 "Шанс на спадкоємця"
  MODIFIER_IMPERIAL_AUTHORITY:0 "Модифікатор зростання Імперського Авторитету"
  MODIFIER_EMBARGO_EFFICIENCY:0 "Ефективність ембарго"
  MODIFIER_ADVISOR_POOL:0 "Можливі радники"
