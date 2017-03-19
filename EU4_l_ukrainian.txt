@@ -4532,7 +4532,7 @@
  TECH_YEARS_AHEAD:0 "Ви на §G$YEARS$§! років попереду у цій технології."
  TECH_NOT_AHEAD:0 "Ви §RНЕ§! попереду у цій технології."
  WILL_GET_AHEAD_OF_TIME_BONUS:0 "Випередження часу у цій технології дасть вам такі бонуси протягом наступних §G$YEARS$§! років:"
- X_PER_MONTH:0 "$X$ щомісяця"
+ X_PER_MONTH:0 "$X$/міс"
  INSTRI_GROWS_BY_LOCAL:0 "Поширення інституцій залежить від:\n"
  NO_MODIFIER_ON_INSTIGROW:0 "На разі поширення інституцій нічим не модифікується."
  INSTITUTIONS_HEADER:0 "§YІнституції§!"
