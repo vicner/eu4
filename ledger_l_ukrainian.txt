@@ -67,7 +67,7 @@
  LEDGER_PRESTIGE:0 "Престиж"
  LEDGER_ALLIANCE:0 "Альянс"
  LEDGER_RM:0 "Шлюб"
- LEDGER_VASSAL:0 "Васал"
+ LEDGER_SUBJECT:0 "Суб'єкт"
  LEDGER_UNION:0 "Унія"
  LEDGER_GUARANTEE:0 "Гарантія"
  LEDGER_ACCESS:0 "Доступ"

@@ -240,3 +240,6 @@
  achievement_core_fu_tooltip:0 "Примусив іншу державу денаціоналізувати 5 національних провінцій в одному мирному договорі."
  achievement_fanatic_collectivist_tooltip:0 "Заволодіти усіма провінціями звідки пішли інституції."
  achievement_abu_bakr_IIs_ambition:0 "Мати 4 південноамериканські колоніальні суб'єкти"
+ atleast_10_mahayana_tooltip:0 "Щонайменше 10 держав повинні сповідувати віру махаяна."
+ achievement_sakoku_law_tooltip:0 "Виберіть шлях повного ізоляціоніста у щонайменше шести інцидентах."
+ achievement_live_long_and_prosper_tooltip:0 "Щонайменше 30 Володінь повинні бути Заможними."
