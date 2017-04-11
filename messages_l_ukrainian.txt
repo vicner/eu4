@@ -5557,7 +5557,7 @@
  NEWHEIR_BTN3:0 "Перейти"
  NEWHEIR_MAP:0 "Хай живе $HEIRNAME$!"
  NEWHEIR_NAME_1:0 "$STATS$"
- NEWHEIR_NAME_2:0 "У держави $COUNTRY$ з'явився новий спадкоємець. $PRONOUN$ отримає ім'я:"
+ NEWHEIR_NAME_2:0 "Держава $COUNTRY$ тепер має спадкоємця. $PRONOUN$ отримає ім'я:"
  NEWQUEEN_TITLE:0 "Новий $QUEENPRINCE$"
  NEWQUEEN_SETUP:0 "Коли ви отримуєте нового Консорта"
  NEWQUEEN_HEADER:0 "Шлюб!"
