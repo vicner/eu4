@@ -389,7 +389,7 @@
  celestial_empire_events.2.a:0 "[Root.Monarch.GetTitle] наш [Root.GetTributaryOverlord]!"
  celestial_empire_events.2.b:0 "Ми не спаплюжимо релігію [Root.Religion.GetName] наших власних предків!"
  celestial_empire_events.3.t:0 "Китаїзація"
- celestial_empire_events.3.d:0 "The [Root.Culture.GetName] people have increasingly come to resent the new Chinese customs we have been introducing throughout our realm, from the court to the lowliest provincial official. Due to this growing distrust of the alien impositions on our old traditions and norms some even openly question our right to rule."
+ celestial_empire_events.3.d:0 "The [Root.Culture.GetName] все частіше починають обурюватися новими китайськими звичаями, які ми вводимо по всій нашій території, починаючи від суду до найнижчого чиновника в провінції. Due to this growing distrust of the alien impositions on our old traditions and norms some even openly question our right to rule."
  celestial_empire_events.3.a:0 "Вони згодом навчаться."
  celestial_empire_events.3.b:0 "Ми повинні зберегти нашу спадщину!"
  resistance_to_cultural_changes:0 "Dishonoring our Ancestry"
