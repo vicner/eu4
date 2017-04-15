@@ -1610,7 +1610,7 @@
  james_bay:0 "Гудзонова затока"
  carribean_trade:0 "Кариби"
  nippon:0 "Японія"
- philippines:0 "Філіппіни"
+ philippines:0 "Пилипини"
  mauretanian_coast:0 "Мавританське узбережжя"
  lubeck:0 "Любек"
  white_sea:0 "Біле море"
