@@ -235,7 +235,7 @@
  english:0 "Англійська"
  estonian:0 "Естонська"
  ethiopian:0 "Ефіопська"
- filipino:0 "Пилиппінська"
+ filipino:0 "Пилипинська"
  finnish:0 "Фінська"
  finno_ugric:0 "Угорська"
  flemish:0 "Фламанська"
