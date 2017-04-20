@@ -1,10 +1,302 @@
-﻿l_ukrainian:
+﻿l_english:*
+ unconditional_surrender:0 "Unconditionally Surrendered"*
+ objectives_title:0 "Objectives"*
+ daimyo_subject:0 "Daimyo Subject"*
+ BANNERS_NOT_OURS:0 "If your primary culture is §YManchu§! you can raise Manchu Banners in provinces of Manchu Culture. Banners cost Corruption to raise and have higher Discipline than normal troops.\n\nYou can only raise banners from states that you own. Please select a province that you are the owner of."*
+ COALITION_WILL_FORM:1 "A Coalition may form against you with this treaty!"*
+ SHIP_DURABILITY_SHORT:0 "Your ships' current durability is $VAL$"*
+ SHIP_DURABILITY_LONG:1 "Ship Durability measures how much of a beating your Navy can take in battle before sinking below the sea.  The higher it is, the better."*
+ achievement_tear_down_this_wall_tooltip:0 "Used Artillery Barrage on Berlin"*
+ achievement_cherrypicking_tooltip:0 "Took a 3 star leader from a Daimyo Subject"*
+ DOMESTIC_DEBASE_CURRENCY:0 "Debase Currency"*
+ VC_LIST_TITLE:0 "We have the following victory cards:"*
+ REINFORCE_COST_MODIFIED_BY:0 "Reinforcement costs are modified by:\n"*
+ NO_UNREST_IN_COLONY:0 "Colonies are too small to generate unrest."*
+ AUTONOMY_NO_AUTHOIRTY:0 "You have no authority to lose, so you can't increase autonomy."*
+ CURR_SPLENDOR_AGE_TT:0 "We have $VAL|Y$ Splendor."*
+ BANNER_NAME:0 "$HOME$'s $NUM$$ORDER$ Banner"*
+ age_of_discovery_short:0 "Discovery"*
+ age_of_reformation_short:0 "Reformation"*
+ age_of_absolutism_short:0 "Absolutism"*
+ age_of_revolutions_short:0 "Revolutions"*
+ age_of_discovery:0 "Age of Discovery"*
+ age_of_discovery_desc:1 "At the dawn of the Early Modern era new continents are being mapped while feudal society is slowly giving way to centralized states.\nFor an enterprising state this age can see the foundation of a worldwide empire."*
+ age_of_reformation:0 "Age of Reformation"*
+ age_of_reformation_desc:1 "From East to West this is the age of religious conviction, debates and mass movements. In Europe Protestantism is entrenched while millenarianism takes hold of Iran and religious Syncretism shapes Indian society."*
+ age_of_absolutism:0 "Age of Absolutism"*
+ age_of_absolutism_desc:1 "As governments wrest the absolute power in their countries from other parties, they are now able to devote themselves to the building of Empires. This is the age of the state, of rulers, and their armies."*
+ age_of_revolutions:0 "Age of Revolutions"*
+ age_of_revolutions_desc:1 "The questioning of rights, authority and the world itself during the Enlightenment has lead to the rejection of the Ancient Regime. As Absolutism gives way to Revolution kingdoms may have to make place for Republics."*
+ LEDGER_SCORE_AG:0 "Score through Ages"*
+ RELIGIOUS_CONFLICT_RULES_ON:0 "§YReligious Conflicts§!\n- Crusades can be called by the Papal Controller\n- Catholic rulers can be excommunicated.\n- Reformation Centers can appear.\n- Religion impact diplomacy."*
+ RELIGIOUS_CONFLICT_RULES_OFF:0 "This age has no special religious conflict. Reformation Centers are gone, there is no crusades being called, the Pope can not excommunicate"*
+ ABSOLUTISM_RULES_ON:0 "§YAbsolutism§!\nGovernments can become more absolute in this era, giving greater control of the state."*
+ ABSOLUTISM_RULES_OFF:0 "In later ages, absolutism will be a factor which impacts on much control the ruler has over the state."*
+ last_age_power_projection:0 "Last Age Objectives"*
+ current_age_power_projection:0 "Age Objectives Fullfilled"*
+ obj_discover_america:0 "Discover America"*
+ obj_discover_america_desc:0 "As a nation with a capital in Europe, Asia or Africa, discover at least one province in either North or South America."*
+ obj_discover_america_tooltip:0 "Discover America"*
+ obj_100_development:0 "Developed Nation"*
+ obj_100_development_desc:0 "Reach a total of at least 100 development in your nation."*
+ obj_5_centers_of_trade:0 "Control Centers of Trade"*
+ obj_5_centers_of_trade_desc:0 "Own, control and core at least five provinces with a center of trade."*
+ obj_30_development_city:0 "A Large City"*
+ obj_30_development_city_desc:0 "Own and control a core province with at least §Y30§! development."*
+ obj_30_development_city_tooltip:0 "Cored Province with §Y30§! development\n"*
+ obj_renaissance:0 "Embrace Renaissance"*
+ obj_renaissance_desc:0 "Embrace the Renaissance institution, and keep it in every province you own."*
+ obj_two_unions:0 "Hold Three Thrones"*
+ obj_two_unions_desc:0 "Have at least two other nations in a union with you, with your ruler as their ruler."*
+ obj_many_vassals:0 "Feudal Society"*
+ obj_many_vassals_desc:0 "Have at least five different vassals at the same time."*
+ obj_two_continents:0 "Present on Two Continents"*
+ obj_two_continents_desc:0 "Own provinces on two different continents."*
+ obj_humiliate_rival:0 "Humiliate Rival"*
+ obj_humiliate_rival_desc:0 "Humiliate a rival through a peace treaty."*
+ obj_humiliate_rival_tooltip:0 "Humiliated a Rival"*
+ obj_christian_convert:0 "Join the Reformation"*
+ obj_christian_convert_desc:0 "Change state religion to either Protestant or Reformed religion."*
+ obj_humanism_religious:0 "Humanist or Religious"*
+ obj_humanism_religious_desc:0 "Fully embrace either the Humanism or Religious idea group."*
+ obj_convert_10_provinces:0 "Convert Provinces"*
+ obj_convert_10_provinces_desc:0 "Convert at least ten provinces to your faith."*
+ obj_convert_10_provinces_tooltip:0 "Convert §Y10§! provinces\n"*
+ obj_colonial_empire:0 "Create a Colonial Empire"*
+ obj_colonial_empire_desc:0 "Have several colonial nations as subjects."*
+ obj_force_converted:0 "Converted another Nation"*
+ obj_force_converted_desc:0 "Forced another nation to change their religion to yours either through war, subject interaction or enforcing unity."*
+ obj_force_converted_tooltip:1 "Forced another nation to change their religion\n"*
+ obj_asian_trade:0 "Asian Trade"*
+ obj_asian_trade_desc:0 "Gain the trade bonus from either Silk, Spices or Chinaware."*
+ obj_unify_culture:0 "Unify Culture"*
+ obj_unify_culture_desc:0 "Own all provinces of your culture group."*
+ num_converted_religion:0 "Provinces Converted"*
+ num_objectives_fullfilled:0 "Fulfilled Objectives"*
+ obj_religious_league_war_on_winning_side_tooltip:0 "Were on the winning side in the Religious League War"*
+ obj_3_trade_companies:0 "Three Trade Companies"*
+ obj_3_trade_companies_desc:0 "Found at least three different trade companies."*
+ obj_universities:0 "Multiple Universities"*
+ obj_universities_desc:0 "Own at least five universities."*
+ obj_large_forcelimit:0 "Potential for a Large Army"*
+ obj_large_forcelimit_desc:0 "Have a land force limit of at least 200 regiments."*
+ obj_90_absolutism:0 "Absolutism"*
+ obj_90_absolutism_desc:0 "Absolutism must be at least 90."*
+ obj_emperor_of_china:0 "Emperor of China"*
+ obj_emperor_of_china_desc:0 "Be the emperor of China, with a mandate over 50."*
+ obj_cultures_accepted:0 "Multicultural Nation"*
+ obj_cultures_accepted_desc:0 "Have at least five different promoted cultures."*
+ obj_win_religious_war:0 "Win Religious War"*
+ obj_win_religious_war_desc:0 "Be a part of the victorious side in the Religious League War."*
+ obj_parliament:0 "Parliament"*
+ obj_parliament_desc:0 "Have a government with a parliament."*
+ obj_emperor:0 "Emperor"*
+ obj_emperor_desc:0 "Be emperor of Holy Roman Empire, or form your own Empire!"*
+ obj_large_subject:0 "Powerful Subject"*
+ obj_large_subject_desc:0 "Have a subject with over 250 development."*
+ obj_disc_army:0 "High Discipline"*
+ obj_disc_army_desc:0 "Have least 125% discipline in your armies."*
+ obj_huge_capital:0 "Large Capital"*
+ obj_huge_capital_desc:0 "At least 50 development in the capital."*
+ obj_great_general:0 "Great Leader"*
+ obj_great_general_desc:0 "Have a 3-star general or admiral in command of a unit."*
+ obj_two_institutions:0 "Control Institiutions"*
+ obj_two_institutions_desc:0 "Own and Control at least 2 origins of institutions."*
+ CONFIRAGEABILITY:0 "Confirm Ability"*
+ CONFIRAGEABILITY_TEXT:0 "Selecting $ABILITY|Y$ will grant\n$EFFECT$\nuntil the start of next age.\nAre you sure?"*
+ ab_allow_feudal_de_jure_law:0 "Feudal De Jure Law."*
+ ab_justified_wars:0 "Justified Wars"*
+ ab_claim_duration:0 "Longer Claim Duration"*
+ ab_transfer_vassal_wargoal:1 "Transfer Subject"*
+ ab_can_chain_claim:0 "Claim Bordering Claims"*
+ ab_free_exploration_maintenance:0 "Free Exploration"*
+ ab_colony_boost_development:0 "Higher Developed Colonies"*
+ ab_attack_bonus_in_capital_terrain:0 "Adaptative Combat Terrain"*
+ ab_ottoman_siege_ability:0 "The Guns of Urban"*
+ ab_portugal_colonial_growth:0 "Portuguese Colonial Growth"*
+ ab_denmark_reduced_lib_desire:0 "Danish Subject Loyalty"*
+ ab_venice_ship_trade:0 "Venetian Trade"*
+ ab_allow_religion_enforced:0 "Religion Enforced Edict"*
+ ab_culture_cost:0 "Improved Culture Conversion"*
+ ab_cheaper_enforce_religion:0 "Easier Force Conversion"*
+ ab_placed_merchants:0 "Stronger Merchants"*
+ ab_ship_power_propagation:0 "Powerful Tradeships"*
+ ab_institution_spread_from_true_faith:0 "Institutional Spread"*
+ ab_prestige_per_development_from_conversion:0 "Prestigious Conversions"*
+ ab_spain_tercio:0 "Spanish Tercios"*
+ ab_mughal_artillery:0 "Mughal Artillery"*
+ ab_polish_legitimacy:0 "Polish Crown"*
+ ab_persia_reinforce:0 "Persian Reinforcement"*
+ ab_allow_edict_of_absolutism:0 "Edict of Absolutism"*
+ ab_rival_change:0 "Flexible Rivalries"*
+ ab_rival_border_fort:0 "Protecting Forts"*
+ ab_autonomy:0 "Efficienct Autonomy"*
+ ab_harsh_treatment:0 "Harsher Treatment"*
+ ab_adm_efficiency:0 "Administrative Efficiency"*
+ ab_yearly_absolutism:0 "Absolute Government"*
+ ab_france_fire_damage:0 "French Musketeers"*
+ ab_dutch_anti_corruption:0 "Dutch Officials"*
+ ab_sweden_manpower:0 "Swedish Recruitment"*
+ ab_manchu_banner:0 "Manchu Banners"*
+ ab_allow_anti_revolutionary_zeal:0 "Anti-Revolutionary Zeal"*
+ ab_napoleonic_warfare:0 "Napoleonic Warfare"*
+ ab_force_march:0 "Improved Force March"*
+ ab_more_ships_can_fire:0 "Naval Engagement"*
+ ab_no_distance_for_core:0 "Unrestricted Conquest"*
+ ab_backrow_artillery:0 "Improved Artillery Range"*
+ ab_same_contine_lib_desire:0 "Loyal Subjects"*
+ ab_pru_military:0 "Prussian Discipline"*
+ ab_gbr_fleet:0 "British Fleet"*
+ ab_russia_boost:0 "Russian Empire"*
+ ab_austria_rep:0 "Austrian Diplomacy"*
+ ab_free_war_taxes:0 "Improved Wartaxes"*
+ ab_siege_blockades:0 "Coastal Barrage"*
+ ab_cavalry_armies:0 "Cavalry Armies"*
+ ab_warscore_vs_religion:0 "Religious Wars"*
+ ab_mercenary_discipline:0 "Mercenary Discipline"*
+ splendor:0 "Splendor"*
+ feudal_de_jure_law:1 "Allows State Edict '§YFeudal De Jure Law§!'\n (Unrest: §G-5§!)\n"*
+ religion_enforced_edict:1 "Allows State Edict '§YReligion Enforced§!'\n (Resistance to Reformation: §G+90%§!)\n"*
+ edict_of_absolutism_tt:1 "Allows State Edict '§YEdict of Absolutism§!'\n (Monthly Devastation: §G-0.25§!)\n"*
+ in_golden_era:0 "§YGolden Era§!"*
+ absolutism:0 "Absolutism"*
+ ABSOLUTISM_IS_AFFECTED_BY:0 "The following actions affect your absolutism in this age:\n"*
+ harsh_treatment_abs_impact:0 "Harsh Treatment: $VAL$\n"*
+ stability_abs_impact:0 "Increase Stability: $VAL$\n"*
+ decrease_autonomy_command_abs_impact:0 "Decrease Autonomy: $VAL$ per $SCALE$ development.\n"*
+ increase_autonomy_command_abs_impact:0 "Increase Autonomy: $VAL$ per $SCALE$ development.\n"*
+ debase_currency_abs_impact:0 "Debase Currency: $VAL$\n"*
+ execute_rebel_acceptance_command_abs_impact:0 "Accept Rebel Demands: $VAL$\n"*
+ seat_in_parliament_abs_impact:0 "Assign Parliament Seat: $VAL$ per $SCALE$ development.\n"*
+ war_exhaustion_abs_impact:0 "Reduce War Exhaustion: $VAL$\n"*
+ strengthen_government_abs_impact:0 "Strengthen Government: $VAL$\n"*
+ MERC_BASE:0 "Mercenary:"*
+ FROM_ADM_EFF:0 "Administrative Efficiency: $VAL|%=+1$"*
+ ABSOLUTISM_NOT_YET_TOOLTIP:1 "§YAbsolutism§!\nAbsolutism is how ruthless and efficient the government is. It is a concept that appears in the Age of Absolutism. The higher it is, the greater benefits we gain in Administrative Efficiency and Discipline."*
+ ABSOLUTISM_IMPACT_TT:1 "Absolutism is how ruthless and efficient the government is. The higher it is, the greater benefits we gain in Administrative Efficiency and Discipline."*
+ ABSOLUTISM_PAST_TIME:0 "§YAbsolutism§!\n(While we are in the Age of Revolutions, we still have some of the benefits of absolutism, even if the revolution is a revolt against absolutism."*
+ ABSO_YEARLY_CHANGE:0 "Changes by $CHANGE$ each year due to:\n$EFF$"*
+ AGE_ABSOLUTE_ALLOW:0 "(Enables the Absolutism mechanics.)"*
+ AGE_ABSOLUTE_RELIGIOUS_CONFLICTS:0 "(Enables the Religious Conflicts.)"*
+ ALREADY_GOLDEN_ERA:0 "You have already enacted a Golden Era. "*
+ START_GOLDEN_AGE:0 "Start Golden Era"*
+ WE_ARE_IN_A_GOLDEN_ERA:0 "We are already in a golden era. The Golden Era will last until $UNTIL|Y$.\nA golden era have the following effects:\n$EFFECTS$"*
+ GOLDEN_ERA_NOT_NUF:0 "To enact a Golden Era you need to have at least $NUM|Y$ objectives fullfilled.\nA Golden Era have the following effects:\n$EFFECTS$"*
+ GOLDEN_ERA_ENACT:0 "A Golden Era lasts for $YEARS|Y$ years, and give the following effects:\n$EFFECTS$\nPlease be aware that a golden era can only be enacted once by a country in a campaign."*
+ GOLDENAGETTITLE:0 "Start Golden Era!"*
+ PRESTIGE_FROM_CONV:0 "This increases our prestige by §G+$VAL$§!."*
+ CAN_TRANSFER_VASSAL_WARGOAL:1 "Allows '§YTransfer Subject§!' Peace Treaty at half cost"*
+ CAN_CHAIN_CLAIM:0 "Allow Claims Bordering Claims"*
+ FREE_MAINTENANCE_ON_EXPL_CONQ:0 "No Maintenance on Exploring Leaders"*
+ CAN_COLONY_BOOST_DEVELOPMENT:1 "+1 Tax, +1 Production and +1 Manpower when Colony Finished"*
+ ATTACK_BONUS_IN_CAPITAL_TERRAIN:1 "+1 Combat Bonus in Terrain of Capital"*
+ ATTACK_BONUS_IN_CAPITAL_TERRAIN_IN_PROV:1 "§G+1 Combat Bonus§! for us due to same terrain as in our Capital"*
+ CAN_BYPASS_FORTS:0 "Ignore Zone of Control"*
+ IGNORE_CORING_DISTANCE:0 "Ignore Coring Distance"*
+ FORCE_MARCH_FREE:0 "Force March costs no Power"*
+ SPLENDOR_MONTHLY_GAIN:0 "You gain $VAL$ splendor each month due to:\n"*
+ ADD_AGE_AB_NOT_ENOUGH_SPLENDOR:0 "You need more splendor, as it costs $NEED|Y$ to purchase, and you only have $CURR|Y$."*
+ AGE_STARTS_WHEN:0 "This age starts when\n$HOW$\nhas been true for at least $MONTHS|Y$ months."*
+ AGE_FOLLOWING_OBJECTIVES:0 "§YObjectives§!"*
+ AGE_FOLLOWING_OBJECTIVESNC:0 "With the following objectives:\n"*
+ CURR_AGE_TRIG_NOT:0 "It is NOT the $NAME|Y$.\n"*
+ CURR_AGE_TRIG:0 "It is currently the $NAME|Y$.\n"*
+ SPY_OFFENCE_DISC_PENALTY:0 "Spy Discovered: $VAL|%2+=$"*
+ ABSOLUTISM_DEC_BY:0 "Absolutism decreases by $VAL|R$"*
+ ABSOLUTISM_INC_BY:0 "Absolutism increases by $VAL|G$"*
+ CAN_NOT_JOIN_OFFENSIVE_WARS_INTRUCE:0 "Trucebreaking is not valid for offensive wars."*
+ STV_LVL_CORE:0 "§YOur cores§!"*
+ STV_LVL_NAME:0 "§YProvince Name§!"*
+ STV_LVL_OWNER:0 "§YOwner§!"*
+ STV_LVL_DEV:0 "§YDevelopment§!"*
+ STV_LVL_REL:0 "§YReligion§!"*
+ STV_LVL_CUL:0 "§YCulture§!"*
+ STV_LVL_UNREST:0 "§YUnrest§!"*
+ STV_LVL_FORT:0 "§YFort Level§!"*
+ STV_LVL_DEVAST:0 "§YDevastation§!"*
+ BANNER_NOWHERE_TO_GO:0 "There are no provinces fully under our control in $NAME$ for us to be able to raise the banners."*
+ BANNER_NONE_AVAIL:0 "There are not enough Manchu People in $NAME$ for us to be able to raise a single banner."*
+ BANNER_ALL_RAISED:0 "$NAME$ can not raise more banners, as there are already $CURR$ raised."*
+ BANNER_TOO_HIGH_CORRUPTION:0 "Raising this banner would increase our corruption by $VAL|R$, taking us beyond 100."*
+ RAISE_MANCHU_BANNERS:0 "Raise Banners"*
+ BANNER_TXT:0 "$CURR|Y$ of $ALLOW|Y$"*
+ BANNERS_FROM_TT:0 "If your primary culture is §YManchu§! you can raise Manchu Banners in provinces of Manchu Culture. Banners cost Corruption to raise and have higher Discipline than normal troops.\n\n$NAME$ can raise a total of $AMOUNT|Y$ Banners due to:\n"*
+ STATE_CORRUPTION_INC:0 "Raising $RAISED|Y$ regiments as banners will increase corruption by $INC$."*
+ STATE_EDICT_NOT_REMOVE:0 "$ACTIVE|Y$ can not be changed or removed until $WHEN|Y$."*
+ CLICK_TO_REMOVE_EDICT:0 "Click to remove this edict."*
+ CLICK_TO_ENACT_EDICT:0 "Enact $EDICT$ until at least $UNTIL|Y$ for an increase in state maintenance of $COST$."*
+ VIEW_STATE_EDICTS:0 "View Edicts"*
+ NO_CURRRENT_EDICT:0 "No Current Edict"*
+ CONFIRSTATEEDICT:0 "Confirm State Edict"*
+ CONFIRSTATEEDICT_TEXT:0 "Enacting $EDICT|Y$ in $STATE$ will grant $EFFECT$ for at least $DURATION$ months, for an increase in state maintenance by $INCREASE$.\nAre you sure?"*
+ CONFIRRAISEBANNER:0 "Confirm Raise Banner"*
+ CONFIRRAISEBANNER_TEXT:0 "$EFFECT$\nAre you sure?"*
+ EFFECT_ARE_YOU_SURE:0 "$EFFECT$\nAre you sure?"*
+ NO_EDICT:0 "No Edict!"*
+ LEDGER_EDICT:0 "Edict"*
+ NO_EDICT_TO_REMOVE:0 "There is §YNO§! Edict to Remove!"*
+ NO_EDICT_IN_STATE:0 "There is currently no edict in $NAME$."*
+ NO_EDICT_IN_TERRITORY:0 "$NAME$ is a territory so can not have an edict."*
+ CONFIRSTATEEDICT_TEXT_N:0 "Removing the current edict, are you sure?"*
+ MODIFIER_LOCAL_MONTHLY_DEVASTATION:0 "Monthly Devastation"*
+ edict_religious_unity:0 "Enforce Religious Unity"*
+ edict_protect_trade:0 "Protect Trade"*
+ edict_promote_military_recruitment:0 "Promote Military Recruitment"*
+ edict_encourage_development:0 "Encourage Development"*
+ edict_defensive_edict:0 "Defensive Edict"*
+ edict_advancement_effort:0 "Advancement Effort"*
+ edict_centralization_effort:0 "Centralization Effort"*
+ edict_feudal_de_jure_law:0 "Feudal De Jure Law"*
+ edict_feudal_de_jure_law_tooltip:0 "Requires '§YFeudal De Jure Law§!' from Age of Discovery."*
+ edict_religion_enforced:0 "Religion Enforced"*
+ edict_religion_enforced_tooltip:0 "Requires '§YReligion Enforced Edict§!' from Age of Reformation."*
+ edict_of_absolutism:0 "Edict of Absolutism"*
+ edict_of_absolutism_tooltip:0 "Requires '§YEdict of Absolutism§!' from Age of Absolutism."*
+ UNCONDITIONAL_SURRENDER_UNREST:0 "The nation has surrendered. No unrest until peace is negotiated."*
+ DEVASTATION_FROM_UNREST:0 "Unrest: $VAL$\n"*
+ DEVASTATION_FROM_CONTROL:0 "Control: $VAL$\n"*
+ DEVASTATION_FROM_SURRENDER:0 "Unconditionally Surrendered: $VAL$\n"*
+ DEVASTATION_FROM_REVANCHISM:0 "Revanchism: $VAL$\n"*
+ DEVASTATION_FROM_FORTS:0 "Friendly Forts: $VAL$\n"*
+ LEDGER_DEVASTATION:0 "Devastation"*
+ devastation:0 "Devastation"*
+ DEVASTATION_TITLE:0 "§YDevastation§!"*
+ DEVASTATION_NO_CHANGE:1 "Nothing will currently impact devastation of this province. However, if the province is looted, devastation will be increased."*
+ DEVASTATION_CHANGES_MONTHLY:0 "Changes monthly by $VAL$ dues to:\n$WHY$"*
+ DEVASTATION_EFFECTS:0 "Current Effects of Devastation is:\n$WHY$"*
+ PROSPERITY_TITLE:0 "§YProsperity§!\nCurrently at §Y$VAL$%§! progress towards prosperity.\n"*
+ PROSPERITY_MAP_IRO:0 "Prosperity: §Y$VAL$%§!"*
+ prosperity:0 "Prosperity"*
+ PROSPERITY_ONLY_IN_STATES:0 "Only States can be Prosperous"*
+ PROSPEROUS_STATE:0 "$NAME$ is currently enjoying §Yprosperity§!, which gives it the following benefits:"*
+ PROSPEROUS_POSSIB:0 "If $NAME$ can become prosperous, it would get the following benefits:"*
+ PROSPEROUS_HOW:0 "Prosperity can happen if stability is positive and there is no devastation in the state."*
+ NO_PROSP_NO_POSSTABI:1 " - Stability must be positive!"*
+ NO_PROSP_NEGPOSSTABI:0 " - Stability must be negative."*
+ NO_PROSE_DEV_IN:0 " - Devastation in $WHERE$!"*
+ ASSUME_WARLED_NOT_GP:0 "Only Great Powers can assume leadership in a war."*
+ ASSUME_WARLED_LEADER_IS_GP:0 "You can not assume leadership in a war which is already led by a Great Power."*
+ ASSUME_WARLED_IRO:0 "§YAssume Leadership§!\nAs a Great Power, we can take command of this war, so we can negotiate for our entire side."*
+ LEDGER_PROSPERITY:0 "Prosperity"*
  CANT_BUILD_SHIPS_WITHOUT_PORTS:0 "Неможливо будувати кораблі, без володіння бодай одним портом."
+ PROSP_CHANCE:0 "There is a $CHANCE$ chance each month that the progress to prosperity increase by §Y+$INC$§! due to:\n$WHY$\n"*
+ PROSP_DECLINE:0 "Prosperity Progress declines by §R$DEC$§! each month due to:\n$WHY$"*
+ CUL_BENEFIT_PROV:0 "$CUL$ gives $EFF$ to $WHERE$."*
+ CUL_BENEFIT_PROV_X:0 "$CUL$ gives $EFF$ to owned provinces."*
+ CUL_BENEFIT_COUNTRY:0 "When $CUL$ is primary culture, it gives $EFF$ to our country."*
+ in_capital_state:0 "Capital State"*
  DEVOTION_TO_RELIGIOUS_UNITY:0 "§RПраведність зменшуватиметься до значення вашої Релігійної Єдності (якщо останнє менше).§!\n"
  RETURNING:0 "Повернення"
  DIPLO_TRADE_POWER_MECHANT_REPUBLIC:0 "Торгова Республіка: "
  COMBAT:0 "Битва"
  SHIPS_LOST:0 "Втрачені кораблі"
+ PROV_IS_OUR_CORE:0 "$NAME$ is one of our core provinces."*
+ STATE_INCOME_LABEL:0 "State Income (@$OWNER$):"*
+ STATE_INCOME_IRO:0 "$WHO$ Income from $STATE$ is based upon."*
+ STATE_MAINTENANCE_LABEL:0 "$OWNER$ Maintenance:"*
+ TOGGLE_EDICTS_OFF:0 "Click to close the edicts selection."*
+ TOGGLE_EDICTS_ON:0 "Click to open the edicts selection."*
+ TOGGLE_EDICTS_NOT_OURS:0 "You do not own $PROV|Y$."*
  EMBRACED:0 "Запроваджено"
  PRESENT:0 "Присутньо"
  NOT_CREATED:0 "§GНе існує§!"
@@ -14,7 +306,10 @@
  EMBRACE_RATIO3:0 "(і $COST|Y$¤ від $NUM$ інших провінцій)\n"
  PRESENCE_IN_COUNTRY:0 "Наявність у державі $NAME$"
  HAS_EMBRACED:0 "Запроваджено інституцію $INSTITUTION|Y$"
+ NO_TRADE_COMPANY_RECENTLY_REMOVED:0 "Can not add this province to a Trade Company until $WHEN|Y$."*
  CURRENT_PENALTY:1 "Штраф до вартості технологій"
+ MODIFIER_LOCAL_FRIENDLY_MOVEMENT_SPEED:0 "Friendly Movement Speed"*
+ MODIFIER_LOCAL_HOSTILE_MOVEMENT_SPEED:0 "Hostile Movement Speed"*
  WHEN_EMBRACED:0 "Коли запроваджено"
  ORIGIN_PROVINCE:0 "Походження: $NAME$"
  ACTIVE_AI:0 "ШІ контролюватиме $NAME$"
@@ -39,6 +334,8 @@
  GP_RANK_TT:0 "Максимальне число Великих Держав: $MAX|Y$."
  GP_RATING_TT:0 "Рейтинг складається з §Yрозвитку§!, поділеного на поточну §Yвартість технологій§!."
  GP_TECH_TT:0 "На вартість технологій впливає:\n"
+ TRADE_COMPANY_PENALTY:0 "Gaining $EFFECT$ until $DATE|Y$"*
+ left_trade_company:0 "Left Trade Company"*
  WILL_LOSE_POWER_AT_EMBRACE:0 "Після запровадження цієї інституції, ви втратите $LOSS$ через зменшення максимального ліміту балів монарха."
  LIBERTY_DESIRE_FROM_DEVELOPMENT_VASSAL:0 "Від $AMOUNT|Y$ розвитку: $VAL$"
  LEDGER_LOCAL_TRADE_GOODS_BONUS:0 " - $EFF$ власнику."
@@ -56,6 +353,8 @@
  HAS_NO_HOSTILE_REFORMATION_CENTER:0 "НЕ має ворожих центрів реформації"
  HAS_HOSTILE_REFORMATION_CENTER:0 "Має ворожий центр реформації"
  EXPENSE_STATE_MAINTENANCE:0 "Утримання Володінь"
+ EXPENSE_GREAT_POWER:0 "Great Power Actions"*
+ SM_BASE_DEV_COST_EDICT:0 "From Development: §Y$VAL$¤§!\n$EDICT$: §R+$ED_VAL$¤§!"*
  SM_BASE_DEV_COST:0 "Від розвитку: §Y$VAL$¤§!"
  SM_DISTANCE_COST:0 "Дистанція: $VAL$"
  SM_CONTINENT_COST:0 "Інший континент: $VAL$"
@@ -109,6 +408,14 @@
  NO_FORT_WILL_FALL_AFTER_N_DAYS:0 "Провінція $NAME|Y$ буде окупована $DATE|Y$, оскільки немає фортець, що захищають її."
  NOAS_NO_BREACH:0 "Ви не можете почати штурм, поки не буде пробитий пролом."
  NOAS_NO_FORT:0 "Фортеця відсутня, тут нема що штурмувати"
+ NOAB_NO_FORT:0 "There is no fort, so there are no walls to barrage."*
+ NOAB_YOU_ARE_DEFENDING:0 "This is your fort, you can't artillery barrage it."*
+ NOAB_ALREADY_ASSAULTING:0 "You are assaulting it, its not possible to create a breach in it."*
+ NOAB_ALREADY_BREACH:0 "This fort already have a breach in its walls."*
+ NOAB_NOT_LEADING:0 "You can not order an artillery barrage if you are not in the command of the siege."*
+ NOAB_NO_POINTS:0 "You need §Y$COST$§W£mil  to order an artillery barrage, and you only have §Y$VAL$§W."*
+ ORDER_ARTILLERY_BARRAGE_IRO:0 "Ordering an artillery barrage will create a breach for a cost of §Y$COST$§W£mil ."*
+ NOAB_NOT_ENOUGH_ART:0 "You need to have at least a full artillery regiment for each fortlevel to do an efficient barrage. You only have $ART|Y$ artillery, while the fort is worth $FORT|Y$."*
  WARSCORE_NO_FORT:0 "Немає фортеці: $VALUE$\n"
  opinion_forced_return_territory:0 "Змусили нас повернути землі"
  FORT_LEVEL_NOT_TRIGGER:0 "Фортифікація менше $VALUE|Y$.\n"
@@ -165,6 +472,7 @@
  default_parliament_name:0 "Парламент"
  opinion_theocracy_noble:0 "Спадкоємець тієї ж династії"
  devotion:0 "Праведність"
+ meritocracy:0 "Meritocracy"*
  overseas_port:0 "Заморський порт"
  port:0 "Порт"
  backing_war_effort:0 "Підтримка військових планів"
@@ -268,6 +576,9 @@
  provincial_production_size:0 "Базове виробництво"
  DEVELOPMENT_EFFICIENCY:0 "Ефективний розвиток"
  PP_DEVELOPMENT:0 "§YРозвиток§!\n показує сумарне значення базового податку, виробництва й рекрутів. Поточний рівень розвитку має такі ефекти:\n$EFFECT$"
+ BASE_TAX:1 "Base Tax"*
+ BASE_PRODUCTION:0 "Base Production"*
+ BASE_MANPOWER:0 "Base Manpower"*
  PP_BASE_TAX_VALUE2:0 "Базовий рівень податків становить $VAL|Y$, кожна одиниця додає такий ефект:\n$EACH$"
  PP_BASE_MP_VALUE:0 "Базовий рівень новобранців становить $VAL|Y$, кожна одиниця додає такий ефект:\nМаксимальна кількість новобранців: §G+$EACH$§!\n$PROV$"
  PP_BASE_PROD_VALUE:0 "Базовий рівень виробництва становить $VAL|Y$, кожна одиниця додає такий ефект:\n$EACH$"
@@ -350,6 +661,9 @@
  MODIFIER_FIRE_DAMAGE:0 "Вогнева міць війська"
  MODIFIER_SHOCK_DAMAGE:0 "Втрати від натиску"
  MODIFIER_FIRE_DAMAGE_RECIEVED:0 "Втрати від вогневої моці"
+ MODIFIER_MONARCH_ADMIN_POWER:0 "Monarch Admin Power"*
+ MODIFIER_MONARCH_DIPLOMATIC_POWER:0 "Monarch Diplomatic Power"*
+ MODIFIER_MONARCH_MILITARY_POWER:0 "Monarch Military Power"*
  SLAVERAID_LACKS_IDEA:0 "Ви не дослідили відповідну ідею для набігів на прибережні провінції задля ¤ & £icon_sailors£!"
  SLAVERAID_FLEET_NEEDS_TO_BE_AT_SEA:0 "Військовий флот повинен бути в морі, для здійснення набігу."
  SLAVERAID_NOT_ON_FRIENDS:0 "Ми не можемо здійснювати набіги на ваших друзів у державі $NAME|Y$.\n"
@@ -396,6 +710,7 @@
  DISASTER_PROGRESS_WHERE:0 "Поточний прогрес становить §Y$VAL$%§!."
  DISASTER_DOWN_PROGRESS:0 "Прогрес буде $DEC$ щомісяця, якщо ми дамо цьому раду і зупинимо його.\n$WHY$"
  DISASTER_PROGRESS_WHY:0 "Щомісяця прогрес буде змінюватися на $INC$\n$WHY$"
+ DISASTER_ESTIMATED_START:0 "At this rate, $DISASTER|Y$ will start on $STARTDATE|Y$."*
  END_OF_DISASTER:0 "Катастрофа $NAME|Y$ минула.\n"
  ALERT_DISASTER_ENTRY:0 "§Y$NAME$§! - §Y$CURR$%§! ($CHANGE$)\nПоточний прогрес становить:\n$REASON$"
  MONARCHY_LESSER_IN_UNION_NOT_CONVERT:0 "В якості молодшого партнера в унії, ви не можете змінити форму правління."
@@ -494,6 +809,7 @@
  ADM_SCORE_STABILITY:0 "Стабільність: $VAL$\n"
  ADM_SCORE_PRESTIGE:0 "Престиж: $VAL$\n"
  ADM_SCORE_DEVOTION:0 "Праведність: $VAL$\n"
+ ADM_SCORE_MERITOCRACY:0 "Meritocracy: $VAL$\n"*
  ADM_SCORE_LEGITIMACY:0 "Легітимність: $VAL$\n"
  ADM_SCORE_UNITY:0 "Єдність орди: $VAL$\n"
  ADM_SCORE_REPTRAD:0 "Республіканські традиції: $VAL$\n"
@@ -624,6 +940,10 @@
  HRE_NUM_PRINCES_IMPACT:0 "На даний момент в Імперії знаходиться §Y$CURR$§! членів з §Y$NEED$§! необхідних для підтримки легітимності влади. У зв'язку із цим імперський авторитет щомісяця змінюватися на $VAL$."
  LACK_OF_ELECTORS:0 "На даний момент в імперії лише §Y$CURR$§! курфюрстів, з $NEED$ необхідних. У зв'язку із цим імперський авторитет щомісяця знижується на §R$VAL$§!."
  VASSALIZED_ELECTORS:0 "Серед курфюрстів §Y$CURR$§! є залежними державами. У зв'язку цим імперський авторитет щомісячно знижується на §R$VAL$§!."
+ ENACT_DECREE_ONLY_ONE:0 "Only one decree can be enacted at once, and they cannot be canceled before their end date.\n"*
+ ENACT_DECREE_NOT_EMPEROR:0 "Only the Emperor can enact Decrees."*
+ ENACT_DECREE_ALREADY_ENACTED:0 "$DECREENAME$ already enacted. It will run out on $DATE|Y$."*
+ ENACT_DECREE_NOT_ENOUGH_MERITOCRACY:0 "Enacting this Decree requires $MERITOCRACYREQUIRED$ Meritocracy, you only have $CURRENTMERITOCRACY$."*
  CAN_NOT_ENACT_REFORM_NOT_EMPEROR:0 "Лише імператор може проводити реформи в імперії."
  CAN_NOT_ENACT_REFORM_LEAGUES:0 "Ви не можете проводити реформи, поки в імперії релігійний конфлікт."
  MUST_BE_AT_PEACE_IMP_REFORM:0 "Ви не можете проводити реформи під час війни!"
@@ -720,6 +1040,8 @@
  CAN_NOT_AFFORD_COST_GC_CHANGE:0 "Ви не можете змінити форму правління, оскільки у вас лише §Y$CURR$§!£adm£, а для зміни форми правління потрібно §Y$COST$§!."
  SUBJECT_NOT_NEIGHBOR_TO_PRIMITIVE:0 "Колонія може оголосити війну лише сусіднім тубільцям."
  SUBJECT_OVERLORDS_ALLY:0 "Наші покровителі знаходяться у союзі, і не терпітимуть війни між їхніми підданими."
+ SUBJECT_NOT_NEIGHBOR_OTHER_RELIGION:1 "A $SUBJECTTYPE$ can only $DOWHAT$ a nation of another religiongroup if they are neighbors."*
+ SUBJECT_WITH_INDEPENDENT:0 "$SUBJECTTYPES$ can't $DOWHAT$ independent nations."*
  SUBJECT_COLONIAL_BROTHERS:0 "Колоніальні брати не можуть оголошувати війну одне одному."
  SUBJECT_TO_LOW_LIBERTY:0 "Колонії потрібно мати не менше $LIMIT|0$ бажання свободи, щоб оголосити війну своєму сюзерену."
  NO_WAR_ON_FOREIGN_STATES:0 "Даймьо може оголосити війну тільки іншому даймьо свого сюзерена, або безпосередньо своєму сюзеренові."
@@ -810,6 +1132,10 @@
  navy_tradition:0 "Морські традиції"
  MIL_DEFENSIVENESS:0 "Захист"
  POOL_HAS_MP:0 "§Y$POOL$§! людей готово до заклику. Максимальне число рекрутів, яке ми можемо собі дозволити §Y$MAX$§!."
+ YEARLY_MERITOCRACY:0 "Yearly Meritocracy"*
+ MERITOCRACY_IRO:0 "§YMeritocracy§!\nMeritocracy changes by $CHANGE$ every year due to:\n$WHY$"*
+ YOU_MERITOCRACY_DRO:0 "This represents the bureaucratic competence inside our country. The higher it is, the more efficient our nation will run!\nThis level of Meritocracy gives the following effects:"*
+ THEY_MERITOCRACY_DRO:0 "This represents the bureaucratic competence inside their country. The higher it is, the more efficient their nation will run!\nThis level of Meritocracy gives the following effects:"*
  DEVOTION_EFFECT:0 "Праведність $DIRECTION$ на $VALUE$.\n"
  HAVE_DEVOTION_LESS_THAN:0 "Праведність менше "
  HAVE_DEVOTION_MORE_THAN:0 "Праведність більше "
@@ -894,6 +1220,10 @@
  shogunate_desc:0 "Хоча номінально сьоґунат призначався імператором, він перетворився у спадкову військову диктатуру і фактичну владу в Японії, в період з 1192 по 1867 роки."
  shogunate_ruler:0 "Сьоґун"
  shogunate_ruler_female:0 "Онна-Сьоґун"
+ indep_daimyo:0 "Independent Daimyo"*
+ indep_daimyo_desc:0 "A powerful Lord in Japan, ruling their hereditary lands without acknowledging any shogun.\n§MA country can take over the Shogunate, and become the overlord of all Daimyo Subjects, by taking the province of Kyoto.§!"*
+ indep_daimyo_ruler:0 "Lord"*
+ indep_daimyo_ruler_female:0 "Lady"*
  iqta:0 "Ікта"
  iqta_desc:0 "Ікта схожа на феодальну систему ленів, але землевласнику не надавалося жодних гарантій що його землю успадкує нащадок."
  iqta_ruler:0 "Султан"
@@ -963,6 +1293,7 @@
  UNIT_ATTACK_NATIVS:0 "§YАтакувати тубільців§!"
  UNIT_ATTACK_NATIVES_DESC:0 "Атакувати місцеве населення, щоб вони не загрожували вашим колоністам у майбутньому."
  ATTACK_NATIVES_COST:0 "Це коштуватиме §Y$COST$§W£mil£."
+ NO_SCORCH_HI_DEVASTATION:2 "You can't scorch earth in a province that has been devastated past $VAL|$ devastation."*
  SCORCH_EARTH_TITLE:0 "§YВипалити землю§!"
  NO_SCORCH_COLONY:0 "Колонії не достатньо розбудовані, щоб їх можна було випалювати."
  NO_SCORCH_ALREADY:0 "Це місце настільки пустельне, що випалювати його немає змісту."
@@ -995,6 +1326,11 @@
  SORT_BY_RECEIVER:0 "Сортувати за одержувачем"
  SORT_BY_NAME:0 "Сортувати за назвою"
  SORT_BY_SELECTED:0 "Сортувати за обраним"
+ SORT_BY_FREE_SLOTS:0 "Sort by free slots"*
+ SORT_BY_IMPROVEMENT_AMOUNT:0 "Sort by improvement amount"*
+ SORT_BY_IMPROVEMENT_VALUE:0 "Sort by improvement value"*
+ SORT_BY_TRADE_GOOD:0 "Sort by trade good"*
+ SORT_BY_ESTATE:0 "Sort by estate"*
  MSG_FILTER_TOOLTIP_HEADER:0 "У налаштуваннях фільтра повідомлень ви можете вибрати країни, які вам цікаві. Ви будете побачити повідомлення від важливих для вас країн."
  MSG_FILTER_TOOLTIP_DELAYED:0 "§YЛКМ§! змінює поточний вибір.\n§YПКМ§! додає поточний вибір.\n§YЛКМ+SHIFT§! скидає фільтр."
  MSG_FILTER_TOOLTIP_DESELECT:0 "Скасувати вибір всіх країн зі списку."
@@ -1050,6 +1386,7 @@
  ENVOY_DESC:0 "$NAME$ ($TYPE$): $STATUS$"
  ENVOY_IN_DESC:0 " у провінції §Y$PROV$§Y"
  ENVOY_FREE:0 "Вільний"
+ ENVOY_FREE_AUTOMATED:0 "§YIdle§!"*
  ENVOY_TRAVELING:0 "В дорозі"
  ENVOY_TRAVELING_DESC:0 "$NAME$ прямує в провінцію §Y$PROV$§!. Прибуде §Y$DATE$§!"
  ENVOY_MISSIONING:0 "$NAME$ виконує завдання в провінції §Y$PROV$§!"
@@ -1226,12 +1563,14 @@
  STR_LEGITIMACY:0 "Здобути $VAL|G$ Легітимності"
  STR_REPUBLIC:0 "Здобути $VAL|G$ Республіканських Традицій"
  STR_DEVOITION:0 "Здобути $VAL|G$ Праведності"
+ STR_MERITOCRACY:0 "Gain $VAL|G$ Meritocracy"*
  STRENGTHEN_GOVERNMENT:0 "Зміцнити уряд"
  STRGOVTTITLE:0 "Зміцнити уряд"
  STR_GOV_ALREADY_MAX_HORDE_UNIT:0 "Єдності орди і так на найвищому рівні!"
  STR_GOV_ALREADY_MAX_LEGITIMACY:0 "Легітимність і так на найвищому рівні!"
  STR_GOV_ALREADY_MAX_REP_TRAD:0 "Республіканські традиції і так на найвищому рівні!"
  STR_GOV_ALREADY_MAX_DEVOTION:0 "Праведність і так на найвищому рівні!"
+ STR_GOV_ALREADY_MAX_MERITOCRACY:0 "Meritocracy is already at its highest!"*
  DISINHERIT_NOT_MONARCHY:0 "Тільки монархії можуть позбавляти прав на трон!"
  DISINHERIT_NOT_DURING_REGENCY:0 "Неможливо позбавити спадкоємця прав на трон під час регентства!"
  DISINHERIT_LOW_PRESTIGE:0 "Щоб позбавити спадкоємця прав на трон, потрібно мати щонайменше $NEED|Y$ престижу."
@@ -1253,6 +1592,10 @@
  ABDICATE_PERFORM_IRO2_HORDE:0 "Після розгляду прав спадкоємця, Єдність орди зменшиться на $HIT|R$, а престиж на $PRESTIGE_HIT|R$."
  ABDICATE_PERFORM_IRO2:0 "Після розгляду прав спадкоємця, легітимність зменшиться на $HIT|R$, а престиж на $PRESTIGE_HIT|R$."
  ABDICATETITLE:0 "Зректися!"
+ ARE_YOU_SURE_PASS_REFORM:0 "Are you sure you want to enact $REFORMTITLE|Y$?\n"*
+ ARE_YOU_SURE_PASS_DECREE:0 "Are you sure you want to enact $TITLE|Y$?\n"*
+ ENACT_REFORM_COST_DESC:0 "This will cost us $STABILITY|R$ Stability and $MANDATE|R$ Mandate, and give us the following long term effects:\n$EFFECTS$"*
+ ENACT_DECREE_COST_DESC:0 "This will cost us $MERITOCRACYCOST|R$ Meritocracy, and give us the following effects for $YEARS|Y$ years:\n$EFFECTS$"*
  ACCEPTED_CULTURES_MAX_COUNT:0 "Слоти просунутих культур"
  ACCEPTED_CULTURES_COUNT:0 "Просунуті культури: $CURR$/$MAX$"
  ACCEPTED_CULTURE_SLOTS_DESC:0 "Є вільні слоти просунутих культур $FREE|Y$ з $MAX|Y$.\nЩоб просунути культуру, клацніть на кнопку §Y'Просунути культуру'§! на невизнаній культурі.\nЧисло слотів залежить від:\n"
@@ -1484,6 +1827,8 @@
  desc_senegal_estuary_modifier:0 "Контроль над стратегічно важливим гирлом ріки Сенегалу збільшує наш вплив на торгівлю в регіоні."
  zambezi_estuary_modifier:0 "Гирло Замбезі"
  desc_zambezi_estuary_modifier:0 "Контроль над стратегічно важливим гирлом ріки Замбезі збільшує наш вплив на торгівлю в регіоні."
+ kongo_estuary_modifier:0 "Congo Estuary"*
+ desc_kongo_estuary_modifier:0 "Controlling the important river estuary of the Congo River strengthens our hold of the trade in the region."*
  red_river_estuary_modifier:0 "Гирло Ред-Рівер"
  desc_red_river_estuary_modifier:0 "Контроль над стратегічно важливим гирлом ріки Ред-Рівер збільшує наш вплив на торгівлю в регіоні."
  irrawaddy_estuary_modifier:0 "Гирло Іраваді"
@@ -1779,6 +2124,7 @@
  cb_shogun_annex_desc:0 "Вони загрожують нашій владі в Японії!"
  cb_change_government:0 "Війна за зміну форми правління"
  cb_change_government_desc:0 "Ми повинні змусити їх прийняти нашу форму правління!"
+ claiming_the_shogunate_tooltip:0 "[new_shogunate.GetName] will be the leader of the new Shogunate.\nAll Daimyo's loyal to the Shogunate will be transferred to [new_shogunate.GetName]."*
  INDEPENDENCE_WAR_NAME:0 "$ORDER$$FIRST$а війна за незалежність"
  DEFENDER_DESC:0 "Захисник віри отримує привід до війни для відновлення релігійної єдності. Витрати на титул становлять §Y$VALUE$§W¤. Через §Y$MONTHS$§! місяців більш престижні країни зможуть заявити претензії на цей титул. \nТакож ви можете втратити титул після смерті свого правителя, або при відмові допомогти країні, що сповідує вашу релігію, при нападі на неї невірних."
  CARDINAL_NEW:0 "§YДіючий кардинал§!\nКардинала з держави $HOME$ було обрано до Папської курії, він ставиться прихильно до нашої країни. Кожний активний кардинал дає нам щороку $BENEFIT$ впливу на Папу."
@@ -1886,6 +2232,8 @@
  HAVE_AT_LEAST_AVERAGE_AUTONOMY:0 "Середній рівень автономії не менше $VAL|Y$%"
  HAVE_LESS_AVERAGE_AUTONOMY_ABOVE_MIN_THAN:0 "Average autonomy above minimum is less than $VAL|Y$%."
  HAVE_AT_LEAST_AVERAGE_AUTONOMY_ABOVE_MIN:0 "Average autonomy above minimum is $VAL|Y$% or higher."
+ HAVE_LESS_LOCAL_AUTONOMY_ABOVE_MIN_THAN:0 "Local autonomy above minimum is less than $VAL|Y$%."*
+ HAVE_AT_LEAST_LOCAL_AUTONOMY_ABOVE_MIN:0 "Local autonomy above minimum is $VAL|Y$% or higher."*
  HAVE_LESS_AVERAGE_HOME_AUTONOMY_THAN:0 "Середній рівень не заморської автономії $VAL|Y$%."
  HAVE_AT_LEAST_AVERAGE_HOME_AUTONOMY:0 "Середній рівень не заморської автономії $VAL|Y$%."
  DIPLO_BAD_NEWS:0 "погано"
@@ -2304,6 +2652,8 @@
  nowargoal:0 "Немає мети війни"
  nowargoal_desc:0 "У нас немає поважної причини для нападу."
  NO_MORE_BANKLOANS:0 "Ви не можете взяти ще одну позику."
+ NO_MORE_BANKLOANS_TOO_MANY:0 "You have taken $LOANNUM|Y$ loans, cannot take more than $MAXNUM|Y$ loans!"*
+ NO_MORE_BANKLOANS_UNCONDITIONAL:0 "Cannot take loans while unconditionally surrendered!"*
  WE_IMPACT_ON_ANNEX_INTEGRATE:0 "Дипломатична анексія й інтеграція: $VAL$\n"
  TRIBAL:0 "Племінний"
  NUM_OF_OWNED_PROVINCES_WITH:0 " контролює провінцію"
@@ -2376,6 +2726,12 @@
  MISSIONARIESMAINTENANCE:0 "Утримання місіонерів"
  ARMYMAINTENANCE:0 "Утримання армії"
  FLEETMAINTENANCE:0 "Утримання флоту"
+ DOMESTIC_GO_BANKRUPT:0 "Declare Bankruptcy"*
+ VOLUNTEER_BANKRUPT_IN_BANKRUPT:0 "You can not declare a bankruptcy when you are already in one."*
+ VOLUNTEER_BANKRUPT_NO_LOANS:0 "Without any loans, there is no reason to declare bankruptcy."*
+ VOLUNTEER_BANKRUPT:0 "Declaring a bankruptcy will wipe our loans, but we will suffer some severe drawbacks."*
+ CV_GO_BANKRUPT_TITLE:0 "Declare Bankruptcy"*
+ CV_GO_BANKRUPT_TEXT:1 "By declaring bankruptcy, we will wipe all our loans, but lost a lot of prestige, stability, and set us back for a fair bit, with all progress being stopped in our nation, and devastation increased. Our advisors and mercenaries have left.  During the $DURATION|Y$ years we will also have\n$EFFECT$\n\nAre you sure?"*
  CV_DEBASE_CURRENCY_CONFIRM_TITLE:0 "Зіпсувати монети"
  CV_DEBASE_CURRENCY_CONFIRM_TEXT:1 "Ви точно бажаєте зіпсувати свою валюту?\n\nВи отримаєте §Y$VAL$§W¤, але корупція зросте на §R$CORRUPTION$%§!."
  CV_TAKE_LOAN_CONFIRM_TITLE:0 "Взяти позику"
@@ -2747,6 +3103,7 @@
  CORE_OVERSEAS:0 " - заморська провінція "
  CORE_SAME_REGION:0 " - колоніальний регіон "
  CORE_SAME_CONTINENT:0 " - колоніальний континент "
+ COLO_SAME_CONTINENT:0 "Same continent: "*
  CULTURE_SAME_RELIGION_OVERSEAS:0 "Та ж релігія за кордоном: $VAL|%-1$"
  COURT_PU_IS_LESSER:0 "§Y$SUBJECT$§! - молодший партнер в унії з державою §Y$OVERLORD$§!."
  PU_BREAK_REASONS:0 "Вимоги для продовження унії:"
@@ -3112,6 +3469,8 @@
  cb_maya_expansion_desc:0 "Землі навколо нас розділені між містами-державами. Ми повинні приєднати їх до нашого міста, інакше нас очікує забуття."
  cb_chinese_unification:0 "Об'єднання Китаю"
  cb_chinese_unification_desc:0 "Об'єднайте землі китайського субконтиненту."
+ cb_take_mandate:0 "Take Mandate of Heaven"*
+ cb_take_mandate_desc:0 "We must prove to the world we are deserving of the Mandate of Heaven."*
  EXECUTING_POST_HOTJOIN_COMMANDS:0 "Виконання швидкого підключення до гри."
  GOODS_REQ:0 "Необхідні такі товари $LIST$"
  WAR_PROGRESS_ICON_D:0 "§YЛКМ§W, щоб відкрити меню огляду війни\n§YПКМ§W, щоб почати переговори про мир"
@@ -3801,6 +4160,7 @@
  MareNostrumDLC:0 "Mare Nostrum"
  MuslimAdvisorPortraitsDLC:0 "Мусульманські радники"
  RightsofManDLC:0 "Права людини"
+ MandateofHeavenDLC:0 "Mandate of Heaven"*
  ME_CATEGORY_DYNASTY:0 "Династія"
  BAD_SERVER_PASSWORD:0 "Невірний пароль"
  MATCHMAKING_SERVER_FILTER_SEARCH_NAMES:0 "Пошук за іменами..."
@@ -4164,6 +4524,7 @@
  HAS_CANAL:0 "Держава $WHO$ має канал."
  HAS_CANAL_DONT:0 "Держава $WHO$ не має каналу."
  MACRO_BUILDR_INCL_SUBJ:0 "Додати суб'єкти"
+ MACRO_BUILDR_INCL_TERRITORIES:0 "Include Territories"*
  SELECT_RIVAL_TITLE:0 "Вибрати суперника"
  CONFIRMADDRIVAL:0 "Підтвердити суперника"
  CONFIRMADDRIVAL_TEXT:0 "Вибравши державу $NAME$ в якості суперника, ви оголосите всьому світові, що вважаєте її своїм суперником. $EFF$\n Ви впевнені?"
@@ -4236,9 +4597,12 @@
  desc_pol_zebrzydowski_rebellion_flag:0 "Польські магнати зі зброєю в руках будуть відстоювати свої інтереси."
  IN_DEBT_BANKRUPT:0 "банкрутство"
  IN_DEBT_LOANS_DEFICIT:0 " відчуває дефіцит через позики"
+ IN_DEBT_YEARS:0 "$WHO$ having a debt bigger than $VAL|Y$ years of income"*
  SENDGIFT_INDEBT:0 "Неможливо відправити дарунок через $REASON$."
  OFFERLOAN_INDEBT:0 "Неможливо запропонувати позику через $REASON$."
  SUBSIDIES_INDEBT:0 "Неможливо запропонувати субсидування через $REASON$."
+ CONDOT_INDEBT:0 "Not possible to rent condottieri due to $REASON$."*
+ SELL_PROV_INDEBT:0 "Not possible to sell provinces due to $REASON$."*
  magyar:0 "Мадярська"
  NO_DIPLOANNEX_CORE:0 "Вони повинні мати хоча б одну національну провінцію, що межує з нашою, щоб почати націоналізацію."
  perfected_porcelain:0 "Ідеальна порцеляна"
@@ -4299,6 +4663,7 @@
  mr_aristocrats_FACTION_DESC:0 "Представляють прадавні патриціанські родини, які домінують у політичному житті столиці. Їхньою головною турботою є забезпечення переваги республіки у військовому ремеслі й досягненні слави, яка залишиться в історії."
  support_mr_aristocrats_title:0 "Підтримати аристократів"
  support_mr_aristocrats_desc:0 ""
+ SPY_AGAIN_TICKS:0 "Until $WHEN|Y$ our network will decay.\n"*
  CONVHEIR_ELECTIVE:0 "При виборній монархії спадкоємець завжди міняється, тому його неможливо зробити генералом."
  SUPPORT_HEIR:0 "Підтримати спадкоємця"
  SUPPORT_HEIRTITLE:0 "Підтримати спадкоємця"
@@ -4339,6 +4704,7 @@
  DELETE_TEMPLATE_DIALOG_DESC:0 "Бажаєте видалити шаблон $NAME|Y$?"
  PRIVATEER_LOST_WAR:2 "Ви не можете надіслати каперів у торгові вузли, якими володіють країни, з якими у вас перемир'я з причин поразки у війні. Щоб надіслати каперів, перемир'я повинне закінчитися, або торгова сила цих націй не повинна у цьому вузлі становити більше $TRADEPOWER|%0$"
  PRIVATEER_LOST_WAR_NATION:0 "$NATION$ має $TRADEPOWER|%0R$ торгової сили, і перемир'я закінчується $DATE|Y$"
+ NOCOLONISE_NO_SHIPS:0 "You can not build ships to reach it either."*
  DISASTERS:0 "Катастрофа"
  inti:0 "Інті"
  nahuatl:0 "Науатль"
@@ -4523,6 +4889,9 @@
  NAVAL_ENGAGEMENT_WIDTH_DESC:1 "Визначає максимальне число кораблів, яке може вступити в бій у цьому раунді."
  REQUIRED_COMBAT_WIDTH:0 "Ширина фронту"
  LEADER_MANUEVER:0 "Навичка маневру командувача: $VAL$"
+ NO_DEVASTATION_PROSP_MAP_TT:0 "All of $NAME|Y$ enjoys prosperity!"*
+ NO_DEVASTATION_MAP_TT:0 "$NAME|Y$ is not devastated."*
+ DEVASTATION_MAP_TT:0 "The devastation in $NAME|Y$ is at §R$VAL$%§!"*
  CONFIRM_CORE_ALL_TITLE:0 "Націоналізувати всі провінції у регіоні $NAME$"
  CONFIRM_CORE_ALL_TITLE_TEXT:0 "Ви дійсно бажаєте витратити §Y$COST$§!£adm£, щоб націоналізувати $COUNT$/$TOTAL$ провінцій?\n§Y$PROVS$§!"
  CORE_ALL_TOOLTIP:0 "Націоналізувати стільки цих провінцій, наскільки у вас вистачить £adm£."
@@ -4544,3 +4913,35 @@
  INSTITUTION_JUST_ONE_GROWING:0 "Лише одна інституція може одночасно поширюватися у провінції."
  RELIGIOUS_FAITH:0 "$RELIGIOUS$ віра"
  RNW_BLOCKED_BY_MOD:0 "§RВипадковий Новий Світ заборонений модом:§! §Y$NAME$§!"
+ AGE_X_MONTHS_AFTER:0 "This age will start $MONTH|Y$ months after the following is true:"*
+ alert_age_ending_soon_instant:0 "$AGENAME|Y$ is ending in $MONTH|Y$ months!"*
+ alert_age_ending_soon_delayed:0 "The current age is about to end. All Splendor and abilities will be cleared, and a new set of objectives will be available."*
+ alert_age_can_spend_splendor_instant:0 "§YCan purchase an ability§!"*
+ alert_age_can_spend_splendor_delayed:0 "Your level of Splendor is currently high enough to be able to purchase an Ability."*
+ alert_can_enact_decree_instant:0 "§YCan enact a Decree!§!"*
+ alert_can_enact_decree_delayed:0 "Your level of Meritocracy is currently high enough to be able to enact a Decree."*
+ POSSIBLE_INCIDENTS:0 "Possible Incidents"*
+ ACTIVE_INCIDENTS:0 "Active Incidents"*
+ PAST_INCIDENTS:0 "Past Incidents"*
+ ISOLATIONISM:0 "Isolationism"*
+ ISOLATIONISM_MECHANIC_DESCRIPTION:0 "Isolationism represents a nation's willingness to adopt ideas and technologies from abroad. It can range from $FIRSTISOLATIONLEVELNAME|Y$ (§YLevel $FIRSTISOLATIONLEVELVALUE$§!) to $LASTISOLATIONLEVELNAME|Y$ (§YLevel $LASTISOLATIONLEVELVALUE$§!)."*
+ YOUR_CURRENT_ISOLATIONISM_INSTANT:0 "Your current isolationism level is "$ISOLATIONLEVELTITLE|Y$ (§YLevel $ISOLATIONLEVEL$§!)""*
+ THEIR_CURRENT_ISOLATIONISM_INSTANT:0 "$ISOLATIONLEVELTITLE|Y$ (§Y$ISOLATIONLEVEL$§!)"*
+ CURRENT_ISOLATIONISM_DELAYED:0 "$ISOLATIONLEVELDESCRIPTION$"*
+ open_doors_isolation:0 "Open Doors"*
+ open_doors_isolation_title:0 "Open Doors"*
+ open_doors_isolation_desc:0 ""*
+ adaptive_isolation:0 "Adaptive"*
+ adaptive_isolation_title:0 "Adaptive"*
+ adaptive_isolation_desc:0 ""*
+ selective_integration_isolation:0 "Selective Integration"*
+ selective_integration_isolation_title:0 "Selective Integration"*
+ selective_integration_isolation_desc:0 ""*
+ isolationism_isolation:0 "Isolationism"*
+ isolationism_isolation_title:0 "Isolationism"*
+ isolationism_isolation_desc:0 ""*
+ closed_doors_isolation:0 "Closed Doors"*
+ closed_doors_isolation_title:0 "Closed Doors"*
+ closed_doors_isolation_desc:0 ""*
+ MACRO_BUILDING_LIST_WINDOW_TITLE:0 "Build $BUILDINGNAME$ in provinces."*
+ MACRO_BUILDING_LIST_WINDOW_CLOSE:0 "Close province list."*
