@@ -1,33 +1,33 @@
 ﻿l_ukrainian:
- unconditional_surrender:0 "Unconditionally Surrendered"*
- objectives_title:0 "Objectives"*
- daimyo_subject:0 "Daimyo Subject"*
- BANNERS_NOT_OURS:0 "If your primary culture is §YManchu§! you can raise Manchu Banners in provinces of Manchu Culture. Banners cost Corruption to raise and have higher Discipline than normal troops.\n\nYou can only raise banners from states that you own. Please select a province that you are the owner of."*
- COALITION_WILL_FORM:1 "A Coalition may form against you with this treaty!"*
- SHIP_DURABILITY_SHORT:0 "Your ships' current durability is $VAL$"*
- SHIP_DURABILITY_LONG:1 "Ship Durability measures how much of a beating your Navy can take in battle before sinking below the sea.  The higher it is, the better."*
- achievement_tear_down_this_wall_tooltip:0 "Used Artillery Barrage on Berlin"*
- achievement_cherrypicking_tooltip:0 "Took a 3 star leader from a Daimyo Subject"*
- DOMESTIC_DEBASE_CURRENCY:0 "Debase Currency"*
- VC_LIST_TITLE:0 "We have the following victory cards:"*
- REINFORCE_COST_MODIFIED_BY:0 "Reinforcement costs are modified by:\n"*
- NO_UNREST_IN_COLONY:0 "Colonies are too small to generate unrest."*
- AUTONOMY_NO_AUTHOIRTY:0 "You have no authority to lose, so you can't increase autonomy."*
- CURR_SPLENDOR_AGE_TT:0 "We have $VAL|Y$ Splendor."*
- BANNER_NAME:0 "$HOME$'s $NUM$$ORDER$ Banner"*
- age_of_discovery_short:0 "Discovery"*
- age_of_reformation_short:0 "Reformation"*
- age_of_absolutism_short:0 "Absolutism"*
- age_of_revolutions_short:0 "Revolutions"*
- age_of_discovery:0 "Age of Discovery"*
+ unconditional_surrender:0 "Беззастережно капіталювали"
+ objectives_title:0 "Цілі"
+ daimyo_subject:0 "Васал даймьо"
+ BANNERS_NOT_OURS:0 "Якщо ваша основна культура §Yманьчжурська§!, ви можете здійняти маньчжурські прапори від провінцій, які мають маньчжурську культуру. Прапори збільшать корупцію, проте війська матимуть підвищену дисципліну.\n\nВи можете здійняти прапори лише від своїх Володінь. Будь ласка, виберіть провінцію, якою володієте."
+ COALITION_WILL_FORM:1 "За результатами цього мирного договору, проти вас може сформуватися коаліція!"
+ SHIP_DURABILITY_SHORT:0 "Поточна міцність ваших кораблів складає $VAL$"
+ SHIP_DURABILITY_LONG:1 "Міцність корабля визначає скільки пошкоджень здатен витримати ваш флот під час битви, перед тим, як піде на дно. Чим вона вища, тим краще."
+ achievement_tear_down_this_wall_tooltip:0 "Берлін обстріляно Вогневим Валом"
+ achievement_cherrypicking_tooltip:0 "Тризірковий командувач від підлеглого даймьо"
+ DOMESTIC_DEBASE_CURRENCY:0 "Зіпсувати монети"
+ VC_LIST_TITLE:0 "У нас є такі переможні картки:"
+ REINFORCE_COST_MODIFIED_BY:0 "Вартість поповнення модифікується такими параметрами:\n"
+ NO_UNREST_IN_COLONY:0 "Колонії занадто малі, щоб генерувати безлади."
+ AUTONOMY_NO_AUTHOIRTY:0 "У вас немає авторитету, який можна втратити, тому ви не можете збільшити автономію."
+ CURR_SPLENDOR_AGE_TT:0 "Ми маємо $VAL|Y$ балів Величності."
+ BANNER_NAME:0 "$HOME$ має $NUM$$ORDER$ Стяг"
+ age_of_discovery_short:0 "Відкриття"
+ age_of_reformation_short:0 "Реформація"
+ age_of_absolutism_short:0 "Абсолютизм"
+ age_of_revolutions_short:0 "Революції"
+ age_of_discovery:0 "Епоха Відкриттів"
  age_of_discovery_desc:1 "At the dawn of the Early Modern era new continents are being mapped while feudal society is slowly giving way to centralized states.\nFor an enterprising state this age can see the foundation of a worldwide empire."*
- age_of_reformation:0 "Age of Reformation"*
+ age_of_reformation:0 "Епоха Реформації"
  age_of_reformation_desc:1 "From East to West this is the age of religious conviction, debates and mass movements. In Europe Protestantism is entrenched while millenarianism takes hold of Iran and religious Syncretism shapes Indian society."*
- age_of_absolutism:0 "Age of Absolutism"*
+ age_of_absolutism:0 "Епоха Абсолютизму"
  age_of_absolutism_desc:1 "As governments wrest the absolute power in their countries from other parties, they are now able to devote themselves to the building of Empires. This is the age of the state, of rulers, and their armies."*
- age_of_revolutions:0 "Age of Revolutions"*
+ age_of_revolutions:0 "Епоха Революцій"
  age_of_revolutions_desc:1 "The questioning of rights, authority and the world itself during the Enlightenment has lead to the rejection of the Ancient Regime. As Absolutism gives way to Revolution kingdoms may have to make place for Republics."*
- LEDGER_SCORE_AG:0 "Score through Ages"*
+ LEDGER_SCORE_AG:0 "Рахунок протягом Епох"
  RELIGIOUS_CONFLICT_RULES_ON:0 "§YReligious Conflicts§!\n- Crusades can be called by the Papal Controller\n- Catholic rulers can be excommunicated.\n- Reformation Centers can appear.\n- Religion impact diplomacy."*
  RELIGIOUS_CONFLICT_RULES_OFF:0 "This age has no special religious conflict. Reformation Centers are gone, there is no crusades being called, the Pope can not excommunicate"*
  ABSOLUTISM_RULES_ON:0 "§YAbsolutism§!\nGovernments can become more absolute in this era, giving greater control of the state."*
@@ -513,7 +513,7 @@
  charter_university:0 "Фонд розвитку університетів"
  fund_expansion_of_bureaucracy:0 "Фонд розвитку бюрократії"
  provincial_religious_migration:0 "Релігійна міграція"
- desc_provincial_religious_migration:0 "Використовуючи права, дані нашим парламентом, релігійні меншини нарощують свій вплив у державі, використовуючи новоприбулих братів по вірі." 
+ desc_provincial_religious_migration:0 "Використовуючи права, дані нашим парламентом, релігійні меншини нарощують свій вплив у державі, використовуючи новоприбулих братів по вірі."
  M_PARLIAMENT_BUTTON:0 "$NAME$"
  seat_in_parliament:0 "Представництво в парламенті"
  no_debate_in_parliament:0 "Немає дебатів у парламенті"
@@ -840,8 +840,8 @@
  SIEGED_PROVINCE:0 "(провінція)"
  REB_NO_EFFECT:0 "Немає ефектів від успішної облоги"
  EXPENSETARIFFS:0 "Вихідне мито"
- IGNORE_DECISION_ON:0 "Це рішення не буде повідомляти гравця про можливість прийняття.\n\n§YКлацніть, щоб змінити статус повідомлення.§!" 
- IGNORE_DECISION_OFF:0 "Це рішення буде повідомляти гравця про можливість прийняття.\n\n§YКлацніть, щоб змінити статус повідомлення.§!" 
+ IGNORE_DECISION_ON:0 "Це рішення не буде повідомляти гравця про можливість прийняття.\n\n§YКлацніть, щоб змінити статус повідомлення.§!"
+ IGNORE_DECISION_OFF:0 "Це рішення буде повідомляти гравця про можливість прийняття.\n\n§YКлацніть, щоб змінити статус повідомлення.§!"
  call_for_peace:0 "Заклик до миру"
  hannoverian_nation_title:0 "Сформувати Ганновер"
  hannoverian_nation_desc:0 "Тепер, коли ми контролюємо ключові провінції регіону, у місцевих дворян Ганноверу немає іншого вибору, окрім прийняття нашої влади. З цього моменту королівство Ганновер стане провідною державою північно-західного регіону."
@@ -1059,7 +1059,7 @@
  MAPSPH_GUARANTEE:0 "Гарантовано"
  TERRAIN:0 "§Y$TERRAIN$§!"
  CURRENT_TERRAIN:0 "Рельєф: §Y$TERRAIN$§!"
- CURRENT_VALUE:0 "Поточне значення: $VALUE$" 
+ CURRENT_VALUE:0 "Поточне значення: $VALUE$"
  DOMINANT_TERRAIN:0 "Переважний рельєф: $TERRAIN|Y$"
  OTHER_TERRAINS:0 "Інший рельєф у провінції: "
  CURRENT_COMBAT_WIDTH:0 "Поточна ширина фронту: §Y$WIDTH$§!"
@@ -2923,8 +2923,8 @@
  MATCHMAKING_FILTER_TAGS:0 "Шукати за теґами"
  MATCHMAKING_FILTER_VERSION:0 "Однакова версія"
  MATCHMAKING_FILTER_MOD:0 "Однаковий мод"
- MATCHMAKING_FILTER_FRIENDS_TOOLTIP:0 "Є друзі в steam" 
- MATCHMAKING_FILTER_FRIENDS:0 "Лише для друзів" 
+ MATCHMAKING_FILTER_FRIENDS_TOOLTIP:0 "Є друзі в steam"
+ MATCHMAKING_FILTER_FRIENDS:0 "Лише для друзів"
  MATCHMAKING_PRIVATE:0 "Приват"
  MATCHMAKING_SORT_BY_TAGS:0 "Відсортувати за теґами"
  MATCHMAKING_SORT_BY_SLOTS:0 "Відсортувати за кількостю гравців"
@@ -4416,7 +4416,7 @@
  provincial_autonomy:0 "Автономія провінцій"
  desc_provincial_autonomy:0 "Надавши провінціям деяку автономію в області оборони, ми убезпечимо їх від зовнішніх і внутрішніх ворогів."
  mission_of_civilize:0 "Цивілізаторська місія"
- desc_mission_of_civilize:0 "Наш святий обов'язок нести світло цивілізації в темні куточки світу, і рятувати заблудші душі, які живуть там." 
+ desc_mission_of_civilize:0 "Наш святий обов'язок нести світло цивілізації в темні куточки світу, і рятувати заблудші душі, які живуть там."
  exchange_of_ideas:0 "Обмін ідеями"
  desc_exchange_of_ideas:0 "Активно заохочуючи впровадження іноземних практик у нашу культуру ми зробимо її більш відкритою для нових ідей у майбутньому."
  vassal_obligations_act:0 "Васальні зобов'язання"
@@ -4426,7 +4426,7 @@
  vassal_integration_act:0 "Акт про інтеграцію"
  desc_vassal_integration_act:0 "Включення іншої держави в наші володіння є досить складним процесом. Якщо ми стандартизуємо інтеграцію, то зможемо спростити його."
  overseas_dominions:0 "Заморські домініони"
- desc_overseas_dominions:0 "Керування далекими регіонами є непростим завданням, особливо коли вони знаходяться на інших континентах. Призначаючи на місця лояльних метрополії намісників, ми зможемо отримати набагато більше від заморських володінь." 
+ desc_overseas_dominions:0 "Керування далекими регіонами є непростим завданням, особливо коли вони знаходяться на інших континентах. Призначаючи на місця лояльних метрополії намісників, ми зможемо отримати набагато більше від заморських володінь."
  enlightened_aristocracy:0 "Освічена аристократія"
  desc_enlightened_aristocracy:0 "Заохочувати творчість і високі літературні стандарти серед аристократії з метою забезпечення того, щоб ці люди, які керують нашою країною, були послідовниками наших гуманістичних ідеалів."
  the_liberation_act:0 "Акт про звільнення"
@@ -4436,11 +4436,11 @@
  the_transportation_act:0 "Транспортний акт"
  desc_the_transportation_act:0 "Встановити фіксовану систему транспортних зборів на товари, щоб стимулювати експорт коштовних вантажів."
  harbour_administration:0 "Портова адміністрація"
- desc_harbour_administration:0 "Створити національний орган для керування й обслуговування наших портів." 
+ desc_harbour_administration:0 "Створити національний орган для керування й обслуговування наших портів."
  supply_convoys:0 "Канали постачання"
  desc_supply_convoys:0 "Для підтримки заморських володінь необхідна безперервна підтримка з батьківщини."
  cultural_recognition_act:0 "Визнання культур меншин"
- desc_cultural_recognition_act:0 "Визнавши самобутність і цінний внесок меншин, ми зможемо сильніше інтегрувати їх у наше суспільство." 
+ desc_cultural_recognition_act:0 "Визнавши самобутність і цінний внесок меншин, ми зможемо сильніше інтегрувати їх у наше суспільство."
  multilingual_diplomats:0 "Багатомовні дипломати"
  desc_multilingual_diplomats:0 "Забезпечити отримання високоякісної філологічної освіти нашим дипломатам, для полегшення порозуміння з нашими партнерами."
  native_assimilation_act:0 "Постанова про асиміляцію тубільців"
@@ -4450,7 +4450,7 @@
  the_foreign_aid_act:0 "Акт про іноземну допомогу"
  desc_the_foreign_aid_act:0 "Іноземна допомога добре позначається на нашій репутації, але також може бути корисним інструментом для наших інтересів закордоном."
  cultural_unity:0 "Культурна єдність"
- desc_cultural_unity:0 "Зосередившись на єдності віри й традицій, ми спростимо асиміляцію інших народів." 
+ desc_cultural_unity:0 "Зосередившись на єдності віри й традицій, ми спростимо асиміляцію інших народів."
  foreign_political_allies:0 "Політичні союзи"
  desc_foreign_political_allies:0 "Добре мати союзників, а якщо ще й змусити їх підтримувати наші інтереси, то наш вплив у світі зросте."
  loyal_governors:0 "Лояльні губернатори"
@@ -4460,7 +4460,7 @@
  merchant_protection_act:0 "Акт про захист торговців"
  desc_merchant_protection_act:0 "Торгівля є джерелом життєвої сили світу. При наданні пільг і захисту нашим торговцям, ми можемо гарантувати, що товари з усього світу потечуть до нас."
  the_foreign_relations_act:0 "Акт про іноземні зв'язки"
- desc_the_foreign_relations_act:0 "Дипломати зазвичай добре виконують свою основну функцію, але вони також можуть шпигувати за іншими державами. Навчивши наших дипломатів шпигунству під виглядом 'встановлення зовнішніх зв'язків', ми зможемо отримати переваги перед нашими ворогами." 
+ desc_the_foreign_relations_act:0 "Дипломати зазвичай добре виконують свою основну функцію, але вони також можуть шпигувати за іншими державами. Навчивши наших дипломатів шпигунству під виглядом 'встановлення зовнішніх зв'язків', ми зможемо отримати переваги перед нашими ворогами."
  fleet_surgeons:0 "Корабельні хірурги"
  desc_fleet_surgeons:0 "Прийняти вимоги, згідно з якими на всіх кораблях певного розміру має бути хірург для лікування травм і ран екіпажу."
  overseas_embassies:0 "Заморські посольства"
@@ -4470,11 +4470,11 @@
  fortified_trading_posts:0 "Укріплені торгові пости"
  desc_fortified_trading_posts:0 "Створення торгових постів за кордоном має життєво важливе значення для наших економічних інтересів, але вони, як правило, зазнають ризику бути атакованими іноземними державами та ворожими місцевими жителями. Надаючи їм невеликий гарнізон ми зможемо скоротити ці ризики."
  the_integrated_administration_act:0 "Акт про єдину адміністрацію"
- desc_the_integrated_administration_act:0 "Включити наші залежні держави в нашу адміністрацію для спрощення керування й збільшення прибутків." 
+ desc_the_integrated_administration_act:0 "Включити наші залежні держави в нашу адміністрацію для спрощення керування й збільшення прибутків."
  the_cooperation_act:0 "Акт про кооперацію"
  desc_the_cooperation_act:0 "Заохочувати співробітництво між нашими торговцями, щоб вони працювали разом і могли взяти під контроль нові торгові маршрути."
  full_sovereignty_act:0 "Акт про повний суверенітет"
- desc_full_sovereignty_act:0 "Гарантувати майбутній суверенітет та самоуправління васальних країн, щоб спростити їхню подальшу інтеграцію у нашу державу." 
+ desc_full_sovereignty_act:0 "Гарантувати майбутній суверенітет та самоуправління васальних країн, щоб спростити їхню подальшу інтеграцію у нашу державу."
  noble_captains:0 "Знатні капітани"
  desc_noble_captains:0 "Заохочувати дворян йти служити на флот, щоб покращити командний склад."
  the_superior_armament_act:0 "Акт про покращення озброєння"
@@ -4484,7 +4484,7 @@
  timber_importation_standards:0 "Стандарти імпортного дерева"
  desc_timber_importation_standards:0 "Створити суворі стандарти для ввезеної для наших кораблів деревини."
  the_naval_conscription_act:0 "Закон про військово-морський призов"
- desc_the_naval_conscription_act:0 "ПЗобов'язати молодих людей, що живуть на узбережжі, йти служити у військово-морський флот, а не в армію." 
+ desc_the_naval_conscription_act:0 "ПЗобов'язати молодих людей, що живуть на узбережжі, йти служити у військово-морський флот, а не в армію."
  the_naval_supremacy_act:0 "Акт про перевагу на морі"
  desc_the_naval_supremacy_act:0 "Суворий режим тренувань для наших моряків буде гарантувати, що наші екіпажі кораблів зможуть більш ефективно підтримувати блокаду або ембарго."
  messenger_ships:0 "Зв'язкові кораблі"
@@ -4494,7 +4494,7 @@
  zealous_captains:0 "Завзяті капітани"
  desc_zealous_captains:0 "Зробити наших капітанів справжніми людьми віри та вогню, які не будуть мати жодних докорів совісті, коли вони підуть на абордаж ворожих кораблів невірних."
  autonomous_estates:0 "Незалежні маєтки"
- desc_autonomous_estates:0 "Надання деякої політичної свободи нашим підданим у їхніх маєтках, розширить наші можливості по збору податків." 
+ desc_autonomous_estates:0 "Надання деякої політичної свободи нашим підданим у їхніх маєтках, розширить наші можливості по збору податків."
  inspirational_leaders:0 "Надихаючі командири"
  desc_inspirational_leaders:0 "Наші офіцери повинні бути розумними, освіченими, і здатними надихнути солдат на ратний подвиг."
  the_naval_inspection_act:0 "Закон про військово-морську інспекцію"
@@ -4504,11 +4504,11 @@
  local_militias:0 "Народне ополчення"
  desc_local_militias:0 "Підтримати створення народного ополчення для більш ефективної протидії іноземному вторгненню."
  unified_army_command:0 "Єдине армійське командування"
- desc_unified_army_command:0 "Включити армії залежних держав у нашу систему командування, щоб вони виконували потрібні накази, і не вносили плутанини на полі бою." 
+ desc_unified_army_command:0 "Включити армії залежних держав у нашу систему командування, щоб вони виконували потрібні накази, і не вносили плутанини на полі бою."
  guerilla_warfare:0 "Партизанська війна"
  desc_guerilla_warfare:0 "Створити схованки зі зброєю й боєприпасами, щоб місцеве населення могло протидіяти іноземному вторгненню."
  merchant_marine_act:0 "Акт про морську торгівлю"
- desc_merchant_marine_act:0 "Необхідно підтримувати судноплавство й торгові компанії, щоб у воєнний час цей величезний торговий флот можна було переобладнати у військовий." 
+ desc_merchant_marine_act:0 "Необхідно підтримувати судноплавство й торгові компанії, щоб у воєнний час цей величезний торговий флот можна було переобладнати у військовий."
  TRADER_CHANGE:0 "Зміна"
  pen_rely_on_sword_act:0 "Метод батога й пряника"
  desc_pen_rely_on_sword_act:0 "Просуваючи свій вплив у світі, ми не будемо відмовлятися ні від дипломатії, ні від війни. Наша нація здатна, як іти на компроміси, так і силою захищати свої інтереси."
@@ -4699,7 +4699,7 @@
  RENEW_INFLUENCE_NATION_DIALOG_TITLE:0 "Renew Influence Nation"
  RENEW_INFLUENCE_NATION_TITLE_DIALOG_DESC:0 "Our influence over $THEY|Y$ has expired."
  RENEW_INFLUENCE_NATION:0 "Should we continue to influence them, for another $MONTHS$ months?\nThis would cost us $COST|Y$¤."
- NAVAL_UPGRADE_MOTHBALLING:1 "Флот законсервований, його не можливо покращити. Покращення $AMOUNT$ кораблів коштуватиме $COST$¤." 
+ NAVAL_UPGRADE_MOTHBALLING:1 "Флот законсервований, його не можливо покращити. Покращення $AMOUNT$ кораблів коштуватиме $COST$¤."
  DELETE_TEMPLATE_DIALOG_TITLE:0 "Видалити шаблон"
  DELETE_TEMPLATE_DIALOG_DESC:0 "Бажаєте видалити шаблон $NAME|Y$?"
  PRIVATEER_LOST_WAR:2 "Ви не можете надіслати каперів у торгові вузли, якими володіють країни, з якими у вас перемир'я з причин поразки у війні. Щоб надіслати каперів, перемир'я повинне закінчитися, або торгова сила цих націй не повинна у цьому вузлі становити більше $TRADEPOWER|%0$"
@@ -4821,7 +4821,7 @@
  TOOLTIP_TOGGLE_GO_HOME_WAR:0 "Під час війни флот переховуватиметься у дружньому порті. Всі місії буде поновлено після завершення війни."
  TOOLTIP_TOGGLE_ALLOW_ATTACH_ARMY:0 "Дозволити союзним військам приєднуватись до цього війська"
  TOOLTIP_TOGGLE_ALLOW_ATTACH_NAVY:0 "Дозволити союзним флотам приєднуватись до цього флоту"
- PRODUCTION_MODIFIER_EXCEPTION:0 "У цій провінції виробляють §Y$NAME$§!, на що не впливають модифікатори виробництва." 
+ PRODUCTION_MODIFIER_EXCEPTION:0 "У цій провінції виробляють §Y$NAME$§!, на що не впливають модифікатори виробництва."
  NOREDUCE_INFLATION_NO_POINTS:0 "You need §Y$COST$§W £adm£ to reduce Inflation, and you only have §Y$VAL$§W."
  CAN_RELEASE_CN_WE_ARE_AT_WAR:0 "§R- We are at war§!"
  CONTINUE_GAME:0 "Продовжити гру"
@@ -4850,7 +4850,7 @@
  START_EVADE_MISSION_TOOLTIP:0 "Флот буде ухилятися від зустрічі з ворожими флотами на шляху до місця призначення."
  START_HUNT_MISSION_TOOLTIP:0 "Відслідковувати і атакувати вразливі ворожі флоти у вибраному регіоні."
  START_BLOCKADE_MISSION_TOOLTIP:0 "Блокувати ворожі порти, ухиляючись від зустрічі з ворожим флотом, якщо той не є значно слабшим."
- START_INTERCEPT_MISSION_TOOLTIP:0 "Відслідковувати і атакувати ворожі флоти поблизу узбережжя союзників, фокусуючись на кораблях, які перевозять живу силу противника." 
+ START_INTERCEPT_MISSION_TOOLTIP:0 "Відслідковувати і атакувати ворожі флоти поблизу узбережжя союзників, фокусуючись на кораблях, які перевозять живу силу противника."
  START_PATROL_MISSION_TOOLTIP:0 "Флот почне патрулювання між своїм поточним місце-знаходженням і точкою призначення."
  START_EXPLORE_MISSION_DESC:0 "Призначити флот досліджувати регіон, чи його берегову лінію, або спробувати здійснити навколосвітню подорож."
  CONFIRM_EXPLORE_SEA:0 "Send the fleet to explore the $REGIONNAME$ region."
