@@ -27,45 +27,46 @@
  age_of_absolutism_desc:1 "As governments wrest the absolute power in their countries from other parties, they are now able to devote themselves to the building of Empires. This is the age of the state, of rulers, and their armies."*
  age_of_revolutions:0 "Епоха Революцій"
  age_of_revolutions_desc:1 "The questioning of rights, authority and the world itself during the Enlightenment has lead to the rejection of the Ancient Regime. As Absolutism gives way to Revolution kingdoms may have to make place for Republics."*
- LEDGER_SCORE_AG:0 "Рахунок протягом Епох"
- RELIGIOUS_CONFLICT_RULES_ON:0 "§YReligious Conflicts§!\n- Crusades can be called by the Papal Controller\n- Catholic rulers can be excommunicated.\n- Reformation Centers can appear.\n- Religion impact diplomacy."*
- RELIGIOUS_CONFLICT_RULES_OFF:0 "This age has no special religious conflict. Reformation Centers are gone, there is no crusades being called, the Pope can not excommunicate"*
- ABSOLUTISM_RULES_ON:0 "§YAbsolutism§!\nGovernments can become more absolute in this era, giving greater control of the state."*
- ABSOLUTISM_RULES_OFF:0 "In later ages, absolutism will be a factor which impacts on much control the ruler has over the state."*
- last_age_power_projection:0 "Last Age Objectives"*
- current_age_power_projection:0 "Age Objectives Fullfilled"*
- obj_discover_america:0 "Discover America"*
- obj_discover_america_desc:0 "As a nation with a capital in Europe, Asia or Africa, discover at least one province in either North or South America."*
- obj_discover_america_tooltip:0 "Discover America"*
- obj_100_development:0 "Developed Nation"*
- obj_100_development_desc:0 "Reach a total of at least 100 development in your nation."*
- obj_5_centers_of_trade:0 "Control Centers of Trade"*
- obj_5_centers_of_trade_desc:0 "Own, control and core at least five provinces with a center of trade."*
- obj_30_development_city:0 "A Large City"*
- obj_30_development_city_desc:0 "Own and control a core province with at least §Y30§! development."*
- obj_30_development_city_tooltip:0 "Cored Province with §Y30§! development\n"*
- obj_renaissance:0 "Embrace Renaissance"*
- obj_renaissance_desc:0 "Embrace the Renaissance institution, and keep it in every province you own."*
- obj_two_unions:0 "Hold Three Thrones"*
- obj_two_unions_desc:0 "Have at least two other nations in a union with you, with your ruler as their ruler."*
- obj_many_vassals:0 "Feudal Society"*
- obj_many_vassals_desc:0 "Have at least five different vassals at the same time."*
- obj_two_continents:0 "Present on Two Continents"*
- obj_two_continents_desc:0 "Own provinces on two different continents."*
- obj_humiliate_rival:0 "Humiliate Rival"*
- obj_humiliate_rival_desc:0 "Humiliate a rival through a peace treaty."*
- obj_humiliate_rival_tooltip:0 "Humiliated a Rival"*
- obj_christian_convert:0 "Join the Reformation"*
- obj_christian_convert_desc:0 "Change state religion to either Protestant or Reformed religion."*
- obj_humanism_religious:0 "Humanist or Religious"*
- obj_humanism_religious_desc:0 "Fully embrace either the Humanism or Religious idea group."*
- obj_convert_10_provinces:0 "Convert Provinces"*
- obj_convert_10_provinces_desc:0 "Convert at least ten provinces to your faith."*
- obj_convert_10_provinces_tooltip:0 "Convert §Y10§! provinces\n"*
- obj_colonial_empire:0 "Create a Colonial Empire"*
- obj_colonial_empire_desc:0 "Have several colonial nations as subjects."*
- obj_force_converted:0 "Converted another Nation"*
- obj_force_converted_desc:0 "Forced another nation to change their religion to yours either through war, subject interaction or enforcing unity."*
+ LEDGER_SCORE_AG:0 "Рахунок протягом всіх Епох"
+ RELIGIOUS_CONFLICT_RULES_ON:0 "§YРелігійні конфлікти§!\n- До Хрестових походів може закликати той, хто контролює Курію.\n- Католицькі правителі можуть бути екскомуніковані.\n- Можуть виникати центри Реформації.\n- Релігія впливає на дипломатію."
+ RELIGIOUS_CONFLICT_RULES_OFF:0 "Ця епоха не має особливих релігійних конфліктів. Центри Реформації зникли, більше не лунають заклики до хрестових походів, Папа не може екскомунікувати."
+ ABSOLUTISM_RULES_ON:0 "§YАбсолютизм§!\nУряди можуть стати більш абсолютистськими протягом цієї епохи, що зміцнить контроль над державою."
+ ABSOLUTISM_RULES_OFF:0 "У пізніші епохи, абсолютизм буде фактором, який впливатиме на контроль правителя над державою."
+ last_age_power_projection:0 "Цілі останньої Епохи"
+ current_age_power_projection:0 "Цілей Епохи досягнуто"
+ obj_discover_america:0 "Відкрити Америку"
+ obj_discover_america_desc:0 "Якщо ваша столиця розташована в Європі, Азії, або Африці, відкрийте хоча б одну провінцію або в Північній, або в Південній Америці."
+ obj_discover_america_tooltip:0 "Відкрити Америку"
+ obj_100_development:0 "Розвинута держава"
+ obj_100_development_desc:0 "Досягніть не менше 100 загального розвитку в своїй державі."
+ obj_5_centers_of_trade:0 "Контроль центрів торгівлі"
+ obj_5_centers_of_trade_desc:0 "Володійте, контролюйте та націоналізуйте щонайменше п'ять провінцій, в яких є центр торгівлі."
+ obj_30_development_city:0 "Велике місто"
+ obj_30_development_city_desc:0 "Володійте і контролюйте національну провінцію, яка має не менше §Y30§! розвитку."*
+ obj_30_development_city_tooltip:0 "Національна провінція, що має §Y30§! розвитку\n"*
+ obj_renaissance:0 "Запровадити Ренесанс"
+ obj_renaissance_desc:0 "Запровадьте інституцію Ренесанс у державі й у кожній провінції."
+ obj_two_unions:0 "Посядьте на три трони"
+ obj_two_unions_desc:0 "Не менше двох держав з вами в особистій унії, ними править ваш правитель."
+ obj_many_vassals:0 "Феодальне суспільство"
+ obj_many_vassals_desc:0 "Керуйте щонайменше п'ятьма різними васалами одночасно."
+ obj_two_continents:0 "Присутність на двох континентах"
+ obj_two_continents_desc:0 "Володійте провінціями на двох різних континентах."
+ obj_humiliate_rival:0 "Принизити суперника"
+ obj_humiliate_rival_desc:0 "Укладіть мирний договір, в якому ви принизите суперника."
+ obj_humiliate_rival_tooltip:0 "Принизити суперника"
+ obj_christian_convert:0 "При
+ днатися до Реформації"
+ obj_christian_convert_desc:0 "Змініть державну релігію на протестантство або реформаторство."
+ obj_humanism_religious:0 "Гуманітарист чи релігійний"
+ obj_humanism_religious_desc:0 "Пвністю дослідіть або Гуманітарну, або Релігійну групу ідей."
+ obj_convert_10_provinces:0 "Навернути провінції"
+ obj_convert_10_provinces_desc:0 "Наверніть не менше десяти провінцій на свою релігію."
+ obj_convert_10_provinces_tooltip:0 "Навернути §Y10§! провінцій\n"*
+ obj_colonial_empire:0 "Створити колоніальну Імперію"
+ obj_colonial_empire_desc:0 "Майте декілька колоніальних держав своїми суб'єктами."
+ obj_force_converted:0 "Навернення іншої держави"
+ obj_force_converted_desc:0 "Примусова зміна релігії в іншій державі на вашу. Військовим шляхом, через взаємодію із суб'єктом, або примус до єдності."
  obj_force_converted_tooltip:1 "Forced another nation to change their religion\n"*
  obj_asian_trade:0 "Asian Trade"*
  obj_asian_trade_desc:0 "Gain the trade bonus from either Silk, Spices or Chinaware."*
