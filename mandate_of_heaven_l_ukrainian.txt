@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  NO_EDICT_PLAIN:0 "Немає едиктів"
  INCREASE_THEIR_LD:0 "\n\nЦе також збільшить їх §Yбажання свободи§! на §R$LD$%§!."
  THEY_GET:0 "Вони отримують:\n"
