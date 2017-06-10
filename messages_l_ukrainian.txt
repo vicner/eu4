@@ -3955,7 +3955,7 @@
  REPAIDLOAN_SETUP:0 "Ми виплачуємо позику іншій державі"
  REPAIDLOAN_HEADER:0 "$MESSENGER$"
  REPAIDLOAN_1:0 "Виплачено позику!"
- REPAIDLOAN_2:1 "$MONARCHTITLE$, ми великодушно вирішили повернути позику в розмірі $SUM$, взяту в держави"
+ REPAIDLOAN_2:1 "$MONARCHTITLE$, ми великодушно вирішили повернути позику в розмірі $SUM$¤, взяту в держави"
  REPAIDLOAN_3:0 "$CREDITOR$."
  REPAIDLOAN_4:0 "Справи з людьми такого роду кепсько впливають на нашу репутацію."
  REPAIDLOAN_5:0 ""
