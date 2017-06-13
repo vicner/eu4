@@ -53,7 +53,7 @@
  spa_refused_ceding_malta:0 "Не поступилися Мальтою Іоаннітам"
  spa_supported_rebels:0 "Підтримка бунтівників"
  claimed_italy:0 "Претензія на Італію"
- fightinginside_japan:0 "Неправедна війна в Японії"
+ fightinginside_realm:0 "Незаконна війна всередині королівства"
  catholic_obstructing_church:0 "Втручаються в церковні справи"
  opinion_irritated:0 "Роздратований"
  opinion_gossip:0 "Плітки"
@@ -187,3 +187,7 @@
  fra_gave_up_on_maine:0 "Покинули Мен"
  overlord_takes_stance_vs_hansa:0 "Ворожість стосовно Ганзи"
  hanseatic_kalmar_conflict:0 "Ганзейсько-Кальмарський унійний конфлікт"
+ chi_did_not_seize_opportunity:0 "Не зазіхали на наші землі"
+ hun_refused_to_help_rebels:0 "Відмовилися допомагати богемським католикам"
+ hun_crowned_by_rebels:0 "Прийнято корону від повстанців"
+ 
