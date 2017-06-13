@@ -6,7 +6,7 @@ areas_regions_l_english.yml
 common_sense_l_english.yml
 conquest_of_constantinople_l_english.yml
 core_l_english.yml
-cossacks_l_english.yml - в.1.21.1, без перекладу рядки: tributary_events 91-205 (108), tengri_events 368-613 (245), sinto 535-756 (223)
+cossacks_l_english.yml - в.1.21.1, без перекладу рядки: tengri_events 371-615 (245)
 countries_l_english.yml
 cultures_phase4_l_english.yml
 custom_localisation_l_english.yml
@@ -16,8 +16,7 @@ diplomacy_l_english.yml
 diplomatic_action_l_english.yml - в.1.21.1, перекладено
 eldorado_l_english.yml
 EU4_l_english.yml - в.1.21.1, без перекладу рядки: 161-292 (132), 4926-4942 (16)
-europa_universalis_iv_sabaton_soundtrack_l_english.yml
-flavor_events_l_english.yml - в.1.21.1, без перекладу рядки: nor.3065-3157 (92), tus.3289-3346 (57), 4310-4368 (58) 
+flavor_events_l_english.yml - в.1.21.1, без перекладу рядки: угор.394-498 (28), яп.2934-2981 (47), нор.3212-3304 (92), tus.3436-3493 (57), 4453-4500 (58) 
 fredmansepistles_l_english.yml
 fredmansmidsummerepistles_l_english.yml
 generic_events_l_english.yml - в.1.21.1, без перекладу рядки: 143-175, 1659-1923, 4211-4249
@@ -25,18 +24,15 @@ government_names_l_english.yml
 hinduism_l_english.yml
 hints_l_english.yml
 institutions_l_english.yml
-kairismusic_l_english.yml
-kairismusicp2_l_english.yml
 ledger_l_english.yml
 loadingtips_l_english.yml
 maghreb_formations_l_english.yml
-mandate_of_heaven_l_english.yml
+mandate_of_heaven_l_english.yml - в.1.21.1, без перекладу рядки: tributary_events 91-205 (108), sinto 535-756 (223)
 mare_nostrum_l_english.yml
 mercantilism_l_english.yml
 messages_l_english.yml - в.1.21.1, перекладено
 missions_l_english.yml
-modifers_l_english.yml
-musicplayer_l_english.yml
+modifers_l_english.yml - в.1.21.1, без перекладу рядки: 745-768 (23), 779-843 (64), 864-993 (130)
 muslim_dlc_l_english.yml
 native_flavor_events_l_english.yml
 notlocalized_l_english.yml
@@ -55,15 +51,14 @@ regions_phase4_l_english.yml
 religion_l_english.yml
 republicanmusic_l_english.yml
 res_publica_l_english.yml
-rights_of_man_l_english.yml
+rights_of_man_l_english.yml - в.1.21.1, без перекладу рядки: 225-290 (65), 1615-1680 (65)
 sikh_l_english.yml
 subject_type_l_english.yml - в.1.21.1, перекладено
 tags_phase4_l_english.yml
 technology_l_english.yml
-terrain_stuff_l_english.yml
-text_l_english.yml
-tradenodes_l_english.yml
-triggers_and_effects_l_english.yml
-tutorial_l_english.yml
-USA_dlc_l_english.yml
+terrain_stuff_l_english.yml - в.1.21.1, перекладено
+text_l_english.yml - в.1.21.1, перекладено
+tradenodes_l_english.yml - в.1.21.1, перекладено
+triggers_and_effects_l_english.yml - в.1.21.1, без перекладу рядки: 494-550 (57)
+tutorial_l_english.yml - в.1.21.1, перекладено
 womeninhistory_l_english.yml - в.1.21.1, перекладено
