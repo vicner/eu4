@@ -2,9 +2,9 @@
 
 achievements_l_english.yml - в.1.21.1, перекладено
 aow_l_english.yml - в.1.21.1, перекладено
-areas_regions_l_english.yml
+areas_regions_l_english.yml - в.1.21.1, без перекладу рядки: 668-736, потребує перегляду через невелику кількість непереведених рядків
 common_sense_l_english.yml - в.1.21.1, перекладено
-conquest_of_constantinople_l_english.yml
+conquest_of_constantinople_l_english.yml - в.1.21.1, перекладено
 core_l_english.yml - в.1.21.1, перекладено
 cossacks_l_english.yml - в.1.21.1, без перекладу рядки: tengri_events 371-615 (245)
 countries_l_english.yml - в.1.21.1, перекладено
@@ -18,16 +18,16 @@ eldorado_l_english.yml - в.1.21.1, перекладено
 EU4_l_english.yml - в.1.21.1, без перекладу рядки: 161-292 (132), 4926-4942 (16)
 flavor_events_l_english.yml - в.1.21.1, без перекладу рядки: угор.394-498 (28), яп.2934-2981 (47), нор.3212-3304 (92), tus.3436-3493 (57), 4453-4500 (58) 
 generic_events_l_english.yml - в.1.21.1, без перекладу рядки: 143-175, 1659-1923, 4211-4249
-government_names_l_english.yml
-hinduism_l_english.yml
-hints_l_english.yml
-institutions_l_english.yml
-ledger_l_english.yml
-loadingtips_l_english.yml
-maghreb_formations_l_english.yml
+government_names_l_english.yml - в.1.21.1, перекладено
+hinduism_l_english.yml - в.1.21.1, перекладено
+hints_l_english.yml - в.1.21.1, перекладено
+institutions_l_english.yml - в.1.21.1, перекладено
+ledger_l_english.yml - в.1.21.1, перекладено
+loadingtips_l_english.yml - в.1.21.1, перекладено
+maghreb_formations_l_english.yml - в.1.21.1, перекладено
 mandate_of_heaven_l_english.yml - в.1.21.1, без перекладу рядки: tributary_events 91-205 (108), sinto 535-756 (223)
-mare_nostrum_l_english.yml
-mercantilism_l_english.yml
+mare_nostrum_l_english.yml - в.1.21.1, перекладено
+mercantilism_l_english.yml - в.1.21.1, перекладено
 messages_l_english.yml - в.1.21.1, перекладено
 missions_l_english.yml
 modifers_l_english.yml - в.1.21.1, без перекладу рядки: 745-768 (23), 779-843 (64), 864-993 (130)
