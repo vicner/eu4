@@ -189,5 +189,5 @@
  hanseatic_kalmar_conflict:0 "Ганзейсько-Кальмарський унійний конфлікт"
  chi_did_not_seize_opportunity:0 "Не зазіхали на наші землі"
  hun_refused_to_help_rebels:0 "Відмовилися допомагати богемським католикам"
- hun_crowned_by_rebels:0 "Прийнята корона від повстанців"
+ hun_crowned_by_rebels:0 "Прийнято корону від повстанців"
  
