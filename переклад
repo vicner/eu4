@@ -1,9 +1,19 @@
-В файлі прогрес перекладу до версії 1.21.1
+В файлі прогрес перекладу до версії 1.21.1. Пошук та зміну тексту виконано за допомогою WinMerge.
+Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013)
+Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
+Неперекладені рядки азійських релігій та подій не нададуть можливості насолодитися грою за країни Азії.
+ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
+
+sergey-astral - в перекладі - flavor_events, powers_and_ideas
+
+Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)
+
+
 
 achievements_l_english.yml - в.1.21.1, перекладено
 aow_l_english.yml - в.1.21.1, перекладено
 areas_regions_l_english.yml - в.1.21.1, без перекладу рядки: 668-736, потребує перегляду через невелику кількість непереведених рядків
-common_sense_l_english.yml - в.1.21.1, перекладено
+common_sense_l_english.yml - в.1.21.1, без перекладу рядки: buddhism_events 1168-1301 (133)
 conquest_of_constantinople_l_english.yml - в.1.21.1, перекладено
 core_l_english.yml - в.1.21.1, перекладено
 cossacks_l_english.yml - в.1.21.1, без перекладу рядки: tengri_events 371-615 (245)
@@ -29,31 +39,30 @@ mandate_of_heaven_l_english.yml - в.1.21.1, без перекладу рядк�
 mare_nostrum_l_english.yml - в.1.21.1, перекладено
 mercantilism_l_english.yml - в.1.21.1, перекладено
 messages_l_english.yml - в.1.21.1, перекладено
-missions_l_english.yml
+missions_l_english.yml - в.1.21.1, перекладено
 modifers_l_english.yml - в.1.21.1, без перекладу рядки: 745-768 (23), 779-843 (64), 864-993 (130)
-muslim_dlc_l_english.yml
-native_flavor_events_l_english.yml
-notlocalized_l_english.yml
-nudge_l_english.yml
+muslim_dlc_l_english.yml - в.1.21.1, перекладено
+native_flavor_events_l_english.yml - в.1.21.1, перекладено
+notlocalized_l_english.yml - в.1.21.1, перекладено
+nudge_l_english.yml - в.1.21.1, перекладено
 nw2_l_english.yml - в.1.21.1, перекладено
-nw_l_english.yml
+nw_l_english.yml - в.1.21.1, перекладено
 opinions_l_english.yml - в.1.21.1, перекладено
 personalityoptions_l_english.yml - в.1.21.1, без перекладу рядки: per.events 140-464 (324)
-powers_and_ideas_l_english.yml
-privateers_l_english.yml
+powers_and_ideas_l_english.yml - в.1.21.1, без перекладу рядки: 745-756 (11), 790-802 (12), 4600-5086 (486)
+privateers_l_english.yml - в.1.21.1, перекладено
 prov_names_adj_l_english.yml - в.1.21.1, не перекладається
-prov_names_l_english.yml
-Purple_Phoenix_l_english.yml
-random_new_world_l_english.yml
-regions_phase4_l_english.yml
-religion_l_english.yml
-republicanmusic_l_english.yml
-res_publica_l_english.yml
+prov_names_l_english.yml - в.1.21.1, перекладено
+Purple_Phoenix_l_english.yml - в.1.21.1, перекладено
+random_new_world_l_english.yml - в.1.21.1, не перекладається
+regions_phase4_l_english.yml - в.1.21.1, перекладено
+religion_l_english.yml - в.1.21.1, перекладено
+res_publica_l_english.yml - в.1.21.1, перекладено
 rights_of_man_l_english.yml - в.1.21.1, без перекладу рядки: 225-290 (65), 1615-1680 (65)
-sikh_l_english.yml
+sikh_l_english.yml - в.1.21.1, перекладено
 subject_type_l_english.yml - в.1.21.1, перекладено
-tags_phase4_l_english.yml
-technology_l_english.yml
+tags_phase4_l_english.yml - в.1.21.1, перекладено
+technology_l_english.yml - в.1.21.1, перекладено
 terrain_stuff_l_english.yml - в.1.21.1, перекладено
 text_l_english.yml - в.1.21.1, перекладено
 tradenodes_l_english.yml - в.1.21.1, перекладено
