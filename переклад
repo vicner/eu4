@@ -3,22 +3,20 @@
 achievements_l_english.yml - в.1.21.1, перекладено
 aow_l_english.yml - в.1.21.1, перекладено
 areas_regions_l_english.yml
-common_sense_l_english.yml
+common_sense_l_english.yml - в.1.21.1, перекладено
 conquest_of_constantinople_l_english.yml
-core_l_english.yml
+core_l_english.yml - в.1.21.1, перекладено
 cossacks_l_english.yml - в.1.21.1, без перекладу рядки: tengri_events 371-615 (245)
-countries_l_english.yml
-cultures_phase4_l_english.yml
-custom_localisation_l_english.yml
-decisions_l_english.yml
-diplo_reasons_l_english.yml
-diplomacy_l_english.yml
+countries_l_english.yml - в.1.21.1, перекладено
+cultures_phase4_l_english.yml - в.1.21.1, перекладено
+custom_localisation_l_english.yml - в.1.21.1, перекладено
+decisions_l_english.yml - в.1.21.1, перекладено
+diplo_reasons_l_english.yml - в.1.21.1, перекладено
+diplomacy_l_english.yml - в.1.21.1, перекладено
 diplomatic_action_l_english.yml - в.1.21.1, перекладено
-eldorado_l_english.yml
+eldorado_l_english.yml - в.1.21.1, перекладено
 EU4_l_english.yml - в.1.21.1, без перекладу рядки: 161-292 (132), 4926-4942 (16)
 flavor_events_l_english.yml - в.1.21.1, без перекладу рядки: угор.394-498 (28), яп.2934-2981 (47), нор.3212-3304 (92), tus.3436-3493 (57), 4453-4500 (58) 
-fredmansepistles_l_english.yml
-fredmansmidsummerepistles_l_english.yml
 generic_events_l_english.yml - в.1.21.1, без перекладу рядки: 143-175, 1659-1923, 4211-4249
 government_names_l_english.yml
 hinduism_l_english.yml
@@ -37,9 +35,9 @@ muslim_dlc_l_english.yml
 native_flavor_events_l_english.yml
 notlocalized_l_english.yml
 nudge_l_english.yml
-nw2_l_english.yml
+nw2_l_english.yml - в.1.21.1, перекладено
 nw_l_english.yml
-opinions_l_english.yml
+opinions_l_english.yml - в.1.21.1, перекладено
 personalityoptions_l_english.yml - в.1.21.1, без перекладу рядки: per.events 140-464 (324)
 powers_and_ideas_l_english.yml
 privateers_l_english.yml
