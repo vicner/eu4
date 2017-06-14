@@ -434,7 +434,7 @@
  alert_condottieri_at_peace_delayed_free:1 "Ви найняли кондотьєрів у наступних держав:"
  alert_condottieri_country:0 "@$TAG$ $COUNTRY$ – $COST|Y$¤ в місяць"
  alert_condottieri_can_be_cancelled_instant:0 "§YВи можете повернути своїх кондотьєрів§!"
- alert_condottieri_can_be_cancelled_delayed:0 "Ви можете повернути кондотьєрів з наступних країн:"
+ alert_condottieri_can_be_cancelled_delayed:0 "Ви можете повернути кондотьєрів з наступних держав:"
  alert_condottieri_participation:0 "@$TAG$ $COUNTRY$ – $MONTHS|Y$ місяців"
  alert_condottieri_low_participation_instant:0 "§YВаші клієнти незадоволені!§!"
  alert_condottieri_low_participation_delayed:0 "Держава заплатила вашим кондотьерам, чекаючи від них участі в битвах і облогах. Якщо ми не почнемо перемагати в битвах, їхній терпець урветься:"
