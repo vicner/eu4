@@ -632,7 +632,7 @@
  TREASURE_FLEET_WE_INTERCEPT_1:0 "Ми успішно захопили золотий флот"
  TREASURE_FLEET_WE_INTERCEPT_2:0 "Капери передали $GOLD$¤"
  TREASURE_FLEET_WE_INTERCEPT_3:0 "в нашу скарбницю."
- TREASURE_FLEET_WE_INTERCEPT_4:0 "Згідно їхніх доповідей, флот колонії $FROM$ перевозив $MAX$¤."
+ TREASURE_FLEET_WE_INTERCEPT_4:0 "Згідно з їхніми доповідями, флот колонії $FROM$ перевозив $MAX$¤."
  TREASURE_FLEET_WE_INTERCEPT_5:0 "$INFLATION$"
  TREASURE_FLEET_WE_INTERCEPT_6:0 ""
  TREASURE_FLEET_WE_INTERCEPT_LOG:0 "Наші капери захопили $GOLD$¤, напавши на флот держави $FROM$."
