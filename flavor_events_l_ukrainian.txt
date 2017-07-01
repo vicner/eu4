@@ -1,4 +1,4 @@
-﻿l_ukrainian:
+l_ukrainian:
  league_events.1.t:0 "Створити Ауґсбурзьку лігу"
  league_events.1.d:0 "Так звана 'політика приєднання', яку проводив Людовик XIV, була нав'язана Імперії Реґенсбургським миром, в основному через зайнятість імператора у зв'язку з турецькою загрозою (облога Відня 1683 року). Продовження французького розширення за рахунок володінь Габсбургів і німецьких держав Імперії призвело до створення антифранцузької Ауґсбурзької ліги у 1686 році."
  league_events.1.a:0 "Створіть її!"
@@ -384,7 +384,6 @@
  flavor_hun.6.d:0 "У 1473 році побачила світ перша надрукована в Угорщині книга, Chronica Hungarorum, зачіпає історію Угорщини з давніх часів до коронації Маттіаса Корвінуса. Вона була надрукована на друкарському пресі Андріуса Гесса."
  flavor_hun.6.a:0 "Відмінно!"
  flavor_hun.7.t:0 "Занепад королівської влади"
-
  flavor_hun.7.d:1 "$MONARCHTITLE$ $MONARCH$ під час свого правління дозволив королівській владі прийти в занепад, потураючи угорським магнатам, які скористалися ситуацією щоб обмежити свободу селян. У народі [Root.Monarch.GetSheHe] прозвали '$MONARCH$ Bene', тому що на всі пропозиції [Root.Monarch.GetSheHe] відповідали 'bene' (що в перекладі з латині означає 'добре')."
  flavor_hun.7.a:0 "Віддати владу Магнатам."
  flavor_hun.7.b:0 "Я тут влада!"
@@ -2954,7 +2953,7 @@
  flavor_jap.EVTOPTA5:1 "Продовжити політику Сакоку."
  flavor_jap.EVTOPTB5:1 "Скасувати політику Сакоку."
  flavor_jap.EVTNAME6:0 "Ранґаку"
- flavor_jap.EVTDESC5:1 "Our decision to seclude ourselves from the world at large has thus far succeeded in making it easier to enforce our control over the population. However, it is clear that we are hindering ourselves when it comes to the spread of new ideas and inventions. As the world around us is starting to globalize, we see our neighbours benefit from this contact with other nations, while we are left to struggle. Perhaps it is time to re-think our policy?"
+ flavor_jap.EVTDESC6:1 "The Dutch have now been present on Dejima island for some time, and contact between our people and the enclave has been tightly controlled following the Sakoku law. Even so, our two cultures cannot help but spot glimpses of the other. The Dutch seem to know things that we do not, particularly in medicine, but also in science, production and mechanical engineering. Some of our richer citizens have even elected to make use of the Dutch surgeon in the enclave, rather than rely on local doctors.\n\nIt is clear there is much that could be learned from increased interaction with these visitors from the West, if we are willing to risk opening our provinces to them a bit more."
  flavor_jap.EVTOPTA6:1 "Відкрити наші кордони для голландців."
  flavor_jap.EVTOPTB6:1 "Тримати наші кордони закритими."
  flavor_jap.EVTNAME7:0 "Намбан боеки"
