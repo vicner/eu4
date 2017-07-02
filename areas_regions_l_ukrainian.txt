@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  brittany_area:0 "Бретань"
  brittany_area_name:0 "Бретань"
  brittany_area_adj:0 "Бретонськ"
@@ -668,9 +668,9 @@ l_ukrainian:
  bunyoro_area:0 "Bunyoro"
  bunyoro_area_name:0 "Bunyoro"
  bunyoro_area_adj:0 "Bunyoran"
- uganda_area:0 "Uganda"
- uganda_area_name:0 "Uganda"
- uganda_area_adj:0 "Ugandan"
+ uganda_area:0 "Уганда"
+ uganda_area_name:0 "Уганда"
+ uganda_area_adj:0 "Угандськ"
  rwanda_area:0 "Rwanda"
  rwanda_area_name:0 "Rwanda"
  rwanda_area_adj:0 "Rwandan"
@@ -1880,7 +1880,7 @@ l_ukrainian:
  california_area_adj:1 "Чумаськ"
  central_valley_area:0 "Центральна долина"
  central_valley_area_name:1 "Йокутс"
- central_valley_area_adj:1 "Йокутськ
+ central_valley_area_adj:1 "Йокутськ"
  oregon_area:0 "Орегон"
  oregon_area_name:1 "Kalapuya"
  oregon_area_adj:1 "Kalapuyan"
