@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  BOLD:0 "Сміливий"
  CAUTIOUS:0 "Обережний"
  EMBARGO_AGAINST:0 "Держава $WHO$ наклала ембарго на державу $AGAINST$."
