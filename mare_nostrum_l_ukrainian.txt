@@ -443,4 +443,5 @@
  SPY_OFFENCE_BASE:0 "Базова швидкість: $VAL|Y$"
  EST_IS_TERRITORIAL_CORE:0 "Провінція є територіальною"
  religious_turmoil_timelimit_tt:0 "Має §YРелігійні заворушення§! на 25 років"
- custom_idea_slave_raiders:0 "Набіги за рабами"
+ custom_idea_slave_raiders:1 "Прибережні набіги"
+ custom_idea_slave_raiders_desc:1 "Наша країна має давні традиції набігів на узбережжя заради грошей, золота та інших життєвих благ."
