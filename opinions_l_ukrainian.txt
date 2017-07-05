@@ -188,5 +188,6 @@
  overlord_takes_stance_vs_hansa:0 "Ворожість стосовно Ганзи"
  hanseatic_kalmar_conflict:0 "Ганзейсько-Кальмарський унійний конфлікт"
  chi_did_not_seize_opportunity:0 "Не зазіхали на наші землі"
+ siberian_intermezzo:0 "Сибірське інтермеццо"
  hun_refused_to_help_rebels:0 "Відмовилися допомагати богемським католикам"
  hun_crowned_by_rebels:0 "Прийнято корону від повстанців"
