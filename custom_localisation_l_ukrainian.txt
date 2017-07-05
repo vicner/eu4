@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  string_middle_ages:0 "Середньовіччя"
  string_song_era:0 "Сун"
  string_pre_islamic:0 "до ісламу"
@@ -22,3 +22,25 @@
  string_junta:0 "Хунта"
  string_nobles:0 "Дворяни"
  string_influential_families:0 "Впливові сім'ї"
+ string_stroganov:0 "Строганови"
+ string_khilkov:0 "Хілхови"
+ string_dolgorukov:0 "Довгорукови"
+ string_romodanovsky:0 "Ромодановські"
+ string_shuysky:0 "Шуйські"
+ string_durnovo:0 "Дурново"
+ string_romanov:0 "Романови"
+ string_golitsyn:0 "Голіцини"
+ string_pahlen:0 "Палени"
+ string_gantimurov:0 "Гантімурови"
+ string_andronikashvili:0 "Андронікашвілі"
+ string_yusupov:0 "Юсупови"
+ string_sheremetev:0 "Шереметєви"
+ string_shuvalov:0 "Шувалови"
+ string_demidov:0 "Демідови"
+ string_gold_dust:0 "золотий пісок"
+ string_rare_squirrel_coats:0 "білячу накидку"
+ string_exquisite_sable_fleeces:1 "вишукані соболині шкури"
+ string_ivory_carvings:0 "вироби з мамонтової кістки"
+ string_silver_objects:0 "рідкісні срібні прикраси"
+
+
