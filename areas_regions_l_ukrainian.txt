@@ -204,7 +204,7 @@
  western_norway_name:0 "Бергенгус"
  western_norway_adj:0 "Бергенгуськ"
  subarctic_islands_area:1 "Фарерські острови"
- subarctic_islands_area_name:0 "Faroes"
+ subarctic_islands_area_name:0 "Фарери"
  subarctic_islands_area_adj:1 "Фарерськ"
  greenland_area:0 "Ґренландія"
  greenland_area_name:0 "Ґренландія"
