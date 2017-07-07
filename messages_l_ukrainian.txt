@@ -5618,7 +5618,7 @@
  OURFOREIGNHEIRWINS_2:0 "наш кандидат на трон держави"
  OURFOREIGNHEIRWINS_3:0 "$COUNTRYNAME$"
  OURFOREIGNHEIRWINS_4:0 "переміг на виборах та успадкував титул."
- OURFOREIGNHEIRWINS_5:0 "Це збільшить наш престиж на $PRESTIGE$, а легітимність на $LEGITIMACY$. Ми також будемо отримувати $ADM_BONUS$£adm, $DIP_BONUS$£dip, та $MIL_BONUS$£mil."
+ OURFOREIGNHEIRWINS_5:0 "Це збільшить наш престиж на $PRESTIGE$, а легітимність на $LEGITIMACY$. Ми також будемо отримувати $ADM_BONUS$£adm£, $DIP_BONUS$£dip£, та $MIL_BONUS$£mil£."
  OURFOREIGNHEIRWINS_6:0 ""
  OURFOREIGNHEIRWINS_LOG:0 "Наш кандидат $CANDIDATENAME$ переміг на виборах у державі $COUNTRYNAME$."
  OURFOREIGNHEIRWINS_BTN1:0 "Гаразд"
