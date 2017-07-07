@@ -40,7 +40,5 @@
  string_gold_dust:0 "золотий пісок"
  string_rare_squirrel_coats:0 "білячу накидку"
  string_exquisite_sable_fleeces:1 "вишукані соболині шкури"
- string_ivory_carvings:0 "вироби з мамонтової кістки"
+ string_ivory_carvings:0 "вироби зі слонової кістки"
  string_silver_objects:0 "рідкісні срібні прикраси"
-
-
