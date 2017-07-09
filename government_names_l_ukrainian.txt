@@ -107,7 +107,7 @@
  STORBONDE:0 "Великий поміщик"
  LANDSBONDE:0 "Landsbonde"
  OLDERMAND_fem:0 "Olderkvinde"
- STORBONDE_fem:0 "Великий поміщик"
+ STORBONDE_fem:0 "Велика поміщиця"
  LANDSBONDE_fem:0 "Landsbonde"
  HATUN:0 "Хатун"
  VALI_AHAD:0 "Валі-ахад"
