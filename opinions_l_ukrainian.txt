@@ -29,7 +29,7 @@
  swe_reconverted_to_catholisism:0 "Повернення до католицизму"
  swe_political_alignment:0 "Політичний союз"
  rus_sacked_moscow:0 "Розорення Москви"
- rus_orthodoxy_led_from_moscow:0 "Москва - центр православ'я"
+ rus_orthodoxy_led_from_moscow:0 "Москва – центр православ'я"
  rus_ignored_vassal_demands:0 "Ігнорують вимогу данини"
  rus_paid_vassal_respect:0 "Визнали себе васалами"
  rus_paid_vassal_tribute:0 "Виплачують данину"
