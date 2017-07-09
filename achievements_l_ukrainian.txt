@@ -132,7 +132,7 @@
  achievement_queen_of_mercury:0 "Королева Меркурію"
  desc_achievement_queen_of_mercury:0 "Граючи за Кілву, заволодійте Занзібаром та Бомбеєм (Північний Конкан)."
  achievement_a_pile_of_gold:0 "Купа золота"
- desc_achievement_a_pile_of_gold:0 "Володійте десятьмя провінціями, які виробляють золото."
+ desc_achievement_a_pile_of_gold:0 "Володійте десятьмa провінціями, які виробляють золото."
  achievement_sons_of_carthage:0 "Сини Карфагену"
  desc_achievement_sons_of_carthage:0 "Граючи за Туніс, заволодійте Сицилією, Сардинією, Балеарськими островами, узбережжям Алжиру та південним узбережжям Еспанії."
  achievement_the_princess_is_in_this_castle:0 "Принцеса у палаці"
