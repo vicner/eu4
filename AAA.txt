@@ -5,7 +5,7 @@
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
 vla_dos - в перекладі - third_rome
-sergey-astral - в перекладі - flavor_events, powers_and_ideas
+sergey-astral - в перекладі - flavor_events, powers_and_ideas, personalityoptions - коміти d не перекладаю.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)
 
@@ -34,7 +34,7 @@ institutions_l_ukrainian.yml - в.1.22, перекладено
 ledger_l_ukrainian.yml - в.1.22, перекладено
 loadingtips_l_ukrainian.yml - в.1.22, перекладено
 maghreb_formations_l_ukrainian.yml - в.1.22, перекладено
-mandate_of_heaven_l_ukrainian.yml - в.1.22, без перекладу рядки: tributary_events 91-205 (108), 311, sinto 535-756 (223)
+mandate_of_heaven_l_ukrainian.yml - в.1.22, без перекладу рядки: tributary_events d 91-205 (31), 311, sinto d 535-756 (41)
 mare_nostrum_l_ukrainian.yml - в.1.22, перекладено
 mercantilism_l_ukrainian.yml - в.1.22, перекладено
 messages_l_ukrainian.yml - в.1.22, перекладено
@@ -47,7 +47,7 @@ nudge_l_ukrainian.yml - в.1.22, перекладено
 nw2_l_ukrainian.yml - в.1.22, перекладено
 nw_l_ukrainian.yml - в.1.22, перекладено
 opinions_l_ukrainian.yml - в.1.22, перекладено
-personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядки: per.events 140-464 (324)
+personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядки: per.events d 142-464 (201)
 powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 431-453 (23), 769-780 (12), 813-826 (14), 4623-5179 (557)
 privateers_l_ukrainian.yml - в.1.22, перекладено
 prov_names_adj_l_ukrainian.yml - в.1.22, не перекладається
@@ -72,3 +72,4 @@ triggers_and_effects_l_ukrainian.yml - в.1.22, без перекладу ряд
 tutorial_l_ukrainian.yml - в.1.22, перекладено
 USA_dlc_l_ukrainian.txt - в.1.22, перекладено
 womeninhistory_l_ukrainian.yml - в.1.22, перекладено
+
