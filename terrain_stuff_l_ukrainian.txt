@@ -1,0 +1,3 @@
+﻿l_ukrainian:
+ drylands:0 "Посушливі землі"
+ savannah:0 "Саванна"
