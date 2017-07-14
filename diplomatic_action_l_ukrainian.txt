@@ -1,8 +1,7 @@
 ﻿l_ukrainian:
- demand_dummy_title:0 "Вимагати стати манекеном"
- demand_dummy_desc:0 "Вимагати щоб [From.Monarch.GetName] держави [From.GetName] стали нашим манекеном. Це принесе користь нашій взаємній довірі!"
- demand_dummy_tooltip:0 "Вимагати, щоб вони стали нашим манекеном."
- demand_dummy_dialog:0 "Держава [This.GetName] вимагає, щоб ми стали їхнім манекеном. Це принесе користь нашій взаємній довірі!"
- demand_dummy_alert_tooltip:0 "Вимога, щоб ми стали манекеном"
- HAS_MORE_MANPOWER:0 "Держава [This.GetName] має більше сил, ніж [From.GetName].\n"
- 
+ demand_dummy_title:0 "Вимагати стати маріонеткою"
+ demand_dummy_desc:0 "Вимагати щоб [From.Monarch.GetName] держави [From.GetName] стали нашою маріонеткою. Це принесе користь нашій взаємній довірі!"
+ demand_dummy_tooltip:0 "Вимагати, щоб вони стали нашою маріонеткою."
+ demand_dummy_dialog:0 "Держава [This.GetName] вимагає, щоб ми стали їхньою маріонеткою. Це принесе користь нашій взаємній довірі!"
+ demand_dummy_alert_tooltip:0 "Вимога, щоб ми стали маріонеткою"
+ HAS_MORE_MANPOWER:0 "Держава [This.GetName] має більше сил, ніж [From.GetName].\n" 
