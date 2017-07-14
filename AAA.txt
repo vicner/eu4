@@ -24,7 +24,7 @@ diplo_reasons_l_ukrainian.yml - в.1.22, перекладено
 diplomacy_l_ukrainian.yml - в.1.22, перекладено
 diplomatic_action_l_ukrainian.yml - в.1.22, перекладено
 eldorado_l_ukrainian.yml - в.1.22, перекладено
-EU4_l_ukrainian.yml - в.1.22, без перекладу рядки: 20-75 (55), 161-292 (132), 265-290 (26), 306-314 (9), 350-370 (21), 2323-2329 (7), 5011-5019 (9), 5047-5048 (2)
+EU4_l_ukrainian.yml - в.1.22, без перекладу рядки: 20-75 (55), 161-292 (132), 265-290 (26), 306-314 (9), 350-370 (21), 5011-5019 (9), 5048 (1)
 flavor_events_l_ukrainian.yml - в.1.22, без перекладу рядки: 331, 351-359 (9), угор.395-497 (28), яп.2934-2981 (47), нор.3212-3304 (92), tus.3436-3493 (57), 4453-4500 (58) 
 generic_events_l_ukrainian.yml - в.1.22, без перекладу рядки: 143-175 (33), 1659-1923 (265), 4211-4250 (40)
 government_names_l_ukrainian.yml - в.1.22, без перекладу рядки: 105-111
@@ -72,4 +72,3 @@ triggers_and_effects_l_ukrainian.yml - в.1.22, без перекладу ряд
 tutorial_l_ukrainian.yml - в.1.22, перекладено
 USA_dlc_l_ukrainian.txt - в.1.22, перекладено
 womeninhistory_l_ukrainian.yml - в.1.22, перекладено
-
