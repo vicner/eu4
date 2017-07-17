@@ -47,7 +47,7 @@ nudge_l_ukrainian.yml - в.1.22, перекладено
 nw2_l_ukrainian.yml - в.1.22, перекладено
 nw_l_ukrainian.yml - в.1.22, перекладено
 opinions_l_ukrainian.yml - в.1.22, перекладено
-personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядки: per.events d 142-464 (201)
+personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядки: per.events d 142-464 (125)
 powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 431-453 (23), 769-780 (12), 813-826 (14), 4623-5179 (557)
 privateers_l_ukrainian.yml - в.1.22, перекладено
 prov_names_adj_l_ukrainian.yml - в.1.22, не перекладається
@@ -66,7 +66,7 @@ technology_l_ukrainian.yml - в.1.22, перекладено
 terrain_stuff_l_ukrainian.yml - в.1.22, перекладено
 text_l_ukrainian.yml - в.1.22, перекладено
 text_l_ukrainian_0_815.txt - файл відсутній в в.1.22
-third_rome_l_ukrainian.txt - в.1.22, без перекладу рядки: 54-387
+third_rome_l_ukrainian.txt - в.1.22, без перекладу рядки: 149-387 (249)
 tradenodes_l_ukrainian.yml - в.1.22, перекладено
 triggers_and_effects_l_ukrainian.yml - в.1.22, без перекладу рядки: 510-566 (57)
 tutorial_l_ukrainian.yml - в.1.22, перекладено
