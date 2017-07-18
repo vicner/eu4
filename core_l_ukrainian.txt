@@ -1,5 +1,5 @@
 ﻿l_ukrainian:
- MENU_MESSAGES_DISABLE_ALL:0 "Відключити все"
+ MENU_MESSAGES_DISABLE_ALL:0 "Вимкнути все"
  ai_handicap:0 "Фора ШІ"
  player_handicap:0 "Фора гравцеві"
  FILTER:0 "Фільтр"
