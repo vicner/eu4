@@ -5,3 +5,4 @@
  demand_dummy_dialog:0 "Держава [This.GetName] вимагає, щоб ми стали їхнім манекеном. Це принесе користь нашій взаємній довірі!"
  demand_dummy_alert_tooltip:0 "Вимога, щоб ми стали манекеном"
  HAS_MORE_MANPOWER:0 "Держава [This.GetName] має більше сил, ніж [From.GetName].\n"
+ 
