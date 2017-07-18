@@ -5045,6 +5045,6 @@
  PRESS_SAILORS_TITLE:0 "Вимагати моряків"
  pressed_sailors:0 "Вимагали моряків"
  CANT_PRESS_SAILORS_TOO_FEW:0 "Ви не можете вимагати моряків від колоніальної держави, якщо у них є менше ніж $NEED|Y$ потрібних їм моряків. Вони зараз мають $CURR|Y$."
- PRESS_SAILORS_TITLE_DESCRIPTION:0 "You will gain $SAILORS|Y$ sailors from them.\n"
+ PRESS_SAILORS_TITLE_DESCRIPTION:0 "Ви отримаєте від них $SAILORS|Y$ моряків.\n"
  MACRO_BUILDING_LIST_WINDOW_TITLE:0 "Збудувати $BUILDINGNAME$ у провінціях."
  MACRO_BUILDING_LIST_WINDOW_CLOSE:0 "Закрити список провінцій."
