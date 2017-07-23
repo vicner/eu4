@@ -478,4 +478,4 @@
  QUEEN_CONSORT:0 "Королева-консорт"
  EMPRESS_CONSORT:0 "Імператриця-консорт"
  ELECTRESS:0 "Курфюрстіна"
- ELECTOR:0 "Курфюрст" 
+ ELECTOR:0 "Курфюрст"
