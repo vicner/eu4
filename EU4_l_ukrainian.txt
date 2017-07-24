@@ -73,7 +73,7 @@
  RUSABIL_DO_IT_STRELTSY:0 "By using $VAL|Y$ gathered power for '$NAME|Y$', we will impact war exhaustion by $CHANGE$ and raise $UNITS|Y$ Streltsy Regiments in our capital. "
  RUSABIL_STRELTSY_MODIFIER:0 "This will increase our stability cost to $MODIFIER$ by relying on these regiments."
  RUSABIL_POOL:0 "We gain §G+$GAIN$§! to the pool at the start of each year, up to a maximum of $MAX|Y$\nWe currently have $CURR|R$ and using an ability costs $NEED|Y$."
- unconditional_surrender:0 "Беззастережно капіталювали"
+ unconditional_surrender:0 "Беззастережно капітулювали"
  UNCONDITIONAL_UNSPORTING:0 "Це неспортивно беззастережно капітулювати поки не пройшло $VAL|Y$ місяців у війні."
  objectives_title:0 "Цілі"
  daimyo_subject:0 "Васал даймьо"
