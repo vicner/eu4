@@ -3381,7 +3381,7 @@
  THEYINFLUENCE_HEADER:0 "Вісник держави"
  THEYINFLUENCE_1:0 "$ACTOR$"
  THEYINFLUENCE_2:0 "$MONARCHTITLE$, Велика Держава $ACTOR$ почала"
- THEYINFLUENCE_3:0 "Впливати на державу"
+ THEYINFLUENCE_3:0 "Впливати на нашу державу"
  THEYINFLUENCE_4:0 "Це поліпшить наше ставлення до них на $OPINION$ на наступні $YEARS$ років."
  THEYINFLUENCE_5:0 "Ми також отримуємо $BONUS$ балів монарха в категорії,"
  THEYINFLUENCE_6:0 "в якій ми маємо найнижчий щомісячний приріст."
