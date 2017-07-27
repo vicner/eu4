@@ -1577,7 +1577,7 @@
  revolt_risk:0 "Рівень заворушень"
  unrest:0 "Заворушення"
  nationalism:0 "Націоналізм"
- manpower:0 "Число рекрутів"
+ manpower:0 "Рекрути"
  war_taxes:0 "Військовий податок"
  stability:0 "Стабільність"
  cancelled_loan:0 "Погашена позика"
