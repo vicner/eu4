@@ -249,7 +249,7 @@
  DIPLO_UNION_UNDER:0 "$UNDER$ - молодший партнер в унії під державою $LEADER$: "
  DIPLO_IN_OUR_UNION:0 "$WHO$ в унії з нами: "
  DIPLO_SUPPORTING_INDEPENDENCE:0 "$COUNTRY01$ підтримує $COUNTRY02_ADJ$у незалежність: "
- DIPLO_OPINION:0 "Думка держави $COUNTRY01$ про державу $COUNTRY02$: "
+ DIPLO_OPINION:0 "Думка $COUNTRY01$ої держави про державу $COUNTRY02$: "
  DIPLO_FED_OPINION:0 "Загальна думка держави $COUNTRY01$ про державу $COUNTRY02$: "
  DIPLO_OPINION_LESSER_THAN:0 "Думка держави $COUNTRY01$ про державу $COUNTRY02$ нижча ніж $VAL|Y$: "
  DIPLO_OPINION_LARGER_THAN:0 "Думка держави $COUNTRY01$ про державу $COUNTRY02$ вища ніж $VAL|Y$: "
