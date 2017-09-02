@@ -1479,7 +1479,7 @@
  IDEA_ALLREADY_SELECTED:0 "Ми вже прийняли цю ідею."
  REGIMENT_NAME:0 "$NUM$ полк пров. $HOME$"
  ARMY_NAME:0 "$NUM$-а армія"
- NAVY_NAME:0 "$NUM$-ий флот"
+ NAVY_NAME:0 "$NUM$-й флот"
  MERCENARY_NAME:0 "$NUM$ $TYPE$"
  MERC_GUNS:0 "Наймана артилерія"
  ST:0 "-а"
