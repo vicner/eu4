@@ -64,7 +64,7 @@
  EVTOPTB6138:0 "Направити їх в існуючу колонію"
  EVTOPTB6400:0 "Направити їх в існуючу колонію"
  flavor_hun.10.t:0 "Угорський трон"
- flavor_hun.10.d:0 "[From.Monarch.GetTitle] держави [From.GetName] підозріло помер, не залишивши після себе спадкоємців. [From.GetAdjective]ий Сейм проігнорував той факт, що колишній [From.Monarch.GetTitle] належав до династії Габсбургів, і вибрав свого [From.Monarch.GetTitle], повністю ігноруючи наші законні вимоги трону."
+ flavor_hun.10.d:0 "[From.Monarch.GetTitle] держави [From.GetName] підозріло помер, не залишивши після себе спадкоємців. [From.GetAdjective]ий сейм проігнорував той факт, що колишній [From.Monarch.GetTitle] належав до династії Габсбургів, тепер власноруч обраний [From.Monarch.GetTitle] очолює їхню державу. Вони повністю проігнорували наші законні права на трон."
  flavor_hun.10.a:0 "Війна - продовження політики іншими засобами..."
  colonial.EVTDESC20:0 "Поселенці з держави [Root.Owner.ColonialParent.GetName] сповідують реформаторство, яке [Root.Owner.ColonialParent.GetAdjective]а церква вважає єрессю. В надії знайти більш толерантне суспільство вони поселилися в провінції [Root.GetName]."
  colonial.EVTDESC21:0 "Поселенці з держави [Root.Owner.ColonialParent.GetName] сповідують протестантизм, який [Root.Owner.ColonialParent.GetAdjective]а церква вважає єрессю. У надії знайти більш толерантне суспільство вони поселилися в провінції [Root.GetName]."
