@@ -610,7 +610,7 @@
  COUNTRY_LOCKED_BY_SERVER:0 "Держава $COUNTRY$ заблокована сервером."
  FE_IRONMAN:0 "Режим 'Ironman'"
  IRONMAN_SAVE_LABEL:0 "Збереження 'Ironman'"
- IRONMAN_START:0 "Почати гру в режимі 'Ironman'"
+ IRONMAN_START:0 "Почати 'Ironman'"
  RANDOM_COUNTRY:0 "Випадкова держава"
  CUSTOM_NATION:0 "Конструктор націй"
  FE_CUSTOM_NATION_DIFFICULTY:0 "Вибір складності"
