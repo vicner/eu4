@@ -1661,7 +1661,7 @@
  stat_best_leader_desc_server:0 "Краще ніж у $VAL|Y$% гравців."
  stat_best_leader_desc_server_better:1 "Better than what $VAL|Y$% of other players possessed."
  stat_best_leader_desc_server_worse:1 "Better than what $VAL|Y$% of other players possessed."
- stat_best_leader_desc_server_invalid:0 "We don't have intel on other nation's military leaders currently."
+ stat_best_leader_desc_server_invalid:0 "На даний момент ми не володіємо даними про військових командувачів у інших державах."
  stat_religion_desc:0 "Релігія вашої держави $NAME|Y$."
  stat_religion_desc_server:0 "$VAL|Y$% гравців є нашими братами по вірі."
  stat_best_prov_desc:0 "Ваша найрозвиненіша провінція під назвою $NAME|Y$ мала $VAL|Y$ розвитку."
