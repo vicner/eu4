@@ -82,7 +82,7 @@
  alert_federation_drop_delayed:0 "$LIST$\nВас виженуть з федерації, якщо її лідер матиме негативну думку про вас."
  alert_high_liberty_desire_instant:0 "§YЩонайменше один з ваших суб'єктів має високе бажання свободи.§!"
  alert_high_liberty_desire_delayed:0 "$LIST$\nЯкщо бажання свободи одного з ваших суб'єктів більше $LIMIT|Y0$, він вийде з покори і може оголосити війну за незалежність."
- WHO_LIBERTY_DESIRE:0 "$WHO|Y$е бажання свободи: $VAL|Y$"
+ WHO_LIBERTY_DESIRE:0 "$WHO|Y$ має бажання свободи: $VAL|Y$"
  FEDERATION_NEEDS_GOOD_OPINION:0 "Лідер федерації повинен мати позитивну думку про нового члена."
  MIGRATE_REASON_NOT_NEIGHBOR:0 "Не сусідня провінція."
  MIGRATE_REASON_NOT_DISCOVERED:0 "Не можливо мігрувати у провінцію, яку ви ще не відкрили."
