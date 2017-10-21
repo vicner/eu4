@@ -411,7 +411,7 @@
  LIB_TOO_HIGH_TARIFF:0 "$CHANGE$ через те, що Ефективні Тарифи ($TARIFF|Y$) перевищують поточне Бажання свободи, яке складає $CURRENT|Y$.\n"
  LIB_FROM_OVERLORD:0 "$CHANGE$ у зв'язку із ситуацією в державі $OVERLORD$.\n"
  LIBERTY_DESIRE_PLAIN:0 "Бажання свободи"
- LIBERTY_DESIRE:1 "$COUNTRY$е бажання свободи: $VAL$"
+ LIBERTY_DESIRE:1 "$COUNTRY$ має бажання свободи: $VAL$"
  LIBERTY_DESIRE_FROM_TEMP:1 "Події, бунти у провінціях та провінції, розбудовані сюзереном: $VAL$"
  LIBERTY_DESIRE_FROM_TARIFFS:0 "Тарифи: $VAL$"
  LIBERTY_DESIRE_FROM_ROYAL_MARRIAGE:0 "Династичний шлюб з державою §Y$OVERLORD$§!: $VAL$"
