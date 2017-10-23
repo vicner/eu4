@@ -183,7 +183,7 @@
  obj_great_general:0 "Великий лідер"
  obj_great_general_desc:0 "Мати 3-зіркового генерала або адмірала, на чолі підрозділу."
  obj_two_institutions:0 "Контроль інституцій"
- obj_two_institutions_desc:0 "Володіти та контролювати принаймні два центра виникнення інституцій."
+ obj_two_institutions_desc:0 "Володіти та контролювати принаймні двома центрами виникнення інституцій."
  CONFIRAGEABILITY:0 "Підтвердити навички"
  CONFIRAGEABILITY_TEXT:0 "Вибір навички $ABILITY|Y$ надасть\n$EFFECT$\nдо початку наступної епохи.\nВи впевнені?"
  ab_allow_feudal_de_jure_law:0 "Феодальне право де-юре."
