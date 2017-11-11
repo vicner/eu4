@@ -5021,7 +5021,7 @@
  ACTIVE_INCIDENTS:0 "Поточні інциденти"
  PAST_INCIDENTS:0 "Минулі інциденти"
  ISOLATIONISM:0 "Ізоляціонізм"
- ISOLATIONISM_LEVEL_TITLE:0 ""$ISOLATIONLEVELTITLE|Y$ (§YРівень $ISOLATIONLEVEL$§!)""
+ ISOLATIONISM_LEVEL_TITLE:0 "$ISOLATIONLEVELTITLE|Y$ (§YРівень $ISOLATIONLEVEL$§!)"
  ISOLATIONISM_MECHANIC_DESCRIPTION:1 "Ізоляціонізм являє собою готовність нації до прийняття зовнішніх ідей і технологій. Він визначається в діапазоні від $FIRSTISOLATIONLEVELNAME|Y$ (§YРівень $FIRSTISOLATIONLEVELVALUE$§!) до $LASTISOLATIONLEVELNAME|Y$ (§YРівень $LASTISOLATIONLEVELVALUE$§!).\n\n§MІзоляціонізм змінюється відповідно до ваших реакцій на інциденти, які трапляються впродовж гри. Кожний інцидент триває більше 10 років і може припинитися зі зміною вашого Ізоляціонізму в напрямку відкритості, закритості, або в разі залишення його незмінним.§!"
  YOUR_CURRENT_ISOLATIONISM_INSTANT:1 "Поточний рівень вашого Ізоляціонізму "$ISOLATIONLEVELTITLE|Y$ (§YРівень $ISOLATIONLEVEL$§!)"\n$ISOLATIONLEVELDESCRIPTION$"
  THEIR_CURRENT_ISOLATIONISM_INSTANT:0 "$ISOLATIONLEVELTITLE|Y$ (§Y$ISOLATIONLEVEL$§!)"
