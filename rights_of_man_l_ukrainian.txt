@@ -32,7 +32,7 @@
  RESULT_INSIGNIFICANT_DEFEAT:0 "Незначна поразка"
  AI_RULER_PERSONALITY_REGULAR:0 "Дана особистість не впливає на поведінку ШІ-гравця."
  AI_RULER_PERSONALITY_HEADER:1 "ШІ-правитель, який має особистість $PERSONALITY$:\n"
- AI_RULER_ACTUAL_PERSONALITY_HEADER:0 "ШІ-правитель, який отримав особистість $PERSONALITY$, буде:\n"
+ AI_RULER_ACTUAL_PERSONALITY_HEADER:0 "ШІ-правитель, який має особистість $PERSONALITY$, буде:\n"
  AI_RULER_PICK_IDEA_GROUPS:0 "Схильний обирати певні групи ідей."
  AI_RULER_SPEND_UNLOCK_INSTIT:0 "Схильний витрачатися для розблокування інституцій."
  AI_RULER_MORE_LIKELY_TRADE_LEAGUE:0 "Більше схильний до вступу в торговельні ліги."

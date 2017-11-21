@@ -1794,7 +1794,7 @@
  EVILDISCOVEREDOTHER_SETUP:0 "Одна держава розкриває таємне доручення іншої"
  EVILDISCOVEREDOTHER_HEADER:0 "$MESSENGER$"
  EVILDISCOVEREDOTHER_1:0 "Агента викрито!"
- EVILDISCOVEREDOTHER_2:0 ""Нам повідомили, що дипломата з держави"
+ EVILDISCOVEREDOTHER_2:0 "Нам повідомили, що дипломата з держави"
  EVILDISCOVEREDOTHER_3:0 "$WHO$"
  EVILDISCOVEREDOTHER_4:0 "було викрито під час розбудови шпигунської мережі у державі"
  EVILDISCOVEREDOTHER_5:0 "$RECIPIENT$"
