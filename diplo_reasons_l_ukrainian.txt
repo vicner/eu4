@@ -222,6 +222,8 @@
  DIPLO_SAME_CULTURE:0 "Однакова культура: "
  DIPLO_NOT_SAME_RELIGION:0 "Інша релігія: "
  DIPLO_NOT_SAME_CULTURE:0 "Інша культура: "
+ DIPLO_RELIGIOUS_SCHOOL_RELATIONS:0 "Відносини релігійних шкіл: "
+ DIPLO_SAME_RELIGIOUS_SCHOOL:0 "Та ж релігійна школа: "
  DIPLO_NOT_ACCEPTED_CULTURE:0 "$WHO$ не приймає культуру $CULTURE$: "
  DIPLO_SUPERIOR_SIZE:0 "$WHO$ має більшу кількість земель та розмір армії: "
  DIPLO_SUPERIOR_ARMY_SIZE:0 "$WHO$ має більший розмір армії: "
@@ -357,4 +359,3 @@
  DIPLO_TRIBUTARIES:0 "Число данників: "
  DIPLO_IS_CELESTIAL_EMPEROR:0 "$WHO$ – Імператор Піднебесної: "
  DIPLO_IS_HORDE_EMPIRE:0 "$WHO$ – Ординська Імперія: "
- 
