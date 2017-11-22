@@ -77,6 +77,7 @@
  reestablishing_themes_names_tooltip:0 "Багатьом наших турецьким провінціям буде повернуто грецькі назви."
  roman_culture_provinces_tooltip:0 "Усі провінції з основною культурою відтепер матимуть §YРимську§! культуру."
  no_more_celestial_empire_title:0 "Реформувати уряд"
+ 
  no_more_celestial_empire_desc:0 "Значно зміцнивши інститути влади, ми нарешті зможемо поламати гру угрупуванням придворних інтриганів, і $MONARCHTITLE$ зможе правити без посередників."
  native_american_reform_title:0 "Реформувати суспільство"
  native_american_reform_desc:0 "Наше суспільство змінюється і держава повинна слідувати за ним. Відкриємо ж своє серце майбутнього, відкинувши застарілі звичаї та традиції."
@@ -153,4 +154,3 @@
  adopt_mamluk_government_desc:0 "The Mamluks are still a strong factor in this region. We could gain their support by inviting these seasoned soldier slaves to participate in our government."
  conversion_of_convenience_title:0 "Time for a [Root.Religion.GetName] [Root.Monarch.GetTitle]?"
  conversion_of_convenience_desc:0 "The fact that [Root.Monarch.GetName] [Root.Monarch.GetHerselfHimself] does not follow the official state religion has long been a great thorn in the side of those that fight for the spirits and minds of the [Root.GetAdjective] people. Perhaps it is time for [Root.Monarch.GetName] to let the good of [Root.Monarch.GetHerHis] people go before personal matters of faith?"
- 
