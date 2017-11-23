@@ -4790,7 +4790,7 @@
  CANT_CHANGE_CULT_REGENCY:0 "Ви не можете вибрати культ під час регентства."
  ADD_ALL_PROVINCE_TO_COMPANY_DESC:0 "Передати всі можливі провінції торгової компанії."
  NO_ELIGABLE_TRADE_COMPANY_PROVINCES:0 "Ви не маєте жодних відповідних провінцій."
- MAX_TOLERANCE_HEATHENS:0 "Ваша максимальна терпимість до язичників §Y$MAX$§!."
+ MAX_TOLERANCE_HEATHENS:0 "Ваша максимальна терпимість до чужовірців §Y$MAX$§!."
  MAX_TOLERANCE_HERETICS:0 "Ваша максимальна терпимість до єретиків §Y$MAX$§!."
  elective_monarchy:0 "Виборна монархія"
  elective_monarchy_ruler:0 "Король"
