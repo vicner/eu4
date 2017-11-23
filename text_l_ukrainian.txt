@@ -4721,7 +4721,7 @@
  EXTRA_NATIONALISM_DESC:0 "У провінції $WHERE$ тривалість націоналізму $DIRECTION$ на $VALUE$ років.\n"
  MODIFIER_TOLERANCE_OWN:0 "Віротерпимість до істинної віри"
  MODIFIER_TOLERANCE_HERETIC:0 "Віротерпимість до єретиків"
- MODIFIER_TOLERANCE_HEATHEN:0 "Віротерпимість до невірних"
+ MODIFIER_TOLERANCE_HEATHEN:0 "Віротерпимість до чужовірців"
  TOLERANCE_DESC:0 "Віротерпимість показує ставлення до різних релігій всередині країни. Низька віротерпимість негативним чином позначиться на провінції. Наприклад, там зросте рівень заворушень."
  TOLERANCE_OWN:0 "Віротерпимість до істинної віри: §Y$FAITH$§!"
  TOLERANCE_OWN_AND_SYNCRETIC:0 "Віротерпимість до віри $FAITH|Y$ та до синкретичної віри $SYNCRETIC|Y$."
