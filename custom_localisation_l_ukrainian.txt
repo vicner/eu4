@@ -43,7 +43,7 @@
  string_exquisite_sable_fleeces:1 "вишукані соболині шкури"
  string_ivory_carvings:0 "вироби зі слонової кістки"
  string_silver_objects:0 "рідкісні срібні прикраси"
- string_sublime_porte:0 "Sublime Porte"
+ string_sublime_porte:0 "Блискуча Порта"
  string_crown:0 "Crown"
  string_council:0 "Council"
  string_pearls:0 "Pearls"

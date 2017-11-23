@@ -523,7 +523,7 @@
  karaman_area_adj:0 "Караманськ"
  hudavendigar_area:0 "Ходавендік'яр"
  hudavendigar_area_name:1 "Бурса"
- hudavendigar_area_adj:1 "Бурськ"
+ hudavendigar_area_adj:1 "Бурзьк"
  aydin_area:0 "Айдин"
  aydin_area_name:0 "Айдин"
  aydin_area_adj:0 "Айдинськ"
