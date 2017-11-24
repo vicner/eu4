@@ -3328,7 +3328,7 @@
  PROV4344:0 "Kish"
  PROV4345:0 "Saidabad"
  PROV4346:0 "Qamr Bay"
- PROV4347:0 "Pirate Coast"
+ PROV4347:0 "Берег піратів"
  test_province_name:0 "Тестове ім'я"
  other_province_name:0 "Друге тестове ім'я"
  rand_prov_straits_of:0 "Пролив $prov$"
