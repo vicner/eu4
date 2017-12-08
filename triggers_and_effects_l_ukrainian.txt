@@ -598,5 +598,5 @@
  HAVE_MORE_JANISSARIES_THAN_PERC:0 "Більше $PERC|%|Y$ армії складається з яничарів ($SHIPS|Y$)"
  HAVE_LESS_JANISSARIES_THAN:0 "Яничарських полків менше $VALUE|Y$."
  HAVE_AT_LEAST_JANISSARIES_THAN:0 "Щонайменше $VALUE|Y$ яничарських полків."
- SUPPLY_DEPOT_IN_PROVINCE:0 "В провінції є Обоз.\n"
- SUPPLY_DEPOT_NOT_IN_PROVINCE:0 "В провінції немає Обозу.\n"
+ SUPPLY_DEPOT_IN_PROVINCE:0 "В провінції є склад постачання.\n"
+ SUPPLY_DEPOT_NOT_IN_PROVINCE:0 "В провінції немає складу постачання.\n"
