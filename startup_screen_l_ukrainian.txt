@@ -15,7 +15,7 @@
  string_start_title_austria:0 "A.E.I.O.U."
  string_start_title_samtskhe:0 "The Atabegs of [Root.GetName]"
  string_start_title_horde:0 "The [Root.Monarch.Dynasty.GetName]s of [Root.GetName]"
- string_start_title_monarchy_regency:0 "[Root.GetName]'s Situation"
+ string_start_title_monarchy_regency:0 "Становище держави [Root.GetName]"
  string_start_title_monarchy:0 "The [Root.Monarch.Dynasty.GetName]s of [Root.GetName]"
  string_start_title_monarchy_plural:0 "The [Root.Monarch.Dynasty.GetName] [Root.GovernmentName]"
  string_start_title_native_council:0 "The [Root.GetName] Tribes"

@@ -797,7 +797,7 @@
  CONFORM_TO_TEMPLATE_SAILOR_COST:0 "Sailors required: $VAL|Y$ £icon_sailors\n"
  CONFORM_TO_TEMPLATE_REMOVED_ARMY:0 "$NUM|Y$ regiments do not match the template and will be detached."
  CONFORM_TO_TEMPLATE_REMOVED_NAVY:0 "$NUM|Y$ ships do not match the template and will be detached."
- ENVIRONMENT:0 "Environment"
+ ENVIRONMENT:0 "Оточення"
  OUTLINER_ARMY_QUEUE:0 "Building to this Army:\n$INF$ £infantry_icon_small£ / $CAV$ £cavalry_icon_small£ / $ART$ £artillery_icon_small£\n"
  OUTLINER_NAVY_QUEUE:0 "Building to this Navy:\n$HEAVY$ £big_ship_icon_small£ / $LIGHT$ £light_ship_icon_small£ / $GALLEY$ £galley_icon_small£ / $TRANSPORT$ £transport_icon_small£\n"
  ADVISOR_RELIGION:0 "Advisor Religion: §Y$RELIGION$§!"
