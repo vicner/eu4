@@ -36,7 +36,7 @@
  PROV_PROD_EFF_NEW:0 "Ефективність виробництва: $VAL|%=+1$"
  PROV_RELIGION:0 "Населення провінції §Y$PROVINCE$§! у державі §Y$COUNTRY$§! сповідує §Y$PROVRELIGION$§!. З точки зору державної релігії (§Y$STATERELIGION$§!), вони - $TYPE$."
  PROV_RELIGION_TYPE_HERETICS:0 "§Rєретики§!"
- PROV_RELIGION_TYPE_HEATHENS:0 "§Rбезбожники§!"
+ PROV_RELIGION_TYPE_HEATHENS:0 "§Rчужовірці§!"
  PROV_RELIGION_TYPE_BELIEVERS:0 "§Gістинні віруючі§!"
  RELIGION_DESC:0 "В залежності від терпимості вашого народу до інших релігій, провінція може мати як позитивні, так і негативні ефекти у різноманітних сферах життя держави."
  TRADER_DISCOVERED:0 "Виявлено новий торговий вузол"
