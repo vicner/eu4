@@ -221,6 +221,7 @@
  DIPLO_SAME_RELIGION:0 "Обидві країни сповідують $NAME$: "
  DIPLO_SAME_CULTURE:0 "Однакова культура: "
  DIPLO_NOT_SAME_RELIGION:0 "Інша релігія: "
+ DIPLO_NOT_SAME_LEAGUE_LEADER:0 "Лідер протиборчої ліги: "
  DIPLO_NOT_SAME_CULTURE:0 "Інша культура: "
  DIPLO_RELIGIOUS_SCHOOL_RELATIONS:0 "Стосунки релігійних шкіл: "
  DIPLO_SAME_RELIGIOUS_SCHOOL:0 "Однакова релігійна школа: "
