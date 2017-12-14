@@ -11,7 +11,7 @@
  same_secondary_religion:0 "Однакова синкретична релігія"
  different_religions_group:0 "Інша релігія"
  different_religion_same_group:0 "Єретична релігія"
- at_war:0 "В стані війни"
+ at_war:0 "У стані війни"
  royal_marriage:0 "Династичний шлюб"
  guaranteed:0 "Гарантуються"
  alliance:0 "Альянс"
