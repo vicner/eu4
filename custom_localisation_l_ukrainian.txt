@@ -125,4 +125,4 @@
  string_definite_article_before_country:0 ""
  string_empty:0 ""
  string_ruler_name_really:0 "[Root.Monarch.GetName]"
- string_regency_council:0 "Регентська рада" 
+ string_regency_council:0 "Регентська рада"
