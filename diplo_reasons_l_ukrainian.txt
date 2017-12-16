@@ -17,7 +17,7 @@
  DIPLO_SET_AS_ENEMY:0 "Гравець держави $THEM$ ставиться вороже до держави $WHO$: "
  DIPLO_SET_AS_FRIENDLY:0 "Гравець держави $THEM$ ставиться дружньо до держави $WHO$: "
  DIPLO_SET_AS_NEUTRAL:0 "Гравець держави $THEM$ ставиться нейтрально до держави $WHO$: "
- DIPLO_NOT_ENOUGH_FAVORS:0 Держава "$WHO$ не має принаймні $AMT$ прихильності до держави $US$: "
+ DIPLO_NOT_ENOUGH_FAVORS:0 "Держава $WHO$ не має принаймні $AMT$ прихильності до держави $US$: "
  DIPLO_ENEMIES_TOO_FAR_AWAY:0 "Віддалена війна: "
  DIPLO_DEFENSIVE_WAR:0 "Оборонна війна: "
  DIPLO_BANKRUPT:0 "$WHO$ – банкрут: "
