@@ -77,7 +77,6 @@
  reestablishing_themes_names_tooltip:0 "Багатьом наших турецьким провінціям буде повернуто грецькі назви."
  roman_culture_provinces_tooltip:0 "Усі провінції з основною культурою відтепер матимуть §YРимську§! культуру."
  no_more_celestial_empire_title:0 "Реформувати уряд"
- 
  no_more_celestial_empire_desc:0 "Значно зміцнивши інститути влади, ми нарешті зможемо поламати гру угрупуванням придворних інтриганів, і $MONARCHTITLE$ зможе правити без посередників."
  native_american_reform_title:0 "Реформувати суспільство"
  native_american_reform_desc:0 "Наше суспільство змінюється і держава повинна слідувати за ним. Відкриємо ж своє серце майбутнього, відкинувши застарілі звичаї та традиції."
@@ -154,3 +153,8 @@
  adopt_mamluk_government_desc:0 "Мамлюки все ще грають важливу роль у цих землях. Ми можемо заручитися їхньою підтримкою, запросивши цих загартованих солдатів-рабів стати частиною нашої держави."
  conversion_of_convenience_title:0 "Чи прийме [Root.Monarch.GetTitle] [Root.Religion.GetName]?"
  conversion_of_convenience_desc:0 "Той факт, що [Root.Monarch.GetName] не сповідує офіційну релігію нашої держави, звичайно ж, не є перевагою в боротьбі за уми і серця [Root.GetAdjective]ого народу. Можливо, [Root.Monarch.GetName] навернеться в офіційну релігію свого власного народу заради процвітання держави?"
+ reform_into_iqta_title:0 "Adopt Islamic Government"
+ reform_into_iqta_desc:0 "Kingship and governance can be many things and the traditions we rely on lie outside the mainstream of the Islamic world. By adopting the Iqta system we can assert our authority over the lands of the realm directly, with revenue rights given only to trusted Amirs."
+ enforce_religion_muslim_title:0 "Enforce Religious Unity"
+ enforce_religion_muslim_desc:0 "We must not abide the heretics in our realm. A harsh set of laws designed to target any followers of the traditions of false Imams and priests will allow us to marginalize any heretical influence within our society."
+ remove_non_electors_emperors_from_empire_effect_tooltip:0 "All owned provinces will be removed from the Holy Roman Empire."
