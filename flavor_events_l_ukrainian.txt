@@ -4645,7 +4645,7 @@
  flavor_daimyo.24.b:0 "A skilled negotiator for our clan."
  flavor_daimyo.25.t:0 "Economic Reforms of [Root.Monarch.GetName]"
  flavor_daimyo.25.d:0 "Our [Root.Monarch.GetTitle] has always taken a great interest in the economy of his realm. Managing everything from sweeping overall policies to minor day to day thing in his personal domain he has no interest in perpetuating the inefficient, if traditional, customs and habits of our ancestors.\nRecently he has set out on a number of reforms to lessen the power of the trade guilds, prohibiting monopolies, increasing trade invovlement and protecting the roads under our control."
- flavor_daimyo.25.a:0 "Excellent."
+ flavor_daimyo.25.a:0 "Чудово."
  flavor_daimyo.26.t:0 "The Great Days of Chuzan"
  flavor_daimyo.26.d:0 "Over time it has become evident to all that it is the economic and political prowess of [Root.Monarch.GetName] that has made our realm blossom. [Root.Monarch.GetHerHis] reorganization of the kingdom administration, [Root.Monarch.GetHerHis] hard work to attract foreign traders, and the creation of a new bureaucracy for our unified kingdom has allowed [Root.Monarch.GetHerHim] to expand our capital and oversee the construction of temples, palaces and monuments."
  flavor_daimyo.26.a:0 "This is truly a golden era for our kingdom."
