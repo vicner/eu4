@@ -7625,7 +7625,7 @@
  tribal_rebels_desc:0 "Бунтівні клани прагнуть встановити своє панування замість нашого, позаяк відчувають нашу слабкість."
  tribal_rebels_army:0 "Армія кланів"
  cossack_rebels_title:0 "Козацькі повстанці"
- cossack_rebels_name:0 "Козаки держави $COUNTRY$"
+ cossack_rebels_name:0 "Козаки $COUNTRY$ої держави"
  cossack_rebels_desc:0 "Козацькі повстанці прагнуть встановити своє панування над степовими територіями."
  cossack_rebels_army:0 "Козацьке військо"
  particularist_rebels_title:0 "Партикуляристи"
