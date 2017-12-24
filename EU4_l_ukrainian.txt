@@ -1303,7 +1303,7 @@
  TECH_ALLOW_SUPPORT_REBELS:0 "Дозволяє підтримувати повстанців в інших країнах."
  MAY_LOWER_N_ATTRITION:0 "§YМорське виснаження§! тепер не збільшується щомісяця у відкритому морі."
  RULER_SKILLS:0 " ($ADM$/$DIP$/$MIL$)"
- RULER_CLAIM:0 " має $CLAIM$ права"
+ RULER_CLAIM:0 " , що має $CLAIM$ права"
  RULER_CULTURE:0 ", ($CULTURE|Y$ культура"
  RULER_RELIGION:0 ", сповідує $RELIGION|Y$)"
  RULER_AGE:0 " у віці $AGE|Y$"
