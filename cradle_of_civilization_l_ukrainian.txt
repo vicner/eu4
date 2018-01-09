@@ -160,7 +160,7 @@
  SCHOOL_RELATION_LIST_SCHOOL_ENTRY_PLAYER:0 "$SCHOOL|Y$"
  SCHOOL_RELATION_LIST_ENTRY:0 "$RELATION$: $SCHOOLS$\n"
  religious_school_relation:0 "Релігійні відносини між мазгабами"
- same_religious_school_relation:0 "Той самий мазгаб"
+ same_religious_school_relation:0 "Однаковий мазгаб"
  low_army_professionalism:0 "Професіоналізм армії"
  high_army_professionalism:0 "Професіоналізм армії"
  ARMY_PROFESSIONALISM_DESC:1 "Професіоналізм армії показує на що робить ставку ваша держава – на найманців, чи професійну армію. Він підвищується за допомогою муштри, найму генералів, але знижується, коли ви вербуєте найманців."
