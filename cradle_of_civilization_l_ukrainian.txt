@@ -809,7 +809,7 @@
  CREATE_JANISSARIES_BUTTON:1 "Призов яничарів"
  CREATEJANISSARIES:1 "Призов яничарів"
  JANISSARIES_REGIMENT:0 "Полк яничарів\n$EFFECT$"
- GAIN_PIETY:0 "Змістити в сторону Законності на $VALUE|Y$"
+ GAIN_PIETY:0 "Змістити в сторону Законництва на $VALUE|Y$"
  LOSE_PIETY:0 "Змістити в сторону Містицизму на $VALUE|Y$"
  RELIGION_VIEW_BANNER_INSTANT:0 "$NAME|Y$\n$DESC$"
  RELIGION_VIEW_BANNER_DELAYED:0 "Має такі стосунки з іншими мазгабами:\n$RELATION$"
