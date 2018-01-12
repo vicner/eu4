@@ -3343,7 +3343,7 @@
  COLONIAL_RANGE:0 "Наша колоніальна дистанція: $RANGE|Y0$"
  OUR_CLOSEST_PROVINCE_DISTANCE:0 "$TARGET|Y$ на відстані $DISTANCE$ від провінції $PROVINCE|Y$, нашої найближчої території."
  BASE_FROM_TECH:0 "Базова вартість від технології: $VAL|Y0$"
- MISSIONARY_TIME:0 "Буде потрібно приблизно $MONTHS|Y0$ міс. для того, щоб навернути провінцію $PROVINCE$ в релігію $RELIGION|Y$."
+ MISSIONARY_TIME:0 "Потрібно приблизно $MONTHS|Y0$ міс. для того, щоб навернути провінцію $PROVINCE$ у релігію $RELIGION|Y$."
  MISSIONARY_NO_END_DATE:0 "Такими темпами $NAME$ ніколи не навернеться в істинну віру."
  MISSIONARY_END_DATE:3 "$NAME$ буде навернено в істинну віру $DATE|Y$ (за поточної швидкості)."
  MISSIONARY_SLIDER:0 "Фінансування місіонерів: $VAL|1-%$"
