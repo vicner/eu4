@@ -4539,7 +4539,7 @@
  free_city_in_hre:0 "Імперське вільне місто"
  HRE_IS_LESS_THAN:0 "Число членів СРІ менше §Y$SIZE$§!\n"
  HRE_IS_AT_LEAST:0 "Число членів СРІ щонайменше §Y$SIZE$§!\n"
- LEVEL_WITH:0 "Вага з"
+ LEVEL_WITH:0 "Вага, яку має"
  RMN:0 "Румунія"
  RMN_ADJ:0 "Румунськ"
  romanian_nation_title:0 "Створити румунську націю"
