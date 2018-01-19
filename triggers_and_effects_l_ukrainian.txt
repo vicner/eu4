@@ -575,7 +575,7 @@
  TRIG_NOT_SCHOOL_OPINION:0 "Держава $FIRST$ має гірші ніж $OPINION$ стосунки з державою $SECOND$.\n"
  TRIG_SCHOOL_OPINION:0 "Держава $FIRST$ має $OPINION$ або кращі стосунки з державою $SECOND$.\n"
  EFFECT_SET_SCHOOL_OPINION:0 "Стосунки держави $FIRST$ з державою $SECOND$ стануть $OPINION$."
- EFFECT_SET_RELIGIOUS_SCHOOL:1 "Держава $COUNTRY$ буде слідувати вченням школи $SCHOOL$.\n($MODIFIER$)"
+ EFFECT_SET_RELIGIOUS_SCHOOL:1 "Держава $COUNTRY$ буде слідувати вченню, яке сповідують $SCHOOL$.\n($MODIFIER$)"
  HAS_ACTIVE_POLICY:0 "Торгова політика $NAME|Y$' проводиться у вузлі $NODE|Y$."
  HAS_NOT_ACTIVE_POLICY:0 "Торгова політика $NAME|Y$' не проводиться у вузлі $NODE|Y$."
  HAS_ANY_ACTIVE_POLICY:0 "Проводиться торгова політика у вузлі $NODE|Y$."
