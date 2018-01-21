@@ -5834,7 +5834,7 @@
  INDEF:0 "Кінець"
  ADVISOR_LOCATION:0 " місцезнаходження: $LOCATION$"
  CREATE_ADVISOR:0 "З'явиться §Y$WHICH$§W ($EFFECT$).\n"
- DEFINE_ADVISOR:1 "$TYPE$, на ім'я $NAME|Y$ ($CULTURE|Y$ культура, релігія $RELIGION|Y$), приєднається до двору.\n(Рівень $SKILL|Y$, $EFFECT$)"
+ DEFINE_ADVISOR:1 "$TYPE$, на ім'я $NAME|Y$ ($CULTURE|Y$ культура, $RELIGION|Y$), приєднається до двору.\n(Рівень $SKILL|Y$, $EFFECT$)"
  DEFINE_ADVISOR2:2 "Отримати радника $SKILL|Y$ рівня ($EFFECT$) $TYPE$$CULTURE_TEXT$$RELIGION_TEXT$$LOCATION$."
  improve_key_defensive_position_small_title:0 "Покращити захист провінції $PROVINCENAME$"
  improve_key_defensive_position_small_desc:0 "Населення провінції $PROVINCENAME$ стурбоване тим, що їхня земля погано захищена від можливого вторгнення. Вони просять посилити укріплення."
