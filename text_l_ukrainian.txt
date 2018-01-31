@@ -132,7 +132,7 @@
  ADD_BUILDING:0 "Будівлю §Y$NAME$§W буде побудовано в провінції §Y$WHERE$§W.\n"
  REM_BUILDING:0 "Будівлю §R$NAME$§W буде знищено в провінції §Y$WHERE$§W.\n"
  GOODS_CHANGE:0 "Провінція §Y$WHERE$§W почне виробляти §Y$NAME$§W.\n"
- PCULTURE_CHANGE:0 "Новою культурою провінції §Y$WHERE$§W стане §Y$NAME$§W.\n"
+ PCULTURE_CHANGE:0 "Новою культурою провінції §Y$WHERE$§W стане §Y$NAME$а§W.\n"
  SECEDE_PROVINCE:0 "Передасть свої провінції (§Y$WHERE$§W) державі §Y$WHO$§W.\n"
  INHERIT:0 "Приєднає державу §Y$WHO$§W.\n"
  RELEASE:0 "Надасть незалежність державі §Y$WHO$§W.\n"
