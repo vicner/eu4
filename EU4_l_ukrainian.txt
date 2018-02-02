@@ -3392,7 +3392,7 @@
  REVOKE_ELECTOR:0 "$WHO$ втратить свій статус курфюрста."
  REVOKE_ELECTOR_TITLE:0 "Скасування голосування"
  CB_ALLOWED_ELECTOR_REVOKE:0 "Скасування голосування"
- REVOKE_ELECTOR_WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$а війна за імперську перевагу"
+ REVOKE_ELECTOR_WAR_NAME:0 "$ORDER$$FIRST$о-$SECOND$а війна за імперську перевагу"
  TRADENODE_POWER_MOD:0 "Вплив торгового вузла: $VAL|+1$"
  TRADENODE_POWER_MOD_PERCENT:0 "Вплив торгового вузла: $VAL|+1$"
  EXPENSESUPPORTREBELS:0 "Підтримка повстанців"
