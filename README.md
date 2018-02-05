@@ -14,4 +14,4 @@ Europa Universalis IV – спільний переклад.
 
 ПриватБанк: 5168 7427 0771 1705
 
-[Сторінка] {http://steamcommunity.com/sharedfiles/filedetails/?id=632273228 "Українська мова – ЄУ4") моду на Стімі.
+[Сторінка](http://steamcommunity.com/sharedfiles/filedetails/?id=632273228 "Українська мова – ЄУ4") моду на Стімі.
