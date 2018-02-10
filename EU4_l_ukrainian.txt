@@ -3762,7 +3762,7 @@
  SM_AMBIENT_OBJECTS:0 "Навколишні об'єкти"
  SM_MOVING_UNITS:0 "Рух загонів"
  SM_MINIMAP_UNITS:0 "Загони на міні-мапі"
- SM_DRAW_TERRAIN_IN_UNCOLONIZED:0 "Місцевість не колонізована"
+ SM_DRAW_TERRAIN_IN_UNCOLONIZED:0 "Рельєф не колонізованого"
  SM_USE_STATE_BORDERS:0 "Межі Володінь"
  SM_REFLECTIONS:0 "Віддзеркалення"
  SM_COMPACT_BATTLE_RESULTS:0 "Компактні результати бою"
