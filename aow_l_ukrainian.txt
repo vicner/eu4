@@ -464,7 +464,7 @@
  CLIENT_REPUBLIC_CULTURE:0 "$CULTGROUP$ дочірня республіка"
  NO_TRUCE_COALITION:0 "Ви не можете вступити в коаліцію проти держави, з якою у вас перемир'я."
  ADJ_C_SPEED:0 "Близькість до центру реформації: $VAL$\n"
- C_SP_MISSIONARY_ZEAL:0 "$WHO$а ефективність хрещення єретиків: $VAL$\n"
+ C_SP_MISSIONARY_ZEAL:0 "$WHO$ ефективність хрещення єретиків: $VAL$\n"
  C_SP_DEVELOPMENT:0 "Рівень розвитку провінції $PROVINCE$: $VAL$\n"
  C_SP_HER_TOLERANCE:0 "Терпимість до єретиків: $VAL$\n"
  CLIENT_SINCE:0 "Держава є дочірньою для держави §Y$OTHER$§W з §Y$SINCE$§W"
