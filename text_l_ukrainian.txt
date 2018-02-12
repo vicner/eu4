@@ -5126,7 +5126,7 @@
  PURITAN:0 "Пуритани"
  SCORE_RANK_IRO:0 "Наше місце в загальному заліку."
  CONGREGATIONALIST:0 "Конгрегаціоналісти"
- SOCINIAN:0 "Социніани"
+ SOCINIAN:0 "Социніанство"
  MONTHLY_EXPENSES:0 "Щомісячні витрати"
  pretender_rebels_title:0 "Претенденти"
  pretender_rebels_army:0 "армія претендента"
