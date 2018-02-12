@@ -119,7 +119,7 @@
  FEDERATION_ACCESS:1 "\nЧлени федерації дають право проходу, коли один з них знаходиться в стані війни."
  IN_WAR_TOGETHER_ACCESS:1 "\n$TAKER|Y$ і $GIVER|Y$ беруть участь у спільній війні."
  SAME_OVERLORD_ACCESS:0 "\n$TAKER|Y$ і $GIVER|Y$ є суб'єктами одного й того ж сюзерена."
- HAS_ACCESS:1 "\nДерьава $GIVER|Y$ вирішила надати державі $TAKER|Y$ доступ."
+ HAS_ACCESS:1 "\nДержава $GIVER|Y$ вирішила надати державі $TAKER|Y$ доступ."
  ENEMY_GRANTED_ACCESS:1 "\n$GIVER|Y$ надає право проходу §Y$TAKERS|Y$ому§! ворогові – державі $ENEMY|Y$."
  EMPIRE_ENEMY_ACCESS:0 "\n$TAKER|Y$ у війні з Імператором."
  EMPIRE_FRIEND_ACCESS:0 "\n$TAKER|Y$ воює разом з Імператором."

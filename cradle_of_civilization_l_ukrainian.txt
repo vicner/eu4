@@ -424,7 +424,7 @@
  RELIGIOUS_SCHOLAR_EXPIRY_MAP:0 ""
  MISSIONARY_ZEAL_CONVERSION_SPEED_MOD:0 "$WHO$ ефективність місіонера: $VAL$\n"
  CONFIRM_SELECT_TRADING_POLICY:0 "Обрати торговельну політику"
- CONFIRM_SELECT_TRADING_POLICY_DESC:1 "\nВи впевнені, що хочете вибрати політику $NODE|Y$ в торговому вузлі $NAME|Y$? Ви не зможете змінювати політику протягом §Y$MONTHS$ місяців§!.\n"
+ CONFIRM_SELECT_TRADING_POLICY_DESC:1 "\nВи впевнені, що хочете вибрати політику $NAME|Y$ в торговому вузлі $NODE|Y$? Ви не зможете змінювати політику протягом §Y$MONTHS$ місяців§!.\n"
  TRADING_POLICY_MAINTAINED_IF:1 "\nЯкщо наступні умови не буде дотримано, політика автоматично зміниться на $DEFAULT|Y$:\n$IF$"
  growing_merchant_community:0 "Зростаюча торговельна спільнота"
  merchants_discriminated:0 "Дискриміновані торговці"
