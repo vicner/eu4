@@ -80,7 +80,7 @@
  DIPLO_HAS_PERSONALITY:0 "Правитель держави $WHO$ – $TRAIT$: "
  DIPLO_LACKS_PERSONALITY:0 "Правитель держави $WHO$ не має потрібної риси."
  DIPLO_DIFFICULTY:0 "Рівень складності."
- DIPLO_MILITARY_STRENGTH:0 "Військова міць держави $WHO$: "
+ DIPLO_MILITARY_STRENGTH:0 "Військова міць $WHO$ої держави: "
  DIPLO_WAR_SCORE:0 "Воєнний рахунок: "
  DIPLO_WAR_SCORE_INDIVIDUAL:0 "Особистий воєнний рахунок проти: "
  DIPLO_PEACEOFFER_VALUE:0 "Поточна пропозиція миру: "
