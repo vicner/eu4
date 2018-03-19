@@ -7,7 +7,7 @@
  global_trade_date:0 "1600"
  manufactories_date:0 "1650"
  enlightenment_date:0 "1700"
- DATE_EARLIERST_FOR_INSTI:0 "Це найбільш рання дата, коли може з'явитися ця інституція і поширитися по світу."
+ DATE_EARLIERST_FOR_INSTI:0 "Це найраніша дата, коли може з'явитися ця інституція і поширитися по світу."
  INSTITUTION_CAN_APPEAR:1 "Серед ваших провінцій, швидше за все, може з'явитися у провінції $PROVINCE|Y$ якщо:\n"
  feudalism:0 "Феодалізм"
  renaissance:0 "Ренесанс"
