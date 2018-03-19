@@ -439,7 +439,7 @@
  LIBERTY_DESIRE_MONTHLY:0 "Щомісячна зміна: $VAL$"
  TRADEPOWERBONUS_FROM:0 "Передає з вузла $FROM$: $VAL$\n"
  TRADEPOWERBONUS_NONE:0 "Не передає торгову силу через те, що торговець збирає прибуток у вузлі $WHERE$."
- SUBJECT_WARGOAL:0 "Це мета війни держави $WHO$, і ми можемо використовувати її."
+ SUBJECT_WARGOAL:0 "Це мета війни $WHO$ої держави, і ми можемо використати її."
  OUR_RIVAL:0 "$WHO$ є нашим суперником."
  OUR_ENEMY:0 "$WHO$ вважає нас суперником, тому ми є ворогами."
  BOTH_RIVAL_AND_ENEMY:0 "$WHO$ є нашим суперником і ворогом."
