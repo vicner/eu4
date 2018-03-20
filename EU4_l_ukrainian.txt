@@ -363,7 +363,7 @@
  AGE_FOLLOWING_OBJECTIVES:0 "§YЦілі§!"
  AGE_FOLLOWING_OBJECTIVESNC:0 "З такими цілями:\n"
  CURR_AGE_TRIG_NOT:0 "Це НЕ $NAME|Y$.\n"
- CURR_AGE_TRIG:0 "Зараз це $NAME|Y$.\n"
+ CURR_AGE_TRIG:0 "Зараз $NAME|Y$.\n"
  SPY_OFFENCE_DISC_PENALTY:0 "Виявлення шпигунів: $VAL|%2+=$"
  ABSOLUTISM_DEC_BY:0 "Абсолютизм зменшиться на $VAL|R$"
  ABSOLUTISM_INC_BY:0 "Абсолютизм збільшиться на $VAL|G$"
