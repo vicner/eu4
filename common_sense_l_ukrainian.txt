@@ -1654,7 +1654,7 @@
  HEADER_OVERLORD:0 "Сюзерен"
  SHOW_OVERLORD:0 "Показати сюзерена"
  SHOW_SUBJECTS:0 "Показати суб'єкти"
- SHOW_ASPECTS:0 "Показати доктрини віри"
+ SHOW_ASPECTS:2 "Виберіть $ASPECTS_LONG|Y$"
  maintained_forts:0 "Повністю субсидовані фортеці"
  ADVISOR_DISCOUNTED:0 "Утримання цього радника коштуватиме нашій країні на $AMT$ дешевше."
  PICK_ASPECT:0 "§YВи можете встановити нові доктрини віри!§!"
