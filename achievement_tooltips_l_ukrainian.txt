@@ -37,3 +37,5 @@
  propagated_in_five_moluccan_provinces:0 "Держава [Root.GetName] розповсюдила свою релігію в 5 провінціях вузла §YМолуккські острови§!."
  achievement_david_the_builder_tooltip:0 "Держава [Root.GetName] не має вільних слотів для будівель ні в одній провінції."
  all_coffee_owned_by_you:0 "Жодна провінція в Азії, Європі, Африці чи Океанії, яка виробляє §Yкаву§! не контролюється європейськими державами."
+ chop_chop.tooltip:0 "Had §Y6§! separate consorts with only one Monarch."
+ anglophile.tooltip:0 "Completed all English and British missions."
