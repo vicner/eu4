@@ -127,4 +127,4 @@
  string_ruler_name_really:0 "[Root.Monarch.GetName]"
  string_regency_council:0 "Регентська рада"
  string_royal:0 "Королівське"
- string_state:0 "Державне"
+ string_state:0 "Володіння"
