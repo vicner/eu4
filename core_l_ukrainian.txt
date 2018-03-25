@@ -483,7 +483,7 @@
  attitude_hostile:0 "Вороже"
  attitude_rivalry:0 "Конкуруюче"
  attitude_outraged:0 "Розгніване"
- attitude_friendly:0 "Дружелюбне"
+ attitude_friendly:0 "Дружнє"
  attitude_protective:0 "Заступницьке"
  attitude_overlord:0 "Сюзерен"
  attitude_loyal:0 "Покірне"
