@@ -110,7 +110,7 @@
  DIPLO_BEST_POSSIBLE_PEACE_OFFER:0 "Усі вимоги виконано: "
  DIPLO_HIGH_DEMANDS:0 "Вимоги перевищують воєнний рахунок: "
  DIPLO_WARGOAL_BESIEGED:0 "Обложили мету війни: "
- DIPLO_OCCUPYING_WARLEADER:0 "Повністю окупувалиі ворожого лідера війни: "
+ DIPLO_OCCUPYING_WARLEADER:0 "Повністю окупували ворожого лідера війни: "
  DIPLO_WAR_EXHAUSTION:0 "Втома від війни: "
  DIPLO_CALL_FOR_PEACE:0 "Заклик до миру: "
  DIPLO_WAR_DIRECTION:0 "Держава $WHO$ робить успіхи у війні: "
