@@ -435,6 +435,6 @@
  TRANSFER_TRADE_POWER_THEY_NOT_ADVANCED:0 "Вони не досить розвинені, щоб передавати нам торгову силу."
  OWNED_BY_OR_VASSALS:0 "Належить державі §Y$COUNTRY$§! або її автономіям."
  NOT_OWNED_BY_OR_VASSALS:0 "Не належить державі §Y$COUNTRY$§! або її автономіям."
- OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:1 "Належить державі $COUNTRY|Y$ або її суб'єктам (не включаючи данників)."
- NOT_OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:1 "Не належить державі $COUNTRY|Y$ або її суб'єктам (не включаючи данників)."
+ OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:1 "Належить державі $COUNTRY|Y$ або її суб'єктам (виключаючи данників)."
+ NOT_OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:1 "Не належить державі $COUNTRY|Y$ або її суб'єктам (виключаючи данників)."
  FE_USE_DYNAMIC_PROVINCE_NAMES:0 "Динамічні провінції"

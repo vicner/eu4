@@ -1502,15 +1502,15 @@ muslim_enforced_religion:0 "Примусова релігійна єдність
  bur_channel_ambition:0 "Offshore Assets"
  desc_bur_channel_ambition:0 "Now that we possess the Frisian coast, our merchant fleet can set about making our presence known in the Channel."
  # Arabia generic mission rewards
- ara_gen_goods_mod:0 "Doubletime"
- desc_ara_gen_goods_mod:0 "They say that success breeds further success!"
+ ara_gen_goods_mod:0 "Устократ"
+ desc_ara_gen_goods_mod:0 "Кажуть, що успіх породжує новий успіх!"
  # Mamluk mission rewards
- yemeni_trade_modifier:0 "Yemeni Trade"
- desc_yemeni_trade_modifier:0 "We control trade in the Gulf of Aden, home of coffee and incense production."
- bedouins_pacified:0 "Bedouins Pacified"
- desc_bedouins_pacified:0 "The raiding Bedouins have been subjugated. This is a great relief to our people."
- beyliks_subjugated:0 "Turkish Beyliks Subjugated"
- desc_beyliks_subjugated:0 "The Beyliks of Anatolia once again kneel to the Sultan."
+ yemeni_trade_modifier:0 "Йеменська торгівля"
+ desc_yemeni_trade_modifier:0 "Ми контролюємо торгівлю в Аденській затоці - батьківщині кави і місцю виробництва ладану."
+ bedouins_pacified:0 "Бедуїнів приборкано"
+ desc_bedouins_pacified:0 "Бедуїнських рейдерів підкорено. Тепер наші люди можуть зітхнути з полегшенням."
+ beyliks_subjugated:0 "Підкорення турецьких бейликів"
+ desc_beyliks_subjugated:0 "Бейлики Анатолії знову схилили коліна перед султаном."
  # Bohemian mission rewards
  boh_hussite_revolt:0 "Utraquist Resurgence"
  desc_boh_hussite_revolt:0 "One way or another, our handling of the Hussite rebellion has caused a great resurgence of the utraquist priesthood."
