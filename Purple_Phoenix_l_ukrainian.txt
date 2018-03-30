@@ -1,8 +1,4 @@
 ﻿l_ukrainian:
- recover_west_anatolia_title:0 "Повернення Західної Анатолії"
- recover_west_anatolia_desc:0 "З відвойованим узбережжям ми можемо повернути західні землі Анатолії!"
- recover_central_anatolia_title:0 "Повернення Центральної Анатолії"
- recover_central_anatolia_desc:0 "Ми змусили мусульман тікати, продовжуйте натиск!"
  recover_east_anatolia_title:0 "Повернення Східної Анатолії"
  recover_east_anatolia_desc:0 "Завершіть відвоювання Анатолії!"
  recover_crimea_title:0 "Повернення Кафи"
