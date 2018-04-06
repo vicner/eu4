@@ -3376,7 +3376,7 @@
  PROV4392:0 "Оксеруа"
  test_province_name:0 "Тестове ім'я"
  other_province_name:0 "Друге тестове ім'я"
- rand_prov_straits_of:0 "Пролив $prov$"
+ rand_prov_straits_of:0 "Протока $prov$"
  rand_prov_coast_of:0 "Узбережжя $prov$"
  rand_prov_gulf_of:0 "Затока $prov$"
  rand_prov_sea:0 "Море $prov$"
