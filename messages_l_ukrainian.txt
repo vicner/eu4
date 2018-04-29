@@ -881,7 +881,7 @@
  DIPLOMAT_RETURNED_BTN3:0 "Перейти"
  DIPLOMAT_RETURNED_MAP:0 "Дипломат повернувся"
  KNOWLEDGE_SHARING_TITLE:0 "Запропоновано поділитися знаннями"
- KNOWLEDGE_SHARING_SETUP:0 "Держава погоджується на поділитися знаннями"
+ KNOWLEDGE_SHARING_SETUP:0 "Держава погоджується поділитися знаннями"
  KNOWLEDGE_SHARING_HEADER:0 "Вісник держави"
  KNOWLEDGE_SHARING_1:0 "$RECIPIENT_COUNTRY$"
  KNOWLEDGE_SHARING_2:0 "$MONARCHTITLE$, ми маємо $TYPE$ новини"
@@ -2194,8 +2194,8 @@
  WARTAX_TITLE:0 "Військовий податок"
  WARTAX_SETUP:0 "Ми збираємо військовий податок"
  WARTAX_HEADER:0 "Наш канцлер повідомляє:"
- WARTAX_1:0 "Введено військовий податок!"
- WARTAX_2:0 "Щоби перемогти в цій боротьбі, нам потрібно більше грошей"
+ WARTAX_1:0 "Ми введели військовий податок!"
+ WARTAX_2:0 "Щоби перемогти в цій збройній боротьбі, нам потрібно більше грошей."
  WARTAX_3:0 "Це підвищить наші прибутки за рахунок військових балів."
  WARTAX_4:0 "Ми переможемо або загинемо!"
  WARTAX_5:0 ""
@@ -4208,7 +4208,7 @@
  CONQUISTADOR:0 "Землепроходець"
  EXPLORER:0 "Мореплавець"
  PAP_BONUS_FROM_CONV:0 "Наш вплив на Папу збільшиться на §Y+$VAL$§!.\n"
- 
+
  MISSSUCC_SELF_TITLE:0 "Успішне навернення"
  MISSSUCC_SELF_SETUP:0 "Наш проповідник добивається успіху"
  MISSSUCC_SELF_HEADER:0 "$MESSENGER$"
