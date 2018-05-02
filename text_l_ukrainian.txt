@@ -165,7 +165,7 @@
  building_textile:0 "Текстильна мануфактура"
  building_tradecompany:1 "Торговий пункт"
  building_mills:0 "Млин"
- building_furnace:0 "Горнило"
+ building_furnace:0 "Доменний цех"
  building_university:0 "Університет"
  war_college:0 "Військова академія"
  building_weapons:0 "Військова мануфактура"
