@@ -680,7 +680,7 @@
  gain_foothold_in_ireland.tooltip:0 "§Y[Root.GetName]§! owns any province in Ireland."
  gain_foothold_in_france.tooltip:0 "§Y[Root.GetName]§! owns any province in the France region."
  gain_foothold_in_spain.tooltip:0 "§Y[Root.GetName]§! owns any province in the Iberia region."
- manchu_manchuria.tooltip:0 "§Y[Root.GetName]§! owns at least §Y15§! provinces in the West Siberia region"
+ manchu_manchuria.tooltip:0 "§Y[Root.GetName]§! owns at least §Y25§! provinces in the Manchuria region"
  usa_old_man_river.tooltip:0 "§Y[Root.GetName]§! owns at least §Y10§! fully colonized provinces in the Mississippi region"
  remaining_steppe_1.tooltip:0 "§Y[Root.GetName]§! owns all colonized provinces in the Ural region"
  remaining_steppe_2.tooltip:0 "§Y[Root.GetName]§! owns all colonized provinces in the Western Siberia region"
