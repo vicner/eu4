@@ -6294,7 +6294,7 @@
  middle_east:0 "Близький Схід"
  central_asia:0 "Центральна Азія"
  MODIFIER_ADDED:1 "$WHERE$: $TIME$ діятиме модифікатор '$WHAT|Y$'. Це матиме такі ефекти:\n$EFFECT$\n\n"
- MODIFIER_ADDED_TIME_FOREVER:0 до кінця гри"
+ MODIFIER_ADDED_TIME_FOREVER:0 "до кінця гри"
  MODIFIER_ADDED_TIME_DURATION:0 "$DURATION|Y$"
  MODIFIER_ADDED_TIME_DATE:0 "до $DATE|Y$"
  promote_printing_industry_title:0 "Підтримати друкарство"
