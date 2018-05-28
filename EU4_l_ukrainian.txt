@@ -5185,7 +5185,7 @@
  COMPLETE_MISSION_PREFIX:1 "Завершено завдання §Y$MISSION$§!"
  CANNOT_COMPLETE_MISSION:0 "§RВи не можете виконати це завдання:§!"
  DURATION_YEAR:0 "1 рік"
- DURATION_YEARS:0 "$NUM$ рр."
+ DURATION_YEARS:0 "$NUM$ років."
  DURATION_DAY:0 "1 день"
  DURATION_DAYS:0 "$NUM$ дн."
  DURATION_AND:0 " і "
