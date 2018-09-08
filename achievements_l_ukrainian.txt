@@ -140,7 +140,7 @@
  NEW_ACHIEVEMENT_7_8_NAME:0 "Захищений ринок"
  NEW_ACHIEVEMENT_7_8_DESC:0 "Отримайте 100% меркантилізму."
  NEW_ACHIEVEMENT_7_9_NAME:0 "Королева Меркурію"
- NEW_ACHIEVEMENT_7_9_DESC:1 "Граючи за Кілву, заволодійте Занзібаром та Бомбеєм ( Тхана)."
+ NEW_ACHIEVEMENT_7_9_DESC:1 "Граючи за Кілву, заволодійте Занзібаром та Бомбеєм (Тхана)."
  NEW_ACHIEVEMENT_7_10_NAME:0 "Купа золота"
  NEW_ACHIEVEMENT_7_10_DESC:0 "Володійте десятьмa провінціями, які виробляють золото."
  NEW_ACHIEVEMENT_7_11_NAME:0 "Сини Карфагену"
