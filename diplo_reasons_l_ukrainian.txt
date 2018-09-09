@@ -52,6 +52,7 @@
  DIPLO_NOT_WANT_BRIBE:0 "Не зрадять свого союзника за золото: "
  DIPLO_STABILITY:0 "Стабільність держави $WHO$: "
  DIPLO_IS_COLONY:0 "Провінція $PROV$ є колонією: "
+ DIPLO_COLONY_NO_NATIVE:0 "Держава $COLONY$ є колонією і ніколи не стане нашим союзником: "
  DIPLO_DEMAND_TOO_MUCH:0 "Ви вимагаєте занадто багато: "
  DIPLO_DEMAND_ALL_PROVINCES:0 "Зажадати всі провінції: "
  DIPLO_RELEASE_COUNTRIES:0 "Звільнення держав: "
