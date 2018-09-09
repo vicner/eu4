@@ -49,7 +49,7 @@
  DIPLO_REVOLUTIONARY_WAR:0 "Це революційна війна: "
  DIPLO_NOT_NATIVE:0 "Неможливо використовувати індіанські дипломатичні дії."
  DIPLO_NOT_WANT_GOLD:0 "Окрім золота хочуть інших поступок: "
- DIPLO_NOT_WANT_BRIBE:0 "Не зрадять свого союзника за золото: "
+ DIPLO_NOT_WANT_BRIBE:0 "Не зрадять свого союзника заради золота: "
  DIPLO_STABILITY:0 "Стабільність держави $WHO$: "
  DIPLO_IS_COLONY:0 "Провінція $PROV$ є колонією: "
  DIPLO_COLONY_NO_NATIVE:0 "Держава $COLONY$ є колонією і ніколи не стане нашим союзником: "
