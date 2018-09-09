@@ -201,6 +201,6 @@
  opinion_lodi_released:0 "Звільнення лоді"
  opinion_rajput_connections:0 "Раджпутські зв'язки"
  opinion_rajput_claims:0 "Раджпутська ворожнеча"
- opinion_supported_war:0 "Підтримали нас у війні"
+ opinion_supported_war:0 "Підтримали нашу війну"
  opinion_supported_war_enemy:0 "Підтримали нашого ворога"
  tibetan_steppe_relations:0 "Тибетська дипломатія"
