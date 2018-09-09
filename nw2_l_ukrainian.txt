@@ -121,7 +121,7 @@
  religious_events.18.dd:0 "Це був божий замисел."
  religious_events.18.e:0 "Це час для державної церкви."
  religious_events.18.f:0 "Давайте залишимося вірними вірі наших предків."
- religious_events.18.g:0 "[Root.Monarch.GetTitle] очолить нову Церкву."
+ religious_events.18.g:0 "[Root.Monarch.GetTitle] нашої держави має очолити нову Церкву."
  religious_events.19.t:0 "[Root.GetName] приймає іслам"
  religious_events.19.d:0 "Мусульманські громади нашої держави святкують, оскільки до них дійшли чутки, що ми вирішили прийняти іслам. Всі ті місіонери, яких було відправлено в столицю [Root.Capital.GetName], нарешті зробили свою справу."
  religious_events.19.a:0 "Відтепер ми будемо йти шляхом Сунни."
