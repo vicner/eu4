@@ -5034,7 +5034,7 @@
  OTHERSELLPROV_SETUP:0 "Одна держава купує провінцію в іншої"
  OTHERSELLPROV_HEADER:0 "Вісник держави"
  OTHERSELLPROV_1:0 "$ACTOR$"
- OTHERSELLPROV_2:0 "$RECIPIENT$, ймовірно, має фінансові або дипломатичні проблеми й, як останній засіб, погодився"
+ OTHERSELLPROV_2:0 "$RECIPIENT$, ймовірно, має фінансові або дипломатичні проблеми й, як останній засіб, вони погодилися"
  OTHERSELLPROV_3:0 "продати одну зі своїх провінцій."
  OTHERSELLPROV_4:0 "Провінція $PROVINCE$ відтепер належить державі"
  OTHERSELLPROV_5:1 "$ACTOR$"
