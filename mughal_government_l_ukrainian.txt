@@ -42,7 +42,7 @@
  mughal_government_great_lakes_group_assimilated:0 "Skirmishers of the Great Lakes"
  mughal_government_great_lakes_group_assimilated_desc:0 "The tribes of the Great Lakes in Africa have trained excellent skirmishers. By incorporating them into our grand armies we can more efficiently pillage the riches of our enemies."
  mughal_government_hindusthani_assimilated:0 "Unrelenting Expansion"
- mughal_government_hindusthani_assimilated_desc:0 "As the various incarnations of the Delhi Sultanate have before us, we shall carve out a great Indian empire. Hindusthan is only the beginning!"
+ mughal_government_hindusthani_assimilated_desc:0 "As the various incarnations of the Delhi Sultanate have before us, we shall carve out a great Indian empire. Hindustan is only the beginning!"
  mughal_government_iberian_assimilated:0 "Iberian Colonialism"
  mughal_government_iberian_assimilated_desc:0 "The people of Iberia have set their sights on the discovery and conquest of unknown lands, echoing our own expansionistic ambitions. As part of our nation, they shall conquer and settle where we command."
  mughal_government_iranian_assimilated:0 "Western Advisors"
