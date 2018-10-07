@@ -517,7 +517,7 @@
  NEW_ACHIEVEMENT_14_2_NAME:0 "Sun Invasion"
  NEW_ACHIEVEMENT_14_2_DESC:0 "As the Madyas, own and have cores on Tepeacac, Mexico, Tullucan and Huastec."
  NEW_ACHIEVEMENT_14_3_NAME:0 "Sleepless in Seattle"
- NEW_ACHIEVEMENT_14_3_DESC:0 "Own 10 Coffee producing provinces, and have your capital in Chehalis."
+ NEW_ACHIEVEMENT_14_3_DESC:1 "Own 10 Coffee producing provinces, and have your capital in Salish."
  NEW_ACHIEVEMENT_14_4_NAME:0 "Philippine Tiger"
  NEW_ACHIEVEMENT_14_4_DESC:0 "As Cebu, recreate the Chola Empire."
  NEW_ACHIEVEMENT_14_5_NAME:0 "Empire of Mann"
