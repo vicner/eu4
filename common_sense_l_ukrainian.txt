@@ -1003,7 +1003,7 @@
  opinion_smuggling_hindered:0 "Перешкода контрабанді"
  opinion_small_smuggling_ok:0 "Дрібна контрабанда"
  si_scutage_unwilling_vassals:0 "Васал не готовий платити щитовий збір"
- si_scutage_unwilling_vassals_desc:0 "Незважаючи на всі запевнення васала про чесну виплату щитових грошей, ми знаходимо прикрим той факт, що не всі гроші доходять до нашої казни..."
+ desc_si_scutage_unwilling_vassals:0 "Незважаючи на всі запевнення васала про чесну виплату щитових грошей, ми знаходимо прикрим той факт, що не всі гроші доходять до нашої казни..."
  opinion_embarrasing_loyalists:0 "Безтактність лоялістів"
  support_loyalists:0 "Сюзерен підтримав лоялістів"
  opinion_cruel_officers:0 "Жорстокі офіцери"
