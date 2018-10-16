@@ -729,7 +729,7 @@
  UNSAFE_EXPLANATION:0 "Показати/сховати ігри, які було збережено у іншій версії ЄУ4, або з використанням DLC чи мода, вимкненого на даний момент."
  AUTOSAVE_TOCLOUD:0 "Автозбереження в Steam Cloud"
  COMPRESS_AUTOSAVES:0 "Стиснення автозбережень"
- RICH_PRESENCE:0 "Rich presence"
+ RICH_PRESENCE:0 "Розширена присутність"
  AUTOPAUSE_ON_EVENTS:0 "Пауза під час подій"
  TRANSFER_SAVEGAME:0 "Перерахунок збереження: $NAME|Y%$"
  LOADING_SAVEGAME:0 "Завантаження збереження: $NAME|Y%$"
