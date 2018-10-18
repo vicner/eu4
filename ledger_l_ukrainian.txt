@@ -186,7 +186,7 @@
  LEDGER_EMBARGOED_THEM:0 "Вони наклали ембарго"
  LEDGER_TRUCE:0 "Мир"
  LEDGER_CLEAR:0 "Очистити"
- LEDGER_TRADE_GOODS_TOP_SUPPLY:0 "15 провідних провінцій-постачальників" 
+ LEDGER_TRADE_GOODS_TOP_SUPPLY:0 "15 провідних провінцій-постачальників"
  LEDGER_TRADE_GOODS_DEMAND_CAPITAL:0 "Має попит у столиці $CAPITAL|Y$"
  LEDGER_COUNTRY_DESC:0 "$WHO$ є '$GOV|Y$' в $CONTINENT$."
  LEDGER_COUNTRY_DESC2:0 "Форма правління держави $WHO$ - $GOV|Y$."
