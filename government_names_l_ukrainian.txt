@@ -496,3 +496,6 @@
  WANG:0 "Ван"
  MONG:0 "Монг"
  SAOPHA:0 "Саофа"
+ ILKHANATE:0 "Ільханат"
+ ILKHAN:0 "Ільхан"
+ ILKHATUN:0 "Ільхатун"
