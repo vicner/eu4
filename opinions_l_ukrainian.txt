@@ -208,5 +208,5 @@
  impaled_the_sultan_opinion:0 "Посадив на палю султана"
  loyal_voidode:0 "Вірний воєвода"
  resisted_polish_interference:0 "Опір польському втручанню"
- supported_prussian_confederation:0 "Підтримка Прусської конфедерації"
+ supported_prussian_confederation:0 "Підтримка Пруської конфедерації"
  allowed_kalmyk_settlement:0 "Дозволив переселення калмиків"
