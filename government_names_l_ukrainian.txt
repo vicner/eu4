@@ -499,3 +499,5 @@
  ILKHANATE:0 "Ільханат"
  ILKHAN:0 "Ільхан"
  ILKHATUN:0 "Ільхатун"
+
+ 
