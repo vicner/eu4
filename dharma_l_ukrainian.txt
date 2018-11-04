@@ -151,7 +151,7 @@
  EST_VAL_NOBLE_PESHWA:0 "Пешва-шляхтич: §Y$VAL$%§!"
  brahmins_estate_events.9.t:0 "Антибрахманські релігійні рухи"
  brahmins_estate_events.9.d:0 "The Brahmins have traditionally had a monopoly on Hindu religious authority, but occasionally religious movements emerge that challenge Brahminism. Such movements are becoming popular throughout [Root.Country.GetName] in spite of Brahmin efforts to suppress them. Exponents of popular religion argue that the Brahmins have wiped off the sacred marks from their foreheads and eschewed their spiritual responsibilities in order to occupy seats of temporal power and mete out injustice to the poor. They declare that selfless devotion is the only path to salvation, a virtue that can be attained by any sufficiently fervent Hindu.\n\nA group of influential Brahmins have approached the [Root.Monarch.GetTitle] pleading for [Root.Monarch.GetHerHis] aid in restoring public confidence in Brahmin authority and suppressing non-Brahmin Hindu movements."
- brahmins_estate_events.9.a:0 Допомогти брахманам відновити ортодоксію."
+ brahmins_estate_events.9.a:0 "Допомогти брахманам відновити ортодоксію."
  brahmins_estate_events.9.b:0 "Підтримати народні релігійні рухи."
  non_brahmin_tooltip:0 "Усі провінції в нашому володінні, приналежні стану §Yбрахманів§! отримають модифікатор §Y'Відновлення брахманської ортодоксії'§! на §Y15 років§!, що дасть такі ефекти:\nМісцеві заворушення: §R+5.00§!\nЩомісячна зміна автономії: §G-0.05%§!"
  brahmins_estate_events.10.t:0 "Проблеми з фортецею в провінції [brahmin_fort_province.GetName]"
@@ -913,7 +913,7 @@
  estate_cossacks_disaster_tooltip:0 "Якщо це станеться, §Yкозаки§! роголосять незалежність і створять свою державу!"
  estate_cossacks_disaster_tooltip_cossacks:0 "Якщо це станеться, §Yкозаки§! проголосять незалежність і створять свою державу! Ви можете продовжити гру за нову країну."
  estate_dhimmi_disaster_tooltip:0 "Якщо це станеться, §Yзіммі§! роголосять незалежність і створять свою державу!"
- estate_dhimmi_disaster_tooltip_cossacks:0 "Якщо це станеться, §Yзіммі§! проголосять незалежність і створять свою державу! Ви можете продовжити гру за нову країну.
+ estate_dhimmi_disaster_tooltip_cossacks:0 "Якщо це станеться, §Yзіммі§! проголосять незалежність і створять свою державу! Ви можете продовжити гру за нову країну."
  THEY_IN_RIVAL_TEAM:0 "Вони в конкуруючій команді."
  USE_AGE_SCORING_TOOLTIP:1 "У грі із зануленням епох, усі нації втрачатимуть свої бали при переході в нову епоху."
  USE_TEAMS_TOOLTIP:0 "Дозволяє створювати команди в мережевій грі. Члени однієї команди можуть укладати альянси лише одне з одним, але не з іншими гравцями."
