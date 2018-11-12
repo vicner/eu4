@@ -1592,7 +1592,7 @@
  dlh_sind_conquest_modifier:0 "Завоювання Сінда"
  desc_dlh_sind_conquest_modifier:0 "Відданість мусульман Сінда переконує послідовників ісламу по всій нашій імперії в істинності нашої віри."
  dlh_rajput_conquest_modifier:0 "Завоювання Раджпутани"
- desc_dlh_rajput_conquest_modifier:0 "Раджпутів нарешті інтегровано до нашої держави, а зними й їхню військову майстерність."
+ desc_dlh_rajput_conquest_modifier:0 "Раджпутів нарешті інтегровано до нашої держави, а з ними й їхню військову майстерність."
  dlh_deccan_conquest_modifier:0 "Завоювання Декана"
  desc_dlh_deccan_conquest_modifier:0 "Тепер увесь Декан під нашою владою. Тепер ми можемо використовувати арабських коней, що імпортуються через західне узбережжя."
  # Orissa mission rewards
