@@ -39,7 +39,7 @@
  all_coffee_owned_by_you:0 "Жодна провінція в Азії, Європі, Африці чи Океанії, яка виробляє §Yкаву§! не контролюється європейськими державами."
  chop_chop.tooltip:0 "Мав §Y6§! окремих консортів одного монарха."
  anglophile.tooltip:0 "Виконано усі англійські та британські місії."
-achievement_mewar_never_changes_tooltip:0 "Виконано усі меварські місії."
+ achievement_mewar_never_changes_tooltip:0 "Виконано усі меварські місії."
  achievement_the_coin_is_stronger_than_the_sword_tooltip:0 "Купити індійську провінцію за допомогою торгової компанії."
  populists_in_government_tooltip:0 "Змініть тип уряду запровадивши урядові реформи."
  achievement_fine_financials_tooltip:0 "Володійте щонайменше §Y8§! центрами торгівлі §Y3§! рівня."

@@ -3412,7 +3412,7 @@
  INSUTOUS_SCORNFUL_3:0 "§Y"$SCORNFUL_INSULT$"§!"
  INSUTOUS_SCORNFUL_4:1 " "
  INSUTOUS_SCORNFUL_5:1 "Тепер у нас є на них Casus Belli, а наші відносини погіршилися."
- INSUTOUS_SCORNFUL_6:1 Нам потрібно навчити цих ломакуватих варварів з держави $ACTOR$ ставитися з повагою до старших!"
+ INSUTOUS_SCORNFUL_6:1 "Нам потрібно навчити цих ломакуватих варварів з держави $ACTOR$ ставитися з повагою до старших!"
  INSUTOUS_SCORNFUL_LOG:0 "Держава $ACTOR$ надіслала нам образу."
  INSUTOUS_SCORNFUL_BTN1:0 "Гаразд"
  INSUTOUS_SCORNFUL_BTN2:0 "Гаразд"
