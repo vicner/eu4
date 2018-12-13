@@ -47,3 +47,8 @@
  achievement_eat_your_greens_tooltip:0 "Володійте напряму, або через суб'єкта, кожною провінцією в §YАзії§!, що має ландшафт §Yлуки§! до почарку епохи Абсолютизму."
  achievement_emperor_of_hindustan_tooltip:0 "Відновити кордони Делі до їхніх найбільших в історії розмірів."
  achievement_the_pheasant_strut_tooltip:0 "Перемогти Прусію, завдавши їй щонайменше §Y100 000§! втрат у війні, де Непал і Прусія є воєнними лідерами."
+ completed_spanish_missions:0 "Completed all Spanish missions."
+ discovered_random_new_world:0 "Discovered the entire New World."
+ captured_a_flagship:0 "Has captured an enemy Flagship."
+ expelled_5_different_minorities_tooltip:0 "Has expelled 5 different minorities."
+ spanish_fly_tooltip:0 "Any country with a capital in the Iberia region is a Junior Partner of [Root.GetName]."
