@@ -233,14 +233,14 @@
  ADVISOR_TYPE_NOT_EMPLOYED_0:0 "На даний момент не найнятий $TYPE$.\n" #Example: No Quartermaster is currently employed
  ADVISOR_TYPE_NOT_EMPLOYED_1:0 "На даний момент не найнятий $ARG0$ий $TYPE$.\n" #Example: No French Advisor is currently employed
  ADVISOR_TYPE_NOT_EMPLOYED_2:0 "На даний момент не найнятий $ARG1$ий $TYPE$-$ARG0$.\n" #Example: No Protestant English Statesman is currently employed
- ADVISOR_TYPE_NOT_EMPLOYED_3:0 "На даний момент не найнятий $ARG1$ий  $TYPE$-$ARG0$ радник-$ARG2$.\n" #Example: No Protestant English female Statesman is currently employed
+ ADVISOR_TYPE_NOT_EMPLOYED_3:0 "На даний момент не найнятий $ARG1$ий $TYPE$-$ARG0$ радник-$ARG2$.\n" #Example: No Protestant English female Statesman is currently employed
  ADVISOR_TYPE_EMPLOYED_0:0 "На даний момент найнятий $TYPE$.\n" #Example: Quartermaster is currently employed
  ADVISOR_TYPE_EMPLOYED_1:0 "На даний момент найнятий $ARG0$ий $TYPE$.\n" #Example: French Advisor is currently employed
  ADVISOR_TYPE_EMPLOYED_2:0 "На даний момент найнятий $ARG1$ий $TYPE$-$ARG0$.\n" #Example: Protestant English Statesman is currently employed
  ADVISOR_TYPE_EMPLOYED_3:0 "На даний момент найнятий $ARG1$ий $TYPE$-$ARG0$ радник-$ARG2$.\n" #Example: Protestant English male Statesman is currently employed
  ADD_SPY_NETWORK_IN:0 "Збільшити розмір шпигунської мережі у державі $TARGET$ на $VAL|+$.\n"
  ADD_SPY_NETWORK_FROM:0 "$TARGET$ збільшить розмір своєї шпигунської мережі на $VAL|-$.\n"
- HAVE_SPY_NETWORK_IN:0 "Розмір шпигунської мережі у державі  $TARGET$ щонайменше $VAL$.\n"
+ HAVE_SPY_NETWORK_IN:0 "Розмір шпигунської мережі у державі $TARGET$ щонайменше $VAL$.\n"
  NOT_HAVE_SPY_NETWORK_IN:0 "Розмір шпигунської мережі у державі $TARGET$ не перевищує $VAL$.\n"
  HAVE_SPY_NETWORK_FROM:0 "Розмір шпигунської мережі держави $TARGET$ щонайменше $VAL$.\n"
  NOT_HAVE_SPY_NETWORK_FROM:0 "Розмір шпигунської мережі держави $TARGET$ не перевищує $VAL$.\n"
@@ -631,11 +631,11 @@
  HAVE_LESS_THAN_ADM_POWER_COST_TRIGGER:0 "Адміністративних балів менше $AMOUNT|Y$.\n"
  HAVE_LESS_THAN_DIP_POWER_COST_TRIGGER:0 "Дипломатичних балів менше $AMOUNT|Y$.\n"
  HAVE_LESS_THAN_MIL_POWER_COST_TRIGGER:0 "Військових балів менше $AMOUNT|Y$.\n"
- HAVE_MORE_THAN_ADM_POWER_COST_TRIGGER:0 "Адміністративних балів дорівнює $AMOUNT|Y$.\n"
- HAVE_MORE_THAN_DIP_POWER_COST_TRIGGER:0 "Дипломатичних балів дорівнює $AMOUNT|Y$.\n"
- HAVE_MORE_THAN_MIL_POWER_COST_TRIGGER:0 "Військових балів дорівнює $AMOUNT|Y$.\n"
- ADM_POWER_COST_EFFECT:1 "Буде втрачено адміністративних балів: $AMOUNT|R$.\n"
- DIP_POWER_COST_EFFECT:1 "Буде втрачено дипломатичних балів: $AMOUNT|R$.\n"
- MIL_POWER_COST_EFFECT:1 "Буде втрачено військових балів: $AMOUNT|R$.\n"
+ HAVE_MORE_THAN_ADM_POWER_COST_TRIGGER:0 "Число адміністративних балів дорівнює $AMOUNT|Y$.\n"
+ HAVE_MORE_THAN_DIP_POWER_COST_TRIGGER:0 "Число дипломатичних балів дорівнює $AMOUNT|Y$.\n"
+ HAVE_MORE_THAN_MIL_POWER_COST_TRIGGER:0 "Число військових балів дорівнює $AMOUNT|Y$.\n"
+ ADM_POWER_COST_EFFECT:1 "Буде втрачено $AMOUNT|R$ адміністративних балів.\n"
+ DIP_POWER_COST_EFFECT:1 "Буде втрачено $AMOUNT|R$ дипломатичних балів.\n"
+ MIL_POWER_COST_EFFECT:1 "Буде втрачено $AMOUNT|R$ військових балів.\n"
  HAS_HOSTILE_TROOPS:0 "Є ворожі війська.\n"
  HAS_NO_HOSTILE_TROOPS:0 "Немає ворожих військ.\n"
