@@ -33,7 +33,7 @@
  chipewyan:0 "Чіпев'янськ"
  arapaho:0 "Арапахойськ"
  ge:0 "Жеськ"
- otomanguean:0 "Отоманзьк"
+ otomanguean:0 "Отомангейськ"
  khorasani:0 "Хорасанськ"
  bornean:0 "Борнейськ"
  harari:0 "Харарийськ"
