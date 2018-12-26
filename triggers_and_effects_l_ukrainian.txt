@@ -141,12 +141,12 @@
  EMPIRE_CAN_BE_FEMALE:0 "Жінки можуть займати імператорський трон.\n"
  HAVE_LESS_MERCENARIES_THAN:0 "Число найманців менше §Y$VALUE$§!.\n"
  HAVE_AT_LEAST_MERCENARIES_THAN:0 "Число найманців щонайменше §Y$VALUE$§!.\n"
- HAVE_LESS_BANNERS_THAN:0 "Число корогов менше §Y$VALUE$§!.\n"
- HAVE_AT_LEAST_BANNERS_THAN:0 "Число корогов щонайменше §Y$VALUE$§!.\n"
- HAVE_LESS_STRELTSY_THAN:0 "Число стрільців менше §Y$VALUE$§!.\n"
- HAVE_AT_LEAST_STRELTSY_THAN:0 "Число стрільців щонайменше §Y$VALUE$§!.\n"
- HAVE_LESS_COSSACKS_THAN:0 "Число козаків менше §Y$VALUE$§!.\n"
- HAVE_AT_LEAST_COSSACKS_THAN:0 "Число козаків щонайменше §Y$VALUE$§!.\n"
+ HAVE_LESS_BANNERS_THAN:1 "Число корогов менше §Y$VALUE$§!.\n"
+ HAVE_AT_LEAST_BANNERS_THAN:1 "Число корогов щонайменше §Y$VALUE$§!.\n"
+ HAVE_LESS_STRELTSY_THAN:1 "Число стрільців менше §Y$VALUE$§!.\n"
+ HAVE_AT_LEAST_STRELTSY_THAN:1 "Число стрільців щонайменше §Y$VALUE$§!.\n"
+ HAVE_LESS_COSSACKS_THAN:1 "Число козаків менше §Y$VALUE$§!.\n"
+ HAVE_AT_LEAST_COSSACKS_THAN:1 "Число козаків щонайменше §Y$VALUE$§!.\n"
  HAVE_LESS_HARMONIZED_THAN:1 "Число гармонізованих релігій або груп менше $VALUE|Y$ (поточне значення $CURRENTVALUE|Y$)."
  HAVE_AT_LEAST_HARMONIZED_THAN:1 "Число гармонізованих релігій або груп щонайменше $VALUE|Y$ (поточне значення $CURRENTVALUE|Y$)."
  HAVE_LESS_HARMONIZED_THAN_COMP:1 "Гармонізовано менше релігій або груп, ніж у держави $COUNTRYNAME|Y$ ($VALUE|Y$). Поточне значення $CURRENTVALUE|Y$."
@@ -233,14 +233,14 @@
  ADVISOR_TYPE_NOT_EMPLOYED_0:0 "На даний момент не найнятий $TYPE$.\n" #Example: No Quartermaster is currently employed
  ADVISOR_TYPE_NOT_EMPLOYED_1:0 "На даний момент не найнятий $ARG0$ий $TYPE$.\n" #Example: No French Advisor is currently employed
  ADVISOR_TYPE_NOT_EMPLOYED_2:0 "На даний момент не найнятий $ARG1$ий $TYPE$-$ARG0$.\n" #Example: No Protestant English Statesman is currently employed
- ADVISOR_TYPE_NOT_EMPLOYED_3:0 "На даний момент не найнятий $ARG1$ий  $TYPE$-$ARG0$ радник-$ARG2$.\n" #Example: No Protestant English female Statesman is currently employed
+ ADVISOR_TYPE_NOT_EMPLOYED_3:0 "На даний момент не найнятий $ARG1$ий $TYPE$-$ARG0$ радник-$ARG2$.\n" #Example: No Protestant English female Statesman is currently employed
  ADVISOR_TYPE_EMPLOYED_0:0 "На даний момент найнятий $TYPE$.\n" #Example: Quartermaster is currently employed
  ADVISOR_TYPE_EMPLOYED_1:0 "На даний момент найнятий $ARG0$ий $TYPE$.\n" #Example: French Advisor is currently employed
  ADVISOR_TYPE_EMPLOYED_2:0 "На даний момент найнятий $ARG1$ий $TYPE$-$ARG0$.\n" #Example: Protestant English Statesman is currently employed
  ADVISOR_TYPE_EMPLOYED_3:0 "На даний момент найнятий $ARG1$ий $TYPE$-$ARG0$ радник-$ARG2$.\n" #Example: Protestant English male Statesman is currently employed
  ADD_SPY_NETWORK_IN:0 "Збільшити розмір шпигунської мережі у державі $TARGET$ на $VAL|+$.\n"
  ADD_SPY_NETWORK_FROM:0 "$TARGET$ збільшить розмір своєї шпигунської мережі на $VAL|-$.\n"
- HAVE_SPY_NETWORK_IN:0 "Розмір шпигунської мережі у державі  $TARGET$ щонайменше $VAL$.\n"
+ HAVE_SPY_NETWORK_IN:0 "Розмір шпигунської мережі у державі $TARGET$ щонайменше $VAL$.\n"
  NOT_HAVE_SPY_NETWORK_IN:0 "Розмір шпигунської мережі у державі $TARGET$ не перевищує $VAL$.\n"
  HAVE_SPY_NETWORK_FROM:0 "Розмір шпигунської мережі держави $TARGET$ щонайменше $VAL$.\n"
  NOT_HAVE_SPY_NETWORK_FROM:0 "Розмір шпигунської мережі держави $TARGET$ не перевищує $VAL$.\n"
@@ -288,9 +288,9 @@
  DYNASTY_CHANGE:0 "$NEW$ змінює на престолі правителя $WHO$\n"
  IS_NOT_STRONGEST_TRADE_POWER:0 "§Y$WHO$§W не має найбільшого торговельного впливу в регіоні."
  HAS_NOT_MORE_TRADE_POWER:0 "Торгова сила держави $WHO|Y$ менше $VAL$%."
- HAS_SAME_OR_MORE_TRADE_POWER:0 "Торгова сила держави $WHO|Y$ щонайменше $VAL$%."
- HAS_NOT_MORE_PRIVATEERS:0 "Торгова сила каперів держави $WHO|Y$ менше $VAL|%$."
- HAS_SAME_OR_MORE_PRIVATEERS:0 "Торгова сила каперів держави $WHO|Y$ щонайменше $VAL|%$."
+ HAS_SAME_OR_MORE_TRADE_POWER:1 "Торгова сила держави $WHO|Y$ щонайменше §Y$VAL$%§W."
+ HAS_NOT_MORE_PRIVATEERS:0 "Торгова сила каперів держави $WHO|Y$ менше $VAL$."
+ HAS_SAME_OR_MORE_PRIVATEERS:0 "Торгова сила каперів держави $WHO|Y$ щонайменше $VAL$%."
  HAS_PRIVATEERS_IN_ANY_NODE:0 "$WHO|Y$ має каперів у хоча б одному (будь-якому) вузлі."
  HAS_NOT_PRIVATEERS_IN_ANY_NODE:0 "$WHO|Y$ не має каперів у жодному вузлі."
  HAS_NOT_MORE_PRIVATEERS_IN_NODE:0 "$WHO|Y$ має менше $VAL$% каперів у вузлі $WHERE|Y$."
@@ -631,9 +631,11 @@
  HAVE_LESS_THAN_ADM_POWER_COST_TRIGGER:0 "Адміністративних балів менше $AMOUNT|Y$.\n"
  HAVE_LESS_THAN_DIP_POWER_COST_TRIGGER:0 "Дипломатичних балів менше $AMOUNT|Y$.\n"
  HAVE_LESS_THAN_MIL_POWER_COST_TRIGGER:0 "Військових балів менше $AMOUNT|Y$.\n"
- HAVE_MORE_THAN_ADM_POWER_COST_TRIGGER:0 "Адміністративних балів дорівнює $AMOUNT|Y$.\n"
- HAVE_MORE_THAN_DIP_POWER_COST_TRIGGER:0 "Дипломатичних балів дорівнює $AMOUNT|Y$.\n"
- HAVE_MORE_THAN_MIL_POWER_COST_TRIGGER:0 "Військових балів дорівнює $AMOUNT|Y$.\n"
- ADM_POWER_COST_EFFECT:0 "Буде втрачено адміністративних балів: $AMOUNT|R$.\n"
- DIP_POWER_COST_EFFECT:0 "Буде втрачено дипломатичних балів: $AMOUNT|R$.\n"
- MIL_POWER_COST_EFFECT:0 "Буде втрачено військових балів: $AMOUNT|R$.\n"
+ HAVE_MORE_THAN_ADM_POWER_COST_TRIGGER:0 "Число адміністративних балів дорівнює $AMOUNT|Y$.\n"
+ HAVE_MORE_THAN_DIP_POWER_COST_TRIGGER:0 "Число дипломатичних балів дорівнює $AMOUNT|Y$.\n"
+ HAVE_MORE_THAN_MIL_POWER_COST_TRIGGER:0 "Число військових балів дорівнює $AMOUNT|Y$.\n"
+ ADM_POWER_COST_EFFECT:1 "Буде втрачено $AMOUNT|R$ адміністративних балів.\n"
+ DIP_POWER_COST_EFFECT:1 "Буде втрачено $AMOUNT|R$ дипломатичних балів.\n"
+ MIL_POWER_COST_EFFECT:1 "Буде втрачено $AMOUNT|R$ військових балів.\n"
+ HAS_HOSTILE_TROOPS:0 "Є ворожі війська.\n"
+ HAS_NO_HOSTILE_TROOPS:0 "Немає ворожих військ.\n"

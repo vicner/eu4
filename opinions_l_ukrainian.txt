@@ -210,3 +210,7 @@
  resisted_polish_interference:0 "Опір польському втручанню"
  supported_prussian_confederation:0 "Підтримка Пруської конфедерації"
  allowed_kalmyk_settlement:0 "Дозволив переселення калмиків"
+ opinion_aragon_protector:0 "Іберійський захисник"
+ anglo_portuguese_alliance:0 "Англо-португальський альянс"
+ opinion_defected_privateer:0 "Збіглий пірат"
+ opinion_sublimis_deus:0 "Sublimis Deus"
