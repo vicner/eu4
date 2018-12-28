@@ -328,4 +328,3 @@
  mechanic_has_term_election_yes:0 ""
  mechanic_has_term_election_no:0 ""
  NEEDS_REGULAR_ELECTIONS:0 "Правитель не повинен правити довічно."
-
