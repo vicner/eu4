@@ -1285,7 +1285,7 @@
  DOMINANT_TERRAIN:0 "Переважний рельєф: $TERRAIN|Y$"
  OTHER_TERRAINS:0 "Інший рельєф у провінції: "
  CURRENT_COMBAT_WIDTH:0 "Поточна ширина фронту: §Y$WIDTH$§!"
- IDEAGROUP_SWAPPED:0 "Отримати нові традиції і амбіції\n"
+ IDEAGROUP_SWAPPED:0 "Отримує нові традиції та амбіції\n"
  WE_SUBJECT:0 "Ми – залежна держава."
  THEY_SUBJECT:0 "Це залежна держава."
  RESOURCE_PRICE_DATA2:0 "Поточна ціна: §Y$PRICE$§!¤"
