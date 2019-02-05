@@ -1793,7 +1793,7 @@
  nav_aragonese_inheritance_title:0 "Арагонська спадщина"
  nav_aragonese_inheritance_desc:0 "Зі смертю короля Альфонса корони Наварри та Арагона повинні об'єднатися під владою одного монарха. Ми повинні забезпечити старше партнерство Наварри в цьому союзі, або захопити корону Арагона силою."
  nav_dominate_espainiako_title:1 "Влада над Еспайньяко"
- nav_dominate_espainiako_desc:0 "Наварра занадто довго мала вигкяд недомірка в колі великих народів Іберії. Прийшов час королівству Памплона встановити владу над всім півостровом і створити Імперію басків!"
+ nav_dominate_espainiako_desc:0 "Наварра занадто довго мала вигляд недомірка в колі великих народів Іберії. Прийшов час королівству Памплона встановити владу над всім півостровом і створити Імперію басків!"
  ###Granadan and Andalusian Missions
  gra_refugees_flock_to_us_title:0 "The Plight of our Kin"
  gra_refugees_flock_to_us_desc:0 "For many hundreds of years, the infidel reconquista has persecuted our brethren in Iberia. Where once the benevolent caliphate brought peace to the region, now our people flock to us in droves. It becomes us to prepare a home for them, that they might find the welcoming embrace of the faithful."
