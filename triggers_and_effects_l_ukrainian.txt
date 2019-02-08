@@ -639,3 +639,4 @@
  MIL_POWER_COST_EFFECT:1 "Буде втрачено $AMOUNT|R$ військових балів.\n"
  HAS_HOSTILE_TROOPS:0 "Є ворожі війська.\n"
  HAS_NO_HOSTILE_TROOPS:0 "Немає ворожих військ.\n"
+ OWNS_ALL_PROVINCES:0 "Володіти всіма провінціями:\n"
