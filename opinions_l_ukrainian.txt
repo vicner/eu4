@@ -95,6 +95,7 @@
  opinion_accepted_primas_germaniae:0 "Прийнято титул германського Примасу"
  opinion_supported_primas_germaniae:0 "Підтримав нового германського Примаса"
  opinion_lost_primas_germaniae:0 "Не підтримав нового германського Примаса"
+ opinion_declined_primas_germaniae:0 "Відхилено примаса Германії"
  opinion_improved_relations:0 "Покращення стосунків"
  opinion_eased_tension:0 "Спад напруженості"
  opinion_granted_privileges:0 "Надав привілеї дворянству"
