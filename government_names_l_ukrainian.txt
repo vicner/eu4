@@ -461,7 +461,7 @@
  GRAND_MAMBO:0 "Верховний Мамбо"
  GRAND_MAMBO_fem:0 "Верховна Мамбо"
  GREAT_MAMBO:0 "Великий Мамбо"
- GREAT_MAMBO_fem:0 "Верховна Мамбо"
+ GREAT_MAMBO_fem:0 "Велика Мамбо"
  KABAKA:0 "Кабака"
  GREAT_KABAKA:0 "Великий Кабака"
  NNABAGEREKA:0 "Ннабагерека"
