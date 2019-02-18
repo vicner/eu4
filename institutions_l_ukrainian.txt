@@ -99,8 +99,7 @@
  tooltip_any_friendly_coast_border_province_has_embraced_colonialism:0 "Сусідня дружня провінція запровадила §YКолоніалізм§!"
  tooltip_any_friendly_coast_border_province_has_embraced_enlightenment:0 "Сусідня дружня провінція запровадила §YПросвітництво§!"
  tooltip_any_friendly_coast_border_province_has_embraced_renaissance:0 "Сусідня дружня провінція запровадила §YРенесанс§!"
- birthplace_of_the_renaissance_institution:0 "Колиска Ренесансу"
- desc_birthplace_of_the_renaissance_institution:0 "Ця провінція була основним центром Ренесансу й усе ще отримує користь від свого становища."
+ desc_birthplace_of_the_renaissance:0 "Ця провінція була основним центром Ренесансу й усе ще отримує користь від свого становища."
  birthplace_of_the_new_world:0 "Основний колоніальний порт"
  desc_birthplace_of_the_new_world:0 "У цій провінції розташований один з найважливіших колоніальних портів у світі, заснованому на зорі колонізації, коли було відкрито Новий Світ."
  birthplace_of_printing_press:0 "Центр друку"
@@ -116,3 +115,4 @@
  rapid_collapse_of_society:0 "Швидкий занепад суспільства"
  desc_rapid_collapse_of_society:0 "Епідемії, що вибухнули після перших контактів з європейцями, спустошують нашу державу. Стрімке зростання числа померлих і хворих викликало швидкий занепад суспільних порядків, дисципліни та загальної організації нашої держави."
  rapid_collapse_of_society_tooltip:0 "Європейські хвороби вдарили по державі [Root.GetName] менше 25 років тому."
+
