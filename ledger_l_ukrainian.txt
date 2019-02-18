@@ -212,3 +212,4 @@
  LEDGER_GOVERNMENT_ADMIN_EFF:0 "Адміністративна ефективність"
  LEDGER_GOVERNMENT_ABSOLUTISM:0 "Абсолютизм"
  LEDGER_GOVERNMENT_MAX_ABSOLUTISM:0 "Максимальний абсолютизм"
+ 
