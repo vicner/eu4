@@ -1,6 +1,6 @@
 ﻿l_ukrainian:
  ASSIMILATED_CULTURE_HEADER:0 "$TITLE|Y$"
- ASSIMILATED_CULTURE_NO_BENEFIT:0 "Асиміляція цієї культурної групи не дає ніяких переваг."
+ ASSIMILATED_CULTURE_NO_BENEFIT:0 "Асиміляція цієї культурної групи не дає жодних переваг."
  mughal_government_altaic_assimilated:0 "Туркменські стрільці"
  mughal_government_altaic_assimilated_desc:0 "Після нашого підкорення Центрально–Азійських степів туркменські стрільці влилися в наші армії. Наші вороги поховаються з переляку, коли зачують наші залпи!"
  mughal_government_baltic_assimilated:0 "Балтійська торгівля"
