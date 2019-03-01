@@ -25,7 +25,7 @@
  insult_rival_desc:0 "Ми ненавидимо їх і хочемо щоб вони про це знали."
  befriend_rival_rival_title:0 "Ворог нашого ворога"
  befriend_rival_rival_desc:0 "$COUNTRY$ – теж ворогує з нашим суперником, тому вони повинні стати нашими друзями."
- take_from_rival_culture_title:0 "Врятуйте $PROVINCECULTURE$§z§!ий народ!"
+ take_from_rival_culture_title:0 "Врятуйте $PROVINCECULTURE$§z§!ий народ!"
  take_from_rival_culture_desc:0 "Наш суперник, держава $OWNERNAME$, утримує наших братів заручниками в провінції $PROVINCENAME$. Прийшов час їх визволити!"
  take_from_rival_religion_title:0 "Врятуйте віруючих у провінції $PROVINCENAME$!"
  take_from_rival_religion_desc:0 "Наш суперник, держава $OWNERNAME$, безжально переслідує наших братів по вірі в провінції $PROVINCENAME$. Ми повинні врятувати їхні душі!"
