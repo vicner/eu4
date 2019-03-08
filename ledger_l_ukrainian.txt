@@ -14,7 +14,7 @@
  LEDGER_NEXT:0 "Наступна"
  LEDGER_CLOSE:0 "Закрити"
  LEDGER_NATION_TECHNOLOGY:0 "Технології держави"
- LEDGER_INCOME_OVERVIEW:0 "Огляд доходів"
+ LEDGER_INCOME_OVERVIEW:0 "Огляд прибутку"
  LEDGER_CATEGORY:0 "Категорія"
  LEDGER_LAST_YEAR:0 "Минулого року"
  LEDGER_THIS_YEAR:0 "Цього року"
