@@ -1982,7 +1982,7 @@
  CV_RESEARCHED_MANEUVER_TOOLTIP:0 "+ Збільшується маневреність на §G+$NUM$%§! (рівень $LEVEL$)"
  CV_NOTRESEARCHED_MANEUVER_TOOLTIP:0 "§g- Збільшується маневреність на §G+$NUM$%§g (рівень $LEVEL$)§!"
  CV_RESEARCHED_MANEUVER_TOOLTIP_NEW:0 "+ Збільшує ширину флангів на §G+$NUM$%§! (рівень $LEVEL$)"
- CV_NOTRESEARCHED_MANEUVER_TOOLTIP_NEW:0 "§g- Збільшує ширину флангов на §G+$NUM$%§g (рівень $LEVEL$)§!"
+ CV_NOTRESEARCHED_MANEUVER_TOOLTIP_NEW:0 "§g- Збільшує ширину флангів на §G+$NUM$%§g (рівень $LEVEL$)§!"
  CV_RESEARCHED_TECH_TOOLTIP:0 "+ Досліджується на $LEVEL$§! рівні"
  CV_NOTRESEARCHED_TECH_TOOLTIP:0 "§g- Досліджується на $LEVEL$§! рівні"
  CV_TECH_BUILDINGS:0 "Будівлі"
