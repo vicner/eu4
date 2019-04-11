@@ -1,0 +1,609 @@
+﻿l_ukrainian:
+###Закінчення
+ MALE_ENDING_A:0 "" #GetEndA
+ FEMALE_ENDING_A:0 "а" #GetEndA
+ MALE_ENDING_LA:0 "" #GetEndLA
+ FEMALE_ENDING_LA:0 "ла" #GetEndLA
+ MALE_ENDING_IJ:0 "ій" #GetEndIJA
+ FEMALE_ENDING_JA:0 "я" #GetEndIJA або !GetEndOYAYA
+ MALE_ENDING_YJ:0 "ий" #GetEndAYJ
+ FEMALE_ENDING_AYJ:0 "а" #GetEndAYJ
+ MALE_ENDING_YM:0 "им" #GetEndOJuYM
+ FEMALE_ENDING_OJU:0 "ою" #GetEndOJuYM або !GetEndOYAYA
+ MALE_ENDING_GO:0 "го" #GetEndJiGO
+ FEMALE_ENDING_Ji:0 "ї" #GetEndJiGO
+ MALE_ENDING_GO:0 "го" #GetEndJeJi
+ FEMALE_ENDING_JEJI:0 "єї" #GetEndJeJi
+ MALE_ENDING_VSIA:0 "вся" #GetEndVSia
+ FEMALE_ENDING_LASIA:0 "лася" #GetEndVSia
+ MALE_JOGO:0 "його" #GetJOGO
+ FEMALE_JiJi:0 "її" #GetJOGO
+ MALE_ENDING_jOGO:0 "ього" #GetEndjOGO
+ MALE_JOGO_Cap:0 "Його" #GetJOGOCap
+ FEMALE_JiJi_Cap:0 "Її" #GetJOGOCap
+ MALE_JOMU:0 "йому" #GetJiJOMU
+ FEMALE_JiJ:0 "їй" #GetJiJOMU
+ MALE_JOMU_Cap:0 "Йому" #GetJiJOMUCap
+ FEMALE_JiJ_Cap:0 "Їй" #GetJiJOMUCap
+ MALE_ENDING_EN:0 "ен" #GetEndEnNa
+ FEMALE_ENDING_NA:0 "на" #GetEndEnNa
+ MALE_ENDING_YN:0 "ин" #GetEndYnNa
+ FEMALE_ENDING_NA:0 "на" #GetEndYnNa
+ MALE_ENDING_CIAK:0 "к" #GetEndCiaK
+ FEMALE_ENDING_CIAK:0 "ця" #GetEndCiaK
+ MALE_ENDING_KALj:0 "" #GetEndKaLj
+ FEMALE_ENDING_KALj:0 "ка" #GetEndKaLj
+ MALE_ENDING_KUCIA:0 "ця" #GetEndKuCia
+ FEMALE_ENDING_KUCIA:0 "ку" #GetEndKuCia
+ MALE_ENDING_VLA:0 "в" #GetEndVLa
+ FEMALE_ENDING_VLA:0 "ла" #GetEndVLa
+ MALE_ENDING_LAOV:0 "ов" #GetEndLaOv
+ FEMALE_ENDING_LAOV:0 "ла" #GetEndLaOv
+ MALE_ENDING_EJijOGO:0 "ього" #GetEndEJijogo
+ FEMALE_ENDING_EJijOGO:0 "еї" #GetEndEJijogo
+ MALE_ENDING_EJuYM:0 "им" #GetEndEJuYm
+ FEMALE_ENDING_EJu:0 "ею" #GetEndEJuYm
+ MALE_ENDING_JuGO:0 "го" #GetEndJuGo
+ FEMALE_ENDING_JuGO:0 "ю" #GetEndJuGo
+ MALE_ENDING_KA:0 "ка" #GetEndCiKa
+ FEMALE_ENDING_CI:0 "ці" #GetEndCiKa
+ MALE_ENDING_KA:0 "ка" #GetEndCiuKa
+ FEMALE_ENDING_CIU:0 "цю" #GetEndCiuKa
+ MALE_ENDING_OMU:0 "ому" #GetEndIjOmu
+ FEMALE_ENDING_IJ:0 "ій" #GetEndIjOmu
+ MALE_ENDING_KAECj:0 "ець" #GetEndKaEcj
+ FEMALE_ENDING_KAECj:0 "ка" #GetEndKaEcj
+ MALE_ENDING_OYA:0 "ій" #GetEndOYA
+ FEMALE_ENDING_OYA:0 "оя" #GetEndOYA
+ MALE_ENDING_OGO:0 "ого" #GetEndOjiOgo
+ FEMALE_ENDING_OJi:0 "ої" #GetEndOjiOgo
+ MALE_ENDING_jKOJuEM:0 "ем" #GetEndjKojuEm
+ FEMALE_ENDING_jKOJuEM:0 "ькою" #GetEndjKojuEm
+ MALE_ENDING_ESA:0 "" #GetEndEsa
+ FEMALE_ENDING_ESA:0 "еса" #GetEndEsa
+ MALE_ENDING_ESY:0 "а" #GetEndEsy
+ FEMALE_ENDING_ESY:0 "еси" #GetEndEsy
+ MALE_ENDING_ESI:0 "у" #GetEndEsi
+ FEMALE_ENDING_ESI:0 "есі" #GetEndEsi
+ MALE_ENDING_UOGO:0 "ого" #GetEndUOgo
+ FEMALE_ENDING_UOGO:0 "у" #GetEndUOgo
+ MALE_ENDING_ORRYC:0 "ор" #GetEndOrRyc
+ FEMALE_ENDING_ORRYC:0 "риця" #GetEndOrRyc
+ MALE_ENDING_ORARYCI:0 "ора" #GetEndOraRyci
+ FEMALE_ENDING_ORARYCI:0 "риці" #GetEndOraRyci
+ MALE_ENDING_ORRITU:0 "ору" #GetEndOrRitu
+ FEMALE_ENDING_ORRITU:0 "риці" #GetEndOrRitu
+ MALE_ENDING_KUTSE:0 "цю" #GetEndKuTse
+ FEMALE_ENDING_KUTSE:0 "иці" #GetEndKuTse
+ MALE_ENDING_KATSY:0 "ця" #GetEndKaTsy
+ FEMALE_ENDING_KATSY:0 "иці" #GetEndKaTsy
+ MALE_ENDING_ECj:0 "ець" #GetEndYcia
+ FEMALE_ENDING_YCIa:0 "иця" #GetEndYcia
+ MALE_SHEHE:0 "Він" #GetSheHeCap
+ FEMALE_SHEHE:0 "Вона" #GetSheHeCap
+ MALE_ENDING_jEVA:0 "ь" #GetEndjEva
+ FEMALE_ENDING_jEVA:0 "ева" #GetEndjEva
+ MALE_ENDING_IAjKY:0 "я" #GetEndIajKy
+ FEMALE_ENDING_IAjKY:0 "ьки" #GetEndIajKy
+ MALE_ENDING_jKA:0 "ь" #GetEndIajKa
+ FEMALE_ENDING_jKA:0 "ька" #GetEndIajKa
+
+###Мусульманські мазгаби 
+ hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall
+ hanbali_scool:0 "ханбаліти" #GetReligiousSсhoolSmall
+ maliki_scool:0 "малікіти" #GetReligiousSсhoolSmall
+ shafii_scool:0 "шафіїти" #GetReligiousSсhoolSmall
+ ismaili_scool:0 "ісмаїліти" #GetReligiousSсhoolSmall
+ jafari_scool:0 "джафарити" #GetReligiousSсhoolSmall
+ zaidi_scool:0 "зейдити" #GetReligiousSсhoolSmall
+ hanafi_scool_KYM:0 "ханафітами" #GetReligiousSсhoolKYM
+ hanbali_scool_KYM:0 "ханбалітами" #GetReligiousSсhoolKYM
+ maliki_scool_KYM:0 "малікітами" #GetReligiousSсhoolKYM
+ shafii_scool_KYM:0 "шафіїтами" #GetReligiousSсhoolKYM
+ ismaili_scool_KYM:0 "ісмаїлітами" #GetReligiousSсhoolKYM
+ jafari_scool_KYM:0 "джафаритами" #GetReligiousSсhoolKYM
+ zaidi_scool_KYM:0 "зейдитами" #GetReligiousSсhoolKYM
+ hanafi_scool_OGO:0 "ханафітів" #GetReligiousSсhoolOGO
+ hanbali_scool_OGO:0 "ханбалітів" #GetReligiousSсhoolOGO
+ maliki_scool_OGO:0 "малікітів" #GetReligiousSсhoolOGO
+ shafii_scool_OGO:0 "шафіїтів" #GetReligiousSсhoolOGO
+ ismaili_scool_OGO:0 "ісмаїлітів" #GetReligiousSсhoolOGO
+ jafari_scool_OGO:0 "джафаритів" #GetReligiousSсhoolOGO
+ zaidi_scool_OGO:0 "зейдитів" #GetReligiousSсhoolOGO
+ hanafi_scool_KOG:0 "ханафіта" #GetReligiousSсhoolKOG
+ hanbali_scool_KOG:0 "ханбаліта" #GetReligiousSсhoolKOG
+ maliki_scool_KOG:0 "малікіта" #GetReligiousSсhoolKOG
+ shafii_scool_KOG:0 "шафіїта" #GetReligiousSсhoolKOG
+ ismaili_scool_KOG:0 "ісмаїліта" #GetReligiousSсhoolKOG
+ jafari_scool_KOG:0 "джафарита" #GetReligiousSсhoolKOG
+ zaidi_scool_KOG:0 "зейдита" #GetReligiousSсhoolKOG
+ hanafi_scool_OMU:0 "ханафітам" #GetReligiousSсhoolOMU
+ hanbali_scool_OMU:0 "ханбалітам" #GetReligiousSсhoolOMU
+ maliki_scool_OMU:0 "малікітам" #GetReligiousSсhoolOMU
+ shafii_scool_OMU:0 "шафіїтам" #GetReligiousSсhoolOMU
+ ismaili_scool_OMU:0 "ісмаїлітам" #GetReligiousSсhoolOMU
+ jafari_scool_OMU:0 "джафаритам" #GetReligiousSсhoolOMU
+ zaidi_scool_OMU:0 "зейдитам" #GetReligiousSсhoolOMU
+ ###Toвapи ta їxнi змiннi
+ #Toвapи в oднинi
+ GetTG_wine:0 "вино" #GetTG_SM
+ GetTG_fish:0 "риба" #GetTG_SM
+ GetTG_salt:0 "сіль" #GetTG_SM
+ GetTG_copper:0 "мідь" #GetTG_SM
+ GetTG_iron:0 "залізо" #GetTG_SM
+ GetTG_tea:0 "чай" #GetTG_SM
+ GetTG_coffee:0 "кава" #GetTG_SM
+ GetTG_cotton:0 "бавовна" #GetTG_SM
+ GetTG_sugar:0 "цукор" #GetTG_SM
+ GetTG_tobacco:0 "тютюн" #GetTG_SM
+ GetTG_cocoa:0 "какао" #GetTG_SM
+ GetTG_wool:0 "вовна" #GetTG_SM
+ GetTG_silk:0 "шовк" #GetTG_SM
+ GetTG_gold:0 "золото" #GetTG_SM
+ GetTG_ivory:0 "слонова кістка" #GetTG_SM
+ GetTG_slaves:0 "раби" #GetTG_SM
+ GetTG_tropical_wood:0 "тропічна деревина" #GetTG_SM
+ GetTG_grain:0 "зерно" #GetTG_SM
+ GetTG_cloth:0 "тканина" #GetTG_SM
+ GetTG_fur:0 "хутро" #GetTG_SM
+ GetTG_naval_supplies:0 "снасті" #GetTG_SM
+ GetTG_chinaware:0 "порцеляна" #GetTG_SM
+ GetTG_spices:0 "прянощі" #GetTG_SM
+ GetTG_dyes:0 "фарбники" #GetTG_SM
+ GetTG_incense:0 "пахощі" #GetTG_SM
+ GetTG_livestock:0 "худоба" #GetTG_SM
+ GetTG_glass:0 "скло" #GetTG_SM
+ GetTG_paper:0 "папір" #GetTG_SM
+ GetTG_gems:0 "коштовне каміння" #GetTG_SM
+ GetTG_coal:0 "вугілля" #GetTG_SM
+ #Toвapи в poдoвoму вiдмiнkу
+ GetTG_wine_OGO:0 "вина" #GetTG_OGO
+ GetTG_fish_OGO:0 "риби" #GetTG_OGO
+ GetTG_salt_OGO:0 "солі" #GetTG_OGO
+ GetTG_copper_OGO:0 "міді" #GetTG_OGO
+ GetTG_iron_OGO:0 "заліза" #GetTG_OGO
+ GetTG_tea_OGO:0 "чаю" #GetTG_OGO
+ GetTG_coffee_OGO:0 "кави" #GetTG_OGO
+ GetTG_cotton_OGO:0 "бавовни" #GetTG_OGO
+ GetTG_sugar_OGO:0 "цукру" #GetTG_OGO
+ GetTG_tobacco_OGO:0 "тютюну" #GetTG_OGO
+ GetTG_cocoa_OGO:0 "какао" #GetTG_OGO
+ GetTG_wool_OGO:0 "вовни" #GetTG_OGO
+ GetTG_silk_OGO:0 "шовка" #GetTG_OGO
+ GetTG_gold_OGO:0 "золота" #GetTG_OGO
+ GetTG_ivory_OGO:0 "слонової кістки" #GetTG_OGO
+ GetTG_slaves_OGO:0 "рабів" #GetTG_OGO
+ GetTG_tropical_wood_OGO:0 "тропічної деревини" #GetTG_OGO
+ GetTG_grain_OGO:0 "зерна" #GetTG_OGO
+ GetTG_cloth_OGO:0 "тканини" #GetTG_OGO
+ GetTG_fur_OGO:0 "хутра" #GetTG_OGO
+ GetTG_naval_supplies_OGO:0 "снастей" #GetTG_OGO
+ GetTG_chinaware_OGO:0 "порцеляни" #GetTG_OGO
+ GetTG_spices_OGO:0 "прянощів" #GetTG_OGO
+ GetTG_dyes_OGO:0 "фарбників" #GetTG_OGO
+ GetTG_incense_OGO:0 "пахощів" #GetTG_OGO
+ GetTG_livestock_OGO:0 "худоби" #GetTG_OGO
+ GetTG_glass_OGO:0 "скла" #GetTG_OGO
+ GetTG_paper_OGO:0 "папера" #GetTG_OGO
+ GetTG_gems_OGO:0 "коштовного каміння" #GetTG_OGO
+ GetTG_coal_OGO:0 "вугілля" #GetTG_OGO
+ #Toвapи в знaxiднoму вiдмiнkу? (Знaйtи щo? Пoбaчиtи щo?)
+ GetTG_wine_ZNA:0 "вино" #GetTG_ZNA
+ GetTG_fish_ZNA:0 "рибу" #GetTG_ZNA
+ GetTG_salt_ZNA:0 "сіль" #GetTG_ZNA
+ GetTG_copper_ZNA:0 "мідь" #GetTG_ZNA
+ GetTG_iron_ZNA:0 "залізо" #GetTG_ZNA
+ GetTG_tea_ZNA:0 "чай" #GetTG_ZNA
+ GetTG_coffee_ZNA:0 "каву" #GetTG_ZNA
+ GetTG_cotton_ZNA:0 "бавовну" #GetTG_ZNA
+ GetTG_sugar_ZNA:0 "цукор" #GetTG_ZNA
+ GetTG_tobacco_ZNA:0 "тютюн" #GetTG_ZNA
+ GetTG_cocoa_ZNA:0 "какао" #GetTG_ZNA
+ GetTG_wool_ZNA:0 "вовну" #GetTG_ZNA
+ GetTG_silk_ZNA:0 "шовк" #GetTG_ZNA
+ GetTG_gold_ZNA:0 "золото" #GetTG_ZNA
+ GetTG_ivory_ZNA:0 "слонову кістку" #GetTG_ZNA
+ GetTG_slaves_ZNA:0 "рабів" #GetTG_ZNA
+ GetTG_tropical_wood_ZNA:0 "тропічну деревину" #GetTG_ZNA
+ GetTG_grain_ZNA:0 "зерно" #GetTG_ZNA
+ GetTG_cloth_ZNA:0 "тканину" #GetTG_ZNA
+ GetTG_fur_ZNA:0 "хутро" #GetTG_ZNA
+ GetTG_naval_supplies_ZNA:0 "снасті" #GetTG_ZNA
+ GetTG_chinaware_ZNA:0 "порцеляну" #GetTG_ZNA
+ GetTG_spices_ZNA:0 "прянощі" #GetTG_ZNA
+ GetTG_dyes_ZNA:0 "фарбники" #GetTG_ZNA
+ GetTG_incense_ZNA:0 "пахощі" #GetTG_ZNA
+ GetTG_livestock_ZNA:0 "худобу" #GetTG_ZNA
+ GetTG_glass_ZNA:0 "скло" #GetTG_ZNA
+ GetTG_paper_ZNA:0 "папір" #GetTG_ZNA
+ GetTG_gems_ZNA:0 "коштовне каміння" #GetTG_ZNA
+ GetTG_coal_ZNA:0 "вугілля" #GetTG_ZNA
+ #Toвapи в opуднoму вiдмiнkу? (Biдoмий чим? Topгiвлi чим?)
+ GetTG_wine_ORU:0 "вином" #GetTG_ORU
+ GetTG_fish_ORU:0 "рибою" #GetTG_ORU
+ GetTG_salt_ORU:0 "сіллю" #GetTG_ORU
+ GetTG_copper_ORU:0 "міддю" #GetTG_ORU
+ GetTG_iron_ORU:0 "залізом" #GetTG_ORU
+ GetTG_tea_ORU:0 "чаєм" #GetTG_ORU
+ GetTG_coffee_ORU:0 "кавою" #GetTG_ORU
+ GetTG_cotton_ORU:0 "бавовною" #GetTG_ORU
+ GetTG_sugar_ORU:0 "цукром" #GetTG_ORU
+ GetTG_tobacco_ORU:0 "тютюном" #GetTG_ORU
+ GetTG_cocoa_ORU:0 "какао" #GetTG_ORU
+ GetTG_wool_ORU:0 "вовною" #GetTG_ORU
+ GetTG_silk_ORU:0 "шовком" #GetTG_ORU
+ GetTG_gold_ORU:0 "золотом" #GetTG_ORU
+ GetTG_ivory_ORU:0 "слоновою кісткою" #GetTG_ORU
+ GetTG_slaves_ORU:0 "рабами" #GetTG_ORU
+ GetTG_tropical_wood_ORU:0 "тропічною деревиною" #GetTG_ORU
+ GetTG_grain_ORU:0 "зерном" #GetTG_ORU
+ GetTG_cloth_ORU:0 "тканиною" #GetTG_ORU
+ GetTG_fur_ORU:0 "хутром" #GetTG_ORU
+ GetTG_naval_supplies_ORU:0 "снастями" #GetTG_ORU
+ GetTG_chinaware_ORU:0 "порцеляною" #GetTG_ORU
+ GetTG_spices_ORU:0 "прянощами" #GetTG_ORU
+ GetTG_dyes_ORU:0 "фарбниками" #GetTG_ORU
+ GetTG_incense_ORU:0 "пахощами" #GetTG_ORU
+ GetTG_livestock_ORU:0 "худобою" #GetTG_ORU
+ GetTG_glass_ORU:0 "склом" #GetTG_ORU
+ GetTG_paper_ORU:0 "папером" #GetTG_ORU
+ GetTG_gems_ORU:0 "коштовним камінням" #GetTG_ORU
+ GetTG_coal_ORU:0 "вугіллям" #GetTG_ORU
+ #Toвapи в мicцeвoму вiдмiнkу? (Нa/у koму? Нa/у чoму?)
+ GetTG_wine_MIS:0 "вині" #GetTG_MIS
+ GetTG_fish_MIS:0 "рибі" #GetTG_MIS
+ GetTG_salt_MIS:0 "солі" #GetTG_MIS
+ GetTG_copper_MIS:0 "міді" #GetTG_MIS
+ GetTG_iron_MIS:0 "залізі" #GetTG_MIS
+ GetTG_tea_MIS:0 "чаї" #GetTG_MIS
+ GetTG_coffee_MIS:0 "каві" #GetTG_MIS
+ GetTG_cotton_MIS:0 "бавовні" #GetTG_MIS
+ GetTG_sugar_MIS:0 "цукрі" #GetTG_MIS
+ GetTG_tobacco_MIS:0 "тютюні" #GetTG_MIS
+ GetTG_cocoa_MIS:0 "какао" #GetTG_MIS
+ GetTG_wool_MIS:0 "вовні" #GetTG_MIS
+ GetTG_silk_MIS:0 "шовку" #GetTG_MIS
+ GetTG_gold_MIS:0 "золоті" #GetTG_MIS
+ GetTG_ivory_MIS:0 "слоновій кістці" #GetTG_MIS
+ GetTG_slaves_MIS:0 "рабах" #GetTG_MIS
+ GetTG_tropical_wood_MIS:0 "тропічній деревині" #GetTG_MIS
+ GetTG_grain_MIS:0 "зерні" #GetTG_MIS
+ GetTG_cloth_MIS:0 "тканині" #GetTG_MIS
+ GetTG_fur_MIS:0 "хутрі" #GetTG_MIS
+ GetTG_naval_supplies_MIS:0 "снастях" #GetTG_MIS
+ GetTG_chinaware_MIS:0 "порцеляні" #GetTG_MIS
+ GetTG_spices_MIS:0 "прянощах" #GetTG_MIS
+ GetTG_dyes_MIS:0 "фарбниках" #GetTG_MIS
+ GetTG_incense_MIS:0 "пахощах" #GetTG_MIS
+ GetTG_livestock_MIS:0 "худобі" #GetTG_MIS
+ GetTG_glass_MIS:0 "склі" #GetTG_MIS
+ GetTG_paper_MIS:0 "папері" #GetTG_MIS
+ GetTG_gems_MIS:0 "коштовному камінні" #GetTG_MIS
+ GetTG_coal_MIS:0 "вугіллі" #GetTG_MIS
+
+ #[Kopoні] кoгo/чогo?
+ string_sublime_porteOGO:0 "Блискучої Порти" #GetStateFormOGO
+ string_crownOGO:0 "Корони" #GetStateFormOGO
+ string_councilOGO:0 "Ради" #GetStateFormOGO
+ #[Kopoну] koму/чому? "" 
+ string_sublime_porteOMU:0 "Блискучій Порті" #GetStateFormOMU
+ string_crownOMU:0 "Короні" #GetStateFormOMU
+ string_councilOMU:0 "Раді" #GetStateFormOMU
+ #Немає [Kopoни] "" 
+ string_sublime_porteNEMA:0 "Блискучої Порти" #GetStateFormNEMA
+ string_crownNEMA:0 "Корони" #GetStateFormNEMA
+ string_councilNEMA:0 "Ради" #GetStateFormNEMA
+
+ #Fancy Toвapи в poдoвoму вiдмiнkу з вeлиkoї лitepи
+ string_OGO_mother_of_pearl:0 "Перламутру" #GetFanсyTG_OGO
+ string_OGO_cowries:0 "Мушель" #GetFanсyTG_OGO
+ string_OGO_sapphires:0 "Сапфирів" #GetFanсyTG_OGO
+ string_OGO_turquoise:0 "Бірюзи" #GetFanсyTG_OGO
+ string_OGO_rubies:0 "Рубинів" #GetFanсyTG_OGO
+ string_OGO_jade:0 "Нефриту" #GetFanсyTG_OGO
+ string_OGO_amber:0 "Бурштину" #GetFanсyTG_OGO
+ string_OGO_pearls:0 "Перлів" #GetFanсyTG_OGO
+ string_OGO_diamonds:0 "Діамантів" #GetFanсyTG_OGO
+ string_OGO_imperial_eggs:0 "Яєць Фаберже" #GetFanсyTG_OGO
+ string_OGO_miniatures:0 "Мініатюр" #GetFanсyTG_OGO
+ string_OGO_republics:0 "Республік" #GetFanсyTG_OGO
+ string_OGO_calligraphy:0 "Каліграфії" #GetFanсyTG_OGO
+ string_OGO_book_of_hours:0 "Часослова" #GetFanсyTG_OGO
+ string_OGO_fustians:0 "Фланелі" #GetFanсyTG_OGO
+ string_OGO_carpets:0 "Килимів" #GetFanсyTG_OGO
+ string_OGO_draperies:0 "Драпіровок" #GetFanсyTG_OGO
+ string_OGO_chintz:0 "Ситцю" #GetFanсyTG_OGO
+ string_OGO_taffeta:0 "Тафти" #GetFanсyTG_OGO
+ string_OGO_frankincense:0 "Ладану" #GetFanсyTG_OGO
+ string_OGO_cardamom:0 "Кардамону" #GetFanсyTG_OGO
+ string_OGO_saffron:0 "Шафрану" #GetFanсyTG_OGO
+ string_OGO_cinnamon:0 "Кориці" #GetFanсyTG_OGO
+ string_OGO_vanilla:0 "Ванілі" #GetFanсyTG_OGO
+ string_OGO_dates:0 "Фініків" #GetFanсyTG_OGO
+ string_OGO_opium:0 "Опіуму" #GetFanсyTG_OGO
+ string_OGO_long_pepper:0 "Довгого перцю" #GetFanсyTG_OGO
+ string_OGO_nutmeg:0 "Мускатного горіху" #GetFanсyTG_OGO
+ string_OGO_perfume:0 "Парфумів" #GetFanсyTG_OGO
+ string_OGO_pepper:0 "Перцю" #GetFanсyTG_OGO
+ string_OGO_satin:0 "Сатину" #GetFanсyTG_OGO
+ string_OGO_embroidery:0 "Вишивки" #GetFanсyTG_OGO
+ string_OGO_ivory_figurines:0 "Виробів зі слонової кістки" #GetFanсyTG_OGO
+ string_OGO_lacquerware:0 "Лакованих виробів" #GetFanсyTG_OGO
+ string_OGO_jewellery:0 "Ювелірних виробів" #GetFanсyTG_OGO
+ string_OGO_books:0 "Книг" #GetFanсyTG_OGO
+ string_OGO_crystal:0 "Хришталю" #GetFanсyTG_OGO
+ string_OGO_ceramics:0 "Кераміки" #GetFanсyTG_OGO
+ #Fancy Toвapи в знахідному вiдмiнkу з вeлиkoї лitepи 
+ string_ZNA_mother_of_pearl:0 "Перламутр" #GetFanсyTG_ZNA
+ string_ZNA_cowries:0 "Мушлі" #GetFanсyTG_ZNA
+ string_ZNA_sapphires:0 "Сапфіри" #GetFanсyTG_ZNA
+ string_ZNA_turquoise:0 "Бірюзу" #GetFanсyTG_ZNA
+ string_ZNA_rubies:0 "Рубіни" #GetFanсyTG_ZNA
+ string_ZNA_jade:0 "Нефрит" #GetFanсyTG_ZNA
+ string_ZNA_amber:0 "Бурштин" #GetFanсyTG_ZNA
+ string_ZNA_pearls:0 "Перли" #GetFanсyTG_ZNA
+ string_ZNA_diamonds:0 "Діаманти" #GetFanсyTG_ZNA
+ string_ZNA_imperial_eggs:0 "Яйця Фаберже" #GetFanсyTG_ZNA
+ string_ZNA_miniatures:0 "Мініатюри" #GetFanсyTG_ZNA
+ string_ZNA_republics:0 "Республіки" #GetFanсyTG_ZNA
+ string_ZNA_calligraphy:0 "Каліграфію" #GetFanсyTG_ZNA
+ string_ZNA_book_of_hours:0 "Часослов" #GetFanсyTG_ZNA
+ string_ZNA_fustians:0 "Фланель" #GetFanсyTG_ZNA
+ string_ZNA_carpets:0 "Килими" #GetFanсyTG_ZNA
+ string_ZNA_draperies:0 "Драпіровки" #GetFanсyTG_ZNA
+ string_ZNA_chintz:0 "Ситець" #GetFanсyTG_ZNA
+ string_ZNA_taffeta:0 "Тафту" #GetFanсyTG_ZNA
+ string_ZNA_frankincense:0 "Ладан" #GetFanсyTG_ZNA
+ string_ZNA_cardamom:0 "Кардамон" #GetFanсyTG_ZNA
+ string_ZNA_saffron:0 "Шафран" #GetFanсyTG_ZNA
+ string_ZNA_cinnamon:0 "Корицю" #GetFanсyTG_ZNA
+ string_ZNA_vanilla:0 "Ваниль" #GetFanсyTG_ZNA
+ string_ZNA_dates:0 "Фініки" #GetFanсyTG_ZNA
+ string_ZNA_opium:0 "Опіум" #GetFanсyTG_ZNA
+ string_ZNA_long_pepper:0 "Довгий перець" #GetFanсyTG_ZNA
+ string_ZNA_nutmeg:0 "Мускатний горіх" #GetFanсyTG_ZNA
+ string_ZNA_perfume:0 "Парфуми" #GetFanсyTG_ZNA
+ string_ZNA_pepper:0 "Перець" #GetFanсyTG_ZNA
+ string_ZNA_satin:0 "Сатин" #GetFanсyTG_ZNA
+ string_ZNA_embroidery:0 "Вишивку" #GetFanсyTG_ZNA
+ string_ZNA_ivory_figurines:0 "Вироби зі слонової кістки" #GetFanсyTG_ZNA
+ string_ZNA_lacquerware:0 "Лаковані вироби" #GetFanсyTG_ZNA
+ string_ZNA_jewellery:0 "Ювелірні вироби" #GetFanсyTG_ZNA
+ string_ZNA_books:0 "Книги" #GetFanсyTG_ZNA
+ string_ZNA_crystal:0 "Хришталь" #GetFanсyTG_ZNA
+ string_ZNA_ceramics:0 "Кераміку" #GetFanсyTG_ZNA
+ #Fancy Toвapи в орудному вiдмiнkу з вeлиkoї лitepи
+ string_ORU_mother_of_pearl:0 "Перламутром" #GetFanсyTG_ORU
+ string_ORU_cowries:0 "Мушлями" #GetFanсyTG_ORU
+ string_ORU_sapphires:0 "Сапфірами" #GetFanсyTG_ORU
+ string_ORU_turquoise:0 "Бірюзою" #GetFanсyTG_ORU
+ string_ORU_rubies:0 "Рубінами" #GetFanсyTG_ORU
+ string_ORU_jade:0 "Нефритом" #GetFanсyTG_ORU
+ string_ORU_amber:0 "Бурштином" #GetFanсyTG_ORU
+ string_ORU_pearls:0 "Перлами" #GetFanсyTG_ORU
+ string_ORU_diamonds:0 "Діамантами" #GetFanсyTG_ORU
+ string_ORU_imperial_eggs:0 "Яйцями Фаберже" #GetFanсyTG_ORU
+ string_ORU_miniatures:0 "Мініатюрами" #GetFanсyTG_ORU
+ string_ORU_republics:0 "Республіками" #GetFanсyTG_ORU
+ string_ORU_calligraphy:0 "Каліграфією" #GetFanсyTG_ORU
+ string_ORU_book_of_hours:0 "Часословом" #GetFanсyTG_ORU
+ string_ORU_fustians:0 "Фланеллю" #GetFanсyTG_ORU
+ string_ORU_carpets:0 "Килимами" #GetFanсyTG_ORU
+ string_ORU_draperies:0 "Драпіровками" #GetFanсyTG_ORU
+ string_ORU_chintz:0 "Ситцем" #GetFanсyTG_ORU
+ string_ORU_taffeta:0 "Тафтами" #GetFanсyTG_ORU
+ string_ORU_frankincense:0 "Ладаном" #GetFanсyTG_ORU
+ string_ORU_cardamom:0 "Кардамоном" #GetFanсyTG_ORU
+ string_ORU_saffron:0 "Шафраном" #GetFanсyTG_ORU
+ string_ORU_cinnamon:0 "Корицею" #GetFanсyTG_ORU
+ string_ORU_vanilla:0 "Ваниллю" #GetFanсyTG_ORU
+ string_ORU_dates:0 "Фініками" #GetFanсyTG_ORU
+ string_ORU_opium:0 "Опіумом" #GetFanсyTG_ORU
+ string_ORU_long_pepper:0 "Довгим перцем" #GetFanсyTG_ORU
+ string_ORU_nutmeg:0 "Мускатним горіхом" #GetFanсyTG_ORU
+ string_ORU_perfume:0 "Парфумами" #GetFanсyTG_ORU
+ string_ORU_pepper:0 "Перцем" #GetFanсyTG_ORU
+ string_ORU_satin:0 "Сатином" #GetFanсyTG_ORU
+ string_ORU_embroidery:0 "Вишивкою" #GetFanсyTG_ORU
+ string_ORU_ivory_figurines:0 "Виробами зі слонової кістки" #GetFanсyTG_ORU
+ string_ORU_lacquerware:0 "Лакованими виробами" #GetFanсyTG_ORU
+ string_ORU_jewellery:0 "Ювелірними виробами" #GetFanсyTG_ORU
+ string_ORU_books:0 "Книгами" #GetFanсyTG_ORU
+ string_ORU_crystal:0 "Хришталем" #GetFanсyTG_ORU
+ string_ORU_ceramics:0 "Керамікою" #GetFanсyTG_ORU
+ #Fancy Toвapи в місцевому вiдмiнkу з вeлиkoї лitepи 
+ string_MIS_mother_of_pearl:0 "Перламутрі" #GetFanсyTG_MIS
+ string_MIS_cowries:0 "Мушлях" #GetFanсyTG_MIS
+ string_MIS_sapphires:0 "Сапфірах" #GetFanсyTG_MIS
+ string_MIS_turquoise:0 "Бірюзі" #GetFanсyTG_MIS
+ string_MIS_rubies:0 "Рубінах" #GetFanсyTG_MIS
+ string_MIS_jade:0 "Нефриті" #GetFanсyTG_MIS
+ string_MIS_amber:0 "Бурштині" #GetFanсyTG_MIS
+ string_MIS_pearls:0 "Перлах" #GetFanсyTG_MIS
+ string_MIS_diamonds:0 "Діамантах" #GetFanсyTG_MIS
+ string_MIS_imperial_eggs:0 "Яйцях Фаберже" #GetFanсyTG_MIS
+ string_MIS_miniatures:0 "Мініатюрах" #GetFanсyTG_MIS
+ string_MIS_republics:0 "Республіках" #GetFanсyTG_MIS
+ string_MIS_calligraphy:0 "Каліграфії" #GetFanсyTG_MIS
+ string_MIS_book_of_hours:0 "Часослові" #GetFanсyTG_MIS
+ string_MIS_fustians:0 "Фланелі" #GetFanсyTG_MIS
+ string_MIS_carpets:0 "Килимах" #GetFanсyTG_MIS
+ string_MIS_draperies:0 "Драпіровках" #GetFanсyTG_MIS
+ string_MIS_chintz:0 "Ситці" #GetFanсyTG_MIS
+ string_MIS_taffeta:0 "Тафті" #GetFanсyTG_MIS
+ string_MIS_frankincense:0 "Ладані" #GetFanсyTG_MIS
+ string_MIS_cardamom:0 "Кардамоні" #GetFanсyTG_MIS
+ string_MIS_saffron:0 "Шафрані" #GetFanсyTG_MIS
+ string_MIS_cinnamon:0 "Кориці" #GetFanсyTG_MIS
+ string_MIS_vanilla:0 "Ванілі" #GetFanсyTG_MIS
+ string_MIS_dates:0 "Фініках" #GetFanсyTG_MIS
+ string_MIS_opium:0 "Опіумі" #GetFanсyTG_MIS
+ string_MIS_long_pepper:0 "Довгому перці" #GetFanсyTG_MIS
+ string_MIS_nutmeg:0 "Мускатному горісі" #GetFanсyTG_MIS
+ string_MIS_perfume:0 "Парфумах" #GetFanсyTG_MIS
+ string_MIS_pepper:0 "Перці" #GetFanсyTG_MIS
+ string_MIS_satin:0 "Сатині" #GetFanсyTG_MIS
+ string_MIS_embroidery:0 "Вишивці" #GetFanсyTG_MIS
+ string_MIS_ivory_figurines:0 "Виробах зі слонової кістки" #GetFanсyTG_MIS
+ string_MIS_lacquerware:0 "Лакованих виробах" #GetFanсyTG_MIS
+ string_MIS_jewellery:0 "Ювелірних виробах" #GetFanсyTG_MIS
+ string_MIS_books:0 "Книгах" #GetFanсyTG_MIS
+ string_MIS_crystal:0 "Хришталі" #GetFanсyTG_MIS
+ string_MIS_ceramics:0 "Кераміці" #GetFanсyTG_MIS
+
+ #Fancy Toвapи в poдoвoму вiдмiнkу з мaлeньkoї
+ stringLOW_OGO_mother_of_pearl:0 "перламутру" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_cowries:0 "мушель" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_sapphires:0 "сапфирів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_turquoise:0 "бірюзи" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_rubies:0 "рубинів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_jade:0 "нефриту" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_amber:0 "бурштину" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_pearls:0 "перлів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_diamonds:0 "діамантів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_imperial_eggs:0 "яєць Фаберже" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_miniatures:0 "мініатюр" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_republics:0 "республік" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_calligraphy:0 "каліграфії" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_book_of_hours:0 "часослова" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_fustians:0 "фланелі" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_carpets:0 "килимів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_draperies:0 "драпіровок" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_chintz:0 "ситцю" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_taffeta:0 "тафти" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_frankincense:0 "ладану" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_cardamom:0 "кардамону" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_saffron:0 "шафрану" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_cinnamon:0 "кориці" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_vanilla:0 "ванілі" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_dates:0 "фініків" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_opium:0 "опіуму" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_long_pepper:0 "довгого перцю" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_nutmeg:0 "мускатного горіху" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_perfume:0 "парфумів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_pepper:0 "перцю" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_satin:0 "сатину" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_embroidery:0 "вишивки" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_ivory_figurines:0 "виробів зі слонової кістки" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_lacquerware:0 "лакованих виробів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_jewellery:0 "ювелірних виробів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_books:0 "книг" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_crystal:0 "хришталю" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_ceramics:0 "кераміки" #GetFanсyTGLOW_OGO
+ #Fancy Toвapи в знaxiднoму вiдмiнkу з мaлeньkoї 
+ stringLOW_ZNA_mother_of_pearl:0 "перламутр" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_cowries:0 "мушлі" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_sapphires:0 "сапфіри" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_turquoise:0 "бірюзу" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_rubies:0 "рубіни" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_jade:0 "нефрит" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_amber:0 "бурштин" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_pearls:0 "перли" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_diamonds:0 "діаманти" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_imperial_eggs:0 "яйця Фаберже" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_miniatures:0 "мініатюри" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_republics:0 "республіки" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_calligraphy:0 "каліграфію" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_book_of_hours:0 "часослов" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_fustians:0 "фланель" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_carpets:0 "килими" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_draperies:0 "драпіровки" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_chintz:0 "ситець" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_taffeta:0 "тафту" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_frankincense:0 "ладан" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_cardamom:0 "кардамон" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_saffron:0 "шафран" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_cinnamon:0 "корицю" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_vanilla:0 "ваниль" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_dates:0 "фініки" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_opium:0 "опіум" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_long_pepper:0 "довгий перець" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_nutmeg:0 "мускатний горіх" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_perfume:0 "парфуми" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_pepper:0 "перець" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_satin:0 "сатин" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_embroidery:0 "вишивку" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_ivory_figurines:0 "вироби зі слонової кістки" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_lacquerware:0 "лаковані вироби" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_jewellery:0 "ювелірні вироби" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_books:0 "книги" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_crystal:0 "хришталь" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_ceramics:0 "кераміку" #GetFanсyTGLOW_ZNA
+ #Fancy Toвapи в opуднoму вiдмiнkу з мaлeньkoї 
+ stringLOW_ORU_mother_of_pearl:0 "перламутром" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_cowries:0 "мушлями" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_sapphires:0 "сапфірами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_turquoise:0 "бірюзою" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_rubies:0 "рубінами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_jade:0 "нефритом" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_amber:0 "бурштином" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_pearls:0 "перлами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_diamonds:0 "діамантами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_imperial_eggs:0 "яйцями Фаберже" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_miniatures:0 "мініатюрами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_republics:0 "республіками" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_calligraphy:0 "каліграфією" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_book_of_hours:0 "часословом" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_fustians:0 "фланеллю" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_carpets:0 "килимами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_draperies:0 "драпіровками" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_chintz:0 "ситцем" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_taffeta:0 "тафтами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_frankincense:0 "ладаном" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_cardamom:0 "кардамоном" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_saffron:0 "шафраном" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_cinnamon:0 "корицею" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_vanilla:0 "ваниллю" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_dates:0 "фініками" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_opium:0 "опіумом" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_long_pepper:0 "довгим перцем" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_nutmeg:0 "мускатним горіхом" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_perfume:0 "парфумами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_pepper:0 "перцем" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_satin:0 "сатином" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_embroidery:0 "вишивкою" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_ivory_figurines:0 "виробами зі слонової кістки" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_lacquerware:0 "лакованими виробами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_jewellery:0 "ювелірними виробами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_books:0 "книгами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_crystal:0 "хришталем" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_ceramics:0 "керамікою" #GetFanсyTGLOW_ORU
+ #Fancy Toвapи в мicцeвoму вiдмiнkу з мaлeньkoї "" 
+ stringLOW_MIS_mother_of_pearl:0 "перламутрі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_cowries:0 "мушлях" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_sapphires:0 "сапфірах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_turquoise:0 "бірюзі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_rubies:0 "рубінах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_jade:0 "нефриті" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_amber:0 "бурштині" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_pearls:0 "перлах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_diamonds:0 "діамантах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_imperial_eggs:0 "яйцях Фаберже" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_miniatures:0 "мініатюрах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_republics:0 "республіках" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_calligraphy:0 "каліграфії" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_book_of_hours:0 "часослові" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_fustians:0 "фланелі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_carpets:0 "килимах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_draperies:0 "драпіровках" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_chintz:0 "ситці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_taffeta:0 "тафті" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_frankincense:0 "ладані" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_cardamom:0 "кардамоні" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_saffron:0 "шафрані" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_cinnamon:0 "кориці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_vanilla:0 "ванілі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_dates:0 "фініках" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_opium:0 "опіумі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_long_pepper:0 "довгому перці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_nutmeg:0 "мускатному горісі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_perfume:0 "парфумах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_pepper:0 "перці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_satin:0 "сатині" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_embroidery:0 "вишивці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_ivory_figurines:0 "виробах зі слонової кістки" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_lacquerware:0 "лакованих виробах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_jewellery:0 "ювелірних виробах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_books:0 "книгах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_crystal:0 "хришталі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_ceramics:0 "кераміці" #GetFanсyTGLOW_MIS
