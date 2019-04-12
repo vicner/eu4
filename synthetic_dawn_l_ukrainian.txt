@@ -39,7 +39,7 @@
  synth_emotion_emulators:0 "Emotion Emulators"
  synth_emotion_emulators_desc:0 "Complex social predictive models help autonomous units not only to emulate appropriate emotions but to elicit favorable responses from organics and synthetics alike."
  SYNTH_GOV:0 "Machine Intelligence"
- SYNTH_RULER:0 "Executor"
+ SYNTH_RULER:0 "Спорудник"
  synthetic_remnants_enabled.tooltip:0 "Enables the §YSynthetic Remnants§! triggered modifier."
  synthetic_remnants:0 "Synthetic Remnants"
  desc_synthetic_remnants:0 "The defeat of the Synthetic menace left us with many questions unanswered. But the technology they left behind is driving new discoveries throughout the world."
