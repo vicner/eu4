@@ -174,7 +174,7 @@
  NO_UNREST_IN_COLONY:0 "Колонії занадто малі, щоб генерувати заворушення."
  AUTONOMY_NO_AUTHOIRTY:0 "У вас немає авторитету, який можна втратити, тому ви не можете збільшити автономію."
  CURR_SPLENDOR_AGE_TT:0 "Ми маємо $VAL|Y$ балів Величності."
- BANNER_NAME:0 "$HOME$ має $NUM$$ORDER$ Стяг"
+ BANNER_NAME:0 "$NUM$$ORDER$ Корогва $HOME$"
  FE_ALLOW_NAME_CHANGE:0 "Дозволити перейменування провінцій"
  FE_ALLOW_NAME_CHANGE_DESC:0 "Дозволити гравцям перейменовувати провінції."
  MODIFIER_MONTHLY_PIETY:0 "Щомісячна зміна благочестя"
