@@ -236,7 +236,7 @@
  battle_pope_reform_desc:0 "Вбивайте всіх, Господь своїх впізнає."
  mechanic_militarised_society_yes:0 "Доступна механіка мілітаризації"
  mechanic_militarised_society_no:0 "Механіка мілітаризації недоступна"
- mechanic_allow_banners_yes:0 "Дозволяє набирати прапори"
+ mechanic_allow_banners_yes:0 "Дозволяє вербувати корогви"
  mechanic_allow_banners_no:0 ""
  ability_mamluk_mechanic:0 "мамлюцької культури"
  ability_tribal_federation_mechanic:0 "племінної федерації"
