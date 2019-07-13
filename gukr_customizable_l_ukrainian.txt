@@ -92,7 +92,7 @@
  MALE_ENDING_LjKA:0 "ь" #GetEndLjKa
  FEMALE_ENDING_LjKA:0 "ька" #GetEndLjKa
 
-###Мусульманські мазгаби 
+###Мусульманські мазгаби
  hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall
  hanbali_scool:0 "ханбаліти" #GetReligiousSсhoolSmall
  maliki_scool:0 "малікіти" #GetReligiousSсhoolSmall
@@ -289,11 +289,11 @@
  string_sublime_porteOGO:0 "Блискучої Порти" #GetStateFormOGO
  string_crownOGO:0 "Корони" #GetStateFormOGO
  string_councilOGO:0 "Ради" #GetStateFormOGO
- #[Kopoну] koму/чому? "" 
+ #[Kopoну] koму/чому? ""
  string_sublime_porteOMU:0 "Блискучій Порті" #GetStateFormOMU
  string_crownOMU:0 "Короні" #GetStateFormOMU
  string_councilOMU:0 "Раді" #GetStateFormOMU
- #Немає [Kopoни] "" 
+ #Немає [Kopoни] ""
  string_sublime_porteNEMA:0 "Блискучої Порти" #GetStateFormNEMA
  string_crownNEMA:0 "Корони" #GetStateFormNEMA
  string_councilNEMA:0 "Ради" #GetStateFormNEMA
@@ -337,7 +337,7 @@
  string_OGO_books:0 "Книг" #GetFanсyTG_OGO
  string_OGO_crystal:0 "Хришталю" #GetFanсyTG_OGO
  string_OGO_ceramics:0 "Кераміки" #GetFanсyTG_OGO
- #Fancy Toвapи в знахідному вiдмiнkу з вeлиkoї лitepи 
+ #Fancy Toвapи в знахідному вiдмiнkу з вeлиkoї лitepи
  string_ZNA_mother_of_pearl:0 "Перламутр" #GetFanсyTG_ZNA
  string_ZNA_cowries:0 "Мушлі" #GetFanсyTG_ZNA
  string_ZNA_sapphires:0 "Сапфіри" #GetFanсyTG_ZNA
@@ -415,7 +415,7 @@
  string_ORU_books:0 "Книгами" #GetFanсyTG_ORU
  string_ORU_crystal:0 "Хришталем" #GetFanсyTG_ORU
  string_ORU_ceramics:0 "Керамікою" #GetFanсyTG_ORU
- #Fancy Toвapи в місцевому вiдмiнkу з вeлиkoї лitepи 
+ #Fancy Toвapи в місцевому вiдмiнkу з вeлиkoї лitepи
  string_MIS_mother_of_pearl:0 "Перламутрі" #GetFanсyTG_MIS
  string_MIS_cowries:0 "Мушлях" #GetFanсyTG_MIS
  string_MIS_sapphires:0 "Сапфірах" #GetFanсyTG_MIS
@@ -493,7 +493,7 @@
  stringLOW_OGO_books:0 "книг" #GetFanсyTGLOW_OGO
  stringLOW_OGO_crystal:0 "хришталю" #GetFanсyTGLOW_OGO
  stringLOW_OGO_ceramics:0 "кераміки" #GetFanсyTGLOW_OGO
- #Fancy Toвapи в знaxiднoму вiдмiнkу з мaлeньkoї 
+ #Fancy Toвapи в знaxiднoму вiдмiнkу з мaлeньkoї
  stringLOW_ZNA_mother_of_pearl:0 "перламутр" #GetFanсyTGLOW_ZNA
  stringLOW_ZNA_cowries:0 "мушлі" #GetFanсyTGLOW_ZNA
  stringLOW_ZNA_sapphires:0 "сапфіри" #GetFanсyTGLOW_ZNA
@@ -532,7 +532,7 @@
  stringLOW_ZNA_books:0 "книги" #GetFanсyTGLOW_ZNA
  stringLOW_ZNA_crystal:0 "хришталь" #GetFanсyTGLOW_ZNA
  stringLOW_ZNA_ceramics:0 "кераміку" #GetFanсyTGLOW_ZNA
- #Fancy Toвapи в opуднoму вiдмiнkу з мaлeньkoї 
+ #Fancy Toвapи в opуднoму вiдмiнkу з мaлeньkoї
  stringLOW_ORU_mother_of_pearl:0 "перламутром" #GetFanсyTGLOW_ORU
  stringLOW_ORU_cowries:0 "мушлями" #GetFanсyTGLOW_ORU
  stringLOW_ORU_sapphires:0 "сапфірами" #GetFanсyTGLOW_ORU
@@ -571,7 +571,7 @@
  stringLOW_ORU_books:0 "книгами" #GetFanсyTGLOW_ORU
  stringLOW_ORU_crystal:0 "хришталем" #GetFanсyTGLOW_ORU
  stringLOW_ORU_ceramics:0 "керамікою" #GetFanсyTGLOW_ORU
- #Fancy Toвapи в мicцeвoму вiдмiнkу з мaлeньkoї "" 
+ #Fancy Toвapи в мicцeвoму вiдмiнkу з мaлeньkoї ""
  stringLOW_MIS_mother_of_pearl:0 "перламутрі" #GetFanсyTGLOW_MIS
  stringLOW_MIS_cowries:0 "мушлях" #GetFanсyTGLOW_MIS
  stringLOW_MIS_sapphires:0 "сапфірах" #GetFanсyTGLOW_MIS
@@ -611,8 +611,8 @@
  stringLOW_MIS_crystal:0 "хришталі" #GetFanсyTGLOW_MIS
  stringLOW_MIS_ceramics:0 "кераміці" #GetFanсyTGLOW_MIS
  stringLOW_MIS_ceramics:0 "кераміці" #GetFanсyTGLOW_MIS
- ###Змiннi ctaнiв "" 
- #Змінні в називному вiдмiнkу з маленької літери "" 
+ ###Змiннi ctaнiв ""
+ #Змінні в називному вiдмiнkу з маленької літери ""
  EST_BrahminsNZ:0 "брагмани" #BrahminsNZ
  EST_MarathaNZ:0 "маратхи" #MarathaNZ
  EST_RajputNZ:0 "раджпути" #RajputNZ
@@ -621,13 +621,13 @@
  EST_NomadicNZ:0 "клани" #NomadiсNZ
  EST_DhimmiNZ:0 "зіммі" #DhimmiNZ
  EST_JainsNZ:0 "джайни" #JainsNZ
- EST_churchNZ:0 "священослужителі" #ChurсhNZ
- EST_monasteriesNZ:0 "чернечі ордени" #ChurсhNZ
- EST_babaylanesNZ:0 "бабайлани" #ChurсhNZ
- EST_brahminsNZ:0 "брагмани" #ChurсhNZ
- EST_gentryNZ:0 "шитцу" #ChurсhNZ
- EST_ulemaNZ:0 "улеми" #ChurсhNZ
- EST_tlamacazquehNZ:0 "тламаказкі" #ChurсhNZ
+ EST_churchNZ:0 "священослужителі" #ChurchNZ
+ EST_monasteriesNZ:0 "чернечі ордени" #ChurchNZ
+ EST_babaylanesNZ:0 "бабайлани" #ChurchNZ
+ EST_brahminsNZ:0 "брагмани" #ChurchNZ
+ EST_gentryNZ:0 "шитцу" #ChurchNZ
+ EST_ulemaNZ:0 "улеми" #ChurchNZ
+ EST_tlamacazquehNZ:0 "тламаказкі" #ChurchNZ
  EST_noblesNZ:0 "дворяни" #NoblesNZ
  EST_beysNZ:0 "беї" #NoblesNZ
  EST_boyarsNZ:0 "бояри" #NoblesNZ
@@ -647,7 +647,7 @@
  EST_bourgeoisieNZ:0 "буржуа" #BurghersNZ
  EST_shangbangNZ:0 "шаньбен" #BurghersNZ
  EST_guildsNZ:0 "купецькі гільдії" #BurghersNZ
- #Змінні в poдoвoму вiдмiнkу з маленької літери "" 
+ #Змінні в poдoвoму вiдмiнkу з маленької літери ""
  EST_BrahminsRD:0 "брагманів" #BrahminsRD
  EST_MarathaRD:0 "маратхів" #MarathaRD
  EST_RajputRD:0 "раджпутів" #RajputRD
@@ -656,13 +656,13 @@
  EST_NomadicRD:0 "кланів" #NomadiсRD
  EST_DhimmiRD:0 "зіммі" #DhimmiRD
  EST_JainsRD:0 "джайнів" #JainsRD
- EST_churchRD:0 "священослужителів" #ChurсhRD
- EST_monasteriesRD:0 "чернечих орденів" #ChurсhRD
- EST_babaylanesRD:0 "бабайланів" #ChurсhRD
- EST_brahminsRD:0 "брагманів" #ChurсhRD
- EST_gentryRD:0 "шитцу" #ChurсhRD
- EST_ulemaRD:0 "улемів" #ChurсhRD
- EST_tlamacazquehRD:0 "тламаказкі" #ChurсhRD
+ EST_churchRD:0 "священослужителів" #ChurchRD
+ EST_monasteriesRD:0 "чернечих орденів" #ChurchRD
+ EST_babaylanesRD:0 "бабайланів" #ChurchRD
+ EST_brahminsRD:0 "брагманів" #ChurchRD
+ EST_gentryRD:0 "шитцу" #ChurchRD
+ EST_ulemaRD:0 "улемів" #ChurchRD
+ EST_tlamacazquehRD:0 "тламаказкі" #ChurchRD
  EST_noblesRD:0 "дворян" #NoblesRD
  EST_beysRD:0 "беїв" #NoblesRD
  EST_boyarsRD:0 "бояр" #NoblesRD
@@ -682,7 +682,7 @@
  EST_bourgeoisieRD:0 "буржуа" #BurghersRD
  EST_shangbangRD:0 "шаньбен" #BurghersRD
  EST_guildsRD:0 "купецьких гільдій" #BurghersRD
- #Змінні в дaвальнoму вiдмiнkу з маленької літери "" 
+ #Змінні в дaвальнoму вiдмiнkу з маленької літери ""
  EST_BrahminsDV:0 "брагманам" #BrahminsDV
  EST_MarathaDV:0 "маратхам" #MarathaDV
  EST_RajputDV:0 "раджпутам" #RajputDV
@@ -691,13 +691,13 @@
  EST_NomadicDV:0 "кланам" #NomadiсDV
  EST_DhimmiDV:0 "зіммі" #DhimmiDV
  EST_JainsDV:0 "джайнам" #JainsDV
- EST_churchDV:0 "священослужителям" #ChurсhDV
- EST_monasteriesDV:0 "чернечим орденам" #ChurсhDV
- EST_babaylanesDV:0 "бабайланам" #ChurсhDV
- EST_brahminsDV:0 "брагманам" #ChurсhDV
- EST_gentryDV:0 "шитцу" #ChurсhDV
- EST_ulemaDV:0 "улемам" #ChurсhDV
- EST_tlamacazquehDV:0 "тламаказкі" #ChurсhDV
+ EST_churchDV:0 "священослужителям" #ChurchDV
+ EST_monasteriesDV:0 "чернечим орденам" #ChurchDV
+ EST_babaylanesDV:0 "бабайланам" #ChurchDV
+ EST_brahminsDV:0 "брагманам" #ChurchDV
+ EST_gentryDV:0 "шитцу" #ChurchDV
+ EST_ulemaDV:0 "улемам" #ChurchDV
+ EST_tlamacazquehDV:0 "тламаказкі" #ChurchDV
  EST_noblesDV:0 "дворянам" #NoblesDV
  EST_beysDV:0 "беям" #NoblesDV
  EST_boyarsDV:0 "боярам" #NoblesDV
@@ -717,7 +717,7 @@
  EST_bourgeoisieDV:0 "буржуа" #BurghersDV
  EST_shangbangDV:0 "шаньбен" #BurghersDV
  EST_guildsDV:0 "купецьким гільдіям" #BurghersDV
- #Змінні в знахідному вiдмiнkу з маленької літери "" 
+ #Змінні в знахідному вiдмiнkу з маленької літери ""
  EST_BrahminsZN:0 "брагманів" #BrahminsZN
  EST_MarathaZN:0 "маратхів" #MarathaZN
  EST_RajputZN:0 "раджпутів" #RajputZN
@@ -726,13 +726,13 @@
  EST_NomadicZN:0 "кланів" #NomadiсZN
  EST_DhimmiZN:0 "зіммі" #DhimmiZN
  EST_JainsZN:0 "джайнів" #JainsZN
- EST_churchZN:0 "священослужителі" #ChurсhZN
- EST_monasteriesZN:0 "чернечі орденів" #ChurсhZN
- EST_babaylanesZN:0 "бабайланів" #ChurсhZN
- EST_brahminsZN:0 "брагманів" #ChurсhZN
- EST_gentryZN:0 "шитцу" #ChurсhZN
- EST_ulemaZN:0 "улемів" #ChurсhZN
- EST_tlamacazquehZN:0 "тламаказкі" #ChurсhZN
+ EST_churchZN:0 "священослужителі" #ChurchZN
+ EST_monasteriesZN:0 "чернечі орденів" #ChurchZN
+ EST_babaylanesZN:0 "бабайланів" #ChurchZN
+ EST_brahminsZN:0 "брагманів" #ChurchZN
+ EST_gentryZN:0 "шитцу" #ChurchZN
+ EST_ulemaZN:0 "улемів" #ChurchZN
+ EST_tlamacazquehZN:0 "тламаказкі" #ChurchZN
  EST_noblesZN:0 "дворян" #NoblesZN
  EST_beysZN:0 "беїв" #NoblesZN
  EST_boyarsZN:0 "бояр" #NoblesZN
@@ -752,7 +752,7 @@
  EST_bourgeoisieZN:0 "буржуа" #BurghersZN
  EST_shangbangZN:0 "шаньбен" #BurghersZN
  EST_guildsZN:0 "купецькі гільдії" #BurghersZN
- #Змінні в орудному вiдмiнkу з маленької літери "" 
+ #Змінні в орудному вiдмiнkу з маленької літери ""
  EST_BrahminsOD:0 "брагманами" #BrahminsOD
  EST_MarathaOD:0 "маратхами" #MarathaOD
  EST_RajputOD:0 "раджпутами" #RajputOD
@@ -761,13 +761,13 @@
  EST_NomadicOD:0 "кланами" #NomadiсOD
  EST_DhimmiOD:0 "зіммі" #DhimmiOD
  EST_JainsOD:0 "джайнами" #JainsOD
- EST_churchOD:0 "священослужителями" #ChurсhOD
- EST_monasteriesOD:0 "чернечеми орденами" #ChurсhOD
- EST_babaylanesOD:0 "бабайланами" #ChurсhOD
- EST_brahminsOD:0 "брагманами" #ChurсhOD
- EST_gentryOD:0 "шитцу" #ChurсhOD
- EST_ulemaOD:0 "улемами" #ChurсhOD
- EST_tlamacazquehOD:0 "тламаказкі" #ChurсhOD
+ EST_churchOD:0 "священослужителями" #ChurchOD
+ EST_monasteriesOD:0 "чернечеми орденами" #ChurchOD
+ EST_babaylanesOD:0 "бабайланами" #ChurchOD
+ EST_brahminsOD:0 "брагманами" #ChurchOD
+ EST_gentryOD:0 "шитцу" #ChurchOD
+ EST_ulemaOD:0 "улемами" #ChurchOD
+ EST_tlamacazquehOD:0 "тламаказкі" #ChurchOD
  EST_noblesOD:0 "дворянами" #NoblesOD
  EST_beysOD:0 "беями" #NoblesOD
  EST_boyarsOD:0 "боярами" #NoblesOD
@@ -787,7 +787,7 @@
  EST_bourgeoisieOD:0 "буржуа" #BurghersOD
  EST_shangbangOD:0 "шаньбен" #BurghersOD
  EST_guildsOD:0 "купецькими гільдіями" #BurghersOD
- #Змінні в місцевому вiдмiнkу з маленької літери "" 
+ #Змінні в місцевому вiдмiнkу з маленької літери ""
  EST_BrahminsMS:0 "брагманах" #BrahminsMS
  EST_MarathaMS:0 "маратхах" #MarathaMS
  EST_RajputMS:0 "раджпутах" #RajputMS
@@ -796,13 +796,13 @@
  EST_NomadicMS:0 "кланах" #NomadiсMS
  EST_DhimmiMS:0 "зіммі" #DhimmiMS
  EST_JainsMS:0 "джайнах" #JainsMS
- EST_churchMS:0 "священослужителях" #ChurсhMS
- EST_monasteriesMS:0 "чернечих орденах" #ChurсhMS
- EST_babaylanesMS:0 "бабайланах" #ChurсhMS
- EST_brahminsMS:0 "брагманах" #ChurсhMS
- EST_gentryMS:0 "шитцу" #ChurсhMS
- EST_ulemaMS:0 "улемах" #ChurсhMS
- EST_tlamacazquehMS:0 "тламаказкі" #ChurсhMS
+ EST_churchMS:0 "священослужителях" #ChurchMS
+ EST_monasteriesMS:0 "чернечих орденах" #ChurchMS
+ EST_babaylanesMS:0 "бабайланах" #ChurchMS
+ EST_brahminsMS:0 "брагманах" #ChurchMS
+ EST_gentryMS:0 "шитцу" #ChurchMS
+ EST_ulemaMS:0 "улемах" #ChurchMS
+ EST_tlamacazquehMS:0 "тламаказкі" #ChurchMS
  EST_noblesMS:0 "дворянах" #NoblesMS
  EST_beysMS:0 "беях" #NoblesMS
  EST_boyarsMS:0 "боярах" #NoblesMS
@@ -822,7 +822,7 @@
  EST_bourgeoisieMS:0 "буржуа" #BurghersMS
  EST_shangbangMS:0 "шаньбен" #BurghersMS
  EST_guildsMS:0 "купецьких гільдіях" #BurghersMS
- #Змінні в називному вiдмiнkу з вeлиkoї лitepи "" 
+ #Змінні в називному вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsNZ_CAP:0 "Брагмани" #BrahminsNZ_CAP
  EST_MarathaNZ_CAP:0 "Маратхи" #MarathaNZ_CAP
  EST_RajputNZ_CAP:0 "Раджпути" #RajputNZ_CAP
@@ -831,13 +831,13 @@
  EST_NomadicNZ_CAP:0 "Клани" #NomadiсNZ_CAP
  EST_DhimmiNZ_CAP:0 "Зіммі" #DhimmiNZ_CAP
  EST_JainsNZ_CAP:0 "Джайни" #JainsNZ_CAP
- EST_churchNZ_CAP:0 "Священослужителі" #ChurсhNZ_CAP
- EST_monasteriesNZ_CAP:0 "Чернечі ордени" #ChurсhNZ_CAP
- EST_babaylanesNZ_CAP:0 "Бабайлани" #ChurсhNZ_CAP
- EST_brahminsNZ_CAP:0 "Брагмани" #ChurсhNZ_CAP
- EST_gentryNZ_CAP:0 "Шитцу" #ChurсhNZ_CAP
- EST_ulemaNZ_CAP:0 "Улеми" #ChurсhNZ_CAP
- EST_tlamacazquehNZ_CAP:0 "Тламаказкі" #ChurсhNZ_CAP
+ EST_churchNZ_CAP:0 "Священослужителі" #ChurchNZ_CAP
+ EST_monasteriesNZ_CAP:0 "Чернечі ордени" #ChurchNZ_CAP
+ EST_babaylanesNZ_CAP:0 "Бабайлани" #ChurchNZ_CAP
+ EST_brahminsNZ_CAP:0 "Брагмани" #ChurchNZ_CAP
+ EST_gentryNZ_CAP:0 "Шитцу" #ChurchNZ_CAP
+ EST_ulemaNZ_CAP:0 "Улеми" #ChurchNZ_CAP
+ EST_tlamacazquehNZ_CAP:0 "Тламаказкі" #ChurchNZ_CAP
  EST_noblesNZ_CAP:0 "Дворяни" #NoblesNZ_CAP
  EST_beysNZ_CAP:0 "Беї" #NoblesNZ_CAP
  EST_boyarsNZ_CAP:0 "Бояри" #NoblesNZ_CAP
@@ -857,7 +857,7 @@
  EST_bourgeoisieNZ_CAP:0 "Буржуа" #BurghersNZ_CAP
  EST_shangbangNZ_CAP:0 "Шаньбен" #BurghersNZ_CAP
  EST_guildsNZ_CAP:0 "Купецькі гільдії" #BurghersNZ_CAP
- #Змінні в poдoвoму вiдмiнkу з вeлиkoї лitepи "" 
+ #Змінні в poдoвoму вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsRD_CAP:0 "Брагманів" #BrahminsRD_CAP
  EST_MarathaRD_CAP:0 "Маратхів" #MarathaRD_CAP
  EST_RajputRD_CAP:0 "Раджпутів" #RajputRD_CAP
@@ -866,13 +866,13 @@
  EST_NomadicRD_CAP:0 "Кланів" #NomadiсRD_CAP
  EST_DhimmiRD_CAP:0 "Зіммі" #DhimmiRD_CAP
  EST_JainsRD_CAP:0 "Джайнів" #JainsRD_CAP
- EST_churchRD_CAP:0 "Священослужителів" #ChurсhRD_CAP
- EST_monasteriesRD_CAP:0 "Чернечих орденів" #ChurсhRD_CAP
- EST_babaylanesRD_CAP:0 "Бабайланів" #ChurсhRD_CAP
- EST_brahminsRD_CAP:0 "Брагманів" #ChurсhRD_CAP
- EST_gentryRD_CAP:0 "Шитцу" #ChurсhRD_CAP
- EST_ulemaRD_CAP:0 "Улемів" #ChurсhRD_CAP
- EST_tlamacazquehRD_CAP:0 "Тламаказкі" #ChurсhRD_CAP
+ EST_churchRD_CAP:0 "Священослужителів" #ChurchRD_CAP
+ EST_monasteriesRD_CAP:0 "Чернечих орденів" #ChurchRD_CAP
+ EST_babaylanesRD_CAP:0 "Бабайланів" #ChurchRD_CAP
+ EST_brahminsRD_CAP:0 "Брагманів" #ChurchRD_CAP
+ EST_gentryRD_CAP:0 "Шитцу" #ChurchRD_CAP
+ EST_ulemaRD_CAP:0 "Улемів" #ChurchRD_CAP
+ EST_tlamacazquehRD_CAP:0 "Тламаказкі" #ChurchRD_CAP
  EST_noblesRD_CAP:0 "Дворян" #NoblesRD_CAP
  EST_beysRD_CAP:0 "Беїв" #NoblesRD_CAP
  EST_boyarsRD_CAP:0 "Бояр" #NoblesRD_CAP
@@ -892,7 +892,7 @@
  EST_bourgeoisieRD_CAP:0 "Буржуа" #BurghersRD_CAP
  EST_shangbangRD_CAP:0 "Шаньбен" #BurghersRD_CAP
  EST_guildsRD_CAP:0 "Купецьких гільдій" #BurghersRD_CAP
- #Змінні в давальному вiдмiнkу з вeлиkoї лitepи "" 
+ #Змінні в давальному вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsDV_CAP:0 "Брагманам" #BrahminsDV_CAP
  EST_MarathaDV_CAP:0 "Маратхам" #MarathaDV_CAP
  EST_RajputDV_CAP:0 "Раджпутам" #RajputDV_CAP
@@ -901,13 +901,13 @@
  EST_NomadicDV_CAP:0 "Кланам" #NomadiсDV_CAP
  EST_DhimmiDV_CAP:0 "Зіммі" #DhimmiDV_CAP
  EST_JainsDV_CAP:0 "Джайнам" #JainsDV_CAP
- EST_churchDV_CAP:0 "Священослужителям" #ChurсhDV_CAP
- EST_monasteriesDV_CAP:0 "Чернечим орденам" #ChurсhDV_CAP
- EST_babaylanesDV_CAP:0 "Бабайланам" #ChurсhDV_CAP
- EST_brahminsDV_CAP:0 "Брагманам" #ChurсhDV_CAP
- EST_gentryDV_CAP:0 "Шитцу" #ChurсhDV_CAP
- EST_ulemaDV_CAP:0 "Улемам" #ChurсhDV_CAP
- EST_tlamacazquehDV_CAP:0 "Тламаказкі" #ChurсhDV_CAP
+ EST_churchDV_CAP:0 "Священослужителям" #ChurchDV_CAP
+ EST_monasteriesDV_CAP:0 "Чернечим орденам" #ChurchDV_CAP
+ EST_babaylanesDV_CAP:0 "Бабайланам" #ChurchDV_CAP
+ EST_brahminsDV_CAP:0 "Брагманам" #ChurchDV_CAP
+ EST_gentryDV_CAP:0 "Шитцу" #ChurchDV_CAP
+ EST_ulemaDV_CAP:0 "Улемам" #ChurchDV_CAP
+ EST_tlamacazquehDV_CAP:0 "Тламаказкі" #ChurchDV_CAP
  EST_noblesDV_CAP:0 "Дворянам" #NoblesDV_CAP
  EST_beysDV_CAP:0 "Беям" #NoblesDV_CAP
  EST_boyarsDV_CAP:0 "Боярам" #NoblesDV_CAP
@@ -927,7 +927,7 @@
  EST_bourgeoisieDV_CAP:0 "Буржуа" #BurghersDV_CAP
  EST_shangbangDV_CAP:0 "Шаньбен" #BurghersDV_CAP
  EST_guildsDV_CAP:0 "Купецьким гільдіям" #BurghersDV_CAP
- #Змінні в знахідному вiдмiнkу з вeлиkoї лitepи "" 
+ #Змінні в знахідному вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsZN_CAP:0 "Брагманів" #BrahminsZN_CAP
  EST_MarathaZN_CAP:0 "Маратхів" #MarathaZN_CAP
  EST_RajputZN_CAP:0 "Раджпутів" #RajputZN_CAP
@@ -936,13 +936,13 @@
  EST_NomadicZN_CAP:0 "Кланів" #NomadiсZN_CAP
  EST_DhimmiZN_CAP:0 "Зіммі" #DhimmiZN_CAP
  EST_JainsZN_CAP:0 "Джайнів" #JainsZN_CAP
- EST_churchZN_CAP:0 "Священослужителі" #ChurсhZN_CAP
- EST_monasteriesZN_CAP:0 "Чернечі орденів" #ChurсhZN_CAP
- EST_babaylanesZN_CAP:0 "Бабайланів" #ChurсhZN_CAP
- EST_brahminsZN_CAP:0 "Брагманів" #ChurсhZN_CAP
- EST_gentryZN_CAP:0 "Шитцу" #ChurсhZN_CAP
- EST_ulemaZN_CAP:0 "Улемів" #ChurсhZN_CAP
- EST_tlamacazquehZN_CAP:0 "Тламаказкі" #ChurсhZN_CAP
+ EST_churchZN_CAP:0 "Священослужителі" #ChurchZN_CAP
+ EST_monasteriesZN_CAP:0 "Чернечі орденів" #ChurchZN_CAP
+ EST_babaylanesZN_CAP:0 "Бабайланів" #ChurchZN_CAP
+ EST_brahminsZN_CAP:0 "Брагманів" #ChurchZN_CAP
+ EST_gentryZN_CAP:0 "Шитцу" #ChurchZN_CAP
+ EST_ulemaZN_CAP:0 "Улемів" #ChurchZN_CAP
+ EST_tlamacazquehZN_CAP:0 "Тламаказкі" #ChurchZN_CAP
  EST_noblesZN_CAP:0 "Дворян" #NoblesZN_CAP
  EST_beysZN_CAP:0 "Беїв" #NoblesZN_CAP
  EST_boyarsZN_CAP:0 "Бояр" #NoblesZN_CAP
@@ -962,7 +962,7 @@
  EST_bourgeoisieZN_CAP:0 "Буржуа" #BurghersZN_CAP
  EST_shangbangZN_CAP:0 "Шаньбен" #BurghersZN_CAP
  EST_guildsZN_CAP:0 "Купецькі гільдії" #BurghersZN_CAP
- #Змінні в орудному вiдмiнkу з вeлиkoї лitepи "" 
+ #Змінні в орудному вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsOD_CAP:0 "Брагманами" #BrahminsOD_CAP
  EST_MarathaOD_CAP:0 "Маратхами" #MarathaOD_CAP
  EST_RajputOD_CAP:0 "Раджпутами" #RajputOD_CAP
@@ -971,13 +971,13 @@
  EST_NomadicOD_CAP:0 "Кланами" #NomadiсOD_CAP
  EST_DhimmiOD_CAP:0 "Зіммі" #DhimmiOD_CAP
  EST_JainsOD_CAP:0 "Джайнами" #JainsOD_CAP
- EST_churchOD_CAP:0 "Священослужителями" #ChurсhOD_CAP
- EST_monasteriesOD_CAP:0 "Чернечеми орденами" #ChurсhOD_CAP
- EST_babaylanesOD_CAP:0 "Бабайланами" #ChurсhOD_CAP
- EST_brahminsOD_CAP:0 "Брагманами" #ChurсhOD_CAP
- EST_gentryOD_CAP:0 "Шитцу" #ChurсhOD_CAP
- EST_ulemaOD_CAP:0 "Улемами" #ChurсhOD_CAP
- EST_tlamacazquehOD_CAP:0 "Тламаказкі" #ChurсhOD_CAP
+ EST_churchOD_CAP:0 "Священослужителями" #ChurchOD_CAP
+ EST_monasteriesOD_CAP:0 "Чернечеми орденами" #ChurchOD_CAP
+ EST_babaylanesOD_CAP:0 "Бабайланами" #ChurchOD_CAP
+ EST_brahminsOD_CAP:0 "Брагманами" #ChurchOD_CAP
+ EST_gentryOD_CAP:0 "Шитцу" #ChurchOD_CAP
+ EST_ulemaOD_CAP:0 "Улемами" #ChurchOD_CAP
+ EST_tlamacazquehOD_CAP:0 "Тламаказкі" #ChurchOD_CAP
  EST_noblesOD_CAP:0 "Дворянами" #NoblesOD_CAP
  EST_beysOD_CAP:0 "Беями" #NoblesOD_CAP
  EST_boyarsOD_CAP:0 "Боярами" #NoblesOD_CAP
@@ -997,7 +997,7 @@
  EST_bourgeoisieOD_CAP:0 "Буржуа" #BurghersOD_CAP
  EST_shangbangOD_CAP:0 "Шаньбен" #BurghersOD_CAP
  EST_guildsOD_CAP:0 "Купецькими гільдіями" #BurghersOD_CAP
- #Змінні в місцевому вiдмiнkу з вeлиkoї лitepи "" 
+ #Змінні в місцевому вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsMS_CAP:0 "Брагманах" #BrahminsMS_CAP
  EST_MarathaMS_CAP:0 "Маратхах" #MarathaMS_CAP
  EST_RajputMS_CAP:0 "Раджпутах" #RajputMS_CAP
@@ -1006,13 +1006,13 @@
  EST_NomadicMS_CAP:0 "Кланах" #NomadiсMS_CAP
  EST_DhimmiMS_CAP:0 "Зіммі" #DhimmiMS_CAP
  EST_JainsMS_CAP:0 "Джайнах" #JainsMS_CAP
- EST_churchMS_CAP:0 "Священослужителях" #ChurсhMS_CAP
- EST_monasteriesMS_CAP:0 "Чернечих орденах" #ChurсhMS_CAP
- EST_babaylanesMS_CAP:0 "Бабайланах" #ChurсhMS_CAP
- EST_brahminsMS_CAP:0 "Брагманах" #ChurсhMS_CAP
- EST_gentryMS_CAP:0 "Шитцу" #ChurсhMS_CAP
- EST_ulemaMS_CAP:0 "Улемах" #ChurсhMS_CAP
- EST_tlamacazquehMS_CAP:0 "Тламаказкі" #ChurсhMS_CAP
+ EST_churchMS_CAP:0 "Священослужителях" #ChurchMS_CAP
+ EST_monasteriesMS_CAP:0 "Чернечих орденах" #ChurchMS_CAP
+ EST_babaylanesMS_CAP:0 "Бабайланах" #ChurchMS_CAP
+ EST_brahminsMS_CAP:0 "Брагманах" #ChurchMS_CAP
+ EST_gentryMS_CAP:0 "Шитцу" #ChurchMS_CAP
+ EST_ulemaMS_CAP:0 "Улемах" #ChurchMS_CAP
+ EST_tlamacazquehMS_CAP:0 "Тламаказкі" #ChurchMS_CAP
  EST_noblesMS_CAP:0 "Дворянах" #NoblesMS_CAP
  EST_beysMS_CAP:0 "Беях" #NoblesMS_CAP
  EST_boyarsMS_CAP:0 "Боярах" #NoblesMS_CAP
