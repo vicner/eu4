@@ -2292,7 +2292,7 @@
  OFFERCONDOTTIERI_ATWAR:0 "Неможливо здавати в рент армію, коли держава у стані війни."
  OFFERCONDOTTIERI_NONE:0 "У вас немає армій, щоб здати внайми."
  OFFERCONDOTTIERI_NO_SELECTED:0 "Виберіть армію для здачі внайми."
- OFFERCONDOTTIERI_MONTHLY_COST:0 "Вартість за місяць"
+ OFFERCONDOTTIERI_MONTHLY_COST:0 "Ціна/міс."
  OFFERCONDOTTIERI_PERCENTAGE:0 "Утримання"
  CONDOTTIERI_NUM_AVAILABLE:0 "Підрозділи здано внайми:"
  REVOKECONDOTTIERITITLE:0 "Повернути кондотьєрів"
