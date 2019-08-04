@@ -93,6 +93,8 @@
  FEMALE_ENDING_LjKA:0 "ька" #GetEndLjKa
  
  NAME_GUKR:0 "Назва" #кастомна локалізація
+ PROV_NAME_GUKR:0 "Назва провінції" #кастомна локалізація
+ CULT_NAME_GUKR:0 "Назва культури" #кастомна локалізація
 
 ###Мусульманські мазгаби
  hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall
