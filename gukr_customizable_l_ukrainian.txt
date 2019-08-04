@@ -91,6 +91,8 @@
  FEMALE_ENDING_IAjKU:0 "ьку" #GetEndIajKu
  MALE_ENDING_LjKA:0 "ь" #GetEndLjKa
  FEMALE_ENDING_LjKA:0 "ька" #GetEndLjKa
+ 
+ NAME_GUKR:0 "Назва" #кастомна локалізація
 
 ###Мусульманські мазгаби
  hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall
