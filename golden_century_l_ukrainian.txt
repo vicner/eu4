@@ -525,7 +525,7 @@
  March_on_Granada:0 "Похід на Гранаду"
  Conflict_in_the_Caribbean:0 "Конфлікт на Карибах"
  PW_SEND_MISSIONARY_COST:0 "$COST|Y$¤"
- MONTHLY_COST:0 "Щомісячна вартість"
+ MONTHLY_COST:0 "Ціна/міс."
  mechanic_gives_war_against_the_world_tooltip_dummy_yes:0 "Робить доступним Саsus Веlli 'Війна проти всього світу'"
  NO_RELIGIOUS_UNITY_PENALTY:0 "Єретичні та чужовірні провінції не дають штрафи на релігійну єдність."
  CANNOT_AFFORD_COST:0 "Зараз ми не можемо дозволити собі витратити $AMOUNT|Y$$CURRENCY$."
