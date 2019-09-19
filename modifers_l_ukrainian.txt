@@ -46,7 +46,7 @@
  MODIFIER_HEIR_CHANCE:0 "Шанс на спадкоємця"
  MODIFIER_IMPERIAL_AUTHORITY:0 "Модифікатор зростання Імперського Авторитету"
  MODIFIER_IMPERIAL_AUTHORITY_VALUE:0 "Модифікатор імперського авторитету"
- MODIFIER_IMPERIAL_MANDATE:0 "Модифікатор мандатів"
+ MODIFIER_IMPERIAL_MANDATE:1 "Модифікатор зростання мандатів"
  MODIFIER_EMBARGO_EFFICIENCY:0 "Ефективність ембарго"
  MODIFIER_ADVISOR_POOL:0 "Можливі радники"
  MODIFIER_RELIGIOUS_UNITY:0 "Релігійна єдність"
