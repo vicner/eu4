@@ -97,7 +97,7 @@
  DIPLO_CORE_PROCESS:0 "Націоналізують провінцію: "
  DIPLO_RICHNESS:0 "Вартість провінції: "
  DIPLO_WAR_TIME_PASSED:0 "Тривалість війни: "
- DIPLO_THREATHENING_MANDATE:0 "Мандат знаходиться під загрозою: "
+ DIPLO_THREATHENING_MANDATE:0 "Мандат під загрозою: "
  DIPLO_THEY_WON_WAR:0 "Держава $WHO$ перемогла у війні: "
  DIPLO_WAR_STALLED:0 "Війна застопорилася: "
  DIPLO_RIVAL_COLONIST:0 "Держава $WHO$ – суперник у колоніальних перегонах: "
