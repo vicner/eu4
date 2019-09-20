@@ -2795,7 +2795,7 @@
  sonora_area_adj:0 "Сонорськ"
  sonora_area_name:0 "Сонора"
  northern_california_area:0 "Північна Каліфорнія"
- northern_california_area_adj:0 "Північнокаліфорнійськ
+ northern_california_area_adj:0 "Північнокаліфорнійськ"
  northern_california_area_name:0 "Північна Каліфорнія"
  cordillera_occidental_area:0 "Східний хребет"
  cordillera_occidental_area_adj:0 "Кордильєра-Орієнтальськ"
@@ -2818,3 +2818,4 @@
  apacheria_area:0 "Апачерія"
  apacheria_area_adj:0 "Апачерійськ"
  apacheria_area_area:0 "Апачерія"
+
