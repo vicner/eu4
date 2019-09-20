@@ -496,7 +496,7 @@
  trade_policy_events.9.b:0 "Ми не повинні питати що вони можуть зробити для нас. Добре для них – добре для нас."
  trade_policy_events.9.c:0 "Хай [Root.prominent_merchant.GetName] стане новим творцем нашої торгової політики."
  trade_policy_events.10.t:0 "Товар [trade_province.GetFancyTradeGood] користується підвищеним попитом"
- trade_policy_events.10.d:0 "Товар [trade_province.GetFancyTradeGood_LOW] з провінції [trade_province.GetName] останнім часом приносить гарний прибуток як на закордонних, так і на внутрішніх ринках. Настільки гарний, що це породило нове покоління підприємців і економічні спекуляції."
+ trade_policy_events.10.d:1 "[trade_province.GetFancyTradeGood] з провінції [trade_province.GetName] останнім часом приносить гарний прибуток як на закордонних, так і на внутрішніх ринках. Настільки гарний, що це породило нове покоління підприємців і економічні спекуляції."
  trade_policy_events.10.a:0 "Ми маємо втрутитися, щоб уникнути прикрощів."
  trade_policy_events.10.b:0 "Полегшимо правила, щоби дійсно допомогти місцевим підприємцям."
  trade_policy_events.11.t:0 "[trade_province.GetFancyTradeGood] не має попиту"
