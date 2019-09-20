@@ -428,7 +428,7 @@
  NEW_ACHIEVEMENT_11_24_NAME:0 "Carthago Delenda Est"
  NEW_ACHIEVEMENT_11_24_DESC:0 "As an Italian culture nation, make sure entire Tunis Area is at 100 devastation."
  NEW_ACHIEVEMENT_11_25_NAME:0 "Qing of China"
- NEW_ACHIEVEMENT_11_25_DESC:0 "Become Chinese Emperor as Qing."
+ NEW_ACHIEVEMENT_11_25_DESC:1 "Become Chinese Emperor as Qing and own all of China."
  NEW_ACHIEVEMENT_11_26_NAME:0 "Three Trivial Tributary Tribes"
  NEW_ACHIEVEMENT_11_26_DESC:0 "Have 3 Tribal States as Tributaries."
  NEW_ACHIEVEMENT_11_27_NAME:0 "Made in Japan"
@@ -463,7 +463,7 @@
  NEW_ACHIEVEMENT_12_19_NAME:0 "Great Moravia"
  NEW_ACHIEVEMENT_12_19_DESC:0 "Restore the Great Moravian borders as Nitra or Moravia."
  NEW_ACHIEVEMENT_12_20_NAME:0 "A Hero’s Welcome"
- NEW_ACHIEVEMENT_12_20_DESC:0 "As Karaman, form the Sultanate of Rum."
+ NEW_ACHIEVEMENT_12_20_DESC:0 "Starting as Karaman, form the Sultanate of Rum."
  NEW_ACHIEVEMENT_12_21_NAME:0 "David the Builder"
  NEW_ACHIEVEMENT_12_21_DESC:0 "As Imereti, form Georgia and have no free building slots."
  NEW_ACHIEVEMENT_12_22_NAME:0 "Voltaire's Nightmare"
@@ -572,7 +572,7 @@
  NEW_ACHIEVEMENT_33_NAME:0 "Cotton Kandy"
  NEW_ACHIEVEMENT_33_DESC:0 "As Kandy be production leader in Cotton."
  NEW_ACHIEVEMENT_34_NAME:0 "The Pheasant Strut"
- NEW_ACHIEVEMENT_34_DESC:0 "As Ghorka form Nepal and defeat Prussia with at least 100,000 Prussian casualties in a war (both have to be primary targets of war)."
+ NEW_ACHIEVEMENT_34_DESC:0 "As Gorkha form Nepal and defeat Prussia with at least 100,000 Prussian casualties in a war (both have to be primary targets of war)."
  # Golden Century
  NEW_ACHIEVEMENT_35_NAME:0 "Trophy Hunter"
  NEW_ACHIEVEMENT_35_DESC:0 "Capture an enemy flagship."
@@ -594,3 +594,4 @@
  NEW_ACHIEVEMENT_43_DESC:0 "Starting as Huastec, form Maya."
  NEW_ACHIEVEMENT_44_NAME:0 "Where Am I?"
  NEW_ACHIEVEMENT_44_DESC:0 "As a New World native with Random New World active, explore the entire New World."
+
