@@ -640,6 +640,6 @@
  HAS_HOSTILE_TROOPS:0 "Є ворожі війська.\n"
  HAS_NO_HOSTILE_TROOPS:0 "Немає ворожих військ.\n"
  OWNS_ALL_PROVINCES:0 "Володіє всіма провінціями:\n"
- HAS_NON_GENERIC_MISSIONS:0 "$COUNTRY|Y$ має незагальні місії.\n"
- HAS_NOT_NON_GENERIC_MISSIONS:0 "$COUNTRY|Y$ НЕ має незагальних місій.\n"
+ HAS_NON_GENERIC_MISSIONS:0 "$COUNTRY|Y$ має нетипові місії.\n"
+ HAS_NOT_NON_GENERIC_MISSIONS:0 "$COUNTRY|Y$ НЕ має нетипових місій.\n"
  
