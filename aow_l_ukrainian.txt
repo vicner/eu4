@@ -1001,7 +1001,7 @@
  NEWCLIENTCOUNTRY_SETUP:0 "Було створено дочірню державу."
  NEWCLIENTCOUNTRY_HEADER:0 "$MESSENGER$"
  NEWCLIENTCOUNTRY_1:0 "Нова дочірня держава!"
- NEWCLIENTCOUNTRY_2:0 "[Root.Monarch.GetTitleKLY], нову дочірню державу під назвою"
+ NEWCLIENTCOUNTRY_2:0 "[Root.Monarch.GetTitleKLY_CAP], нову дочірню державу під назвою"
  NEWCLIENTCOUNTRY_3:0 "$NAME$"
  NEWCLIENTCOUNTRY_4:0 "було сформовано. Вона вірою і правдою служить державі $COUNTRY$."
  NEWCLIENTCOUNTRY_5:0 " "
