@@ -40,7 +40,7 @@
  CONFIRM_SEND_TRIBUTE_DESC:0 "Наш сюзерен, держава §Y$OVERLORD$§! вимагає від нас данину, цього року у вигляді §Y$AMOUNT$§! $TYPE$\nЦе підвищить довіру між нашими державами на §Y$POS_TRUST$§!.\nВідхиливши цю пропозицію, ми погіршимо стосунки й зменшимо довіру між нами на §Y$NEG_TRUST$§!."
  TRIBUTE_CANT_REFUSE_WHEN_TRUCE:0 "Ми не можемо відмовитися від виплати данини своєму повелителеві, оскільки між нами перемир'я."
  REFUSE:0 "Відмовити!"
- CREATE_SUBJECT:0 "Держава $YWHO$§! отримає статус $TYPE$.\n"
+ CREATE_SUBJECT:0 "Держава §Y$WHO$§! отримає статус $TYPE$.\n"
  REFUSED_CALL_FROM_TRIBUTARY_PENALTY:0 "Якщо ми відмовляємось, ми втратимо $MANDATE|R$ мандатів."
  tributary_state_behind_overlord_tech_adm:0 "Адміністративні технології данника менш розвинені, ніж у сюзерена"
  tributary_state_behind_overlord_tech_dip:0 "Дипломатичні технології данника менш розвинені, ніж у сюзерена"
