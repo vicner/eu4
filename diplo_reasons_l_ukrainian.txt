@@ -6,7 +6,7 @@
  DIPLO_SET_MUTUAL_PROVINCES_AS_VITAL:0 "$THEM$ та $WE$ вважають $NUM$ одних і тих же провінцій нагально необхідними: "
  DIPLO_ALREADY_TRANSFERING_TRADE_POWER:0 "Вже передають торгову силу державі $WHO$: "
  DIPLO_ALREADY_STEERING_TRADE:0 "Вже перенаправляють торгівлю державі $WHO$: "
- DIPLO_TRADECITY:0 "$WHO$ - торгове місто, яке ухиляється від союзів."
+ DIPLO_TRADECITY:0 "$WHO$ – торгове місто, яке ухиляється від союзів."
  DIPLO_TRADE_VASSALS:0 "Число країн, які передають торгову силу державі $WHO$: "
  DIPLO_TRADE_STEER_SLAVES:0 "Число країн, що перенаправляють торгівлю державі $WHO$: "
  DIPLO_ACTIVE_RELATION:0 "Договір вже в силі: "
