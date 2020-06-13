@@ -119,7 +119,7 @@
  string_l_ceramics:0 "кераміка"
  string_l_sapphires:0 "сапфіри"
  string_l_vanilla:0 "ваніль"
- string_l_ivory_figurines:0 "вироби зі слонової кістки"
+ string_l_ivory_figurines:1 "вироби зі слонової кістки"
  string_l_calligraphy:0 "каліграфія"
  string_l_frankincense:0 "ладан"
  string_definite_article_before_country:0 ""
