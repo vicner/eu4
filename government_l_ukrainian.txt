@@ -242,8 +242,8 @@
  ability_tribal_federation_mechanic:0 "племінної федерації"
  mechanic_foreign_slave_rulers_yes:0 "Вмикає механіку Чужоземні раби-правителі."
  mechanic_foreign_slave_rulers_no:0 "Вимикає механіку Чужоземні раби-правителі."
- mechanic_claim_states_yes:0 "Можна претендувати на цілі держави."
- mechanic_claim_states_no:1 "Не можна претендувати на цілі держави."
+ mechanic_claim_states_yes:0 "Можна претендувати на цілу державу."
+ mechanic_claim_states_no:1 "Не можна претендувати на цілу державу."
  mechanic_religion_yes:0 "Є теократією."
  mechanic_religion_no:0 "Не є теократією."
  mechanic_republic_yes:0 "Є республікою."
@@ -305,7 +305,7 @@
  permanent_marathas_council_reform_desc:0 "Маратхські генерали і цивільні лідери грають важливу роль в балансі сил всередині нашої держави. Ми повинні формалізувати їхні зібрання та створити постійну раду маратхів для керівництва державою."
  governmental_purbias_register_reform:0 "Державний реєстр пурбій"
  governmental_purbias_register_reform_desc:0 "Держава вживає заходів для залучення елітних раджпутських воїнів зі всієї Індії. Слід зробити певні кроки щодо об'єднання цих воїнів у згуртовані полки відразу після прибуття, щоби мати можливість розгортати їх ще ефективніше."
- mechanic_maratha_general_interaction_yes:1 "Enables the Marathas Estate Privilege §YMaratha Military Leadership§!, which grants a maximum of §G+10%§! discipline and §R-15%§! tax income, scaled by Maratha land ownership."
+ mechanic_maratha_general_interaction_yes:1 "Вмикає привілей стану маратхів §YВійськовий провід маратхів§!, який дає максимум §G+10%§! дисципліни і §R-15%§! прибутку від податків, пропорційно кількості земель у власності маратхів."
  mechanic_maratha_general_interaction_no:0 " " # intentionally empty
  mechanic_better_purbias_interaction_yes:0 "Привілей стану раджпутів 'Вербування пурбій' додатково підвищить дисципліну раджпутських полків на §G5%§!."
  mechanic_better_purbias_interaction_no:0 " " # intentionally empty
