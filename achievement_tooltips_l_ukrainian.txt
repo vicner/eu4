@@ -52,3 +52,6 @@
  captured_a_flagship:0 "Has captured an enemy Flagship."
  expelled_5_different_minorities_tooltip:0 "Has expelled 5 different minorities."
  spanish_fly_tooltip:0 "Any country with a capital in the Iberia region is a Junior Partner of [Root.GetName]."
+ spread_revolution_ten_times_tt:0 "Spread the Revolution ten times"
+ kingdom_of_god_achievement_tt:0 "Is the Kingdom of God"
+ completed_austrian_missions:0 "Complete the Austrian mission tree"
