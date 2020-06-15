@@ -370,7 +370,7 @@
  COUNCIL_CONCESSION_C_TITLE:1 "Прийняти поступку"
  COUNCIL_CONCESSION_C_DESC:2 "Прийняття поступки $NAME$ коштуватиме $COST|Y$¤ і матиме такі переваги:\n$IMPACT$"
  COUNCIL_NO_COUNCIL:1 "Тридентського Собору ще немає"
- COUNCIL_FINISHED:0 "Дебати на Тридентському Соборі завершились і Церква змінилась.  Змінити свою позицію вже неможливо."
+ COUNCIL_FINISHED:0 "Дебати на Тридентському Соборі завершились і церква змінилась. Змінити свою позицію вже неможливо."
  IS_COUNCIL_POS_TRIGGER:0 "$NAME|Y$ є $POS|Y$ на Тридентському Соборі"
  IS_NOT_COUNCIL_POS_TRIGGER:0 "$NAME|Y$ НЕ є $POS|Y$ на Тридентському Соборі"
  COUNCIL_NEUTRAL_TRIG:0 "Нейтральний"
