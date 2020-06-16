@@ -400,6 +400,8 @@
  GREAT_SHARIF:0 "Великий шаріф"
  MAYOR:0 "Мер"
  MAYORESS:0 "Мер"
+ POPE_ELECTOR:0 "Папа-курфюрст"
+ POPETTE_ELECTOR:0 "Папеса-курфюрста"
  BISHOP_ELECTOR:0 "Єпископ-курфюрст"
  ARCHBISHOP_ELECTOR:0 "Архієпископ-курфюрст"
  PATRIARCH_ELECTOR:0 "Патріарх-курфюрст"
