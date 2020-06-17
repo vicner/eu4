@@ -2,5 +2,5 @@
  TESTX:0 "тест"
  COMBATEND_UNIT_GAINED:0 "Здобуто $NUM|Y$."
  TO_OUR_OVERLORD:0 "Нашому сюзерену: $VALUE|2R$"
- NO_OVERLORD:0 "У нас немає сюзерена"
+ NO_OVERLORD:1 "У нас немає сюзерена."
  NO_OVERLORD_T:0 "Ми не є колоніальною державою."
