@@ -54,7 +54,7 @@
  spa_supported_rebels:0 "Підтримка бунтівників"
  claimed_italy:0 "Претензія на Італію"
  fightinginside_realm:0 "Незаконна війна всередині королівства"
- catholic_obstructing_church:0 "Втручаються в церковні справи"
+ catholic_obstructing_church:1 "Відмовилися платити індульгенції"
  opinion_irritated:0 "Роздратований"
  opinion_gossip:0 "Плітки"
  opinion_daimyo_gift:0 "Дорогоцінний подарунок"
