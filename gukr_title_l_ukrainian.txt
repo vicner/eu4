@@ -416,7 +416,7 @@
  EARL_KYM:0 "ерлом" #GetTitleKYM
  HIGH_KING_KYM:0 "верховним королем" #GetTitleKYM
  LORD_KYM:0 "лордом" #GetTitleKYM
- SHOGUN_KYM:0 "ссьоґуном" #GetTitleKYM
+ SHOGUN_KYM:0 "сьоґуном" #GetTitleKYM
  ATABEG_KYM:0 "атабеком" #GetTitleKYM
  FAAMA_KYM:0 "фаамою" #GetTitleKYM
  GREAT_MANSA_KYM:0 "великим мансою" #GetTitleKYM
