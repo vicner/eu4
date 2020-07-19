@@ -1,0 +1,478 @@
+﻿l_ukrainian:
+ ###На питання в чому? "" 
+ UNITED_PROVINCES_DE:0 "сполучених провінціях" #GetGovernmentDE
+ FEDERAL_KINGDOM_DE:0 "федеральному королівстві" #GetGovernmentDE
+ FEDERAL_EMPIRE_DE:0 "федеральній імперії" #GetGovernmentDE
+ REPUBLIC_DE:0 "республіці" #GetGovernmentDE
+ GREAT_REPUBLIC_DE:0 "великій республіці" #GetGovernmentDE
+ DUCHY_DE:0 "герцогстві" #GetGovernmentDE
+ KINGDOM_DE:0 "королівстві" #GetGovernmentDE
+ EMPIRE_DE:0 "імперії" #GetGovernmentDE
+ EARLDOM_DE:0 "ерлстві" #GetGovernmentDE
+ DAIMYO_DE:0 "даймьо" #GetGovernmentDE
+ KHANATE_DE:0 "ханстві" #GetGovernmentDE
+ PRINCEDOM_DE:0 "князівстві" #GetGovernmentDE
+ GRAND_DUCHY_DE:0 "великому герцогстві" #GetGovernmentDE
+ ARCHDUCHY_DE:0 "ерцгерцогстві" #GetGovernmentDE
+ LORDSHIP_DE:0 "панстві" #GetGovernmentDE
+ MARCH_DE:0 "марці" #GetGovernmentDE
+ VICEROYALTY_DE:0 "віце-королівстві" #GetGovernmentDE
+ IMAMATE_DE:0 "імаматі" #GetGovernmentDE
+ GREAT_IMAMATE_DE:0 "великому імаматі" #GetGovernmentDE
+ EMIRATE_DE:0 "еміраті" #GetGovernmentDE
+ SULTANATE_DE:0 "султанаті" #GetGovernmentDE
+ MALIKATE_DE:0 "малікаті" #GetGovernmentDE
+ SHEIKHDOM_DE:0 "шейхстві" #GetGovernmentDE
+ SHAHDOM_DE:0 "шахстві" #GetGovernmentDE
+ BEYLIK_DE:0 "бейлику" #GetGovernmentDE
+ DESPOTATE_DE:0 "деспотаті" #GetGovernmentDE
+ NAWABATE_DE:0 "навабаті" #GetGovernmentDE
+ NIZAMATE_DE:0 "нізаматі" #GetGovernmentDE
+ MONG_DE:0 "монгі" #GetGovernmentDE
+ GRAND_PRINCIPALITY_DE:0 "великому князівстві" #GetGovernmentDE
+ ALTEPETL_DE:0 "альтепетлі" #GetGovernmentDE
+ ALTEPETL_FEDERATION_DE:0 "альтепетельській федерації" #GetGovernmentDE
+ BISHOPRIC_DE:0 "єпіскопстві" #GetGovernmentDE
+ ARCHBISHOPRIC_DE:0 "архієпіскопстві" #GetGovernmentDE
+ PATRIARCHATE_DE:0 "патріархаті" #GetGovernmentDE
+ DESPOTISM_DE:0 "деспотії" #GetGovernmentDE
+ DICTATORSHIP_DE:0 "диктатурі" #GetGovernmentDE
+ PRESIDENTIAL_DICTATORSHIP_DE:0 "президентській диктатурі" #GetGovernmentDE
+ METROPOLIS_DE:0 "митрополії" #GetGovernmentDE
+ GREAT_METROPOLIS_DE:0 "великій митрополії" #GetGovernmentDE
+ HORDE_DE:0 "орді" #GetGovernmentDE
+ KHAGANATE_DE:0 "каганаті" #GetGovernmentDE
+ CHIEFDOM_DE:0 "вождістві" #GetGovernmentDE
+ TRIBAL_KINGDOM_DE:0 "племінному королівстві" #GetGovernmentDE
+ TRIBAL_EMPIRE_DE:0 "племінній імперії" #GetGovernmentDE
+ GRAND_CHIEFDOM_DE:0 "верховному вождістві" #GetGovernmentDE
+ GREAT_CHIEFDOM_DE:0 "великому вождістві" #GetGovernmentDE
+ HOLY_STATE_DE:0 "церковній державі" #GetGovernmentDE
+ HIGH_IMAMATE_DE:0 "верховному імаматі" #GetGovernmentDE
+ HOLY_EMPIRE_DE:0 "теократичній імперії" #GetGovernmentDE
+ GREAT_EMIRATE_DE:0 "великому еміраті" #GetGovernmentDE
+ PASHALIK_DE:0 "еялеті" #GetGovernmentDE
+ SOGN_DE:0 "согні" #GetGovernmentDE
+ HERRED_DE:0 "сотні" #GetGovernmentDE
+ BONDEVALDE_DE:0 "бондевельді" #GetGovernmentDE
+ MISL_DE:0 "місалі" #GetGovernmentDE
+ CONFEDERATION_DE:0 "конфедерації" #GetGovernmentDE
+ TRIBE_DE:0 "племені" #GetGovernmentDE
+ HOLY_PRINCIPALITY_DE:0 "церковному князівстві" #GetGovernmentDE
+ TSARDOM_DE:0 "царстві" #GetGovernmentDE
+ GRAND_PRINCEDOM_DE:0 "верховному князівстві" #GetGovernmentDE
+ GREAT_PRINCEDOM_DE:0 "великому князівстві" #GetGovernmentDE
+ MONASTIC_ORDER_DE:0 "чернечому ордені" #GetGovernmentDE
+ GRAND_REPUBLIC_DE:0 "верховній республіці" #GetGovernmentDE
+ FEDERAL_REPUBLIC_DE:0 "федеральній республіці" #GetGovernmentDE
+ CAH_DE:0 "кахі" #GetGovernmentDE
+ KUCHKABAL_DE:0 "кучкабалі" #GetGovernmentDE
+ GREAT_LEAGUE_DE:0 "великій лізі" #GetGovernmentDE
+ PAPACY_DE:0 "папстві" #GetGovernmentDE
+ COLONY_DE:0 "колонії" #GetGovernmentDE
+ SHOGUNATE_DE:0 "сьоґунаті" #GetGovernmentDE
+ INDEP_DAIMYO_DE:0 "незалежному даймьо" #GetGovernmentDE
+ GRAND_INDEP_DAIMYO_DE:0 "головному даймьо" #GetGovernmentDE
+ GREAT_INDEP_DAIMYO_DE:0 "великому даймьо" #GetGovernmentDE
+ HETMANATE_DE:0 "гетьманаті" #GetGovernmentDE
+ GRAND_HETMANATE_DE:0 "верховному гетьманаті" #GetGovernmentDE
+ GREAT_HETMANATE_DE:0 "великому гетьманаті" #GetGovernmentDE
+ SHARIFATE_DE:0 "шаріфаті" #GetGovernmentDE
+ GREAT_SHARIFATE_DE:0 "верховному шаріфаті" #GetGovernmentDE
+ GRAND_SHARIFATE_DE:0 "великому шаріфаті" #GetGovernmentDE
+ BARANGAY_DE:0 "барангаї" #GetGovernmentDE
+ GRAND_BARANGAY_DE:0 "верховному барангаї" #GetGovernmentDE
+ GREAT_BARANGAY_DE:0 "великому барангаї" #GetGovernmentDE
+ PARLIAMENT_OF_HEAVEN_DE:0 "парламенті Небес" #GetGovernmentDE
+ REVOLUTIONARY_PEASANT_REPUBLIC_DE:0 "селянській хунті" #GetGovernmentDE
+ FREE_CITY_DE:0 "вільному місті" #GetGovernmentDE
+ SERENE_REPUBLIC_DE:0 "найсвітлішій республіці" #GetGovernmentDE
+ ###На питання кому? "" 
+ UNITED_PROVINCES_OMU:0 "сполученим провінціям" #GetGovernmentOMU
+ FEDERAL_KINGDOM_OMU:0 "федеральному королівству" #GetGovernmentOMU
+ FEDERAL_EMPIRE_OMU:0 "федеральній імперії" #GetGovernmentOMU
+ REPUBLIC_OMU:0 "республіці" #GetGovernmentOMU
+ GREAT_REPUBLIC_OMU:0 "великій республіці" #GetGovernmentOMU
+ DUCHY_OMU:0 "герцогству" #GetGovernmentOMU
+ KINGDOM_OMU:0 "королівству" #GetGovernmentOMU
+ EMPIRE_OMU:0 "імперії" #GetGovernmentOMU
+ EARLDOM_OMU:0 "ерлству" #GetGovernmentOMU
+ DAIMYO_OMU:0 "даймьо" #GetGovernmentOMU
+ KHANATE_OMU:0 "ханству" #GetGovernmentOMU
+ PRINCEDOM_OMU:0 "князівству" #GetGovernmentOMU
+ GRAND_DUCHY_OMU:0 "великому князівству" #GetGovernmentOMU
+ ARCHDUCHY_OMU:0 "ерцгерцогству" #GetGovernmentOMU
+ LORDSHIP_OMU:0 "панству" #GetGovernmentOMU
+ MARCH_OMU:0 "марці" #GetGovernmentOMU
+ VICEROYALTY_OMU:0 "віце-королівству" #GetGovernmentOMU
+ IMAMATE_OMU:0 "імамату" #GetGovernmentOMU
+ GREAT_IMAMATE_OMU:0 "великому імамату" #GetGovernmentOMU
+ EMIRATE_OMU:0 "емірату" #GetGovernmentOMU
+ SULTANATE_OMU:0 "султанату" #GetGovernmentOMU
+ MALIKATE_OMU:0 "малікату" #GetGovernmentOMU
+ SHEIKHDOM_OMU:0 "шейхству" #GetGovernmentOMU
+ SHAHDOM_OMU:0 "шахству" #GetGovernmentOMU
+ BEYLIK_OMU:0 "бейлику" #GetGovernmentOMU
+ DESPOTATE_OMU:0 "деспотату" #GetGovernmentOMU
+ NAWABATE_OMU:0 "навабату" #GetGovernmentOMU
+ NIZAMATE_OMU:0 "нізамату" #GetGovernmentOMU
+ MONG_OMU:0 "монгу" #GetGovernmentOMU
+ GRAND_PRINCIPALITY_OMU:0 "великому князівству" #GetGovernmentOMU
+ ALTEPETL_OMU:0 "альтепетлю" #GetGovernmentOMU
+ ALTEPETL_FEDERATION_OMU:0 "альтепетельскій федерації" #GetGovernmentOMU
+ BISHOPRIC_OMU:0 "єпископству" #GetGovernmentOMU
+ ARCHBISHOPRIC_OMU:0 "архієпископству" #GetGovernmentOMU
+ PATRIARCHATE_OMU:0 "патріархату" #GetGovernmentOMU
+ DESPOTISM_OMU:0 "деспотії" #GetGovernmentOMU
+ DICTATORSHIP_OMU:0 "диктатурі" #GetGovernmentOMU
+ PRESIDENTIAL_DICTATORSHIP_OMU:0 "президентськії диктатурі" #GetGovernmentOMU
+ METROPOLIS_OMU:0 "митрополії" #GetGovernmentOMU
+ GREAT_METROPOLIS_OMU:0 "великій митрополії" #GetGovernmentOMU
+ HORDE_OMU:0 "орді" #GetGovernmentOMU
+ KHAGANATE_OMU:0 "каганату" #GetGovernmentOMU
+ CHIEFDOM_OMU:0 "вождівству" #GetGovernmentOMU
+ TRIBAL_KINGDOM_OMU:0 "племінному королівству" #GetGovernmentOMU
+ TRIBAL_EMPIRE_OMU:0 "племінній імперії" #GetGovernmentOMU
+ GRAND_CHIEFDOM_OMU:0 "верховному вождівству" #GetGovernmentOMU
+ GREAT_CHIEFDOM_OMU:0 "великому вождівству" #GetGovernmentOMU
+ HOLY_STATE_OMU:0 "церковній державі" #GetGovernmentOMU
+ HIGH_IMAMATE_OMU:0 "верховному імаматові" #GetGovernmentOMU
+ HOLY_EMPIRE_OMU:0 "теократичній імперії" #GetGovernmentOMU
+ GREAT_EMIRATE_OMU:0 "великому еміратові" #GetGovernmentOMU
+ PASHALIK_OMU:0 "еялету" #GetGovernmentOMU
+ SOGN_OMU:0 "согні" #GetGovernmentOMU
+ HERRED_OMU:0 "сотні" #GetGovernmentOMU
+ BONDEVALDE_OMU:0 "бондевельду" #GetGovernmentOMU
+ MISL_OMU:0 "місалю" #GetGovernmentOMU
+ CONFEDERATION_OMU:0 "конфедерації" #GetGovernmentOMU
+ TRIBE_OMU:0 "племені" #GetGovernmentOMU
+ HOLY_PRINCIPALITY_OMU:0 "церковному князівству" #GetGovernmentOMU
+ TSARDOM_OMU:0 "царству" #GetGovernmentOMU
+ GRAND_PRINCEDOM_OMU:0 "верховному князівству" #GetGovernmentOMU
+ GREAT_PRINCEDOM_OMU:0 "великому князівству" #GetGovernmentOMU
+ MONASTIC_ORDER_OMU:0 "чернечому орденові" #GetGovernmentOMU
+ GRAND_REPUBLIC_OMU:0 "великій республіці" #GetGovernmentOMU
+ FEDERAL_REPUBLIC_OMU:0 "федеральній республіки" #GetGovernmentOMU
+ CAH_OMU:0 "кахі" #GetGovernmentOMU
+ KUCHKABAL_OMU:0 "кучкабалю" #GetGovernmentOMU
+ GREAT_LEAGUE_OMU:0 "великій лізі" #GetGovernmentOMU
+ PAPACY_OMU:0 "пaпcтву" #GetGovernmentOMU
+ COLONY_OMU:0 "колонії" #GetGovernmentOMU
+ SHOGUNATE_OMU:0 "cьоґунaту" #GetGovernmentOMU
+ INDEP_DAIMYO_OMU:0 "незалежному дaймьо" #GetGovernmentOMU
+ GRAND_INDEP_DAIMYO_OMU:0 "головному дaймьо" #GetGovernmentOMU
+ GREAT_INDEP_DAIMYO_OMU:0 "великому дaймьо" #GetGovernmentOMU
+ HETMANATE_OMU:0 "гетьманату" #GetGovernmentOMU
+ GRAND_HETMANATE_OMU:0 "верховному гетьманатові" #GetGovernmentOMU
+ GREAT_HETMANATE_OMU:0 "великому гетьманатові" #GetGovernmentOMU
+ SHARIFATE_OMU:0 "шapіфaту" #GetGovernmentOMU
+ GREAT_SHARIFATE_OMU:0 "верховному шapіфaту" #GetGovernmentOMU
+ GRAND_SHARIFATE_OMU:0 "великому шapіфaту" #GetGovernmentOMU
+ BARANGAY_OMU:0 "бapaнґaю" #GetGovernmentOMU
+ GRAND_BARANGAY_OMU:0 "верховному бapaнґaю" #GetGovernmentOMU
+ GREAT_BARANGAY_OMU:0 "великому бapaнґaю" #GetGovernmentOMU
+ PARLIAMENT_OF_HEAVEN_OMU:0 "парламенту Небес" #GetGovernmentOMU
+ REVOLUTIONARY_PEASANT_REPUBLIC_OMU:0 "селянській хунті" #GetGovernmentOMU
+ FREE_CITY_OMU:0 "вільному місту" #GetGovernmentOMU
+ SERENE_REPUBLIC_OMU:0 "найсвітлішій pecпубліці" #GetGovernmentOMU
+ ###На питання немає кого? "" 
+ UNITED_PROVINCES_OGO:0 "сполучених провінцій" #GetGovernmentOGO
+ FEDERAL_KINGDOM_OGO:0 "федерального королівства" #GetGovernmentOGO
+ FEDERAL_EMPIRE_OGO:0 "федеральної імперії" #GetGovernmentOGO
+ REPUBLIC_OGO:0 "республіки" #GetGovernmentOGO
+ GREAT_REPUBLIC_OGO:0 "великої республіки" #GetGovernmentOGO
+ DUCHY_OGO:0 "герцогства" #GetGovernmentOGO
+ KINGDOM_OGO:0 "королівства" #GetGovernmentOGO
+ EMPIRE_OGO:0 "імперії" #GetGovernmentOGO
+ EARLDOM_OGO:0 "ерлства" #GetGovernmentOGO
+ DAIMYO_OGO:0 "даймьо" #GetGovernmentOGO
+ KHANATE_OGO:0 "ханства" #GetGovernmentOGO
+ PRINCEDOM_OGO:0 "князівства" #GetGovernmentOGO
+ GRAND_DUCHY_OGO:0 "великого князівства" #GetGovernmentOGO
+ ARCHDUCHY_OGO:0 "ерцгерцогства" #GetGovernmentOGO
+ LORDSHIP_OGO:0 "панства" #GetGovernmentOGO
+ MARCH_OGO:0 "марки" #GetGovernmentOGO
+ VICEROYALTY_OGO:0 "віце-королівства" #GetGovernmentOGO
+ IMAMATE_OGO:0 "імамату" #GetGovernmentOGO
+ GREAT_IMAMATE_OGO:0 "великого імамату" #GetGovernmentOGO
+ EMIRATE_OGO:0 "емірату" #GetGovernmentOGO
+ SULTANATE_OGO:0 "султанату" #GetGovernmentOGO
+ MALIKATE_OGO:0 "маліката" #GetGovernmentOGO
+ SHEIKHDOM_OGO:0 "шейхства" #GetGovernmentOGO
+ SHAHDOM_OGO:0 "шахства" #GetGovernmentOGO
+ BEYLIK_OGO:0 "бейлика" #GetGovernmentOGO
+ DESPOTATE_OGO:0 "деспотату" #GetGovernmentOGO
+ NAWABATE_OGO:0 "навабату" #GetGovernmentOGO
+ NIZAMATE_OGO:0 "нізамату" #GetGovernmentOGO
+ MONG_OGO:0 "монгу" #GetGovernmentOGO
+ GRAND_PRINCIPALITY_OGO:0 "великого князівства" #GetGovernmentOGO
+ ALTEPETL_OGO:0 "альтепетля" #GetGovernmentOGO
+ ALTEPETL_FEDERATION_OGO:0 "альтепетельскої федерації" #GetGovernmentOGO
+ BISHOPRIC_OGO:0 "єпископства" #GetGovernmentOGO
+ ARCHBISHOPRIC_OGO:0 "архієпископства" #GetGovernmentOGO
+ PATRIARCHATE_OGO:0 "патріархату" #GetGovernmentOGO
+ DESPOTISM_OGO:0 "деспотії" #GetGovernmentOGO
+ DICTATORSHIP_OGO:0 "диктатури" #GetGovernmentOGO
+ PRESIDENTIAL_DICTATORSHIP_OGO:0 "президентської диктатури" #GetGovernmentOGO
+ METROPOLIS_OGO:0 "митрополії" #GetGovernmentOGO
+ GREAT_METROPOLIS_OGO:0 "великої митрополії" #GetGovernmentOGO
+ HORDE_OGO:0 "орди" #GetGovernmentOGO
+ KHAGANATE_OGO:0 "каганату" #GetGovernmentOGO
+ CHIEFDOM_OGO:0 "вождівства" #GetGovernmentOGO
+ TRIBAL_KINGDOM_OGO:0 "племінного королівства" #GetGovernmentOGO
+ TRIBAL_EMPIRE_OGO:0 "племінної імперії" #GetGovernmentOGO
+ GRAND_CHIEFDOM_OGO:0 "верховного вождівства" #GetGovernmentOGO
+ GREAT_CHIEFDOM_OGO:0 "великого вождівства" #GetGovernmentOGO
+ HOLY_STATE_OGO:0 "церковної держави" #GetGovernmentOGO
+ HIGH_IMAMATE_OGO:0 "верховного імамату" #GetGovernmentOGO
+ HOLY_EMPIRE_OGO:0 "теократичної імперії" #GetGovernmentOGO
+ GREAT_EMIRATE_OGO:0 "великого емірату" #GetGovernmentOGO
+ PASHALIK_OGO:0 "еялету" #GetGovernmentOGO
+ SOGN_OGO:0 "согну" #GetGovernmentOGO
+ HERRED_OGO:0 "сотні" #GetGovernmentOGO
+ BONDEVALDE_OGO:0 "бондевельда" #GetGovernmentOGO
+ MISL_OGO:0 "місаля" #GetGovernmentOGO
+ CONFEDERATION_OGO:0 "конфедерації" #GetGovernmentOGO
+ TRIBE_OGO:0 "племені" #GetGovernmentOGO
+ HOLY_PRINCIPALITY_OGO:0 "церковного князівства" #GetGovernmentOGO
+ TSARDOM_OGO:0 "царства" #GetGovernmentOGO
+ GRAND_PRINCEDOM_OGO:0 "верховного князівства" #GetGovernmentOGO
+ GREAT_PRINCEDOM_OGO:0 "великого князівства" #GetGovernmentOGO
+ MONASTIC_ORDER_OGO:0 "чернечого ордену" #GetGovernmentOGO
+ GRAND_REPUBLIC_OGO:0 "верховної республіки" #GetGovernmentOGO
+ FEDERAL_REPUBLIC_OGO:0 "федеральної республіки" #GetGovernmentOGO
+ CAH_OGO:0 "каха" #GetGovernmentOGO
+ KUCHKABAL_OGO:0 "кучкабаля" #GetGovernmentOGO
+ GREAT_LEAGUE_OGO:0 "великої ліги" #GetGovernmentOGO
+ PAPACY_OGO:0 "папства" #GetGovernmentOGO
+ COLONY_OGO:0 "колонії" #GetGovernmentOGO
+ SHOGUNATE_OGO:0 "сьоґунату" #GetGovernmentOGO
+ INDEP_DAIMYO_OGO:0 "незалежного даймьо" #GetGovernmentOGO
+ GRAND_INDEP_DAIMYO_OGO:0 "головного даймьо" #GetGovernmentOGO
+ GREAT_INDEP_DAIMYO_OGO:0 "великого даймьо" #GetGovernmentOGO
+ HETMANATE_OGO:0 "гетьманату" #GetGovernmentOGO
+ GRAND_HETMANATE_OGO:0 "верховного гетьманату" #GetGovernmentOGO
+ GREAT_HETMANATE_OGO:0 "великого гетьманату" #GetGovernmentOGO
+ SHARIFATE_OGO:0 "шаріфату" #GetGovernmentOGO
+ GREAT_SHARIFATE_OGO:0 "верховного шаріфату" #GetGovernmentOGO
+ GRAND_SHARIFATE_OGO:0 "великого шаріфату" #GetGovernmentOGO
+ BARANGAY_OGO:0 "баранґая" #GetGovernmentOGO
+ GRAND_BARANGAY_OGO:0 "верховного баранґая" #GetGovernmentOGO
+ GREAT_BARANGAY_OGO:0 "великого баранґая" #GetGovernmentOGO
+ PARLIAMENT_OF_HEAVEN_OGO:0 "парламенту Небес" #GetGovernmentOGO
+ REVOLUTIONARY_PEASANT_REPUBLIC_OGO:0 "селянської хунти" #GetGovernmentOGO
+ FREE_CITY_OGO:0 "вільного міста" #GetGovernmentOGO
+ SERENE_REPUBLIC_OGO:0 "найсвітлішої республіки" #GetGovernmentOGO
+ ###На питання бачу що? "" 
+ UNITED_PROVINCES_SCHO:0 "сполучені провінції" #GetGovernmentSCHO
+ FEDERAL_KINGDOM_SCHO:0 "федеральне королівство" #GetGovernmentSCHO
+ FEDERAL_EMPIRE_SCHO:0 "федеральну імперію" #GetGovernmentSCHO
+ REPUBLIC_SCHO:0 "республіку" #GetGovernmentSCHO
+ GREAT_REPUBLIC_SCHO:0 "велику республіку" #GetGovernmentSCHO
+ DUCHY_SCHO:0 "герцогство" #GetGovernmentSCHO
+ KINGDOM_SCHO:0 "королівство" #GetGovernmentSCHO
+ EMPIRE_SCHO:0 "імперію" #GetGovernmentSCHO
+ EARLDOM_SCHO:0 "ерлство" #GetGovernmentSCHO
+ DAIMYO_SCHO:0 "даймьо" #GetGovernmentSCHO
+ KHANATE_SCHO:0 "ханство" #GetGovernmentSCHO
+ PRINCEDOM_SCHO:0 "князівство" #GetGovernmentSCHO
+ GRAND_DUCHY_SCHO:0 "велике князівство" #GetGovernmentSCHO
+ ARCHDUCHY_SCHO:0 "ерцгерцогство" #GetGovernmentSCHO
+ LORDSHIP_SCHO:0 "панство" #GetGovernmentSCHO
+ MARCH_SCHO:0 "марку" #GetGovernmentSCHO
+ VICEROYALTY_SCHO:0 "віце-королівство" #GetGovernmentSCHO
+ IMAMATE_SCHO:0 "імамат" #GetGovernmentSCHO
+ GREAT_IMAMATE_SCHO:0 "великий імамат" #GetGovernmentSCHO
+ EMIRATE_SCHO:0 "емірат" #GetGovernmentSCHO
+ SULTANATE_SCHO:0 "султанат" #GetGovernmentSCHO
+ MALIKATE_SCHO:0 "малікат" #GetGovernmentSCHO
+ SHEIKHDOM_SCHO:0 "шейхство" #GetGovernmentSCHO
+ SHAHDOM_SCHO:0 "шахство" #GetGovernmentSCHO
+ BEYLIK_SCHO:0 "бейлик" #GetGovernmentSCHO
+ DESPOTATE_SCHO:0 "деспотат" #GetGovernmentSCHO
+ NAWABATE_SCHO:0 "навабат" #GetGovernmentSCHO
+ NIZAMATE_SCHO:0 "нізамат" #GetGovernmentSCHO
+ MONG_SCHO:0 "монг" #GetGovernmentSCHO
+ GRAND_PRINCIPALITY_SCHO:0 "велике князівство" #GetGovernmentSCHO
+ ALTEPETL_SCHO:0 "альтепетль" #GetGovernmentSCHO
+ ALTEPETL_FEDERATION_SCHO:0 "альтепетельську федерацію" #GetGovernmentSCHO
+ BISHOPRIC_SCHO:0 "єпископство" #GetGovernmentSCHO
+ ARCHBISHOPRIC_SCHO:0 "архієпископство" #GetGovernmentSCHO
+ PATRIARCHATE_SCHO:0 "патріархат" #GetGovernmentSCHO
+ DESPOTISM_SCHO:0 "деспотію" #GetGovernmentSCHO
+ DICTATORSHIP_SCHO:0 "диктатуру" #GetGovernmentSCHO
+ PRESIDENTIAL_DICTATORSHIP_SCHO:0 "президентську диктатуру" #GetGovernmentSCHO
+ METROPOLIS_SCHO:0 "митрополію" #GetGovernmentSCHO
+ GREAT_METROPOLIS_SCHO:0 "велику митрополію" #GetGovernmentSCHO
+ HORDE_SCHO:0 "орду" #GetGovernmentSCHO
+ KHAGANATE_SCHO:0 "каганат" #GetGovernmentSCHO
+ CHIEFDOM_SCHO:0 "вождівство" #GetGovernmentSCHO
+ TRIBAL_KINGDOM_SCHO:0 "племінне королівство" #GetGovernmentSCHO
+ TRIBAL_EMPIRE_SCHO:0 "племінну імперію" #GetGovernmentSCHO
+ GRAND_CHIEFDOM_SCHO:0 "верховне вождівство" #GetGovernmentSCHO
+ GREAT_CHIEFDOM_SCHO:0 "велике вождівство" #GetGovernmentSCHO
+ HOLY_STATE_SCHO:0 "церковне держава" #GetGovernmentSCHO
+ HIGH_IMAMATE_SCHO:0 "верховний імамат" #GetGovernmentSCHO
+ HOLY_EMPIRE_SCHO:0 "теократичну імперію" #GetGovernmentSCHO
+ GREAT_EMIRATE_SCHO:0 "великий емірат" #GetGovernmentSCHO
+ PASHALIK_SCHO:0 "еялет" #GetGovernmentSCHO
+ SOGN_SCHO:0 "согн" #GetGovernmentSCHO
+ HERRED_SCHO:0 "сотню" #GetGovernmentSCHO
+ BONDEVALDE_SCHO:0 "бондевельд" #GetGovernmentSCHO
+ MISL_SCHO:0 "місаль" #GetGovernmentSCHO
+ CONFEDERATION_SCHO:0 "конфедерацію" #GetGovernmentSCHO
+ TRIBE_SCHO:0 "плем'я" #GetGovernmentSCHO
+ HOLY_PRINCIPALITY_SCHO:0 "церковне князівство" #GetGovernmentSCHO
+ TSARDOM_SCHO:0 "царство" #GetGovernmentSCHO
+ GRAND_PRINCEDOM_SCHO:0 "верховне князівство" #GetGovernmentSCHO
+ GREAT_PRINCEDOM_SCHO:0 "велике князівство" #GetGovernmentSCHO
+ MONASTIC_ORDER_SCHO:0 "чернечий орден" #GetGovernmentSCHO
+ GRAND_REPUBLIC_SCHO:0 "верховну республіку" #GetGovernmentSCHO
+ FEDERAL_REPUBLIC_SCHO:0 "федеральну республіку" #GetGovernmentSCHO
+ CAH_SCHO:0 "каху" #GetGovernmentSCHO
+ KUCHKABAL_SCHO:0 "кучкабаль" #GetGovernmentSCHO
+ GREAT_LEAGUE_SCHO:0 "велику лігу" #GetGovernmentSCHO
+ PAPACY_SCHO:0 "папство" #GetGovernmentSCHO
+ COLONY_SCHO:0 "колонію" #GetGovernmentSCHO
+ SHOGUNATE_SCHO:0 "сьоґунат" #GetGovernmentSCHO
+ INDEP_DAIMYO_SCHO:0 "незалежний даймьо" #GetGovernmentSCHO
+ GRAND_INDEP_DAIMYO_SCHO:0 "головний даймьо" #GetGovernmentSCHO
+ GREAT_INDEP_DAIMYO_SCHO:0 "великий даймьо" #GetGovernmentSCHO
+ HETMANATE_SCHO:0 "гетьманат" #GetGovernmentSCHO
+ GRAND_HETMANATE_SCHO:0 "верховний гетьманат" #GetGovernmentSCHO
+ GREAT_HETMANATE_SCHO:0 "великий гетьманат" #GetGovernmentSCHO
+ SHARIFATE_SCHO:0 "шаріфат" #GetGovernmentSCHO
+ GREAT_SHARIFATE_SCHO:0 "верховний шаріфат" #GetGovernmentSCHO
+ GRAND_SHARIFATE_SCHO:0 "великий шаріфат" #GetGovernmentSCHO
+ BARANGAY_SCHO:0 "баранґай" #GetGovernmentSCHO
+ GRAND_BARANGAY_SCHO:0 "верховний баранґай" #GetGovernmentSCHO
+ GREAT_BARANGAY_SCHO:0 "великий баранґай" #GetGovernmentSCHO
+ PARLIAMENT_OF_HEAVEN_SCHO:0 "парламент Небес" #GetGovernmentSCHO
+ REVOLUTIONARY_PEASANT_REPUBLIC_SCHO:0 "селянську хунту" #GetGovernmentSCHO
+ FREE_CITY_SCHO:0 "вільне місто" #GetGovernmentSCHO
+ SERENE_REPUBLIC_SCHO:0 "найсвітлішу республіку" #GetGovernmentSCHO
+ ###На питання кем? "" 
+ UNITED_PROVINCES_KYM:0 "сполученими провінціями" #GetGovernmentKYM
+ FEDERAL_KINGDOM_KYM:0 "федеральним королівством" #GetGovernmentKYM
+ FEDERAL_EMPIRE_KYM:0 "федеральною імперією" #GetGovernmentKYM
+ REPUBLIC_KYM:0 "республікою" #GetGovernmentKYM
+ GREAT_REPUBLIC_KYM:0 "великою республікою" #GetGovernmentKYM
+ DUCHY_KYM:0 "герцогством" #GetGovernmentKYM
+ KINGDOM_KYM:0 "королівством" #GetGovernmentKYM
+ EMPIRE_KYM:0 "імперією" #GetGovernmentKYM
+ EARLDOM_KYM:0 "ерлством" #GetGovernmentKYM
+ DAIMYO_KYM:0 "даймьо" #GetGovernmentKYM
+ KHANATE_KYM:0 "ханством" #GetGovernmentKYM
+ PRINCEDOM_KYM:0 "князівством" #GetGovernmentKYM
+ GRAND_DUCHY_KYM:0 "великим князівством" #GetGovernmentKYM
+ ARCHDUCHY_KYM:0 "ерцгерцогство" #GetGovernmentKYM
+ LORDSHIP_KYM:0 "панством" #GetGovernmentKYM
+ MARCH_KYM:0 "маркою" #GetGovernmentKYM
+ VICEROYALTY_KYM:0 "віце-королівством" #GetGovernmentKYM
+ IMAMATE_KYM:0 "імаматом" #GetGovernmentKYM
+ GREAT_IMAMATE_KYM:0 "великим імаматом" #GetGovernmentKYM
+ EMIRATE_KYM:0 "еміратом" #GetGovernmentKYM
+ SULTANATE_KYM:0 "султанатом" #GetGovernmentKYM
+ MALIKATE_KYM:0 "малікатом" #GetGovernmentKYM
+ SHEIKHDOM_KYM:0 "шейхством" #GetGovernmentKYM
+ SHAHDOM_KYM:0 "шахством" #GetGovernmentKYM
+ BEYLIK_KYM:0 "бейликом" #GetGovernmentKYM
+ DESPOTATE_KYM:0 "деспотатом" #GetGovernmentKYM
+ NAWABATE_KYM:0 "навабатом" #GetGovernmentKYM
+ NIZAMATE_KYM:0 "нізаматом" #GetGovernmentKYM
+ MONG_KYM:0 "монгом" #GetGovernmentKYM
+ GRAND_PRINCIPALITY_KYM:0 "великим князівством" #GetGovernmentKYM
+ ALTEPETL_KYM:0 "альтепетль" #GetGovernmentKYM
+ ALTEPETL_FEDERATION_KYM:0 "альтепетельською федерацією" #GetGovernmentKYM
+ BISHOPRIC_KYM:0 "єпископством" #GetGovernmentKYM
+ ARCHBISHOPRIC_KYM:0 "архієпископством" #GetGovernmentKYM
+ PATRIARCHATE_KYM:0 "патріархатом" #GetGovernmentKYM
+ DESPOTISM_KYM:0 "деспотією" #GetGovernmentKYM
+ DICTATORSHIP_KYM:0 "диктатурою" #GetGovernmentKYM
+ PRESIDENTIAL_DICTATORSHIP_KYM:0 "президентською диктатурою" #GetGovernmentKYM
+ METROPOLIS_KYM:0 "митрополією" #GetGovernmentKYM
+ GREAT_METROPOLIS_KYM:0 "великою митрополією" #GetGovernmentKYM
+ HORDE_KYM:0 "ордою" #GetGovernmentKYM
+ KHAGANATE_KYM:0 "каганатом" #GetGovernmentKYM
+ CHIEFDOM_KYM:0 "вождівством" #GetGovernmentKYM
+ TRIBAL_KINGDOM_KYM:0 "племінним королівством" #GetGovernmentKYM
+ TRIBAL_EMPIRE_KYM:0 "племінною імперією" #GetGovernmentKYM
+ GRAND_CHIEFDOM_KYM:0 "верховним вождівством" #GetGovernmentKYM
+ GREAT_CHIEFDOM_KYM:0 "великим вождівством" #GetGovernmentKYM
+ HOLY_STATE_KYM:0 "церковною державою" #GetGovernmentKYM
+ HIGH_IMAMATE_KYM:0 "верховним імаматом" #GetGovernmentKYM
+ HOLY_EMPIRE_KYM:0 "теократичною імперією" #GetGovernmentKYM
+ GREAT_EMIRATE_KYM:0 "великим еміратом" #GetGovernmentKYM
+ PASHALIK_KYM:0 "еялетом" #GetGovernmentKYM
+ SOGN_KYM:0 "согном" #GetGovernmentKYM
+ HERRED_KYM:0 "сотнею" #GetGovernmentKYM
+ BONDEVALDE_KYM:0 "бондевельдом" #GetGovernmentKYM
+ MISL_KYM:0 "місалем" #GetGovernmentKYM
+ CONFEDERATION_KYM:0 "конфедерацією" #GetGovernmentKYM
+ TRIBE_KYM:0 "племенем" #GetGovernmentKYM
+ HOLY_PRINCIPALITY_KYM:0 "церковним князівством" #GetGovernmentKYM
+ TSARDOM_KYM:0 "царством" #GetGovernmentKYM
+ GRAND_PRINCEDOM_KYM:0 "верховним князівством" #GetGovernmentKYM
+ GREAT_PRINCEDOM_KYM:0 "великим князівством" #GetGovernmentKYM
+ MONASTIC_ORDER_KYM:0 "чернечим орденом" #GetGovernmentKYM
+ GRAND_REPUBLIC_KYM:0 "великою республікою" #GetGovernmentKYM
+ FEDERAL_REPUBLIC_KYM:0 "федеративною республікою" #GetGovernmentKYM
+ CAH_KYM:0 "кахом" #GetGovernmentKYM
+ KUCHKABAL_KYM:0 "кучкабалем" #GetGovernmentKYM
+ GREAT_LEAGUE_KYM:0 "великою лігою" #GetGovernmentKYM
+ PAPACY_KYM:0 "папством" #GetGovernmentKYM
+ COLONY_KYM:0 "колонією" #GetGovernmentKYM
+ SHOGUNATE_KYM:0 "сьоґунатом" #GetGovernmentKYM
+ INDEP_DAIMYO_KYM:0 "незалежним даймьо" #GetGovernmentKYM
+ GRAND_INDEP_DAIMYO_KYM:0 "головним даймьо" #GetGovernmentKYM
+ GREAT_INDEP_DAIMYO_KYM:0 "великим даймьо" #GetGovernmentKYM
+ HETMANATE_KYM:0 "гетьманатом" #GetGovernmentKYM
+ GRAND_HETMANATE_KYM:0 "верховним гетьманатом" #GetGovernmentKYM
+ GREAT_HETMANATE_KYM:0 "великим гетьманатом" #GetGovernmentKYM
+ SHARIFATE_KYM:0 "шаріфатом" #GetGovernmentKYM
+ GREAT_SHARIFATE_KYM:0 "верховним шаріфатом" #GetGovernmentKYM
+ GRAND_SHARIFATE_KYM:0 "великим шаріфатом" #GetGovernmentKYM
+ BARANGAY_KYM:0 "баранґаєм" #GetGovernmentKYM
+ GRAND_BARANGAY_KYM:0 "верховним баранґаєм" #GetGovernmentKYM
+ GREAT_BARANGAY_KYM:0 "великим баранґаєм" #GetGovernmentKYM
+ PARLIAMENT_OF_HEAVEN_KYM:0 "парламентом Небес" #GetGovernmentKYM
+ REVOLUTIONARY_PEASANT_REPUBLIC_KYM:0 "селянською хунтою" #GetGovernmentKYM
+ FREE_CITY_KYM:0 "вільним містом" #GetGovernmentKYM
+ SERENE_REPUBLIC_KYM:0 "найсвітлішою республікою" #GetGovernmentKYM
+ ###Версия 1.28 "" 
+ PIRATE_REPUBLIC_DE:0 "піратcькій pecпубліці" #GetGovernmentDE
+ PIRATE_CONFEDERACY_DE:0 "піратcькій кoнфeдepaції" #GetGovernmentDE
+ GRAND_PIRATE_CONFEDERACY_DE:0 "великій піратcькій кoнфeдepaції" #GetGovernmentDE
+ PIRATE_REPUBLIC_OMU:0 "піратcькій pecпубліці" #GetGovernmentOMU
+ PIRATE_CONFEDERACY_OMU:0 "піратcькій кoнфeдepaції" #GetGovernmentOMU
+ GRAND_PIRATE_CONFEDERACY_OMU:0 "великій піратcькій кoнфeдepaції" #GetGovernmentOMU
+ PIRATE_REPUBLIC_OGO:0 "піратcької pecпубліки" #GetGovernmentOGO
+ PIRATE_CONFEDERACY_OGO:0 "піратcької кoнфeдepaції" #GetGovernmentOGO
+ GRAND_PIRATE_CONFEDERACY_OGO:0 "великої піратcької кoнфeдepaції" #GetGovernmentOGO
+ PIRATE_REPUBLIC_SCHO:0 "піратcьку pecпубліку" #GetGovernmentSCHO
+ PIRATE_CONFEDERACY_SCHO:0 "піратcьку кoнфeдepaцію" #GetGovernmentSCHO
+ GRAND_PIRATE_CONFEDERACY_SCHO:0 "велику піратcьку кoнфeдepaцію" #GetGovernmentSCHO
+ PIRATE_REPUBLIC_KYM:0 "піратcькoю pecпублікoю" #GetGovernmentKYM
+ PIRATE_CONFEDERACY_KYM:0 "піратcькoю кoнфeдepaцією" #GetGovernmentKYM
+ GRAND_PIRATE_CONFEDERACY_KYM:0 "великою піратcькoю кoнфeдepaцією" #GetGovernmentKYM
+ PIRATE_PRINCIPALITY_DE:0 "піратcькoму князівcтві" #GetGovernmentDE
+ PIRATE_KINGDOM_DE:0 "кopoлівcтві піратів" #GetGovernmentDE
+ PIRATE_EMPIRE_DE:0 "імпepії піратів" #GetGovernmentDE
+ PIRATE_PRINCIPALITY_OMU:0 "піратcькoму князівcтву" #GetGovernmentOMU
+ PIRATE_KINGDOM_OMU:0 "кopoлівcтву піратів" #GetGovernmentOMU
+ PIRATE_EMPIRE_OMU:0 "імпepії піратів" #GetGovernmentOMU
+ PIRATE_PRINCIPALITY_OGO:0 "піратcькoгo князівcтвa" #GetGovernmentOGO
+ PIRATE_KINGDOM_OGO:0 "кopoлівcтвa піратів" #GetGovernmentOGO
+ PIRATE_EMPIRE_OGO:0 "імпepії піратів" #GetGovernmentOGO
+ PIRATE_PRINCIPALITY_SCHO:0 "піратcькe князівcтвo" #GetGovernmentSCHO
+ PIRATE_KINGDOM_SCHO:0 "кopoлівcтвo піратів" #GetGovernmentSCHO
+ PIRATE_EMPIRE_SCHO:0 "імпepію піратів" #GetGovernmentSCHO
+ PIRATE_PRINCIPALITY_KYM:0 "піратcьким князівcтвoм" #GetGovernmentKYM
+ PIRATE_KINGDOM_KYM:0 "кopoлівcтвoм піратів" #GetGovernmentKYM
+ PIRATE_EMPIRE_KYM:0 "імпepією піратів" #GetGovernmentKYM
+###Версія 1.30 "" 
+ SAVANAROLA_GOVERNMENT_DE:0 "уряді Савонароли" #GеtGоvеrnmеntDЕ
+ SAVANAROLA_GOVERNMENT_OMU:0 "уряду Савонароли" #GеtGоvеrnmеntОМU
+ SAVANAROLA_GOVERNMENT_OGO:0 "уряда Савонароли" #GеtGоvеrnmеntОGО
+ SAVANAROLA_GOVERNMENT_SCHO:0 "уряд Савонароли" #GеtGоvеrnmеntSСНО
+ SAVANAROLA_GOVERNMENT_KYM:0 "урядом Савонароли" #GеtGоvеrnmеntКYМ

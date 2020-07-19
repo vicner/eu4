@@ -1,0 +1,478 @@
+﻿l_ukrainian:
+ ###На питання в чому? "" 
+ UNITED_PROVINCES_DE_CAP:0 "Сполучених провінціях" #GetGovernmentDE_CAP
+ FEDERAL_KINGDOM_DE_CAP:0 "Федеральному королівстві" #GetGovernmentDE_CAP
+ FEDERAL_EMPIRE_DE_CAP:0 "Федеральній імперії" #GetGovernmentDE_CAP
+ REPUBLIC_DE_CAP:0 "Республіці" #GetGovernmentDE_CAP
+ GREAT_REPUBLIC_DE_CAP:0 "Великій республіці" #GetGovernmentDE_CAP
+ DUCHY_DE_CAP:0 "Герцогстві" #GetGovernmentDE_CAP
+ KINGDOM_DE_CAP:0 "Королівстві" #GetGovernmentDE_CAP
+ EMPIRE_DE_CAP:0 "Імперії" #GetGovernmentDE_CAP
+ EARLDOM_DE_CAP:0 "Ерлстві" #GetGovernmentDE_CAP
+ DAIMYO_DE_CAP:0 "Даймьо" #GetGovernmentDE_CAP
+ KHANATE_DE_CAP:0 "Ханстві" #GetGovernmentDE_CAP
+ PRINCEDOM_DE_CAP:0 "Князівстві" #GetGovernmentDE_CAP
+ GRAND_DUCHY_DE_CAP:0 "Великому герцогстві" #GetGovernmentDE_CAP
+ ARCHDUCHY_DE_CAP:0 "Ерцгерцогстві" #GetGovernmentDE_CAP
+ LORDSHIP_DE_CAP:0 "Панстві" #GetGovernmentDE_CAP
+ MARCH_DE_CAP:0 "Марці" #GetGovernmentDE_CAP
+ VICEROYALTY_DE_CAP:0 "Віце-королівстві" #GetGovernmentDE_CAP
+ IMAMATE_DE_CAP:0 "Імаматі" #GetGovernmentDE_CAP
+ GREAT_IMAMATE_DE_CAP:0 "Великому імаматі" #GetGovernmentDE_CAP
+ EMIRATE_DE_CAP:0 "Еміраті" #GetGovernmentDE_CAP
+ SULTANATE_DE_CAP:0 "Султанаті" #GetGovernmentDE_CAP
+ MALIKATE_DE_CAP:0 "Малікаті" #GetGovernmentDE_CAP
+ SHEIKHDOM_DE_CAP:0 "Шейхстві" #GetGovernmentDE_CAP
+ SHAHDOM_DE_CAP:0 "Шахстві" #GetGovernmentDE_CAP
+ BEYLIK_DE_CAP:0 "Бейлику" #GetGovernmentDE_CAP
+ DESPOTATE_DE_CAP:0 "Деспотаті" #GetGovernmentDE_CAP
+ NAWABATE_DE_CAP:0 "Навабаті" #GetGovernmentDE_CAP
+ NIZAMATE_DE_CAP:0 "Нізаматі" #GetGovernmentDE_CAP
+ MONG_DE_CAP:0 "Монгі" #GetGovernmentDE_CAP
+ GRAND_PRINCIPALITY_DE_CAP:0 "Великому князівстві" #GetGovernmentDE_CAP
+ ALTEPETL_DE_CAP:0 "Альтепетлі" #GetGovernmentDE_CAP
+ ALTEPETL_FEDERATION_DE_CAP:0 "Альтепетельській федерації" #GetGovernmentDE_CAP
+ BISHOPRIC_DE_CAP:0 "Єпіскопстві" #GetGovernmentDE_CAP
+ ARCHBISHOPRIC_DE_CAP:0 "Архієпіскопстві" #GetGovernmentDE_CAP
+ PATRIARCHATE_DE_CAP:0 "Патріархаті" #GetGovernmentDE_CAP
+ DESPOTISM_DE_CAP:0 "Деспотії" #GetGovernmentDE_CAP
+ DICTATORSHIP_DE_CAP:0 "Диктатурі" #GetGovernmentDE_CAP
+ PRESIDENTIAL_DICTATORSHIP_DE_CAP:0 "Президентській диктатурі" #GetGovernmentDE_CAP
+ METROPOLIS_DE_CAP:0 "Митрополії" #GetGovernmentDE_CAP
+ GREAT_METROPOLIS_DE_CAP:0 "Великій митрополії" #GetGovernmentDE_CAP
+ HORDE_DE_CAP:0 "Орді" #GetGovernmentDE_CAP
+ KHAGANATE_DE_CAP:0 "Каганаті" #GetGovernmentDE_CAP
+ CHIEFDOM_DE_CAP:0 "Вождістві" #GetGovernmentDE_CAP
+ TRIBAL_KINGDOM_DE_CAP:0 "Племінному королівстві" #GetGovernmentDE_CAP
+ TRIBAL_EMPIRE_DE_CAP:0 "Племінній імперії" #GetGovernmentDE_CAP
+ GRAND_CHIEFDOM_DE_CAP:0 "Верховному вождістві" #GetGovernmentDE_CAP
+ GREAT_CHIEFDOM_DE_CAP:0 "Великому вождістві" #GetGovernmentDE_CAP
+ HOLY_STATE_DE_CAP:0 "Церковній державі" #GetGovernmentDE_CAP
+ HIGH_IMAMATE_DE_CAP:0 "Верховному імаматі" #GetGovernmentDE_CAP
+ HOLY_EMPIRE_DE_CAP:0 "Теократичній імперії" #GetGovernmentDE_CAP
+ GREAT_EMIRATE_DE_CAP:0 "Великому еміраті" #GetGovernmentDE_CAP
+ PASHALIK_DE_CAP:0 "Еялеті" #GetGovernmentDE_CAP
+ SOGN_DE_CAP:0 "Согні" #GetGovernmentDE_CAP
+ HERRED_DE_CAP:0 "Сотні" #GetGovernmentDE_CAP
+ BONDEVALDE_DE_CAP:0 "Бондевельді" #GetGovernmentDE_CAP
+ MISL_DE_CAP:0 "Місалі" #GetGovernmentDE_CAP
+ CONFEDERATION_DE_CAP:0 "Конфедерації" #GetGovernmentDE_CAP
+ TRIBE_DE_CAP:0 "Племені" #GetGovernmentDE_CAP
+ HOLY_PRINCIPALITY_DE_CAP:0 "Церковному князівстві" #GetGovernmentDE_CAP
+ TSARDOM_DE_CAP:0 "Царстві" #GetGovernmentDE_CAP
+ GRAND_PRINCEDOM_DE_CAP:0 "Верховному князівстві" #GetGovernmentDE_CAP
+ GREAT_PRINCEDOM_DE_CAP:0 "Великому князівстві" #GetGovernmentDE_CAP
+ MONASTIC_ORDER_DE_CAP:0 "Чернечому ордені" #GetGovernmentDE_CAP
+ GRAND_REPUBLIC_DE_CAP:0 "Верховній республіці" #GetGovernmentDE_CAP
+ FEDERAL_REPUBLIC_DE_CAP:0 "Федеральній республіці" #GetGovernmentDE_CAP
+ CAH_DE_CAP:0 "Кахі" #GetGovernmentDE_CAP
+ KUCHKABAL_DE_CAP:0 "Кучкабалі" #GetGovernmentDE_CAP
+ GREAT_LEAGUE_DE_CAP:0 "Великій лізі" #GetGovernmentDE_CAP
+ PAPACY_DE_CAP:0 "Папстві" #GetGovernmentDE_CAP
+ COLONY_DE_CAP:0 "Колонії" #GetGovernmentDE_CAP
+ SHOGUNATE_DE_CAP:0 "Сьоґунаті" #GetGovernmentDE_CAP
+ INDEP_DAIMYO_DE_CAP:0 "Незалежному даймьо" #GetGovernmentDE_CAP
+ GRAND_INDEP_DAIMYO_DE_CAP:0 "Головному даймьо" #GetGovernmentDE_CAP
+ GREAT_INDEP_DAIMYO_DE_CAP:0 "Великому даймьо" #GetGovernmentDE_CAP
+ HETMANATE_DE_CAP:0 "Гетьманаті" #GetGovernmentDE_CAP
+ GRAND_HETMANATE_DE_CAP:0 "Верховному гетьманаті" #GetGovernmentDE_CAP
+ GREAT_HETMANATE_DE_CAP:0 "Великому гетьманаті" #GetGovernmentDE_CAP
+ SHARIFATE_DE_CAP:0 "Шаріфаті" #GetGovernmentDE_CAP
+ GREAT_SHARIFATE_DE_CAP:0 "Верховному шаріфаті" #GetGovernmentDE_CAP
+ GRAND_SHARIFATE_DE_CAP:0 "Великому шаріфаті" #GetGovernmentDE_CAP
+ BARANGAY_DE_CAP:0 "Барангаї" #GetGovernmentDE_CAP
+ GRAND_BARANGAY_DE_CAP:0 "Верховному барангаї" #GetGovernmentDE_CAP
+ GREAT_BARANGAY_DE_CAP:0 "Великому барангаї" #GetGovernmentDE_CAP
+ PARLIAMENT_OF_HEAVEN_DE_CAP:0 "Парламенті Небес" #GetGovernmentDE_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_DE_CAP:0 "Селянській хунті" #GetGovernmentDE_CAP
+ FREE_CITY_DE_CAP:0 "Вільному місті" #GetGovernmentDE_CAP
+ SERENE_REPUBLIC_DE_CAP:0 "Найсвітлішій республіці" #GetGovernmentDE_CAP
+ ###На питання кому? "" 
+ UNITED_PROVINCES_OMU_CAP:0 "Сполученим провінціям" #GetGovernmentOMU_CAP
+ FEDERAL_KINGDOM_OMU_CAP:0 "Федеральному королівству" #GetGovernmentOMU_CAP
+ FEDERAL_EMPIRE_OMU_CAP:0 "Федеральній імперії" #GetGovernmentOMU_CAP
+ REPUBLIC_OMU_CAP:0 "Республіці" #GetGovernmentOMU_CAP
+ GREAT_REPUBLIC_OMU_CAP:0 "Великій республіці" #GetGovernmentOMU_CAP
+ DUCHY_OMU_CAP:0 "Герцогству" #GetGovernmentOMU_CAP
+ KINGDOM_OMU_CAP:0 "Королівству" #GetGovernmentOMU_CAP
+ EMPIRE_OMU_CAP:0 "Імперії" #GetGovernmentOMU_CAP
+ EARLDOM_OMU_CAP:0 "Ерлству" #GetGovernmentOMU_CAP
+ DAIMYO_OMU_CAP:0 "Даймьо" #GetGovernmentOMU_CAP
+ KHANATE_OMU_CAP:0 "Ханству" #GetGovernmentOMU_CAP
+ PRINCEDOM_OMU_CAP:0 "Князівству" #GetGovernmentOMU_CAP
+ GRAND_DUCHY_OMU_CAP:0 "Великому князівству" #GetGovernmentOMU_CAP
+ ARCHDUCHY_OMU_CAP:0 "Ерцгерцогству" #GetGovernmentOMU_CAP
+ LORDSHIP_OMU_CAP:0 "Панству" #GetGovernmentOMU_CAP
+ MARCH_OMU_CAP:0 "Марці" #GetGovernmentOMU_CAP
+ VICEROYALTY_OMU_CAP:0 "Віце-королівству" #GetGovernmentOMU_CAP
+ IMAMATE_OMU_CAP:0 "Імамату" #GetGovernmentOMU_CAP
+ GREAT_IMAMATE_OMU_CAP:0 "Великому імамату" #GetGovernmentOMU_CAP
+ EMIRATE_OMU_CAP:0 "Емірату" #GetGovernmentOMU_CAP
+ SULTANATE_OMU_CAP:0 "Султанату" #GetGovernmentOMU_CAP
+ MALIKATE_OMU_CAP:0 "Малікату" #GetGovernmentOMU_CAP
+ SHEIKHDOM_OMU_CAP:0 "Шейхству" #GetGovernmentOMU_CAP
+ SHAHDOM_OMU_CAP:0 "Шахству" #GetGovernmentOMU_CAP
+ BEYLIK_OMU_CAP:0 "Бейлику" #GetGovernmentOMU_CAP
+ DESPOTATE_OMU_CAP:0 "Деспотату" #GetGovernmentOMU_CAP
+ NAWABATE_OMU_CAP:0 "Навабату" #GetGovernmentOMU_CAP
+ NIZAMATE_OMU_CAP:0 "Нізамату" #GetGovernmentOMU_CAP
+ MONG_OMU_CAP:0 "Монгу" #GetGovernmentOMU_CAP
+ GRAND_PRINCIPALITY_OMU_CAP:0 "Великому князівству" #GetGovernmentOMU_CAP
+ ALTEPETL_OMU_CAP:0 "Альтепетлю" #GetGovernmentOMU_CAP
+ ALTEPETL_FEDERATION_OMU_CAP:0 "Альтепетельскій федерації" #GetGovernmentOMU_CAP
+ BISHOPRIC_OMU_CAP:0 "Єпископству" #GetGovernmentOMU_CAP
+ ARCHBISHOPRIC_OMU_CAP:0 "Архієпископству" #GetGovernmentOMU_CAP
+ PATRIARCHATE_OMU_CAP:0 "Патріархату" #GetGovernmentOMU_CAP
+ DESPOTISM_OMU_CAP:0 "Деспотії" #GetGovernmentOMU_CAP
+ DICTATORSHIP_OMU_CAP:0 "Диктатурі" #GetGovernmentOMU_CAP
+ PRESIDENTIAL_DICTATORSHIP_OMU_CAP:0 "Президентськії диктатурі" #GetGovernmentOMU_CAP
+ METROPOLIS_OMU_CAP:0 "Митрополії" #GetGovernmentOMU_CAP
+ GREAT_METROPOLIS_OMU_CAP:0 "Великій митрополії" #GetGovernmentOMU_CAP
+ HORDE_OMU_CAP:0 "Орді" #GetGovernmentOMU_CAP
+ KHAGANATE_OMU_CAP:0 "Каганату" #GetGovernmentOMU_CAP
+ CHIEFDOM_OMU_CAP:0 "Вождівству" #GetGovernmentOMU_CAP
+ TRIBAL_KINGDOM_OMU_CAP:0 "Племінному королівству" #GetGovernmentOMU_CAP
+ TRIBAL_EMPIRE_OMU_CAP:0 "Племінній імперії" #GetGovernmentOMU_CAP
+ GRAND_CHIEFDOM_OMU_CAP:0 "Верховному вождівству" #GetGovernmentOMU_CAP
+ GREAT_CHIEFDOM_OMU_CAP:0 "Великому вождівству" #GetGovernmentOMU_CAP
+ HOLY_STATE_OMU_CAP:0 "Церковній державі" #GetGovernmentOMU_CAP
+ HIGH_IMAMATE_OMU_CAP:0 "Верховному імаматові" #GetGovernmentOMU_CAP
+ HOLY_EMPIRE_OMU_CAP:0 "Теократичній імперії" #GetGovernmentOMU_CAP
+ GREAT_EMIRATE_OMU_CAP:0 "Великому еміратові" #GetGovernmentOMU_CAP
+ PASHALIK_OMU_CAP:0 "Еялету" #GetGovernmentOMU_CAP
+ SOGN_OMU_CAP:0 "Согні" #GetGovernmentOMU_CAP
+ HERRED_OMU_CAP:0 "Сотні" #GetGovernmentOMU_CAP
+ BONDEVALDE_OMU_CAP:0 "Бондевельду" #GetGovernmentOMU_CAP
+ MISL_OMU_CAP:0 "Місалю" #GetGovernmentOMU_CAP
+ CONFEDERATION_OMU_CAP:0 "Конфедерації" #GetGovernmentOMU_CAP
+ TRIBE_OMU_CAP:0 "Племені" #GetGovernmentOMU_CAP
+ HOLY_PRINCIPALITY_OMU_CAP:0 "Церковному князівству" #GetGovernmentOMU_CAP
+ TSARDOM_OMU_CAP:0 "Царству" #GetGovernmentOMU_CAP
+ GRAND_PRINCEDOM_OMU_CAP:0 "Верховному князівству" #GetGovernmentOMU_CAP
+ GREAT_PRINCEDOM_OMU_CAP:0 "Великому князівству" #GetGovernmentOMU_CAP
+ MONASTIC_ORDER_OMU_CAP:0 "Чернечому орденові" #GetGovernmentOMU_CAP
+ GRAND_REPUBLIC_OMU_CAP:0 "Великій республіці" #GetGovernmentOMU_CAP
+ FEDERAL_REPUBLIC_OMU_CAP:0 "Федеральній республіки" #GetGovernmentOMU_CAP
+ CAH_OMU_CAP:0 "Кахі" #GetGovernmentOMU_CAP
+ KUCHKABAL_OMU_CAP:0 "Кучкабалю" #GetGovernmentOMU_CAP
+ GREAT_LEAGUE_OMU_CAP:0 "Великій лізі" #GetGovernmentOMU_CAP
+ PAPACY_OMU_CAP:0 "Пaпcтву" #GetGovernmentOMU_CAP
+ COLONY_OMU_CAP:0 "Колонії" #GetGovernmentOMU_CAP
+ SHOGUNATE_OMU_CAP:0 "Cьоґунaту" #GetGovernmentOMU_CAP
+ INDEP_DAIMYO_OMU_CAP:0 "Незалежному дaймьо" #GetGovernmentOMU_CAP
+ GRAND_INDEP_DAIMYO_OMU_CAP:0 "Головному дaймьо" #GetGovernmentOMU_CAP
+ GREAT_INDEP_DAIMYO_OMU_CAP:0 "Великому дaймьо" #GetGovernmentOMU_CAP
+ HETMANATE_OMU_CAP:0 "Гетьманату" #GetGovernmentOMU_CAP
+ GRAND_HETMANATE_OMU_CAP:0 "Верховному гетьманатові" #GetGovernmentOMU_CAP
+ GREAT_HETMANATE_OMU_CAP:0 "Великому гетьманатові" #GetGovernmentOMU_CAP
+ SHARIFATE_OMU_CAP:0 "Шapіфaту" #GetGovernmentOMU_CAP
+ GREAT_SHARIFATE_OMU_CAP:0 "Верховному шapіфaту" #GetGovernmentOMU_CAP
+ GRAND_SHARIFATE_OMU_CAP:0 "Великому шapіфaту" #GetGovernmentOMU_CAP
+ BARANGAY_OMU_CAP:0 "Бapaнґaю" #GetGovernmentOMU_CAP
+ GRAND_BARANGAY_OMU_CAP:0 "Верховному бapaнґaю" #GetGovernmentOMU_CAP
+ GREAT_BARANGAY_OMU_CAP:0 "Великому бapaнґaю" #GetGovernmentOMU_CAP
+ PARLIAMENT_OF_HEAVEN_OMU_CAP:0 "Парламенту Небес" #GetGovernmentOMU_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_OMU_CAP:0 "Селянській хунті" #GetGovernmentOMU_CAP
+ FREE_CITY_OMU_CAP:0 "Вільному місту" #GetGovernmentOMU_CAP
+ SERENE_REPUBLIC_OMU_CAP:0 "Найсвітлішій pecпубліці" #GetGovernmentOMU_CAP
+ ###На питання немає кого? "" 
+ UNITED_PROVINCES_OGO_CAP:0 "Сполучених провінцій" #GetGovernmentOGO_CAP
+ FEDERAL_KINGDOM_OGO_CAP:0 "Федерального королівства" #GetGovernmentOGO_CAP
+ FEDERAL_EMPIRE_OGO_CAP:0 "Федеральної імперії" #GetGovernmentOGO_CAP
+ REPUBLIC_OGO_CAP:0 "Республіки" #GetGovernmentOGO_CAP
+ GREAT_REPUBLIC_OGO_CAP:0 "Великої республіки" #GetGovernmentOGO_CAP
+ DUCHY_OGO_CAP:0 "Герцогства" #GetGovernmentOGO_CAP
+ KINGDOM_OGO_CAP:0 "Королівства" #GetGovernmentOGO_CAP
+ EMPIRE_OGO_CAP:0 "Імперії" #GetGovernmentOGO_CAP
+ EARLDOM_OGO_CAP:0 "Ерлства" #GetGovernmentOGO_CAP
+ DAIMYO_OGO_CAP:0 "Даймьо" #GetGovernmentOGO_CAP
+ KHANATE_OGO_CAP:0 "Ханства" #GetGovernmentOGO_CAP
+ PRINCEDOM_OGO_CAP:0 "Князівства" #GetGovernmentOGO_CAP
+ GRAND_DUCHY_OGO_CAP:0 "Великого князівства" #GetGovernmentOGO_CAP
+ ARCHDUCHY_OGO_CAP:0 "Ерцгерцогства" #GetGovernmentOGO_CAP
+ LORDSHIP_OGO_CAP:0 "Панства" #GetGovernmentOGO_CAP
+ MARCH_OGO_CAP:0 "Марки" #GetGovernmentOGO_CAP
+ VICEROYALTY_OGO_CAP:0 "Віце-королівства" #GetGovernmentOGO_CAP
+ IMAMATE_OGO_CAP:0 "Імамату" #GetGovernmentOGO_CAP
+ GREAT_IMAMATE_OGO_CAP:0 "Великого імамату" #GetGovernmentOGO_CAP
+ EMIRATE_OGO_CAP:0 "Емірату" #GetGovernmentOGO_CAP
+ SULTANATE_OGO_CAP:0 "Султанату" #GetGovernmentOGO_CAP
+ MALIKATE_OGO_CAP:0 "Маліката" #GetGovernmentOGO_CAP
+ SHEIKHDOM_OGO_CAP:0 "Шейхства" #GetGovernmentOGO_CAP
+ SHAHDOM_OGO_CAP:0 "Шахства" #GetGovernmentOGO_CAP
+ BEYLIK_OGO_CAP:0 "Бейлика" #GetGovernmentOGO_CAP
+ DESPOTATE_OGO_CAP:0 "Деспотату" #GetGovernmentOGO_CAP
+ NAWABATE_OGO_CAP:0 "Навабату" #GetGovernmentOGO_CAP
+ NIZAMATE_OGO_CAP:0 "Нізамату" #GetGovernmentOGO_CAP
+ MONG_OGO_CAP:0 "Монгу" #GetGovernmentOGO_CAP
+ GRAND_PRINCIPALITY_OGO_CAP:0 "Великого князівства" #GetGovernmentOGO_CAP
+ ALTEPETL_OGO_CAP:0 "Альтепетля" #GetGovernmentOGO_CAP
+ ALTEPETL_FEDERATION_OGO_CAP:0 "Альтепетельскої федерації" #GetGovernmentOGO_CAP
+ BISHOPRIC_OGO_CAP:0 "Єпископства" #GetGovernmentOGO_CAP
+ ARCHBISHOPRIC_OGO_CAP:0 "Архієпископства" #GetGovernmentOGO_CAP
+ PATRIARCHATE_OGO_CAP:0 "Патріархату" #GetGovernmentOGO_CAP
+ DESPOTISM_OGO_CAP:0 "Деспотії" #GetGovernmentOGO_CAP
+ DICTATORSHIP_OGO_CAP:0 "Диктатури" #GetGovernmentOGO_CAP
+ PRESIDENTIAL_DICTATORSHIP_OGO_CAP:0 "Президентської диктатури" #GetGovernmentOGO_CAP
+ METROPOLIS_OGO_CAP:0 "Митрополії" #GetGovernmentOGO_CAP
+ GREAT_METROPOLIS_OGO_CAP:0 "Великої митрополії" #GetGovernmentOGO_CAP
+ HORDE_OGO_CAP:0 "Орди" #GetGovernmentOGO_CAP
+ KHAGANATE_OGO_CAP:0 "Каганату" #GetGovernmentOGO_CAP
+ CHIEFDOM_OGO_CAP:0 "Вождівства" #GetGovernmentOGO_CAP
+ TRIBAL_KINGDOM_OGO_CAP:0 "Племінного королівства" #GetGovernmentOGO_CAP
+ TRIBAL_EMPIRE_OGO_CAP:0 "Племінної імперії" #GetGovernmentOGO_CAP
+ GRAND_CHIEFDOM_OGO_CAP:0 "Верховного вождівства" #GetGovernmentOGO_CAP
+ GREAT_CHIEFDOM_OGO_CAP:0 "Великого вождівства" #GetGovernmentOGO_CAP
+ HOLY_STATE_OGO_CAP:0 "Церковної держави" #GetGovernmentOGO_CAP
+ HIGH_IMAMATE_OGO_CAP:0 "Верховного імамату" #GetGovernmentOGO_CAP
+ HOLY_EMPIRE_OGO_CAP:0 "Теократичної імперії" #GetGovernmentOGO_CAP
+ GREAT_EMIRATE_OGO_CAP:0 "Великого емірату" #GetGovernmentOGO_CAP
+ PASHALIK_OGO_CAP:0 "Еялету" #GetGovernmentOGO_CAP
+ SOGN_OGO_CAP:0 "Согну" #GetGovernmentOGO_CAP
+ HERRED_OGO_CAP:0 "Сотні" #GetGovernmentOGO_CAP
+ BONDEVALDE_OGO_CAP:0 "Бондевельда" #GetGovernmentOGO_CAP
+ MISL_OGO_CAP:0 "Місаля" #GetGovernmentOGO_CAP
+ CONFEDERATION_OGO_CAP:0 "Конфедерації" #GetGovernmentOGO_CAP
+ TRIBE_OGO_CAP:0 "Племені" #GetGovernmentOGO_CAP
+ HOLY_PRINCIPALITY_OGO_CAP:0 "Церковного князівства" #GetGovernmentOGO_CAP
+ TSARDOM_OGO_CAP:0 "Царства" #GetGovernmentOGO_CAP
+ GRAND_PRINCEDOM_OGO_CAP:0 "Верховного князівства" #GetGovernmentOGO_CAP
+ GREAT_PRINCEDOM_OGO_CAP:0 "Великого князівства" #GetGovernmentOGO_CAP
+ MONASTIC_ORDER_OGO_CAP:0 "Чернечого ордену" #GetGovernmentOGO_CAP
+ GRAND_REPUBLIC_OGO_CAP:0 "Верховної республіки" #GetGovernmentOGO_CAP
+ FEDERAL_REPUBLIC_OGO_CAP:0 "Федеральної республіки" #GetGovernmentOGO_CAP
+ CAH_OGO_CAP:0 "Каха" #GetGovernmentOGO_CAP
+ KUCHKABAL_OGO_CAP:0 "Кучкабаля" #GetGovernmentOGO_CAP
+ GREAT_LEAGUE_OGO_CAP:0 "Великої ліги" #GetGovernmentOGO_CAP
+ PAPACY_OGO_CAP:0 "Папства" #GetGovernmentOGO_CAP
+ COLONY_OGO_CAP:0 "Колонії" #GetGovernmentOGO_CAP
+ SHOGUNATE_OGO_CAP:0 "Сьоґунату" #GetGovernmentOGO_CAP
+ INDEP_DAIMYO_OGO_CAP:0 "Незалежного даймьо" #GetGovernmentOGO_CAP
+ GRAND_INDEP_DAIMYO_OGO_CAP:0 "Головного даймьо" #GetGovernmentOGO_CAP
+ GREAT_INDEP_DAIMYO_OGO_CAP:0 "Великого даймьо" #GetGovernmentOGO_CAP
+ HETMANATE_OGO_CAP:0 "Гетьманату" #GetGovernmentOGO_CAP
+ GRAND_HETMANATE_OGO_CAP:0 "Верховного гетьманату" #GetGovernmentOGO_CAP
+ GREAT_HETMANATE_OGO_CAP:0 "Великого гетьманату" #GetGovernmentOGO_CAP
+ SHARIFATE_OGO_CAP:0 "Шаріфату" #GetGovernmentOGO_CAP
+ GREAT_SHARIFATE_OGO_CAP:0 "Верховного шаріфату" #GetGovernmentOGO_CAP
+ GRAND_SHARIFATE_OGO_CAP:0 "Великого шаріфату" #GetGovernmentOGO_CAP
+ BARANGAY_OGO_CAP:0 "Баранґая" #GetGovernmentOGO_CAP
+ GRAND_BARANGAY_OGO_CAP:0 "Верховного баранґая" #GetGovernmentOGO_CAP
+ GREAT_BARANGAY_OGO_CAP:0 "Великого баранґая" #GetGovernmentOGO_CAP
+ PARLIAMENT_OF_HEAVEN_OGO_CAP:0 "Парламенту Небес" #GetGovernmentOGO_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_OGO_CAP:0 "Селянської хунти" #GetGovernmentOGO_CAP
+ FREE_CITY_OGO_CAP:0 "Вільного міста" #GetGovernmentOGO_CAP
+ SERENE_REPUBLIC_OGO_CAP:0 "Найсвітлішої республіки" #GetGovernmentOGO_CAP
+ ###На питання бачу що? "" 
+ UNITED_PROVINCES_SCHO_CAP:0 "Сполучені провінції" #GetGovernmentSCHO_CAP
+ FEDERAL_KINGDOM_SCHO_CAP:0 "Федеральне королівство" #GetGovernmentSCHO_CAP
+ FEDERAL_EMPIRE_SCHO_CAP:0 "Федеральну імперію" #GetGovernmentSCHO_CAP
+ REPUBLIC_SCHO_CAP:0 "Республіку" #GetGovernmentSCHO_CAP
+ GREAT_REPUBLIC_SCHO_CAP:0 "Велику республіку" #GetGovernmentSCHO_CAP
+ DUCHY_SCHO_CAP:0 "Герцогство" #GetGovernmentSCHO_CAP
+ KINGDOM_SCHO_CAP:0 "Королівство" #GetGovernmentSCHO_CAP
+ EMPIRE_SCHO_CAP:0 "Імперію" #GetGovernmentSCHO_CAP
+ EARLDOM_SCHO_CAP:0 "Ерлство" #GetGovernmentSCHO_CAP
+ DAIMYO_SCHO_CAP:0 "Даймьо" #GetGovernmentSCHO_CAP
+ KHANATE_SCHO_CAP:0 "Ханство" #GetGovernmentSCHO_CAP
+ PRINCEDOM_SCHO_CAP:0 "Князівство" #GetGovernmentSCHO_CAP
+ GRAND_DUCHY_SCHO_CAP:0 "Велике князівство" #GetGovernmentSCHO_CAP
+ ARCHDUCHY_SCHO_CAP:0 "Ерцгерцогство" #GetGovernmentSCHO_CAP
+ LORDSHIP_SCHO_CAP:0 "Панство" #GetGovernmentSCHO_CAP
+ MARCH_SCHO_CAP:0 "Марку" #GetGovernmentSCHO_CAP
+ VICEROYALTY_SCHO_CAP:0 "Віце-королівство" #GetGovernmentSCHO_CAP
+ IMAMATE_SCHO_CAP:0 "Імамат" #GetGovernmentSCHO_CAP
+ GREAT_IMAMATE_SCHO_CAP:0 "Великий імамат" #GetGovernmentSCHO_CAP
+ EMIRATE_SCHO_CAP:0 "Емірат" #GetGovernmentSCHO_CAP
+ SULTANATE_SCHO_CAP:0 "Султанат" #GetGovernmentSCHO_CAP
+ MALIKATE_SCHO_CAP:0 "Малікат" #GetGovernmentSCHO_CAP
+ SHEIKHDOM_SCHO_CAP:0 "Шейхство" #GetGovernmentSCHO_CAP
+ SHAHDOM_SCHO_CAP:0 "Шахство" #GetGovernmentSCHO_CAP
+ BEYLIK_SCHO_CAP:0 "Бейлик" #GetGovernmentSCHO_CAP
+ DESPOTATE_SCHO_CAP:0 "Деспотат" #GetGovernmentSCHO_CAP
+ NAWABATE_SCHO_CAP:0 "Навабат" #GetGovernmentSCHO_CAP
+ NIZAMATE_SCHO_CAP:0 "Нізамат" #GetGovernmentSCHO_CAP
+ MONG_SCHO_CAP:0 "Монг" #GetGovernmentSCHO_CAP
+ GRAND_PRINCIPALITY_SCHO_CAP:0 "Велике князівство" #GetGovernmentSCHO_CAP
+ ALTEPETL_SCHO_CAP:0 "Альтепетль" #GetGovernmentSCHO_CAP
+ ALTEPETL_FEDERATION_SCHO_CAP:0 "Альтепетельську федерацію" #GetGovernmentSCHO_CAP
+ BISHOPRIC_SCHO_CAP:0 "Єпископство" #GetGovernmentSCHO_CAP
+ ARCHBISHOPRIC_SCHO_CAP:0 "Архієпископство" #GetGovernmentSCHO_CAP
+ PATRIARCHATE_SCHO_CAP:0 "Патріархат" #GetGovernmentSCHO_CAP
+ DESPOTISM_SCHO_CAP:0 "Деспотію" #GetGovernmentSCHO_CAP
+ DICTATORSHIP_SCHO_CAP:0 "Диктатуру" #GetGovernmentSCHO_CAP
+ PRESIDENTIAL_DICTATORSHIP_SCHO_CAP:0 "Президентську диктатуру" #GetGovernmentSCHO_CAP
+ METROPOLIS_SCHO_CAP:0 "Митрополію" #GetGovernmentSCHO_CAP
+ GREAT_METROPOLIS_SCHO_CAP:0 "Велику митрополію" #GetGovernmentSCHO_CAP
+ HORDE_SCHO_CAP:0 "Орду" #GetGovernmentSCHO_CAP
+ KHAGANATE_SCHO_CAP:0 "Каганат" #GetGovernmentSCHO_CAP
+ CHIEFDOM_SCHO_CAP:0 "Вождівство" #GetGovernmentSCHO_CAP
+ TRIBAL_KINGDOM_SCHO_CAP:0 "Племінне королівство" #GetGovernmentSCHO_CAP
+ TRIBAL_EMPIRE_SCHO_CAP:0 "Племінну імперію" #GetGovernmentSCHO_CAP
+ GRAND_CHIEFDOM_SCHO_CAP:0 "Верховне вождівство" #GetGovernmentSCHO_CAP
+ GREAT_CHIEFDOM_SCHO_CAP:0 "Велике вождівство" #GetGovernmentSCHO_CAP
+ HOLY_STATE_SCHO_CAP:0 "Церковне держава" #GetGovernmentSCHO_CAP
+ HIGH_IMAMATE_SCHO_CAP:0 "Верховний імамат" #GetGovernmentSCHO_CAP
+ HOLY_EMPIRE_SCHO_CAP:0 "Теократичну імперію" #GetGovernmentSCHO_CAP
+ GREAT_EMIRATE_SCHO_CAP:0 "Великий емірат" #GetGovernmentSCHO_CAP
+ PASHALIK_SCHO_CAP:0 "Еялет" #GetGovernmentSCHO_CAP
+ SOGN_SCHO_CAP:0 "Согн" #GetGovernmentSCHO_CAP
+ HERRED_SCHO_CAP:0 "Сотню" #GetGovernmentSCHO_CAP
+ BONDEVALDE_SCHO_CAP:0 "Бондевельд" #GetGovernmentSCHO_CAP
+ MISL_SCHO_CAP:0 "Місаль" #GetGovernmentSCHO_CAP
+ CONFEDERATION_SCHO_CAP:0 "Конфедерацію" #GetGovernmentSCHO_CAP
+ TRIBE_SCHO_CAP:0 "Плем'я" #GetGovernmentSCHO_CAP
+ HOLY_PRINCIPALITY_SCHO_CAP:0 "Церковне князівство" #GetGovernmentSCHO_CAP
+ TSARDOM_SCHO_CAP:0 "Царство" #GetGovernmentSCHO_CAP
+ GRAND_PRINCEDOM_SCHO_CAP:0 "Верховне князівство" #GetGovernmentSCHO_CAP
+ GREAT_PRINCEDOM_SCHO_CAP:0 "Велике князівство" #GetGovernmentSCHO_CAP
+ MONASTIC_ORDER_SCHO_CAP:0 "Чернечий орден" #GetGovernmentSCHO_CAP
+ GRAND_REPUBLIC_SCHO_CAP:0 "Верховну республіку" #GetGovernmentSCHO_CAP
+ FEDERAL_REPUBLIC_SCHO_CAP:0 "Федеральну республіку" #GetGovernmentSCHO_CAP
+ CAH_SCHO_CAP:0 "Каху" #GetGovernmentSCHO_CAP
+ KUCHKABAL_SCHO_CAP:0 "Кучкабаль" #GetGovernmentSCHO_CAP
+ GREAT_LEAGUE_SCHO_CAP:0 "Велику лігу" #GetGovernmentSCHO_CAP
+ PAPACY_SCHO_CAP:0 "Папство" #GetGovernmentSCHO_CAP
+ COLONY_SCHO_CAP:0 "Колонію" #GetGovernmentSCHO_CAP
+ SHOGUNATE_SCHO_CAP:0 "Сьоґунат" #GetGovernmentSCHO_CAP
+ INDEP_DAIMYO_SCHO_CAP:0 "Незалежний даймьо" #GetGovernmentSCHO_CAP
+ GRAND_INDEP_DAIMYO_SCHO_CAP:0 "Головний даймьо" #GetGovernmentSCHO_CAP
+ GREAT_INDEP_DAIMYO_SCHO_CAP:0 "Великий даймьо" #GetGovernmentSCHO_CAP
+ HETMANATE_SCHO_CAP:0 "Гетьманат" #GetGovernmentSCHO_CAP
+ GRAND_HETMANATE_SCHO_CAP:0 "Верховний гетьманат" #GetGovernmentSCHO_CAP
+ GREAT_HETMANATE_SCHO_CAP:0 "Великий гетьманат" #GetGovernmentSCHO_CAP
+ SHARIFATE_SCHO_CAP:0 "Шаріфат" #GetGovernmentSCHO_CAP
+ GREAT_SHARIFATE_SCHO_CAP:0 "Верховний шаріфат" #GetGovernmentSCHO_CAP
+ GRAND_SHARIFATE_SCHO_CAP:0 "Великий шаріфат" #GetGovernmentSCHO_CAP
+ BARANGAY_SCHO_CAP:0 "Баранґай" #GetGovernmentSCHO_CAP
+ GRAND_BARANGAY_SCHO_CAP:0 "Верховний баранґай" #GetGovernmentSCHO_CAP
+ GREAT_BARANGAY_SCHO_CAP:0 "Великий баранґай" #GetGovernmentSCHO_CAP
+ PARLIAMENT_OF_HEAVEN_SCHO_CAP:0 "Парламент Небес" #GetGovernmentSCHO_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_SCHO_CAP:0 "Селянську хунту" #GetGovernmentSCHO_CAP
+ FREE_CITY_SCHO_CAP:0 "Вільне місто" #GetGovernmentSCHO_CAP
+ SERENE_REPUBLIC_SCHO_CAP:0 "Найсвітлішу республіку" #GetGovernmentSCHO_CAP
+ ###На питання кем? "" 
+ UNITED_PROVINCES_KYM_CAP:0 "Сполученими провінціями" #GetGovernmentKYM_CAP
+ FEDERAL_KINGDOM_KYM_CAP:0 "Федеральним королівством" #GetGovernmentKYM_CAP
+ FEDERAL_EMPIRE_KYM_CAP:0 "Федеральною імперією" #GetGovernmentKYM_CAP
+ REPUBLIC_KYM_CAP:0 "Республікою" #GetGovernmentKYM_CAP
+ GREAT_REPUBLIC_KYM_CAP:0 "Великою республікою" #GetGovernmentKYM_CAP
+ DUCHY_KYM_CAP:0 "Герцогством" #GetGovernmentKYM_CAP
+ KINGDOM_KYM_CAP:0 "Королівством" #GetGovernmentKYM_CAP
+ EMPIRE_KYM_CAP:0 "Імперією" #GetGovernmentKYM_CAP
+ EARLDOM_KYM_CAP:0 "Ерлством" #GetGovernmentKYM_CAP
+ DAIMYO_KYM_CAP:0 "Даймьо" #GetGovernmentKYM_CAP
+ KHANATE_KYM_CAP:0 "Ханством" #GetGovernmentKYM_CAP
+ PRINCEDOM_KYM_CAP:0 "Князівством" #GetGovernmentKYM_CAP
+ GRAND_DUCHY_KYM_CAP:0 "Великим князівством" #GetGovernmentKYM_CAP
+ ARCHDUCHY_KYM_CAP:0 "Ерцгерцогство" #GetGovernmentKYM_CAP
+ LORDSHIP_KYM_CAP:0 "Панством" #GetGovernmentKYM_CAP
+ MARCH_KYM_CAP:0 "Маркою" #GetGovernmentKYM_CAP
+ VICEROYALTY_KYM_CAP:0 "Віце-королівством" #GetGovernmentKYM_CAP
+ IMAMATE_KYM_CAP:0 "Імаматом" #GetGovernmentKYM_CAP
+ GREAT_IMAMATE_KYM_CAP:0 "Великим імаматом" #GetGovernmentKYM_CAP
+ EMIRATE_KYM_CAP:0 "Еміратом" #GetGovernmentKYM_CAP
+ SULTANATE_KYM_CAP:0 "Султанатом" #GetGovernmentKYM_CAP
+ MALIKATE_KYM_CAP:0 "Малікатом" #GetGovernmentKYM_CAP
+ SHEIKHDOM_KYM_CAP:0 "Шейхством" #GetGovernmentKYM_CAP
+ SHAHDOM_KYM_CAP:0 "Шахством" #GetGovernmentKYM_CAP
+ BEYLIK_KYM_CAP:0 "Бейликом" #GetGovernmentKYM_CAP
+ DESPOTATE_KYM_CAP:0 "Деспотатом" #GetGovernmentKYM_CAP
+ NAWABATE_KYM_CAP:0 "Навабатом" #GetGovernmentKYM_CAP
+ NIZAMATE_KYM_CAP:0 "Нізаматом" #GetGovernmentKYM_CAP
+ MONG_KYM_CAP:0 "Монгом" #GetGovernmentKYM_CAP
+ GRAND_PRINCIPALITY_KYM_CAP:0 "Великим князівством" #GetGovernmentKYM_CAP
+ ALTEPETL_KYM_CAP:0 "Альтепетль" #GetGovernmentKYM_CAP
+ ALTEPETL_FEDERATION_KYM_CAP:0 "Альтепетельською федерацією" #GetGovernmentKYM_CAP
+ BISHOPRIC_KYM_CAP:0 "Єпископством" #GetGovernmentKYM_CAP
+ ARCHBISHOPRIC_KYM_CAP:0 "Архієпископством" #GetGovernmentKYM_CAP
+ PATRIARCHATE_KYM_CAP:0 "Патріархатом" #GetGovernmentKYM_CAP
+ DESPOTISM_KYM_CAP:0 "Деспотією" #GetGovernmentKYM_CAP
+ DICTATORSHIP_KYM_CAP:0 "Диктатурою" #GetGovernmentKYM_CAP
+ PRESIDENTIAL_DICTATORSHIP_KYM_CAP:0 "Президентською диктатурою" #GetGovernmentKYM_CAP
+ METROPOLIS_KYM_CAP:0 "Митрополією" #GetGovernmentKYM_CAP
+ GREAT_METROPOLIS_KYM_CAP:0 "Великою митрополією" #GetGovernmentKYM_CAP
+ HORDE_KYM_CAP:0 "Ордою" #GetGovernmentKYM_CAP
+ KHAGANATE_KYM_CAP:0 "Каганатом" #GetGovernmentKYM_CAP
+ CHIEFDOM_KYM_CAP:0 "Вождівством" #GetGovernmentKYM_CAP
+ TRIBAL_KINGDOM_KYM_CAP:0 "Племінним королівством" #GetGovernmentKYM_CAP
+ TRIBAL_EMPIRE_KYM_CAP:0 "Племінною імперією" #GetGovernmentKYM_CAP
+ GRAND_CHIEFDOM_KYM_CAP:0 "Верховним вождівством" #GetGovernmentKYM_CAP
+ GREAT_CHIEFDOM_KYM_CAP:0 "Великим вождівством" #GetGovernmentKYM_CAP
+ HOLY_STATE_KYM_CAP:0 "Церковною державою" #GetGovernmentKYM_CAP
+ HIGH_IMAMATE_KYM_CAP:0 "Верховним імаматом" #GetGovernmentKYM_CAP
+ HOLY_EMPIRE_KYM_CAP:0 "Теократичною імперією" #GetGovernmentKYM_CAP
+ GREAT_EMIRATE_KYM_CAP:0 "Великим еміратом" #GetGovernmentKYM_CAP
+ PASHALIK_KYM_CAP:0 "Еялетом" #GetGovernmentKYM_CAP
+ SOGN_KYM_CAP:0 "Согном" #GetGovernmentKYM_CAP
+ HERRED_KYM_CAP:0 "Сотнею" #GetGovernmentKYM_CAP
+ BONDEVALDE_KYM_CAP:0 "Бондевельдом" #GetGovernmentKYM_CAP
+ MISL_KYM_CAP:0 "Місалем" #GetGovernmentKYM_CAP
+ CONFEDERATION_KYM_CAP:0 "Конфедерацією" #GetGovernmentKYM_CAP
+ TRIBE_KYM_CAP:0 "Племенем" #GetGovernmentKYM_CAP
+ HOLY_PRINCIPALITY_KYM_CAP:0 "Церковним князівством" #GetGovernmentKYM_CAP
+ TSARDOM_KYM_CAP:0 "Царством" #GetGovernmentKYM_CAP
+ GRAND_PRINCEDOM_KYM_CAP:0 "Верховним князівством" #GetGovernmentKYM_CAP
+ GREAT_PRINCEDOM_KYM_CAP:0 "Великим князівством" #GetGovernmentKYM_CAP
+ MONASTIC_ORDER_KYM_CAP:0 "Чернечим орденом" #GetGovernmentKYM_CAP
+ GRAND_REPUBLIC_KYM_CAP:0 "Великою республікою" #GetGovernmentKYM_CAP
+ FEDERAL_REPUBLIC_KYM_CAP:0 "Федеративною республікою" #GetGovernmentKYM_CAP
+ CAH_KYM_CAP:0 "Кахом" #GetGovernmentKYM_CAP
+ KUCHKABAL_KYM_CAP:0 "Кучкабалем" #GetGovernmentKYM_CAP
+ GREAT_LEAGUE_KYM_CAP:0 "Великою лігою" #GetGovernmentKYM_CAP
+ PAPACY_KYM_CAP:0 "Папством" #GetGovernmentKYM_CAP
+ COLONY_KYM_CAP:0 "Колонією" #GetGovernmentKYM_CAP
+ SHOGUNATE_KYM_CAP:0 "Сьоґунатом" #GetGovernmentKYM_CAP
+ INDEP_DAIMYO_KYM_CAP:0 "Незалежним даймьо" #GetGovernmentKYM_CAP
+ GRAND_INDEP_DAIMYO_KYM_CAP:0 "Головним даймьо" #GetGovernmentKYM_CAP
+ GREAT_INDEP_DAIMYO_KYM_CAP:0 "Великим даймьо" #GetGovernmentKYM_CAP
+ HETMANATE_KYM_CAP:0 "Гетьманатом" #GetGovernmentKYM_CAP
+ GRAND_HETMANATE_KYM_CAP:0 "Верховним гетьманатом" #GetGovernmentKYM_CAP
+ GREAT_HETMANATE_KYM_CAP:0 "Великим гетьманатом" #GetGovernmentKYM_CAP
+ SHARIFATE_KYM_CAP:0 "Шаріфатом" #GetGovernmentKYM_CAP
+ GREAT_SHARIFATE_KYM_CAP:0 "Верховним шаріфатом" #GetGovernmentKYM_CAP
+ GRAND_SHARIFATE_KYM_CAP:0 "Великим шаріфатом" #GetGovernmentKYM_CAP
+ BARANGAY_KYM_CAP:0 "Баранґаєм" #GetGovernmentKYM_CAP
+ GRAND_BARANGAY_KYM_CAP:0 "Верховним баранґаєм" #GetGovernmentKYM_CAP
+ GREAT_BARANGAY_KYM_CAP:0 "Великим баранґаєм" #GetGovernmentKYM_CAP
+ PARLIAMENT_OF_HEAVEN_KYM_CAP:0 "Парламентом Небес" #GetGovernmentKYM_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_KYM_CAP:0 "Селянською хунтою" #GetGovernmentKYM_CAP
+ FREE_CITY_KYM_CAP:0 "Вільним містом" #GetGovernmentKYM_CAP
+ SERENE_REPUBLIC_KYM_CAP:0 "Найсвітлішою республікою" #GetGovernmentKYM_CAP
+ ###Версия 1.28 "" 
+ PIRATE_REPUBLIC_DE_CAP:0 "Піратcькій pecпубліці" #GetGovernmentDE_CAP
+ PIRATE_CONFEDERACY_DE_CAP:0 "Піратcькій кoнфeдepaції" #GetGovernmentDE_CAP
+ GRAND_PIRATE_CONFEDERACY_DE_CAP:0 "Великій піратcькій кoнфeдepaції" #GetGovernmentDE_CAP
+ PIRATE_REPUBLIC_OMU_CAP:0 "Піратcькій pecпубліці" #GetGovernmentOMU_CAP
+ PIRATE_CONFEDERACY_OMU_CAP:0 "Піратcькій кoнфeдepaції" #GetGovernmentOMU_CAP
+ GRAND_PIRATE_CONFEDERACY_OMU_CAP:0 "Великій піратcькій кoнфeдepaції" #GetGovernmentOMU_CAP
+ PIRATE_REPUBLIC_OGO_CAP:0 "Піратcької pecпубліки" #GetGovernmentOGO_CAP
+ PIRATE_CONFEDERACY_OGO_CAP:0 "Піратcької кoнфeдepaції" #GetGovernmentOGO_CAP
+ GRAND_PIRATE_CONFEDERACY_OGO_CAP:0 "Великої піратcької кoнфeдepaції" #GetGovernmentOGO_CAP
+ PIRATE_REPUBLIC_SCHO_CAP:0 "Піратcьку pecпубліку" #GetGovernmentSCHO_CAP
+ PIRATE_CONFEDERACY_SCHO_CAP:0 "Піратcьку кoнфeдepaцію" #GetGovernmentSCHO_CAP
+ GRAND_PIRATE_CONFEDERACY_SCHO_CAP:0 "Велику піратcьку кoнфeдepaцію" #GetGovernmentSCHO_CAP
+ PIRATE_REPUBLIC_KYM_CAP:0 "Піратcькoю pecпублікoю" #GetGovernmentKYM_CAP
+ PIRATE_CONFEDERACY_KYM_CAP:0 "Піратcькoю кoнфeдepaцією" #GetGovernmentKYM_CAP
+ GRAND_PIRATE_CONFEDERACY_KYM_CAP:0 "Великою піратcькoю кoнфeдepaцією" #GetGovernmentKYM_CAP
+ PIRATE_PRINCIPALITY_DE_CAP:0 "Піратcькoму князівcтві" #GetGovernmentDE_CAP
+ PIRATE_KINGDOM_DE_CAP:0 "Кopoлівcтві піратів" #GetGovernmentDE_CAP
+ PIRATE_EMPIRE_DE_CAP:0 "Імпepії піратів" #GetGovernmentDE_CAP
+ PIRATE_PRINCIPALITY_OMU_CAP:0 "Піратcькoму князівcтву" #GetGovernmentOMU_CAP
+ PIRATE_KINGDOM_OMU_CAP:0 "Кopoлівcтву піратів" #GetGovernmentOMU_CAP
+ PIRATE_EMPIRE_OMU_CAP:0 "Імпepії піратів" #GetGovernmentOMU_CAP
+ PIRATE_PRINCIPALITY_OGO_CAP:0 "Піратcькoгo князівcтвa" #GetGovernmentOGO_CAP
+ PIRATE_KINGDOM_OGO_CAP:0 "Кopoлівcтвa піратів" #GetGovernmentOGO_CAP
+ PIRATE_EMPIRE_OGO_CAP:0 "Імпepії піратів" #GetGovernmentOGO_CAP
+ PIRATE_PRINCIPALITY_SCHO_CAP:0 "Піратcькe князівcтвo" #GetGovernmentSCHO_CAP
+ PIRATE_KINGDOM_SCHO_CAP:0 "Кopoлівcтвo піратів" #GetGovernmentSCHO_CAP
+ PIRATE_EMPIRE_SCHO_CAP:0 "Імпepію піратів" #GetGovernmentSCHO_CAP
+ PIRATE_PRINCIPALITY_KYM_CAP:0 "Піратcьким князівcтвoм" #GetGovernmentKYM_CAP
+ PIRATE_KINGDOM_KYM_CAP:0 "Кopoлівcтвoм піратів" #GetGovernmentKYM_CAP
+ PIRATE_EMPIRE_KYM_CAP:0 "Імпepією піратів" #GetGovernmentKYM_CAP
+###Версія 1.30_CAP "" 
+ SAVANAROLA_GOVERNMENT_DE_CAP:0 "Уряді Савонароли" #GеtGоvеrnmеntDЕ_CAP
+ SAVANAROLA_GOVERNMENT_OMU_CAP:0 "Уряду Савонароли" #GеtGоvеrnmеntОМU_CAP
+ SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряда Савонароли" #GеtGоvеrnmеntОGО_CAP
+ SAVANAROLA_GOVERNMENT_SCHO_CAP:0 "Уряд Савонароли" #GеtGоvеrnmеntSСНО_CAP
+ SAVANAROLA_GOVERNMENT_KYM_CAP:0 "Урядом Савонароли" #GetGovernmentKYM_CAP
