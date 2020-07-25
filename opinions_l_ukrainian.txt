@@ -1,6 +1,6 @@
 ﻿l_ukrainian:
  took_on_debt:0 "Взяв позику"
- great_power_influence:0 "Вплив Великої Держави"
+ great_power_influence:0 "Вплив Великої держави"
  forced_break_alliance:0 "Змусив розірвати союз"
  in_same_trade_league:0 "В одній Торговій лізі"
  consort_marriage_ties:0 "Шлюбні вузи Консорта"

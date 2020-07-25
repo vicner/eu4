@@ -1348,7 +1348,7 @@
  estate_disasters.7.d:0 "$MONARCH$ дозволи[Root.Monarch.GetMEndVLa] [Root.NomadicDV] держави $COUNTRY$ стати занадто впливовими й вони зробили свій хід. Використовуючи вплив, який вони вже мали над нашою державою, як-то контроль над усім – від збору податків до роздавання вказівок і вербування до наших армій, вони ефективно захопили віжки влади й [Root.Monarch.GetTitleKHTO] в їхніх руках лише трохи більше, ніж їхня маріонетка."
  estate_disasters.7.a:0 "Ми повинні були це передбачити..."
  estate_disasters.7.a.tt:0 "Держава [Root.GetName] тепер під контролем §Yкланів§! доки не буде прийнято рішення §Y'Приборкати клани'§!."
- estate_disasters.8.t:0 [Root.GetTribesOrFallbackName] приборкано"
+ estate_disasters.8.t:0 "[Root.GetTribesOrFallbackName] приборкано"
  estate_disasters.8.d:0 "Після напруженої боротьби [Root.NomadicNZ] нарешті було приборкано. [Root.Monarch.GetTitleKHTO_CAP] тепер контролює досить земель, людей і установ, щоби знову назвати себе правителем нашого народу."
  estate_disasters.8.a:0 "$MONARCHTITLE$ повертає собі владу."
  estate_disasters.9.t:0 "Зіммі отримали свободу"

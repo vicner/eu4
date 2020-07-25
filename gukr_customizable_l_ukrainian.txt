@@ -2,71 +2,214 @@
 ###Закінчення
  MALE_ENDING_A:0 "" #GetEndA
  FEMALE_ENDING_A:0 "а" #GetEndA
+ EAEndA.A:0 "[This.Adm_Advisor.GetAAEndA]"
+ EAEndA.D:0 "[This.Dip_Advisor.GetADEndA]"
+ EAEndA.M:0 "[This.Mil_Advisor.GetAMEndA]"
+ 
  MALE_ENDING_LA:0 "" #GetEndLA
  FEMALE_ENDING_LA:0 "ла" #GetEndLA
+ EAEndLA.A:0 "[This.Adm_Advisor.GetAAEndLA]"
+ EAEndLA.D:0 "[This.Dip_Advisor.GetADEndLA]"
+ EAEndLA.M:0 "[This.Mil_Advisor.GetAMEndLA]"
+ 
  MALE_ENDING_IJ:0 "ій" #GetEndIJA
  FEMALE_ENDING_JA:0 "я" #GetEndIJA або !GetEndOYAYA
+ EAEndIJA.A:0 "[This.Adm_Advisor.GetAAEndIJA]"
+ EAEndIJA.D:0 "[This.Dip_Advisor.GetADEndIJA]"
+ EAEndIJA.M:0 "[This.Mil_Advisor.GetAMEndIJA]"
+ 
  MALE_ENDING_YJ:0 "ий" #GetEndAYJ
  FEMALE_ENDING_AYJ:0 "а" #GetEndAYJ
+ EAEndAYJ.A:0 "[This.Adm_Advisor.GetAAEndAYJ]"
+ EAEndAYJ.D:0 "[This.Dip_Advisor.GetADEndAYJ]"
+ EAEndAYJ.M:0 "[This.Mil_Advisor.GetAMEndAYJ]"
+ 
  MALE_ENDING_YM:0 "им" #GetEndOJuYM
  FEMALE_ENDING_OJU:0 "ою" #GetEndOJuYM або !GetEndOYAYA
+ EAEEndOJuYM.A:0 "[This.Adm_Advisor.GetAAEndOJuYM]"
+ EAEndOJuYM.D:0 "[This.Dip_Advisor.GetADEndOJuYM]"
+ EAEndOJuYM.M:0 "[This.Mil_Advisor.GetAMEndOJuYM]"
+ 
  MALE_ENDING_GO:0 "го" #GetEndJiGO
  FEMALE_ENDING_Ji:0 "ї" #GetEndJiGO
+ EAEndJiGO.A:0 "[This.Adm_Advisor.GetAAEndJiGO]"
+ EAEndJiGO.D:0 "[This.Dip_Advisor.GetADEndJiGO]"
+ EAEndJiGO.M:0 "[This.Mil_Advisor.GetAMEndJiGO]"
+ 
  MALE_ENDING_GO:0 "го" #GetEndJeJi
  FEMALE_ENDING_JEJI:0 "єї" #GetEndJeJi
+ EAEndJeJi.A:0 "[This.Adm_Advisor.GetAAEndJeJi]"
+ EAEndJeJi.D:0 "[This.Dip_Advisor.GetADEndJeJi]"
+ EAEndJeJi.M:0 "[This.Mil_Advisor.GetAMEndJeJi]"
+ 
  MALE_ENDING_VSIA:0 "вся" #GetEndVSia
  FEMALE_ENDING_LASIA:0 "лася" #GetEndVSia
+ EAEndVSia.A:0 "[This.Adm_Advisor.GetAAEndVSia]"
+ EAEndVSia.D:0 "[This.Dip_Advisor.GetADEndVSia]"
+ EAEndVSia.M:0 "[This.Mil_Advisor.GetAMEndVSia]"
+ 
  MALE_JOGO:0 "його" #GetJOGO
  FEMALE_JiJi:0 "її" #GetJOGO
+ EAJOGO.A:0 "[This.Adm_Advisor.GetAAJOGO]"
+ EAJOGO.D:0 "[This.Dip_Advisor.GetADJOGO]"
+ EAJOGO.M:0 "[This.Mil_Advisor.GetAMJOGO]"
+ 
  MALE_ENDING_jOGO:0 "ього" #GetEndjOGO
+ EAEndjOGO.A:0 "[This.Adm_Advisor.GetAAEndjOGO]"
+ EAEndjOGO.D:0 "[This.Dip_Advisor.GetADEndjOGO]"
+ EAEndjOGO.M:0 "[This.Mil_Advisor.GetAMEndjOGO]"
+ 
  MALE_JOGO_Cap:0 "Його" #GetJOGOCap
  FEMALE_JiJi_Cap:0 "Її" #GetJOGOCap
+ EAJOGOCap.A:0 "[This.Adm_Advisor.GetAAJOGOCap]"
+ EAJOGOCap.D:0 "[This.Dip_Advisor.GetADJOGOCap]"
+ EAJOGOCap.M:0 "[This.Mil_Advisor.GetAMJOGOCap]"
+ 
  MALE_JOMU:0 "йому" #GetJiJOMU
  FEMALE_JiJ:0 "їй" #GetJiJOMU
+ EAJiJOMU.A:0 "[This.Adm_Advisor.GetAAJiJOMU]"
+ EAJiJOMU.D:0 "[This.Dip_Advisor.GetADJiJOMU]"
+ EAJiJOMU.M:0 "[This.Mil_Advisor.GetAMJiJOMU]"
+ 
  MALE_JOMU_Cap:0 "Йому" #GetJiJOMUCap
  FEMALE_JiJ_Cap:0 "Їй" #GetJiJOMUCap
+ EAJiJOMUCap.A:0 "[This.Adm_Advisor.GetAAJiJOMUCap]"
+ EAJiJOMUCapA.D:0 "[This.Dip_Advisor.GetADJiJOMUCap]"
+ EAJiJOMUCap.M:0 "[This.Mil_Advisor.GetAMJiJOMUCap]"
+ 
  MALE_ENDING_EN:0 "ен" #GetEndEnNa
  FEMALE_ENDING_NA:0 "на" #GetEndEnNa
+ EAEndEnNa.A:0 "[This.Adm_Advisor.GetAAEndEnNa]"
+ EAEndEnNa.D:0 "[This.Dip_Advisor.GetADEndEnNa]"
+ EAEndEnNa.M:0 "[This.Mil_Advisor.GetAMEndEnNa]"
+ 
  MALE_ENDING_YN:0 "ин" #GetEndYnNa
  FEMALE_ENDING_NA:0 "на" #GetEndYnNa
+ EAEndYnNa.A:0 "[This.Adm_Advisor.GetAAEndYnNa]"
+ EAEndYnNa.D:0 "[This.Dip_Advisor.GetADEndYnNa]"
+ EAEndYnNa.M:0 "[This.Mil_Advisor.GetAMEndYnNa]"
+ 
  MALE_ENDING_CIAK:0 "к" #GetEndCiaK
  FEMALE_ENDING_CIAK:0 "ця" #GetEndCiaK
+ EAEndCiaK.A:0 "[This.Adm_Advisor.GetAAEndCiaK]"
+ EAEndCiaK.D:0 "[This.Dip_Advisor.GetADEndCiaK]"
+ EAEndCiaK.M:0 "[This.Mil_Advisor.GetAMEndCiaK]"
+ 
  MALE_ENDING_KALj:0 "" #GetEndKaLj
  FEMALE_ENDING_KALj:0 "ка" #GetEndKaLj
+ EAEndKaLj.A:0 "[This.Adm_Advisor.GetAAEndKaLj]"
+ EAEndKaLj.D:0 "[This.Dip_Advisor.GetADEndKaLj]"
+ EAEndKaLj.M:0 "[This.Mil_Advisor.GetAMEndKaLj]"
+ 
  MALE_ENDING_KUCIA:0 "ця" #GetEndKuCia
  FEMALE_ENDING_KUCIA:0 "ку" #GetEndKuCia
+ EAEndKuCia.A:0 "[This.Adm_Advisor.GetAAEndKuCia]"
+ EAEndKuCia.D:0 "[This.Dip_Advisor.GetADEndKuCia]"
+ EAEndKuCia.M:0 "[This.Mil_Advisor.GetAMEndKuCia]"
+ 
  MALE_ENDING_VLA:0 "в" #GetEndVLa
  FEMALE_ENDING_VLA:0 "ла" #GetEndVLa
+ EAEndVLa.A:0 "[This.Adm_Advisor.GetAAEndVLa]"
+ EAEndVLa.D:0 "[This.Dip_Advisor.GetADEndVLa]"
+ EAEndVLa.M:0 "[This.Mil_Advisor.GetAMEndVLa]"
+ 
  MALE_ENDING_LAOV:0 "ов" #GetEndLaOv
  FEMALE_ENDING_LAOV:0 "ла" #GetEndLaOv
+ EAEndLaOv.A:0 "[This.Adm_Advisor.GetAAEndLaOv]"
+ EAEndLaOv.D:0 "[This.Dip_Advisor.GetADEndLaOv]"
+ EAEndLaOv.M:0 "[This.Mil_Advisor.GetAMEndLaOv]"
+ 
  MALE_ENDING_EJijOGO:0 "ього" #GetEndEJijogo
  FEMALE_ENDING_EJijOGO:0 "еї" #GetEndEJijogo
+ EAEndEJijogo.A:0 "[This.Adm_Advisor.GetAAEndEJijogo]"
+ EAEndEJijogo.D:0 "[This.Dip_Advisor.GetADEndEJijogo]"
+ EAEndEJijogo.M:0 "[This.Mil_Advisor.GetAMEndEJijogo]"
+ 
  MALE_ENDING_EJuYM:0 "им" #GetEndEJuYm
  FEMALE_ENDING_EJu:0 "ею" #GetEndEJuYm
+ EAEndEJuYm.A:0 "[This.Adm_Advisor.GetAAEndEJuYm]"
+ EAEndEJuYm.D:0 "[This.Dip_Advisor.GetADEndEJuYm]"
+ EAEndEJuYm.M:0 "[This.Mil_Advisor.GetAMEndEJuYm]"
+ 
  MALE_ENDING_JuGO:0 "го" #GetEndJuGo
  FEMALE_ENDING_JuGO:0 "ю" #GetEndJuGo
+ EAEndJuGo.A:0 "[This.Adm_Advisor.GetAAEndJuGo]"
+ EAEndJuGo.D:0 "[This.Dip_Advisor.GetADEndJuGo]"
+ EAEndJuGo.M:0 "[This.Mil_Advisor.GetAMEndJuGo]"
+ 
  MALE_ENDING_KA:0 "ка" #GetEndCiKa
  FEMALE_ENDING_CI:0 "ці" #GetEndCiKa
+ EAEndCiKa.A:0 "[This.Adm_Advisor.GetAAEndCiKa]"
+ EAEndCiKa.D:0 "[This.Dip_Advisor.GetADEndCiKa]"
+ EAEndCiKa.M:0 "[This.Mil_Advisor.GetAMEndCiKa]"
+ 
  MALE_ENDING_KA:0 "ка" #GetEndCiuKa
  FEMALE_ENDING_CIU:0 "цю" #GetEndCiuKa
+ EAEndCiuKa.A:0 "[This.Adm_Advisor.GetAAEndCiuKa]"
+ EAEndCiuKa.D:0 "[This.Dip_Advisor.GetADEndCiuKa]"
+ EAEndCiuKa.M:0 "[This.Mil_Advisor.GetAMEndCiuKa]"
+ 
  MALE_ENDING_OMU:0 "ому" #GetEndIjOmu
  FEMALE_ENDING_IJ:0 "ій" #GetEndIjOmu
+ EAEndIjOmu.A:0 "[This.Adm_Advisor.GetAAEndIjOmu]"
+ EAEndIjOmu.D:0 "[This.Dip_Advisor.GetADEndIjOmu]"
+ EAEndIjOmu.M:0 "[This.Mil_Advisor.GetAMEndIjOmu]"
+ 
  MALE_ENDING_KAECj:0 "ець" #GetEndKaEcj
  FEMALE_ENDING_KAECj:0 "ка" #GetEndKaEcj
+ EAEndKaEcj.A:0 "[This.Adm_Advisor.GetAAEndKaEcj]"
+ EAEndKaEcj.D:0 "[This.Dip_Advisor.GetADEndKaEcj]"
+ EAEndKaEcj.M:0 "[This.Mil_Advisor.GetAMEndKaEcj]"
+ 
  MALE_ENDING_OYA:0 "ій" #GetEndOYA
  FEMALE_ENDING_OYA:0 "оя" #GetEndOYA
+ EAEndOYA.A:0 "[This.Adm_Advisor.GetAAEndOYA]"
+ EAEndOYA.D:0 "[This.Dip_Advisor.GetADEndOYA]"
+ EAEndOYA.M:0 "[This.Mil_Advisor.GetAMEndOYA]"
+ 
  MALE_ENDING_OGO:0 "ого" #GetEndOjiOgo
  FEMALE_ENDING_OJi:0 "ої" #GetEndOjiOgo
+ EAEndOjiOgo.A:0 "[This.Adm_Advisor.GetAAEndOjiOgo]"
+ EAEndOjiOgo.D:0 "[This.Dip_Advisor.GetADEndOjiOgo]"
+ EAEndOjiOgo.M:0 "[This.Mil_Advisor.GetAMEndOjiOgo]"
+ 
  MALE_ENDING_jKOJuEM:0 "ем" #GetEndjKojuEm
  FEMALE_ENDING_jKOJuEM:0 "ькою" #GetEndjKojuEm
+ EAEndjKojuEm.A:0 "[This.Adm_Advisor.GetAAEAEndjKojuEm]"
+ EAEndjKojuEm.D:0 "[This.Dip_Advisor.GetADEAEndjKojuEm]"
+ EAEndjKojuEm.M:0 "[This.Mil_Advisor.GetAMEAEndjKojuEm]"
+ 
  MALE_ENDING_ESA:0 "" #GetEndEsa
  FEMALE_ENDING_ESA:0 "еса" #GetEndEsa
+ EAEndEsa.A:0 "[This.Adm_Advisor.GetAAEndEsa]"
+ EAEndEsa.D:0 "[This.Dip_Advisor.GetADEndEsa]"
+ EAEndEsa.M:0 "[This.Mil_Advisor.GetAMEndEsa]"
+ 
  MALE_ENDING_ESY:0 "а" #GetEndEsy
  FEMALE_ENDING_ESY:0 "еси" #GetEndEsy
  MALE_ENDING_ESI:0 "у" #GetEndEsi
  FEMALE_ENDING_ESI:0 "есі" #GetEndEsi
+ 
  MALE_ENDING_UOGO:0 "ого" #GetEndUOgo
  FEMALE_ENDING_UOGO:0 "у" #GetEndUOgo
+ EAEndUOgo.A:0 "[This.Adm_Advisor.GetAAEndUOgo]"
+ EAEndUOgo.D:0 "[This.Dip_Advisor.GetADEndUOgo]"
+ EAEndUOgo.M:0 "[This.Mil_Advisor.GetAMEndUOgo]"
+ 
+ MALE_SHEHE:0 "Він" #GetSheHeCap
+ FEMALE_SHEHE:0 "Вона" #GetSheHeCap
+ EASheHeCap.A:0 "[This.Adm_Advisor.GetAASheHeCap]"
+ EASheHeCap.D:0 "[This.Dip_Advisor.GetADSheHeCap]"
+ EASheHeCap.M:0 "[This.Mil_Advisor.GetAMSheHeCap]"
+ 
+ MALE_ENDING_IAjKY:0 "я" #GetEndIajKy
+ FEMALE_ENDING_IAjKY:0 "ьки" #GetEndIajKy
+ EAEndIajKy.A:0 "[This.Adm_Advisor.GetAAEAEndIajKy]"
+ EAEndIajKy.D:0 "[This.Dip_Advisor.GetADEAEndIajKy]"
+ EAEndIajKy.M:0 "[This.Mil_Advisor.GetAMEAEndIajKy]"
+ 
+ MALE_ENDING_jEVA:0 "ь" #GetEndjEva
+ FEMALE_ENDING_jEVA:0 "ева" #GetEndjEva
  MALE_ENDING_ORRYC:0 "ор" #GetEndOrRyc
  FEMALE_ENDING_ORRYC:0 "риця" #GetEndOrRyc
  MALE_ENDING_ORARYCI:0 "ора" #GetEndOraRyci
@@ -81,12 +224,6 @@
  FEMALE_ENDING_YCIU:0 "ицю" #GetEndCiaYciu
  MALE_ENDING_ECj:0 "ець" #GetEndYcia
  FEMALE_ENDING_YCIa:0 "иця" #GetEndYcia
- MALE_SHEHE:0 "Він" #GetSheHeCap
- FEMALE_SHEHE:0 "Вона" #GetSheHeCap
- MALE_ENDING_jEVA:0 "ь" #GetEndjEva
- FEMALE_ENDING_jEVA:0 "ева" #GetEndjEva
- MALE_ENDING_IAjKY:0 "я" #GetEndIajKy
- FEMALE_ENDING_IAjKY:0 "ьки" #GetEndIajKy
  MALE_ENDING_IAjKU:0 "я" #GetEndIajKu
  FEMALE_ENDING_IAjKU:0 "ьку" #GetEndIajKu
  MALE_ENDING_LjKA:0 "ь" #GetEndLjKa
