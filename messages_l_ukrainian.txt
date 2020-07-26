@@ -2546,7 +2546,7 @@
  TRADEALLOWOTHER_3:0 "держава $ACTOR$ надає доступ"
  TRADEALLOWOTHER_4:0 "купцям"
  TRADEALLOWOTHER_5:0 "держави $RECIPIENT$"
- TRADEALLOWOTHER_6:0 "до своїх ринків!
+ TRADEALLOWOTHER_6:0 "до своїх ринків!"
  TRADEALLOWOTHER_BTN1:0 "Гаразд"
  TRADEALLOWOTHER_BTN2:0 "Гаразд"
  TRADEALLOWOTHER_BTN3:0 "Перейти"
@@ -2633,7 +2633,7 @@
  ANNEXREJECTWE_3:0 "відмовилися"
  ANNEXREJECTWE_4:0 "від обурливої пропозиції"
  ANNEXREJECTWE_5:0 "анексії"
- ANNEXREJECTWE_6:0 державою $ACTOR$."
+ ANNEXREJECTWE_6:0 "державою $ACTOR$."
  ANNEXREJECTWE_LOG:0 "Ми відхилили пропозицію анексії, висунуту державою $ACTOR$."
  ANNEXREJECTWE_BTN1:0 "Гарна відповідь!"
  ANNEXREJECTWE_BTN2:0 "Гаразд"
