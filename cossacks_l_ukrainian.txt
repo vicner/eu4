@@ -94,7 +94,7 @@
  EST_VAL_NOBLES_OF_THE_ROBE_LOY:1 "Дворянство мантії: §G$VAL$§!"
  EST_VAL_PERMANENT_MARATHAS_COUNTIL_LOY:1 "Постійна маратська рада: $VAL$"
  EST_VAL_GOVERNMENTAL_PURBIAS_REGISTER_LOY:1 "Державний реєстр пурбіїв: $VAL$"
- EST_VAL_MERITOCRATIC_RECRUITMENT_LOY:0 "Меритократичне вербування: §G$VAL$%§!"
+ EST_VAL_MERITOCRATIC_RECRUITMENT_LOY:1 "Меритократичне вербування: §G$VAL$§!"
  EST_VAL_CLERGY_ADMINISTRATORS_LOY:0 "Клерикальна адміністрація: §G$VAL$§!"
  EST_VAL_DEMANDED_BURGHER_SUPPORT:0 "Вимагали підтримки: §R$VAL$§!"
  EST_VAL_DEMANDED_NOBLES_SUPPORT:0 "Вимагали підтримки: §R$VAL$§!"
