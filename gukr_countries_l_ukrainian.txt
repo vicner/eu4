@@ -2423,10 +2423,10 @@
  TAG_DE_ALG:0 "Алжирі" #GetTagDE
  TAG_DE_ALH:0 "Хаасі" #GetTagDE
  TAG_DE_ALS:0 "Страсбурзі" #GetTagDE
- TAG_DE_AMG:0 "Арманьязі" #GetTagDE
+ TAG_DE_AMG:0 "Арманьяці" #GetTagDE
  TAG_DE_ANH:0 "Ангальті" #GetTagDE
  TAG_DE_ANN:0 "Аннамі" #GetTagDE
- TAG_DE_ANS:0 "Ансбазі" #GetTagDE
+ TAG_DE_ANS:0 "Ансбасі" #GetTagDE
  TAG_DE_ARA:0 "Арагоні" #GetTagDE
  TAG_DE_ARK:0 "Аракані" #GetTagDE
  TAG_DE_ARM:0 "Вірменії" #GetTagDE
@@ -3008,7 +3008,7 @@
  TAG_DE_HSN:0 "Хісн Кайфі" #GetTagDE
  TAG_DE_BTL:0 "Бітлісі" #GetTagDE
  TAG_DE_AVR:0 "Аварії" #GetTagDE
- TAG_DE_MLK:0 "Карабазі" #GetTagDE
+ TAG_DE_MLK:0 "Карабасі" #GetTagDE
  TAG_DE_SME:0 "Самцхе" #GetTagDE
  TAG_DE_ARL:0 "Ардабілі" #GetTagDE
  TAG_DE_MSY:0 "Мушаші" #GetTagDE
