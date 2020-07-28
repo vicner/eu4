@@ -2143,7 +2143,7 @@
  CV_ECONOMY_LOAN_REPAY_DESC:0 "Виплатити позику"
  CV_ECONOMY_LOAN_REPAY_BUTTON_DESC:0 "Клацніть тут, щоб відкрити вікно з вашими позиками"
  CV_ECONOMY_LOAN_NOREPAY_BUTTON_DESC:0 "У вас немає жодної позики!"
- CV_BALANCE_DESC:0 "Це різниця між §прибутком§! і §витратами§!."
+ CV_BALANCE_DESC:0 "Це різниця між §Gприбутком§! і §Rвитратами§!."
  CV_INCOMES_TOTAL_DESC:0 "Сума прибутку: §Y$VAL$§W"
  CV_EXPENSES_TOTAL_DESC:0 "Сума витрат: §Y$VAL$§W"
  CV_INCOMES_TEMP_DESC:0 "Дарунки: §Y$GIFTS$§!\nПодії: §Y$EVENTS$§!\nНайм радників: §Y$ADVISOR$§W"
