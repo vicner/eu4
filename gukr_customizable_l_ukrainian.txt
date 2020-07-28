@@ -233,6 +233,7 @@
  PROV_NAME_GUKR:0 "Провінція" #кастомна локалізація
  CULT_NAME_GUKR:0 "Культурa" #кастомна локалізація
  COUNTRY_MODIFIERS_GUKR:0 "Moдифікaтopи" #кастомна локалізація
+ WAR_EXHAUSTION_GUKR:0 "Втома від війни" #кастомна локалізація
 
 ###Мусульманські мазгаби
  hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall

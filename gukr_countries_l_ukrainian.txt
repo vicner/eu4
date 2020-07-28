@@ -1,4 +1,16 @@
-﻿l_ukrainian:
+l_ukrainian:
+ #Прийменники у/в/до перед назвою держави. За замовченням 'у', окрім коли назва починається на У. Найкраще підходить для теґа [GetTagDE]
+ pryjmennyk_u:0 "у" ##Get_UV
+ pryjmennyk_v:0 "в" ##Get_UV
+ pryjmennyk_u_cap:0 "У" ##Get_UV_CAP
+ pryjmennyk_v_cap:0 "В" ##Get_UV_CAP
+ #Прийменники у/в/до перед назвою держави. Для множини – 'до'. Найкраще підходить для теґа [GetTagKUDY]
+ pryjmennyk_u:0 "у" ##Get_UVDO
+ pryjmennyk_v:0 "в" ##Get_UVDO
+ pryjmennyk_do:0 "до" ##Get_UVDO
+ pryjmennyk_u_cap:0 "У" ##Get_UVDO_CAP
+ pryjmennyk_v_cap:0 "В" ##Get_UVDO_CAP
+ pryjmennyk_do_cap:0 "До" ##Get_UVDO_CAP
  #Держави, що" відповідають на запитання "Немає кого?
  TAG_OGO_DYN:0 "держави [Root.GetName]" #GetTagOGO
  TAG_OGO_ADA:0 "Адала" #GetTagOGO
@@ -249,7 +261,7 @@
  TAG_OGO_TRP:0 "Триполі" #GetTagOGO
  TAG_OGO_TRV:0 "Траванкора" #GetTagOGO
  TAG_OGO_TUN:0 "Туніса" #GetTagOGO
- TAG_OGO_TUR:0 "Османської Імперії" #GetTagOGO
+ TAG_OGO_TUR:0 "Османів" #GetTagOGO
  TAG_OGO_TUS:0 "Тоскани" #GetTagOGO
  TAG_OGO_TVE:0 "Твера" #GetTagOGO
  TAG_OGO_TYR:0 "Тайрона" #GetTagOGO
@@ -280,7 +292,7 @@
  TAG_OGO_HJO:0 "Ходзьо" #GetTagOGO
  TAG_OGO_HSK:0 "Хосокави" #GetTagOGO
  TAG_OGO_HTK:0 "Хатакеями" #GetTagOGO
- TAG_OGO_IKE:0 "Ікеда" #GetTagOGO
+ TAG_OGO_IKE:0 "Ікеди" #GetTagOGO
  TAG_OGO_IMG:0 "Імаґави" #GetTagOGO
  TAG_OGO_MAE:0 "Маеда" #GetTagOGO
  TAG_OGO_MRI:0 "Морі" #GetTagOGO
@@ -683,16 +695,16 @@
  TAG_OGO_LAC:0 "Цоциля" #GetTagOGO
  TAG_OGO_KAQ:0 "Какчикелі" #GetTagOGO
  TAG_OGO_CTM:0 "Чактемалі" #GetTagOGO
- TAG_OGO_KER:0 "Кереса" #GetTagOGO
+ TAG_OGO_KER:0 "Кересів" #GetTagOGO
  TAG_OGO_ZNI:0 "Зуні" #GetTagOGO
  TAG_OGO_MSC:0 "Мескалеро" #GetTagOGO
  TAG_OGO_LIP:0 "Ліпана" #GetTagOGO
  TAG_OGO_CHT:0 "Чорті" #GetTagOGO
  TAG_OGO_MIS:0 "Мискіто" #GetTagOGO
  TAG_OGO_TAI:0 "Тайрони" #GetTagOGO
- TAG_OGO_CNP:0 "Канпеча" #GetTagOGO
+ TAG_OGO_CNP:0 "Канпечів" #GetTagOGO
  TAG_OGO_TON:0 "Тонали" #GetTagOGO
- TAG_OGO_YAQ:0 "Які" #GetTagOGO
+ TAG_OGO_YAQ:0 "Яків" #GetTagOGO
  TAG_OGO_YKT:0 "Йокутів" #GetTagOGO
  TAG_OGO_CAL:0 "Каліфорнії" #GetTagOGO
  TAG_OGO_TEX:0 "Техаса" #GetTagOGO
@@ -729,7 +741,7 @@
  TAG_OGO_CRA:0 "Чарки" #GetTagOGO
  TAG_OGO_PCJ:0 "Пакахеса" #GetTagOGO
  TAG_OGO_TPA:0 "Тупінамби" #GetTagOGO
- TAG_OGO_ARW:0 "Аравака" #GetTagOGO
+ TAG_OGO_ARW:0 "Араваків" #GetTagOGO
  TAG_OGO_TID:0 "Тідоре" #GetTagOGO
  TAG_OGO_TER:0 "Тернате" #GetTagOGO
  TAG_OGO_MGD:0 "Магінданао" #GetTagOGO
@@ -1054,7 +1066,7 @@
  TAG_KUDY_TRP:0 "Триполі" #GetTagKUDY
  TAG_KUDY_TRV:0 "Траванкор" #GetTagKUDY
  TAG_KUDY_TUN:0 "Туніс" #GetTagKUDY
- TAG_KUDY_TUR:0 "Османську Імперію" #GetTagKUDY
+ TAG_KUDY_TUR:0 "Османів" #GetTagKUDY
  TAG_KUDY_TUS:0 "Тоскану" #GetTagKUDY
  TAG_KUDY_TVE:0 "Твер" #GetTagKUDY
  TAG_KUDY_TYR:0 "Тайрон" #GetTagKUDY
@@ -1085,7 +1097,7 @@
  TAG_KUDY_HJO:0 "Ходзьо" #GetTagKUDY
  TAG_KUDY_HSK:0 "Хосокаву" #GetTagKUDY
  TAG_KUDY_HTK:0 "Хатакеяму" #GetTagKUDY
- TAG_KUDY_IKE:0 "Ікеда" #GetTagKUDY
+ TAG_KUDY_IKE:0 "Ікеду" #GetTagKUDY
  TAG_KUDY_IMG:0 "Імаґаву" #GetTagKUDY
  TAG_KUDY_MAE:0 "Маеда" #GetTagKUDY
  TAG_KUDY_MRI:0 "Морі" #GetTagKUDY
@@ -1488,16 +1500,16 @@
  TAG_KUDY_LAC:0 "Цоциль" #GetTagKUDY
  TAG_KUDY_KAQ:0 "Какчикелі" #GetTagKUDY
  TAG_KUDY_CTM:0 "Чактемалі" #GetTagKUDY
- TAG_KUDY_KER:0 "Керес" #GetTagKUDY
+ TAG_KUDY_KER:0 "Кересів" #GetTagKUDY
  TAG_KUDY_ZNI:0 "Зуні" #GetTagKUDY
  TAG_KUDY_MSC:0 "Мескалеро" #GetTagKUDY
  TAG_KUDY_LIP:0 "Ліпан" #GetTagKUDY
  TAG_KUDY_CHT:0 "Чорті" #GetTagKUDY
  TAG_KUDY_MIS:0 "Мискіто" #GetTagKUDY
- TAG_KUDY_TAI:0 "Тайрону" #GetTagKUDY
- TAG_KUDY_CNP:0 "Канпеч" #GetTagKUDY
- TAG_KUDY_TON:0 "Тоналу" #GetTagKUDY
- TAG_KUDY_YAQ:0 "Які" #GetTagKUDY
+ TAG_KUDY_TAI:0 "Тайрони" #GetTagKUDY
+ TAG_KUDY_CNP:0 "Канпечів" #GetTagKUDY
+ TAG_KUDY_TON:0 "Тонала" #GetTagKUDY
+ TAG_KUDY_YAQ:0 "Яків" #GetTagKUDY
  TAG_KUDY_YKT:0 "Йокутів" #GetTagKUDY
  TAG_KUDY_CAL:0 "Каліфорнію" #GetTagKUDY
  TAG_KUDY_TEX:0 "Техас" #GetTagKUDY
@@ -1534,7 +1546,7 @@
  TAG_KUDY_CRA:0 "Чарку" #GetTagKUDY
  TAG_KUDY_PCJ:0 "Пакахес" #GetTagKUDY
  TAG_KUDY_TPA:0 "Тупінамбу" #GetTagKUDY
- TAG_KUDY_ARW:0 "Аравак" #GetTagKUDY
+ TAG_KUDY_ARW:0 "Араваків" #GetTagKUDY
  TAG_KUDY_TID:0 "Тідоре" #GetTagKUDY
  TAG_KUDY_TER:0 "Тернате" #GetTagKUDY
  TAG_KUDY_MGD:0 "Магінданао" #GetTagKUDY
@@ -1859,7 +1871,7 @@
  TAG_CYM_TRP:0 "Триполі" #GetTagCYM
  TAG_CYM_TRV:0 "Траванкором" #GetTagCYM
  TAG_CYM_TUN:0 "Тунісом" #GetTagCYM
- TAG_CYM_TUR:0 "Османською Імперією" #GetTagCYM
+ TAG_CYM_TUR:0 "Османами" #GetTagCYM
  TAG_CYM_TUS:0 "Тосканою" #GetTagCYM
  TAG_CYM_TVE:0 "Твером" #GetTagCYM
  TAG_CYM_TYR:0 "Тайроном" #GetTagCYM
@@ -1890,7 +1902,7 @@
  TAG_CYM_HJO:0 "Ходзьо" #GetTagCYM
  TAG_CYM_HSK:0 "Хосокавою" #GetTagCYM
  TAG_CYM_HTK:0 "Хатакеямою" #GetTagCYM
- TAG_CYM_IKE:0 "Ікеда" #GetTagCYM
+ TAG_CYM_IKE:0 "Ікедою" #GetTagCYM
  TAG_CYM_IMG:0 "Імаґавою" #GetTagCYM
  TAG_CYM_MAE:0 "Маеда" #GetTagCYM
  TAG_CYM_MRI:0 "Морі" #GetTagCYM
@@ -2293,16 +2305,16 @@
  TAG_CYM_LAC:0 "Цоцилем" #GetTagCYM
  TAG_CYM_KAQ:0 "Какчикелі" #GetTagCYM
  TAG_CYM_CTM:0 "Чактемалі" #GetTagCYM
- TAG_CYM_KER:0 "Кересом" #GetTagCYM
+ TAG_CYM_KER:0 "Кересами" #GetTagCYM
  TAG_CYM_ZNI:0 "Зуні" #GetTagCYM
  TAG_CYM_MSC:0 "Мескалеро" #GetTagCYM
  TAG_CYM_LIP:0 "Ліпаном" #GetTagCYM
  TAG_CYM_CHT:0 "Чорті" #GetTagCYM
  TAG_CYM_MIS:0 "Мискіто" #GetTagCYM
  TAG_CYM_TAI:0 "Тайроною" #GetTagCYM
- TAG_CYM_CNP:0 "Канпечом" #GetTagCYM
+ TAG_CYM_CNP:0 "Канпечами" #GetTagCYM
  TAG_CYM_TON:0 "Тоналою" #GetTagCYM
- TAG_CYM_YAQ:0 "Які" #GetTagCYM
+ TAG_CYM_YAQ:0 "Яками" #GetTagCYM
  TAG_CYM_YKT:0 "Йокутами" #GetTagCYM
  TAG_CYM_CAL:0 "Каліфорнією" #GetTagCYM
  TAG_CYM_TEX:0 "Техасом" #GetTagCYM
@@ -2339,7 +2351,7 @@
  TAG_CYM_CRA:0 "Чаркою" #GetTagCYM
  TAG_CYM_PCJ:0 "Пакахесом" #GetTagCYM
  TAG_CYM_TPA:0 "Тупінамбою" #GetTagCYM
- TAG_CYM_ARW:0 "Араваком" #GetTagCYM
+ TAG_CYM_ARW:0 "Араваками" #GetTagCYM
  TAG_CYM_TID:0 "Тідоре" #GetTagCYM
  TAG_CYM_TER:0 "Тернате" #GetTagCYM
  TAG_CYM_MGD:0 "Магінданао" #GetTagCYM
@@ -2426,7 +2438,7 @@
  TAG_DE_AMG:0 "Арманьяці" #GetTagDE
  TAG_DE_ANH:0 "Ангальті" #GetTagDE
  TAG_DE_ANN:0 "Аннамі" #GetTagDE
- TAG_DE_ANS:0 "Ансбасі" #GetTagDE
+ TAG_DE_ANS:0 "Ансбазі" #GetTagDE
  TAG_DE_ARA:0 "Арагоні" #GetTagDE
  TAG_DE_ARK:0 "Аракані" #GetTagDE
  TAG_DE_ARM:0 "Вірменії" #GetTagDE
@@ -2664,7 +2676,7 @@
  TAG_DE_TRP:0 "Триполі" #GetTagDE
  TAG_DE_TRV:0 "Траванкорі" #GetTagDE
  TAG_DE_TUN:0 "Тунісі" #GetTagDE
- TAG_DE_TUR:0 "Османській Імперії" #GetTagDE
+ TAG_DE_TUR:0 "Османів" #GetTagDE
  TAG_DE_TUS:0 "Тоскані" #GetTagDE
  TAG_DE_TVE:0 "Твері" #GetTagDE
  TAG_DE_TYR:0 "Тайроні" #GetTagDE
@@ -2695,7 +2707,7 @@
  TAG_DE_HJO:0 "Ходзьо" #GetTagDE
  TAG_DE_HSK:0 "Хосокаві" #GetTagDE
  TAG_DE_HTK:0 "Хатакеямі" #GetTagDE
- TAG_DE_IKE:0 "Ікеда" #GetTagDE
+ TAG_DE_IKE:0 "Ікеді" #GetTagDE
  TAG_DE_IMG:0 "Імаґаві" #GetTagDE
  TAG_DE_MAE:0 "Маеда" #GetTagDE
  TAG_DE_MRI:0 "Морі" #GetTagDE
@@ -3008,7 +3020,7 @@
  TAG_DE_HSN:0 "Хісн Кайфі" #GetTagDE
  TAG_DE_BTL:0 "Бітлісі" #GetTagDE
  TAG_DE_AVR:0 "Аварії" #GetTagDE
- TAG_DE_MLK:0 "Карабасі" #GetTagDE
+ TAG_DE_MLK:0 "Карабазі" #GetTagDE
  TAG_DE_SME:0 "Самцхе" #GetTagDE
  TAG_DE_ARL:0 "Ардабілі" #GetTagDE
  TAG_DE_MSY:0 "Мушаші" #GetTagDE
@@ -3098,16 +3110,16 @@
  TAG_DE_LAC:0 "Цоцилі" #GetTagDE
  TAG_DE_KAQ:0 "Какчикелі" #GetTagDE
  TAG_DE_CTM:0 "Чактемалі" #GetTagDE
- TAG_DE_KER:0 "Кересі" #GetTagDE
+ TAG_DE_KER:0 "Кересів" #GetTagDE
  TAG_DE_ZNI:0 "Зуні" #GetTagDE
  TAG_DE_MSC:0 "Мескалеро" #GetTagDE
  TAG_DE_LIP:0 "Ліпані" #GetTagDE
  TAG_DE_CHT:0 "Чорті" #GetTagDE
  TAG_DE_MIS:0 "Мискіто" #GetTagDE
  TAG_DE_TAI:0 "Тайроні" #GetTagDE
- TAG_DE_CNP:0 "Канпечі" #GetTagDE
+ TAG_DE_CNP:0 "Канпечів" #GetTagDE
  TAG_DE_TON:0 "Тоналі" #GetTagDE
- TAG_DE_YAQ:0 "Які" #GetTagDE
+ TAG_DE_YAQ:0 "Яків" #GetTagDE
  TAG_DE_YKT:0 "Йокутах" #GetTagDE
  TAG_DE_CAL:0 "Каліфорнії" #GetTagDE
  TAG_DE_TEX:0 "Техасі" #GetTagDE
@@ -3144,7 +3156,7 @@
  TAG_DE_CRA:0 "Чарці" #GetTagDE
  TAG_DE_PCJ:0 "Пакахесі" #GetTagDE
  TAG_DE_TPA:0 "Тупінамбі" #GetTagDE
- TAG_DE_ARW:0 "Араваку" #GetTagDE
+ TAG_DE_ARW:0 "Араваках" #GetTagDE
  TAG_DE_TID:0 "Тідоре" #GetTagDE
  TAG_DE_TER:0 "Тернате" #GetTagDE
  TAG_DE_MGD:0 "Магінданао" #GetTagDE
@@ -3469,7 +3481,7 @@
  TAG_OMU_TRP:0 "Триполі" #GetTagOMU
  TAG_OMU_TRV:0 "Траванкору" #GetTagOMU
  TAG_OMU_TUN:0 "Тунісу" #GetTagOMU
- TAG_OMU_TUR:0 "Османській Імперії" #GetTagOMU
+ TAG_OMU_TUR:0 "Османам" #GetTagOMU
  TAG_OMU_TUS:0 "Тоскані" #GetTagOMU
  TAG_OMU_TVE:0 "Тверу" #GetTagOMU
  TAG_OMU_TYR:0 "Тайрону" #GetTagOMU
@@ -3500,7 +3512,7 @@
  TAG_OMU_HJO:0 "Ходзьо" #GetTagOMU
  TAG_OMU_HSK:0 "Хосокаві" #GetTagOMU
  TAG_OMU_HTK:0 "Хатакеямі" #GetTagOMU
- TAG_OMU_IKE:0 "Ікеда" #GetTagOMU
+ TAG_OMU_IKE:0 "Ікеді" #GetTagOMU
  TAG_OMU_IMG:0 "Імаґаві" #GetTagOMU
  TAG_OMU_MAE:0 "Маеда" #GetTagOMU
  TAG_OMU_MRI:0 "Морі" #GetTagOMU
@@ -3903,16 +3915,16 @@
  TAG_OMU_LAC:0 "Цоцилю" #GetTagOMU
  TAG_OMU_KAQ:0 "Какчикелі" #GetTagOMU
  TAG_OMU_CTM:0 "Чактемалі" #GetTagOMU
- TAG_OMU_KER:0 "Кересу" #GetTagOMU
+ TAG_OMU_KER:0 "Кересам" #GetTagOMU
  TAG_OMU_ZNI:0 "Зуні" #GetTagOMU
  TAG_OMU_MSC:0 "Мескалеро" #GetTagOMU
  TAG_OMU_LIP:0 "Ліпану" #GetTagOMU
  TAG_OMU_CHT:0 "Чорті" #GetTagOMU
  TAG_OMU_MIS:0 "Мискіто" #GetTagOMU
  TAG_OMU_TAI:0 "Тайроні" #GetTagOMU
- TAG_OMU_CNP:0 "Канпечу" #GetTagOMU
+ TAG_OMU_CNP:0 "Канпечам" #GetTagOMU
  TAG_OMU_TON:0 "Тоналі" #GetTagOMU
- TAG_OMU_YAQ:0 "Які" #GetTagOMU
+ TAG_OMU_YAQ:0 "Якам" #GetTagOMU
  TAG_OMU_YKT:0 "Йокутам" #GetTagOMU
  TAG_OMU_CAL:0 "Каліфорнії" #GetTagOMU
  TAG_OMU_TEX:0 "Техасу" #GetTagOMU
@@ -3949,7 +3961,7 @@
  TAG_OMU_CRA:0 "Чарці" #GetTagOMU
  TAG_OMU_PCJ:0 "Пакахесу" #GetTagOMU
  TAG_OMU_TPA:0 "Тупінамбі" #GetTagOMU
- TAG_OMU_ARW:0 "Араваку" #GetTagOMU
+ TAG_OMU_ARW:0 "Аравакам" #GetTagOMU
  TAG_OMU_TID:0 "Тідоре" #GetTagOMU
  TAG_OMU_TER:0 "Тернате" #GetTagOMU
  TAG_OMU_MGD:0 "Магінданао" #GetTagOMU
@@ -4273,7 +4285,7 @@
  TAG_KLY_TRP:0 "Триполі" #GetTagKLY
  TAG_KLY_TRV:0 "Траванкоре" #GetTagKLY
  TAG_KLY_TUN:0 "Тунісе" #GetTagKLY
- TAG_KLY_TUR:0 "Османська Імперіє" #GetTagKLY
+ TAG_KLY_TUR:0 "Османи" #GetTagKLY
  TAG_KLY_TUS:0 "Тоскано" #GetTagKLY
  TAG_KLY_TVE:0 "Твере" #GetTagKLY
  TAG_KLY_TYR:0 "Тайроне" #GetTagKLY
@@ -4304,7 +4316,7 @@
  TAG_KLY_HJO:0 "Ходзьо" #GetTagKLY
  TAG_KLY_HSK:0 "Хосокаво" #GetTagKLY
  TAG_KLY_HTK:0 "Хатакеямо" #GetTagKLY
- TAG_KLY_IKE:0 "Ікеда" #GetTagKLY
+ TAG_KLY_IKE:0 "Ікедо" #GetTagKLY
  TAG_KLY_IMG:0 "Імаґаво" #GetTagKLY
  TAG_KLY_MAE:0 "Маеда" #GetTagKLY
  TAG_KLY_MRI:0 "Морі" #GetTagKLY
@@ -4707,7 +4719,7 @@
  TAG_KLY_LAC:0 "Цоцилю" #GetTagKLY
  TAG_KLY_KAQ:0 "Какчикелі" #GetTagKLY
  TAG_KLY_CTM:0 "Чактемалі" #GetTagKLY
- TAG_KLY_KER:0 "Кересе" #GetTagKLY
+ TAG_KLY_KER:0 "Кереси" #GetTagKLY
  TAG_KLY_ZNI:0 "Зуні" #GetTagKLY
  TAG_KLY_MSC:0 "Мескалеро" #GetTagKLY
  TAG_KLY_LIP:0 "Ліпане" #GetTagKLY
@@ -4716,7 +4728,7 @@
  TAG_KLY_TAI:0 "Тайроно" #GetTagKLY
  TAG_KLY_CNP:0 "Канпече" #GetTagKLY
  TAG_KLY_TON:0 "Тонало" #GetTagKLY
- TAG_KLY_YAQ:0 "Які" #GetTagKLY
+ TAG_KLY_YAQ:0 "Яки" #GetTagKLY
  TAG_KLY_YKT:0 "Йокути" #GetTagKLY
  TAG_KLY_CAL:0 "Каліфорніє" #GetTagKLY
  TAG_KLY_TEX:0 "Техасе" #GetTagKLY
@@ -4753,7 +4765,7 @@
  TAG_KLY_CRA:0 "Чарко" #GetTagKLY
  TAG_KLY_PCJ:0 "Пакахесе" #GetTagKLY
  TAG_KLY_TPA:0 "Тупінамбо" #GetTagKLY
- TAG_KLY_ARW:0 "Араваку" #GetTagKLY
+ TAG_KLY_ARW:0 "Араваки" #GetTagKLY
  TAG_KLY_TID:0 "Тідоре" #GetTagKLY
  TAG_KLY_TER:0 "Тернате" #GetTagKLY
  TAG_KLY_MGD:0 "Магінданао" #GetTagKLY
