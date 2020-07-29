@@ -474,7 +474,7 @@
  SECONDARY_RELIGION_IS:0 "§Y$WHO$§! має §Y$NAME$§! за вторинну релігію"
  SECONDARY_RELIGION_ISNOT:0 "§Y$WHO$§! не має §Y$NAME$§! за вторинну релігію"
  SECONDARY_RELIGION_PROV_IS:0 "§Y$WHO$§! має §Y$NAME$§! за синкретичну віру"
- SECONDARY_RELIGION_PROV_ISNOT:0 "§Y$WHO$§ не має §Y$NAME$§! за синкретичну віру"
+ SECONDARY_RELIGION_PROV_ISNOT:0 "§Y$WHO$§! не має §Y$NAME$§! за синкретичну віру"
  HAS_MATCHING_RELIGION:0 "§Y$REL$§! є релігією, або синкретичною вірою держави §Y$WHO$§!"
  HAS_NOT_MATCHING_RELIGION:0 "§Y$REL$§! НЕ є релігією, або синкретичною вірою держави §Y$WHO$§!"
  HAS_MATCHING_RELIGION_COUNTRY:1 "Релігія держави §Y$WHO$§! – синкретична віра або гармонізована релігія – збігається з основною релігією або синкретичною вірою держави §Y$OTHER$§!"
