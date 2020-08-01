@@ -1764,7 +1764,7 @@
  TAG_CYM_LXA:0 "Лан-Сангом" #GetTagCYM
  TAG_CYM_MAD:0 "Мадурай" #GetTagCYM
  TAG_CYM_MAG:0 "Магдебургом" #GetTagCYM
- TAG_CYM_MAI:0 "Майнцом" #GetTagCYM
+ TAG_CYM_MAI:0 "Майнцем" #GetTagCYM
  TAG_CYM_MAL:0 "Малі" #GetTagCYM
  TAG_CYM_MAM:0 "Мамлюками" #GetTagCYM
  TAG_CYM_MAN:0 "Мантуєю" #GetTagCYM
@@ -1808,7 +1808,7 @@
  TAG_CYM_ORI:0 "Оріссою" #GetTagCYM
  TAG_CYM_ORL:0 "Орлеаном" #GetTagCYM
  TAG_CYM_OYO:0 "Ойо" #GetTagCYM
- TAG_CYM_PAL:0 "Пфальцом" #GetTagCYM
+ TAG_CYM_PAL:0 "Пфальцем" #GetTagCYM
  TAG_CYM_PAP:0 "Папською державою" #GetTagCYM
  TAG_CYM_PAR:0 "Пармою" #GetTagCYM
  TAG_CYM_PAT:0 "Паттані" #GetTagCYM
