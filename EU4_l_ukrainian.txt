@@ -3416,7 +3416,7 @@
  UNIT_DESTINATION_LABEL:0 "§YПункт призначення§!"
  UNIT_DESTINATION_TEXT:0 "Підрозділ пересувається в провінцію §Y$LOCATION$§!, і прибуде туди $DATE|Y$."
  MDEATH_PU_BREAKS_PRESTIGE:0 "$OVERLORD|Y$ має позитивний престиж"
- MDEATH_PU_BREAKS_OPINION:0 "$SUBJECT|Y$ має позитивну думку про державу §$OVERLORD|Y$"
+ MDEATH_PU_BREAKS_OPINION:0 "$SUBJECT|Y$ має позитивну думку про державу $OVERLORD|Y$"
  MMDEATH_UNION_INHERIT:0 "Шанс держави $OVERLORD|Y$ успадкувати державу $SUBJECT|Y$: §Y$VAL$%§!"
  MDEATH_INHERIT_STABILITY:0 "Стабільність: "
  MDEATH_INHERIT_CULTURE:0 "Спільна культурна група: "
