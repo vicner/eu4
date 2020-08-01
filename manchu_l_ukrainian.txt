@@ -361,9 +361,9 @@
  desc_petty_personality:0 "Цей правитель – дріб'язковий. Навіть найтривіальніша дурниця розбурхає такого правителя, і кожна річ, якою б нікчемною вона не була, викликатиме у нього заздрість."
  petty_personality_die_desc:0 "[Root.Monarch.GetHerHisCap] дріб'язковість і заздрість не принесли нашій династії нічого, крім хвороби."
  #Scripted Loc
- plural_country_name:0 "[This.GetAdjective] [This.GovernmentName]"
+ plural_country_name:0 "[This.GetAdjective]. [This.GovernmentName]"
  already_has_proper_name:0 "[This.GetName]"
- plural_country_name_CAP:0 "[This.GetAdjective] [This.GovernmentName]"
+ plural_country_name_CAP:0 "[This.GetAdjective]. [This.GovernmentName]"
  string_noblemen:0 "дворянин"
  string_members_nobility:0 "представник дворянства"
  string_politicians:0 "політик"
