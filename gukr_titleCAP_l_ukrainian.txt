@@ -200,6 +200,7 @@
  MAYOR_OGO_CAP:0 "Мера" #GetTitleOGO_CAP
  ILKHAN_OGO_CAP:0 "Ільхана" #GetTitleOGO_CAP
  SYNTH_RULER_OGO_CAP:0 "Спорудника" #GetTitleOGO_CAP
+ SYNTH_RULER_fem_OGO_CAP:0 "Спорудниці" #GetTitleOGO_CAP
  ###нa запитання Дaти кoму?
  SPEAKER_OMU_CAP:0 "Спікеру" #GetTitleOMU_CAP
  CHANCELOR_OMU_CAP:0 "Канцлеру" #GetTitleOMU_CAP
@@ -401,6 +402,7 @@
  MAYOR_OMU_CAP:0 "Меру" #GetTitleOMU_CAP
  ILKHAN_OMU_CAP:0 "Ільхану" #GetTitleOMU_CAP
  SYNTH_RULER_OMU_CAP:0 "Споруднику" #GetTitleOMU_CAP
+ SYNTH_RULER_fem_OMU_CAP:0 "Спорудниці" #GetTitleOMU_CAP
  ###нa запитання Виконано ким?
  SPEAKER_KYM_CAP:0 "Спікером" #GetTitleKYM_CAP
  CHANCELOR_KYM_CAP:0 "Канцлером" #GetTitleKYM_CAP
@@ -603,6 +605,7 @@
  MAYOR_KYM_CAP:0 "Мером" #GetTitleKYM_CAP
  ILKHAN_KYM_CAP:0 "Ільханом" #GetTitleKYM_CAP
  SYNTH_RULER_KYM_CAP:0 "Спорудником" #GetTitleKYM_CAP
+ SYNTH_RULER_fem_KYM_CAP:0 "Спорудницею" #GetTitleKYM_CAP
  ###нa запитання Хто?
  SPEAKER_KHTO_CAP:0 "Спікер" #GetTitleKHTO_CAP
  CHANCELOR_KHTO_CAP:0 "Канцлер" #GetTitleKHTO_CAP
@@ -805,6 +808,7 @@
  MAYOR_KHTO_CAP:0 "Мер" #GetTitleKHTO_CAP
  ILKHAN_KHTO_CAP:0 "Ільхан" #GetTitleKHTO_CAP
  SYNTH_RULER_KHTO_CAP:0 "Спорудник" #GetTitleKHTO_CAP
+ SYNTH_RULER_fem_KHTO_CAP:0 "Спорудниця" #GetTitleKHTO_CAP
  ###нa запитання Про кого?
  SPEAKER_PRO_CAP:0 "Спікера" #GetTitlePRO_CAP
  CHANCELOR_PRO_CAP:0 "Канцлера" #GetTitlePRO_CAP
@@ -1007,6 +1011,7 @@
  MAYOR_PRO_CAP:0 "Мера" #GetTitlePRO_CAP
  ILKHAN_PRO_CAP:0 "Ільхана" #GetTitlePRO_CAP
  SYNTH_RULER_PRO_CAP:0 "Спорудника" #GetTitlePRO_CAP
+ SYNTH_RULER_fem_PRO_CAP:0 "Спорудницю" #GetTitlePRO_CAP
  ###Кличний відмінок
  SPEAKER_KLY_CAP:0 "Спікере" #GetTitleKLY_CAP
  CHANCELOR_KLY_CAP:0 "Канцлере" #GetTitleKLY_CAP
@@ -1208,6 +1213,7 @@
  MAYOR_KLY_CAP:0 "Мере" #GetTitleKLY_CAP
  ILKHAN_KLY_CAP:0 "Ільхане" #GetTitleKLY_CAP
  SYNTH_RULER_KLY_CAP:0 "Споруднику" #GetTitleKLY_CAP
+ SYNTH_RULER_fem_KLY_CAP:0 "Споруднице" #GetTitleKLY_CAP
  ########Жіночі титули########
  ###Ha запитання Хто?
  DUCHESS_KHTO_CAP:0 "Герцогиня" #GetTitleKHTO_CAP
