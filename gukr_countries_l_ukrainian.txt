@@ -11,7 +11,8 @@
  pryjmennyk_u_cap:0 "У" ##Get_UVDO_CAP
  pryjmennyk_v_cap:0 "В" ##Get_UVDO_CAP
  pryjmennyk_do_cap:0 "До" ##Get_UVDO_CAP
- #Держави, що" відповідають на запитання "Немає кого?
+ 
+ #Держави, що" відповідають на запитання "Немає кого?"
  TAG_OGO_DYN:0 "держави [Root.GetName]" #GetTagOGO
  TAG_OGO_ADA:0 "Адала" #GetTagOGO
  TAG_OGO_ADE:0 "Адена" #GetTagOGO
@@ -1764,7 +1765,7 @@
  TAG_CYM_LXA:0 "Лан-Сангом" #GetTagCYM
  TAG_CYM_MAD:0 "Мадурай" #GetTagCYM
  TAG_CYM_MAG:0 "Магдебургом" #GetTagCYM
- TAG_CYM_MAI:0 "Майнцем" #GetTagCYM
+ TAG_CYM_MAI:0 "Майнцом" #GetTagCYM
  TAG_CYM_MAL:0 "Малі" #GetTagCYM
  TAG_CYM_MAM:0 "Мамлюками" #GetTagCYM
  TAG_CYM_MAN:0 "Мантуєю" #GetTagCYM
@@ -1808,7 +1809,7 @@
  TAG_CYM_ORI:0 "Оріссою" #GetTagCYM
  TAG_CYM_ORL:0 "Орлеаном" #GetTagCYM
  TAG_CYM_OYO:0 "Ойо" #GetTagCYM
- TAG_CYM_PAL:0 "Пфальцем" #GetTagCYM
+ TAG_CYM_PAL:0 "Пфальцом" #GetTagCYM
  TAG_CYM_PAP:0 "Папською державою" #GetTagCYM
  TAG_CYM_PAR:0 "Пармою" #GetTagCYM
  TAG_CYM_PAT:0 "Паттані" #GetTagCYM
@@ -4036,6 +4037,7 @@
  TAG_OMU_LIB:0 "Ліберталії" #GetTagOMU
  TAG_OMU_TOR:0 "Тортузі" #GetTagOMU
  TAG_OMU_MRK:0 "Марракешу" #GetTagOMU
+
  TAG_KLY_DYN:0 "державо [Root.GetName]" #GetTagKLY
  TAG_KLY_ADA:0 "Адале" #GetTagKLY
  TAG_KLY_ADE:0 "Адене" #GetTagKLY
@@ -4840,3 +4842,250 @@
  TAG_KLY_LIB:0 "Ліберталіє" #GetTagKLY
  TAG_KLY_TOR:0 "Тортуго" #GetTagKLY
  TAG_KLY_MRK:0 "Марракеше" #GetTagKLY
+ #Вер. 1.30""
+ #Держави, що" відповідають на запитання "Немає кого?
+ TAG_OGO_GNV:0 "Женеви" #GetTagOGO
+ TAG_OGO_TTL:0 "Трьох ліг" #GetTagOGO
+ TAG_OGO_OPL:0 "Ополя" #GetTagOGO
+ TAG_OGO_GLG:0 "Ґлоґува" #GetTagOGO
+ TAG_OGO_LOT:0 "Лотарингії" #GetTagOGO
+ TAG_OGO_BLG:0 "Болоньї" #GetTagOGO
+ TAG_OGO_BRG:0 "Берга" #GetTagOGO
+ TAG_OGO_CLI:0 "Целе" #GetTagOGO
+ TAG_OGO_HRZ:0 "Герцеговини" #GetTagOGO
+ TAG_OGO_MLH:0 "Мюлуза" #GetTagOGO
+ TAG_OGO_PDV:0 "Падуї" #GetTagOGO
+ TAG_OGO_SPL:0 "Сполето" #GetTagOGO
+ TAG_OGO_SZO:0 "Салуццо" #GetTagOGO
+ TAG_OGO_VRN:0 "Верони" #GetTagOGO
+ TAG_OGO_UBV:0 "Мюнхена" #GetTagOGO
+ TAG_OGO_LBV:0 "Ландсгута" #GetTagOGO
+ TAG_OGO_ING:0 "Інгольштадта" #GetTagOGO
+ TAG_OGO_PSS:0 "Пассау" #GetTagOGO
+ TAG_OGO_MBZ:0 "Брегенца" #GetTagOGO
+ TAG_OGO_KNZ:0 "Констанца" #GetTagOGO
+ TAG_OGO_ROT:0 "Ротенбурга" #GetTagOGO
+ TAG_OGO_BYT:0 "Байройта" #GetTagOGO
+ TAG_OGO_REG:0 "Регенсбурга" #GetTagOGO
+ TAG_OGO_WOL:0 "Вольгаста" #GetTagOGO
+ TAG_OGO_STE:0 "Щетина" #GetTagOGO
+ TAG_OGO_GOS:0 "Гослара" #GetTagOGO
+ TAG_OGO_SOR:0 "Лужиці" #GetTagOGO
+ TAG_OGO_RUG:0 "Рюґена" #GetTagOGO
+ TAG_OGO_FKN:0 "Франконії" #GetTagOGO
+ TAG_OGO_SWA:0 "Швабії" #GetTagOGO
+ TAG_OGO_TNT:0 "Трента" #GetTagOGO
+ TAG_OGO_BAM:0 "Бамберга" #GetTagOGO
+ TAG_OGO_RUP:0 "Руппіна" #GetTagOGO
+ TAG_OGO_LPP:0 "Ліппе" #GetTagOGO
+ TAG_OGO_PAD:0 "Падерборна" #GetTagOGO
+ TAG_OGO_CLB:0 "Каленберга" #GetTagOGO
+ TAG_OGO_DWT:0 "Донауверта" #GetTagOGO
+ TAG_OGO_OSN:0 "Оснабрюка" #GetTagOGO
+ TAG_OGO_COB:0 "Кобурга" #GetTagOGO
+ TAG_OGO_PGA:0 "Перуджі" #GetTagOGO
+ #Держави, що" відповідають на запитання "Куди?
+ TAG_KUDY_GNV:0 "Женеву" #GetTagKUDY
+ TAG_KUDY_TTL:0 "Три ліги" #GetTagKUDY
+ TAG_KUDY_OPL:0 "Ополе" #GetTagKUDY
+ TAG_KUDY_GLG:0 "Ґлоґув" #GetTagKUDY
+ TAG_KUDY_LOT:0 "Лотарингію" #GetTagKUDY
+ TAG_KUDY_BLG:0 "Болонью" #GetTagKUDY
+ TAG_KUDY_BRG:0 "Берг" #GetTagKUDY
+ TAG_KUDY_CLI:0 "Целе" #GetTagKUDY
+ TAG_KUDY_HRZ:0 "Герцеговину" #GetTagKUDY
+ TAG_KUDY_MLH:0 "Мюлуз" #GetTagKUDY
+ TAG_KUDY_PDV:0 "Падую" #GetTagKUDY
+ TAG_KUDY_SPL:0 "Сполето" #GetTagKUDY
+ TAG_KUDY_SZO:0 "Салуццо" #GetTagKUDY
+ TAG_KUDY_VRN:0 "Верону" #GetTagKUDY
+ TAG_KUDY_UBV:0 "Мюнхен" #GetTagKUDY
+ TAG_KUDY_LBV:0 "Ландсгут" #GetTagKUDY
+ TAG_KUDY_ING:0 "Інгольштадт" #GetTagKUDY
+ TAG_KUDY_PSS:0 "Пассау" #GetTagKUDY
+ TAG_KUDY_MBZ:0 "Брегенц" #GetTagKUDY
+ TAG_KUDY_KNZ:0 "Констанц" #GetTagKUDY
+ TAG_KUDY_ROT:0 "Ротенбург" #GetTagKUDY
+ TAG_KUDY_BYT:0 "Байройт" #GetTagKUDY
+ TAG_KUDY_REG:0 "Регенсбург" #GetTagKUDY
+ TAG_KUDY_WOL:0 "Вольгаст" #GetTagKUDY
+ TAG_KUDY_STE:0 "Щетин" #GetTagKUDY
+ TAG_KUDY_GOS:0 "Гослар" #GetTagKUDY
+ TAG_KUDY_SOR:0 "Лужицю" #GetTagKUDY
+ TAG_KUDY_RUG:0 "Рюґен" #GetTagKUDY
+ TAG_KUDY_FKN:0 "Франконію" #GetTagKUDY
+ TAG_KUDY_SWA:0 "Швабію" #GetTagKUDY
+ TAG_KUDY_TNT:0 "Трент" #GetTagKUDY
+ TAG_KUDY_BAM:0 "Бамберг" #GetTagKUDY
+ TAG_KUDY_RUP:0 "Руппін" #GetTagKUDY
+ TAG_KUDY_LPP:0 "Ліппе" #GetTagKUDY
+ TAG_KUDY_PAD:0 "Падерборн" #GetTagKUDY
+ TAG_KUDY_CLB:0 "Каленберг" #GetTagKUDY
+ TAG_KUDY_DWT:0 "Донауверт" #GetTagKUDY
+ TAG_KUDY_OSN:0 "Оснабрюк" #GetTagKUDY
+ TAG_KUDY_COB:0 "Кобург" #GetTagKUDY
+ TAG_KUDY_PGA:0 "Перуджу" #GetTagKUDY
+ #Держави, що" відповідають на запитання "Чим?
+ TAG_CYM_GNV:0 "Женевою" #GetTagCYM
+ TAG_CYM_TTL:0 "Трьома лігами" #GetTagCYM
+ TAG_CYM_OPL:0 "Ополе" #GetTagCYM
+ TAG_CYM_GLG:0 "Ґлоґувом" #GetTagCYM
+ TAG_CYM_LOT:0 "Лотарингією" #GetTagCYM
+ TAG_CYM_BLG:0 "Болоньєю" #GetTagCYM
+ TAG_CYM_BRG:0 "Бергом" #GetTagCYM
+ TAG_CYM_CLI:0 "Целе" #GetTagCYM
+ TAG_CYM_HRZ:0 "Герцеговиною" #GetTagCYM
+ TAG_CYM_MLH:0 "Мюлузом" #GetTagCYM
+ TAG_CYM_PDV:0 "Падуєю" #GetTagCYM
+ TAG_CYM_SPL:0 "Сполето" #GetTagCYM
+ TAG_CYM_SZO:0 "Салуццо" #GetTagCYM
+ TAG_CYM_VRN:0 "Вероною" #GetTagCYM
+ TAG_CYM_UBV:0 "Мюнхеном" #GetTagCYM
+ TAG_CYM_LBV:0 "Ландсгутом" #GetTagCYM
+ TAG_CYM_ING:0 "Інгольштадтом" #GetTagCYM
+ TAG_CYM_PSS:0 "Пассау" #GetTagCYM
+ TAG_CYM_MBZ:0 "Брегенцом" #GetTagCYM
+ TAG_CYM_KNZ:0 "Констанцом" #GetTagCYM
+ TAG_CYM_ROT:0 "Ротенбургом" #GetTagCYM
+ TAG_CYM_BYT:0 "Байройтом" #GetTagCYM
+ TAG_CYM_REG:0 "Регенсбургом" #GetTagCYM
+ TAG_CYM_WOL:0 "Вольгастом" #GetTagCYM
+ TAG_CYM_STE:0 "Щетином" #GetTagCYM
+ TAG_CYM_GOS:0 "Госларом" #GetTagCYM
+ TAG_CYM_SOR:0 "Лужицею" #GetTagCYM
+ TAG_CYM_RUG:0 "Рюґеном" #GetTagCYM
+ TAG_CYM_FKN:0 "Франконією" #GetTagCYM
+ TAG_CYM_SWA:0 "Швабією" #GetTagCYM
+ TAG_CYM_TNT:0 "Трентом" #GetTagCYM
+ TAG_CYM_BAM:0 "Бамбергом" #GetTagCYM
+ TAG_CYM_RUP:0 "Руппіном" #GetTagCYM
+ TAG_CYM_LPP:0 "Ліппе" #GetTagCYM
+ TAG_CYM_PAD:0 "Падерборном" #GetTagCYM
+ TAG_CYM_CLB:0 "Каленбергом" #GetTagCYM
+ TAG_CYM_DWT:0 "Донаувертом" #GetTagCYM
+ TAG_CYM_OSN:0 "Оснабрюком" #GetTagCYM
+ TAG_CYM_COB:0 "Кобургом" #GetTagCYM
+ TAG_CYM_PGA:0 "Перуджою" #GetTagCYM
+ #Держави, що" відповідають на запитання "Де?
+ TAG_DE_GNV:0 "Женеві" #GetTagDE
+ TAG_DE_TTL:0 "Трьох лігах" #GetTagDE
+ TAG_DE_OPL:0 "Ополі" #GetTagDE
+ TAG_DE_GLG:0 "Ґлоґуві" #GetTagDE
+ TAG_DE_LOT:0 "Лотарингії" #GetTagDE
+ TAG_DE_BLG:0 "Болоньї" #GetTagDE
+ TAG_DE_BRG:0 "Бергу" #GetTagDE
+ TAG_DE_CLI:0 "Целе" #GetTagDE
+ TAG_DE_HRZ:0 "Герцеговині" #GetTagDE
+ TAG_DE_MLH:0 "Мюлузі" #GetTagDE
+ TAG_DE_PDV:0 "Падуї" #GetTagDE
+ TAG_DE_SPL:0 "Сполето" #GetTagDE
+ TAG_DE_SZO:0 "Салуццо" #GetTagDE
+ TAG_DE_VRN:0 "Вероні" #GetTagDE
+ TAG_DE_UBV:0 "Мюнхені" #GetTagDE
+ TAG_DE_LBV:0 "Ландсгуті" #GetTagDE
+ TAG_DE_ING:0 "Інгольштадті" #GetTagDE
+ TAG_DE_PSS:0 "Пассау" #GetTagDE
+ TAG_DE_MBZ:0 "Брегенці" #GetTagDE
+ TAG_DE_KNZ:0 "Констанці" #GetTagDE
+ TAG_DE_ROT:0 "Ротенбурзі" #GetTagDE
+ TAG_DE_BYT:0 "Байройті" #GetTagDE
+ TAG_DE_REG:0 "Регенсбурзі" #GetTagDE
+ TAG_DE_WOL:0 "Вольгасті" #GetTagDE
+ TAG_DE_STE:0 "Щетині" #GetTagDE
+ TAG_DE_GOS:0 "Госларі" #GetTagDE
+ TAG_DE_SOR:0 "Лужиці" #GetTagDE
+ TAG_DE_RUG:0 "Рюґені" #GetTagDE
+ TAG_DE_FKN:0 "Франконії" #GetTagDE
+ TAG_DE_SWA:0 "Швабії" #GetTagDE
+ TAG_DE_TNT:0 "Тренті" #GetTagDE
+ TAG_DE_BAM:0 "Бамберзі" #GetTagDE
+ TAG_DE_RUP:0 "Руппіні" #GetTagDE
+ TAG_DE_LPP:0 "Ліппе" #GetTagDE
+ TAG_DE_PAD:0 "Падерборні" #GetTagDE
+ TAG_DE_CLB:0 "Каленберзі" #GetTagDE
+ TAG_DE_DWT:0 "Донауверті" #GetTagDE
+ TAG_DE_OSN:0 "Оснабрюкі" #GetTagDE
+ TAG_DE_COB:0 "Кобурзі" #GetTagDE
+ TAG_DE_PGA:0 "Перуджі" #GetTagDE
+ #Держави, що" відповідають на запитання "Кому?
+ TAG_OMU_GNV:0 "Женеві" #GetTagOMU
+ TAG_OMU_TTL:0 "Трьом лігам" #GetTagOMU
+ TAG_OMU_OPL:0 "Ополю" #GetTagOMU
+ TAG_OMU_GLG:0 "Ґлоґуву" #GetTagOMU
+ TAG_OMU_LOT:0 "Лотарингії" #GetTagOMU
+ TAG_OMU_BLG:0 "Болоньї" #GetTagOMU
+ TAG_OMU_BRG:0 "Бергу" #GetTagOMU
+ TAG_OMU_CLI:0 "Целе" #GetTagOMU
+ TAG_OMU_HRZ:0 "Герцеговині" #GetTagOMU
+ TAG_OMU_MLH:0 "Мюлузу" #GetTagOMU
+ TAG_OMU_PDV:0 "Падуї" #GetTagOMU
+ TAG_OMU_SPL:0 "Сполето" #GetTagOMU
+ TAG_OMU_SZO:0 "Салуццо" #GetTagOMU
+ TAG_OMU_VRN:0 "Вероні" #GetTagOMU
+ TAG_OMU_UBV:0 "Мюнхену" #GetTagOMU
+ TAG_OMU_LBV:0 "Ландсгуту" #GetTagOMU
+ TAG_OMU_ING:0 "Інгольштадту" #GetTagOMU
+ TAG_OMU_PSS:0 "Пассау" #GetTagOMU
+ TAG_OMU_MBZ:0 "Брегенцу" #GetTagOMU
+ TAG_OMU_KNZ:0 "Констанцу" #GetTagOMU
+ TAG_OMU_ROT:0 "Ротенбургу" #GetTagOMU
+ TAG_OMU_BYT:0 "Байройту" #GetTagOMU
+ TAG_OMU_REG:0 "Регенсбургу" #GetTagOMU
+ TAG_OMU_WOL:0 "Вольгасту" #GetTagOMU
+ TAG_OMU_STE:0 "Щетину" #GetTagOMU
+ TAG_OMU_GOS:0 "Гослару" #GetTagOMU
+ TAG_OMU_SOR:0 "Лужиці" #GetTagOMU
+ TAG_OMU_RUG:0 "Рюґену" #GetTagOMU
+ TAG_OMU_FKN:0 "Франконії" #GetTagOMU
+ TAG_OMU_SWA:0 "Швабії" #GetTagOMU
+ TAG_OMU_TNT:0 "Тренту" #GetTagOMU
+ TAG_OMU_BAM:0 "Бамбергу" #GetTagOMU
+ TAG_OMU_RUP:0 "Руппіну" #GetTagOMU
+ TAG_OMU_LPP:0 "Ліппе" #GetTagOMU
+ TAG_OMU_PAD:0 "Падерборну" #GetTagOMU
+ TAG_OMU_CLB:0 "Каленбергу" #GetTagOMU
+ TAG_OMU_DWT:0 "Донауверту" #GetTagOMU
+ TAG_OMU_OSN:0 "Оснабрюку" #GetTagOMU
+ TAG_OMU_COB:0 "Кобургу" #GetTagOMU
+ TAG_OMU_PGA:0 "Перуджі" #GetTagOMU
+ #Держави "у Кличному відмінку"
+ TAG_KLY_GNV:0 "Женево" #GetTagKLY
+ TAG_KLY_TTL:0 "Три ліги" #GetTagKLY
+ TAG_KLY_OPL:0 "Ополе" #GetTagKLY
+ TAG_KLY_GLG:0 "Ґлоґуве" #GetTagKLY
+ TAG_KLY_LOT:0 "Лотарингіє" #GetTagKLY
+ TAG_KLY_BLG:0 "Болоньє" #GetTagKLY
+ TAG_KLY_BRG:0 "Бергу" #GetTagKLY
+ TAG_KLY_CLI:0 "Целе" #GetTagKLY
+ TAG_KLY_HRZ:0 "Герцеговино" #GetTagKLY
+ TAG_KLY_MLH:0 "Мюлузе" #GetTagKLY
+ TAG_KLY_PDV:0 "Падує" #GetTagKLY
+ TAG_KLY_SPL:0 "Сполето" #GetTagKLY
+ TAG_KLY_SZO:0 "Салуццо" #GetTagKLY
+ TAG_KLY_VRN:0 "Вероно" #GetTagKLY
+ TAG_KLY_UBV:0 "Мюнхене" #GetTagKLY
+ TAG_KLY_LBV:0 "Ландсгуте" #GetTagKLY
+ TAG_KLY_ING:0 "Інгольштадте" #GetTagKLY
+ TAG_KLY_PSS:0 "Пассау" #GetTagKLY
+ TAG_KLY_MBZ:0 "Брегенце" #GetTagKLY
+ TAG_KLY_KNZ:0 "Констанце" #GetTagKLY
+ TAG_KLY_ROT:0 "Ротенбургу" #GetTagKLY
+ TAG_KLY_BYT:0 "Байройте" #GetTagKLY
+ TAG_KLY_REG:0 "Регенсбургу" #GetTagKLY
+ TAG_KLY_WOL:0 "Вольгасте" #GetTagKLY
+ TAG_KLY_STE:0 "Щетине" #GetTagKLY
+ TAG_KLY_GOS:0 "Госларе" #GetTagKLY
+ TAG_KLY_SOR:0 "Лужице" #GetTagKLY
+ TAG_KLY_RUG:0 "Рюґене" #GetTagKLY
+ TAG_KLY_FKN:0 "Франконіє" #GetTagKLY
+ TAG_KLY_SWA:0 "Швабіє" #GetTagKLY
+ TAG_KLY_TNT:0 "Тренте" #GetTagKLY
+ TAG_KLY_BAM:0 "Бамберге" #GetTagKLY
+ TAG_KLY_RUP:0 "Руппіне" #GetTagKLY
+ TAG_KLY_LPP:0 "Ліппе" #GetTagKLY
+ TAG_KLY_PAD:0 "Падерборне" #GetTagKLY
+ TAG_KLY_CLB:0 "Каленберге" #GetTagKLY
+ TAG_KLY_DWT:0 "Донауверте" #GetTagKLY
+ TAG_KLY_OSN:0 "Оснабрюку" #GetTagKLY
+ TAG_KLY_COB:0 "Кобургу" #GetTagKLY
+ TAG_KLY_PGA:0 "Перуджо" #GetTagKLY

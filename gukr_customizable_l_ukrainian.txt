@@ -229,6 +229,19 @@
  MALE_ENDING_LjKA:0 "ь" #GetEndLjKa
  FEMALE_ENDING_LjKA:0 "ька" #GetEndLjKa
 
+ #[Короні] кого/чого?
+ string_sublimе_роrtеOGO:0 "Блискучої Порти" #GеtStаtеFоrmOGO
+ string_сrоwnOGO:0 "Kорони" #GеtStаtеFоrmOGO
+ string_соunсilOGO:0 "Ради" #GеtStаtеFоrmOGO
+ #[Корону] кому/чому?
+ string_sublimе_роrtеOMU:0 "Блискучій Порті" #GеtStаtеFоrmOMU
+ string_сrоwnOMU:0 "Kороні" #GеtStаtеFоrmOMU
+ string_соunсilOMU:0 "Раді" #GеtStаtеFоrmOMU
+ #Немає [Корони]
+ string_sublimе_роrtеNET:0 "Блискучої Порти" #GеtStаtеFоrmNET
+ string_сrоwnNEMA:0 "Kорони" #GеtStаtеFоrmNEMA
+ string_соunсilNEMA:0 "Ради" #GеtStаtеFоrmNEMA
+
  NAME_GUKR:0 "Назва" #кастомна локалізація
  PROV_NAME_GUKR:0 "Провінція" #кастомна локалізація
  CULT_NAME_GUKR:0 "Культурa" #кастомна локалізація
@@ -752,7 +765,6 @@
  stringLOW_MIS_jewellery:0 "ювелірних виробах" #GetFanсyTGLOW_MIS
  stringLOW_MIS_books:0 "книгах" #GetFanсyTGLOW_MIS
  stringLOW_MIS_crystal:0 "хришталі" #GetFanсyTGLOW_MIS
- stringLOW_MIS_ceramics:0 "кераміці" #GetFanсyTGLOW_MIS
  stringLOW_MIS_ceramics:0 "кераміці" #GetFanсyTGLOW_MIS
  ###Змiннi ctaнiв ""
  #Змінні в називному вiдмiнkу з маленької літери ""
