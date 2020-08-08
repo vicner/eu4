@@ -1405,7 +1405,7 @@
  free_cities.2.d:1 "[Root.GetName] більше не є вільним містом Священної Римської Імперії. Міська влада була засуджена за зловживання владою і неповагу до імперських установ та втратила всі привілеї, пов'язані з титулом, який їм було колись надано."
  free_cities.2.a:1 "Сумно."
  free_cities.3.t:1 "Вила та смолоскипи на вулицях міста [Root.Capital.GetName]"
- free_cities.3.d:1 "The discontent and anonymity between the lower classes and the rulers of the city has brought us to the brink of civil war. We are ill-prepared to face a full-fledged rebellion, and many members of the upper classes are urging the city council to take the matter to the [Emperor.Monarch.GetTitle], to beg the [Emperor.Monarch.GetTitle] himself for any help he is able to provide. Good strong men and gold are what we need most to end the fires of rebellion that smolder the streets of [Root.Capital.GetName].
+ free_cities.3.d:1 "The discontent and anonymity between the lower classes and the rulers of the city has brought us to the brink of civil war. We are ill-prepared to face a full-fledged rebellion, and many members of the upper classes are urging the city council to take the matter to the [Emperor.Monarch.GetTitle], to beg the [Emperor.Monarch.GetTitle] himself for any help he is able to provide. Good strong men and gold are what we need most to end the fires of rebellion that smolder the streets of [Root.Capital.GetName]."
  free_cities.3.a:1 "Попросити допомоги в імператора."
  free_cities.3.b:1 "Нашкребти все, що у нас є, і спробувати впоратися своїми силами."
  free_cities.4.t:1 "The Free City of [From.GetName] Begs for Our Help"
@@ -1634,7 +1634,7 @@
  GOTO:0 "Перейти"
  MOVE_BLOCKED_BY_FORT_IN_PROVINCE:0 "§RРух заблоковано через ворожу фортецю в провінції $PROV$§!"
  MOVE_BLOCKED_BY_FORT:0 "§RРух по суші блокує ворожа фортеця.§!"
- MOVE_CANT_RETREAT_FROM_COMBAT:0 "У битві, і не може залишити її протягом $VAL|Y$ днів!
+ MOVE_CANT_RETREAT_FROM_COMBAT:0 "У битві, і не може залишити її протягом $VAL|Y$ днів!"
  PROVINCE_IN_FORT_ZONE_OF_CONTROL:2 "§GЗнаходиться в зоні контролю вашої фортеці $NAME$.§!"
  PROVINCE_IN_HOSTILE_FORT_ZONE_OF_CONTROL:2 "Зона контролю фортеці $NAME|Y$, яка належить ворожій §R$HOSTILE|R$ій§! державі."
  HAS_CAPITAL_FORT:0 "Столиця має фортецю."

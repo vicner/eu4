@@ -1,5 +1,5 @@
 ﻿l_ukrainian:
- ###нa запитання Немає кoгo? 
+ ###нa запитання Немає кoгo? "" 
  SPEAKER_OGO:0 "спікера" #GetTitleOGO
  CHANCELOR_OGO:0 "канцлера" #GetTitleOGO
  PRESIDENT_OGO:0 "президента" #GetTitleOGO
@@ -200,7 +200,8 @@
  MAYOR_OGO:0 "мера" #GetTitleOGO
  ILKHAN_OGO:0 "ільхана" #GetTitleOGO
  SYNTH_RULER_OGO:0 "спорудника" #GetTitleOGO
- ###нa запитання дaть кoму? 
+ SYNTH_RULER_fem_OGO:0 "спорудниці" #GetTitleOGO
+ ###нa запитання Дaти кoму? "" 
  SPEAKER_OMU:0 "спікеру" #GetTitleOMU
  CHANCELOR_OMU:0 "канцлеру" #GetTitleOMU
  PRESIDENT_OMU:0 "президенту" #GetTitleOMU
@@ -401,7 +402,8 @@
  MAYOR_OMU:0 "меру" #GetTitleOMU
  ILKHAN_OMU:0 "ільхану" #GetTitleOMU
  SYNTH_RULER_OMU:0 "споруднику" #GetTitleOMU
- ###нa запитання Виконано ким? 
+ SYNTH_RULER_fem_OMU:0 "спорудниці" #GetTitleOMU
+ ###нa запитання Виконано ким? "" 
  SPEAKER_KYM:0 "спікером" #GetTitleKYM
  CHANCELOR_KYM:0 "канцлером" #GetTitleKYM
  PRESIDENT_KYM:0 "президентом" #GetTitleKYM
@@ -416,7 +418,7 @@
  EARL_KYM:0 "ерлом" #GetTitleKYM
  HIGH_KING_KYM:0 "верховним королем" #GetTitleKYM
  LORD_KYM:0 "лордом" #GetTitleKYM
- SHOGUN_KYM:0 "сьоґуном" #GetTitleKYM
+ SHOGUN_KYM:0 "ссьоґуном" #GetTitleKYM
  ATABEG_KYM:0 "атабеком" #GetTitleKYM
  FAAMA_KYM:0 "фаамою" #GetTitleKYM
  GREAT_MANSA_KYM:0 "великим мансою" #GetTitleKYM
@@ -603,7 +605,8 @@
  MAYOR_KYM:0 "мером" #GetTitleKYM
  ILKHAN_KYM:0 "ільханом" #GetTitleKYM
  SYNTH_RULER_KYM:0 "спорудником" #GetTitleKYM
- ###нa запитання Хто? 
+ SYNTH_RULER_fem_KYM:0 "спорудницею" #GetTitleKYM
+ ###нa запитання Хто? "" 
  SPEAKER_KHTO:0 "спікер" #GetTitleKHTO
  CHANCELOR_KHTO:0 "канцлер" #GetTitleKHTO
  PRESIDENT_KHTO:0 "президент" #GetTitleKHTO
@@ -805,7 +808,8 @@
  MAYOR_KHTO:0 "мер" #GetTitleKHTO
  ILKHAN_KHTO:0 "ільхан" #GetTitleKHTO
  SYNTH_RULER_KHTO:0 "спорудник" #GetTitleKHTO
- ###нa запитання Про кого? 
+ SYNTH_RULER_fem_KHTO:0 "спорудниця" #GetTitleKHTO
+ ###нa запитання Про кого? "" 
  SPEAKER_PRO:0 "спікера" #GetTitlePRO
  CHANCELOR_PRO:0 "канцлера" #GetTitlePRO
  PRESIDENT_PRO:0 "президента" #GetTitlePRO
@@ -1007,7 +1011,8 @@
  MAYOR_PRO:0 "мера" #GetTitlePRO
  ILKHAN_PRO:0 "ільхана" #GetTitlePRO
  SYNTH_RULER_PRO:0 "спорудника" #GetTitlePRO
- ###Кличний відмінок
+ SYNTH_RULER_fem_PRO:0 "спорудницю" #GetTitlePRO
+ ###Кличний відмінок "" #SCHO
  SPEAKER_KLY:0 "спікере" #GetTitleKLY
  CHANCELOR_KLY:0 "канцлере" #GetTitleKLY
  PRESIDENT_KLY:0 "президенте" #GetTitleKLY
@@ -1208,9 +1213,9 @@
  MAYOR_KLY:0 "мере" #GetTitleKLY
  ILKHAN_KLY:0 "ільхане" #GetTitleKLY
  SYNTH_RULER_KLY:0 "споруднику" #GetTitleKLY
-
- ########Жіночі титули######## 
- ###Ha запитання Хто? 
+ SYNTH_RULER_fem_KLY:0 "споруднице" #GetTitleKLY
+ ########Жіночі титули######## "" 
+ ###Ha запитання Хто? "" 
  DUCHESS_KHTO:0 "герцогиня" #GetTitleKHTO
  QUEEN_KHTO:0 "королева" #GetTitleKHTO
  EMPRESS_KHTO:0 "імператриця" #GetTitleKHTO
@@ -1333,7 +1338,7 @@
  GREAT_SHARIFA_KHTO:0 "велика шаріфа" #GetTitleKHTO
  MAYORESS_KHTO:0 "мер" #GetTitleKHTO
  ILKHATUN_KHTO:0 "ільхатун" #GetTitleKHTO
- ###Ha запитання Немає кoгo? 
+ ###Ha запитання Немає кoгo? "" 
  DUCHESS_OGO:0 "герцогині" #GetTitleOGO
  QUEEN_OGO:0 "королеви" #GetTitleOGO
  EMPRESS_OGO:0 "імператриці" #GetTitleOGO
@@ -1456,7 +1461,7 @@
  GREAT_SHARIFA_OGO:0 "великої шаріфи" #GetTitleOGO
  MAYORESS_OGO:0 "мера" #GetTitleOGO
  ILKHATUN_OGO:0 "ільхатун" #GetTitleOGO
- ###Ha запитання Дaти кoму? 
+ ###Ha запитання Дaти кoму? "" 
  DUCHESS_OMU:0 "герцогині" #GetTitleOMU
  QUEEN_OMU:0 "королеві" #GetTitleOMU
  EMPRESS_OMU:0 "імператриці" #GetTitleOMU
@@ -1579,7 +1584,7 @@
  GREAT_SHARIFA_OMU:0 "великій шаріфі" #GetTitleOMU
  MAYORESS_OMU:0 "мерові" #GetTitleOMU
  ILKHATUN_OMU:0 "ільхатун" #GetTitleOMU
- ###Ha запитання Зроблено ким? 
+ ###Ha запитання Зроблено ким? "" 
  DUCHESS_KYM:0 "герцогинею" #GetTitleKYM
  QUEEN_KYM:0 "королевою" #GetTitleKYM
  EMPRESS_KYM:0 "імператрицею" #GetTitleKYM
@@ -1702,7 +1707,7 @@
  GREAT_SHARIFA_KYM:0 "великою шаріфою" #GetTitleKYM
  MAYORESS_KYM:0 "мером" #GetTitleKYM
  ILKHATUN_KYM:0 "ільхатун" #GetTitleKYM
- ###Ha запитання Про кого? 
+ ###Ha запитання Про кого? "" 
  DUCHESS_PRO:0 "герцогиню" #GetTitlePRO
  QUEEN_PRO:0 "королеву" #GetTitlePRO
  EMPRESS_PRO:0 "імператрицю" #GetTitlePRO
@@ -1825,7 +1830,7 @@
  GREAT_SHARIFA_PRO:0 "велику шаріфу" #GetTitlePRO
  MAYORESS_PRO:0 "мера" #GetTitlePRO
  ILKHATUN_PRO:0 "ільхатун" #GetTitlePRO
- ###Кличний відмінок
+ ###Кличний відмінок "" 
  DUCHESS_KLY:0 "герцогине" #GetTitleKLY
  QUEEN_KLY:0 "королево" #GetTitleKLY
  EMPRESS_KLY:0 "імператрице" #GetTitleKLY
@@ -1948,8 +1953,8 @@
  GREAT_SHARIFA_KLY:0 "велика шаріфо" #GetTitleKLY
  MAYORESS_KLY:0 "мере" #GetTitleKLY
  ILKHATUN_KLY:0 "ільхатун" #GetTitleKLY
- ########Bapіaнти спадкоємця######## 
- ###Ha запитання Хтo? 
+ ########Bapіaнти спадкоємця######## "" 
+ ###Ha запитання Хтo? "" 
  HEIR_KHTO:0 "спадкоємець" #GetTitleHeirKHTO
  KHANZADEH_KHTO:0 "ханзаде" #GetTitleHeirKHTO
  KHANUM_KHTO:0 "ханум" #GetTitleHeirKHTO
@@ -1970,7 +1975,7 @@
  RAJKUMAR_KHTO:0 "раджкумар" #GetTitleHeirKHTO
  RAJKUMARI_KHTO:0 "раджкумарі" #GetTitleHeirKHTO
  ABETO_KHTO:0 "абето" #GetTitleHeirKHTO
- ###Ha запитання Нeмає кoгo? 
+ ###Ha запитання Нeмає кoгo? "" 
  HEIR_OGO:0 "спадкоємця" #GetTitleHeirOGO
  KHANZADEH_OGO:0 "ханзаде" #GetTitleHeirOGO
  KHANUM_OGO:0 "ханум" #GetTitleHeirOGO
@@ -1991,7 +1996,7 @@
  RAJKUMAR_OGO:0 "раджкумара" #GetTitleHeirOGO
  RAJKUMARI_OGO:0 "раджкумарі" #GetTitleHeirOGO
  ABETO_OGO:0 "абето" #GetTitleHeirOGO
- ###Ha запитання Дaти кoму? 
+ ###Ha запитання Дaти кoму? "" 
  HEIR_OMU:0 "спадкоємцю" #GetTitleHeirOMU
  KHANZADEH_OMU:0 "ханзаде" #GetTitleHeirOMU
  KHANUM_OMU:0 "ханум" #GetTitleHeirOMU
@@ -2012,7 +2017,7 @@
  RAJKUMAR_OMU:0 "раджкумару" #GetTitleHeirOMU
  RAJKUMARI_OMU:0 "раджкумарі" #GetTitleHeirOMU
  ABETO_OMU:0 "абето" #GetTitleHeirOMU
- ###Ha запитання Зроблено ким? 
+ ###Ha запитання Зроблено ким? "" 
  HEIR_KYM:0 "спадкоємцем" #GetTitleHeirKYM
  KHANZADEH_KYM:0 "ханзаде" #GetTitleHeirKYM
  KHANUM_KYM:0 "ханум" #GetTitleHeirKYM
@@ -2033,7 +2038,7 @@
  RAJKUMAR_KYM:0 "раджкумаром" #GetTitleHeirKYM
  RAJKUMARI_KYM:0 "раджкумарі" #GetTitleHeirKYM
  ABETO_KYM:0 "абето" #GetTitleHeirKYM
- ###Ha запитання Прo кoго? 
+ ###Ha запитання Прo кoго? "" 
  HEIR_PRO:0 "спадкоємця" #GetTitleHeirPRO
  KHANZADEH_PRO:0 "ханзаде" #GetTitleHeirPRO
  KHANUM_PRO:0 "ханум" #GetTitleHeirPRO
@@ -2054,7 +2059,7 @@
  RAJKUMAR_PRO:0 "раджкумара" #GetTitleHeirPRO
  RAJKUMARI_PRO:0 "раджкумарі" #GetTitleHeirPRO
  ABETO_PRO:0 "абето" #GetTitleHeirPRO
- ###Кличний відмінок
+###Кличний відмінок "" 
  HEIR_KLY:0 "спадкоємце" #GetTitleHeirKLY
  KHANZADEH_PRO:0 "ханзаде" #GetTitleHeirKLY
  KHANUM_PRO:0 "ханум" #GetTitleHeirKLY
@@ -2075,8 +2080,8 @@
  RAJKUMAR_PRO:0 "раджкумаро" #GetTitleHeirKLY
  RAJKUMARI_PRO:0 "раджкумарі" #GetTitleHeirKLY
  ABETO_PRO:0 "абето" #GetTitleHeirKLY
- ########Bapіaнти кoнcopтів######## 
- ###Ha запитання Хтo? 
+ ########Bapіaнти кoнcopтів######## "" 
+ ###Ha запитання Хтo? "" 
  YEKHE_KHAGAN_KHTO:0 "іх хаан" #GetTitleConsortKHTO
  YEKHE_KHANUM_KHTO:0 "іх хаанум" #GetTitleConsortKHTO
  PRINCE_CONSORT_KHTO:0 "принц-консорт" #GetTitleConsortKHTO
@@ -2103,7 +2108,7 @@
  EMIR_CONSORT_KHTO:0 "емір-консорт" #GetTitleConsortKHTO
  SULTAN_CONSORT_KHTO:0 "султан-консорт" #GetTitleConsortKHTO
  PADISHAH_CONSORT_KHTO:0 "падишах-консорт" #GetTitleConsortKHTO
- ###Ha запитання Немає кoгo? 
+ ###Ha запитання Немає кoгo? "" 
  YEKHE_KHAGAN_OGO:0 "іх хаана" #GetTitleConsortOGO
  YEKHE_KHANUM_OGO:0 "іх хаанум" #GetTitleConsortOGO
  PRINCE_CONSORT_OGO:0 "принца-консорта" #GetTitleConsortOGO
@@ -2130,7 +2135,7 @@
  EMIR_CONSORT_OGO:0 "еміра-консорта" #GetTitleConsortOGO
  SULTAN_CONSORT_OGO:0 "султана-консорта" #GetTitleConsortOGO
  PADISHAH_CONSORT_OGO:0 "падишаха-консорта" #GetTitleConsortOGO
- ###Ha запитання Дaти кoму? 
+ ###Ha запитання Дaти кoму? "" 
  YEKHE_KHAGAN_OMU:0 "іх хаану" #GetTitleConsortOMU
  YEKHE_KHANUM_OMU:0 "іх хаанум" #GetTitleConsortOMU
  PRINCE_CONSORT_OMU:0 "принцеві-консорту" #GetTitleConsortOMU
@@ -2157,7 +2162,7 @@
  EMIR_CONSORT_OMU:0 "емірові-консорту" #GetTitleConsortOMU
  SULTAN_CONSORT_OMU:0 "султанові-консорту" #GetTitleConsortOMU
  PADISHAH_CONSORT_OMU:0 "падишахові-консорту" #GetTitleConsortOMU
- ###Ha запитання Накaзaнo ким? 
+ ###Ha запитання Накaзaнo ким? "" 
  YEKHE_KHAGAN_KYM:0 "іх хааном" #GetTitleConsortKYM
  YEKHE_KHANUM_KYM:0 "іх хаанум" #GetTitleConsortKYM
  PRINCE_CONSORT_KYM:0 "принцем-консортом" #GetTitleConsortKYM
@@ -2184,7 +2189,7 @@
  EMIR_CONSORT_KYM:0 "еміром-консортом" #GetTitleConsortKYM
  SULTAN_CONSORT_KYM:0 "султаном-консортом" #GetTitleConsortKYM
  PADISHAH_CONSORT_KYM:0 "падишахом-консортом" #GetTitleConsortKYM
- ###Ha запитання Прo кoго? 
+ ###Ha запитання Прo кoго? "" 
  YEKHE_KHAGAN_PRO:0 "іх хаана" #GetTitleConsortPRO
  YEKHE_KHANUM_PRO:0 "іх хаанум" #GetTitleConsortPRO
  PRINCE_CONSORT_PRO:0 "принца-консорта" #GetTitleConsortPRO
@@ -2211,7 +2216,7 @@
  EMIR_CONSORT_PRO:0 "еміра-консорта" #GetTitleConsortPRO
  SULTAN_CONSORT_PRO:0 "султана-консорта" #GetTitleConsortPRO
  PADISHAH_CONSORT_PRO:0 "падишаха-консорта" #GetTitleConsortPRO
- ###Кличний відмінок  
+###Кличний відмінок "" 
  YEKHE_KHAGAN_KLY:0 "іх хаане" #GetTitleConsortKLY
  YEKHE_KHANUM_KLY:0 "іх хаанумо" #GetTitleConsortKLY
  PRINCE_CONSORT_KLY:0 "принце-консорте" #GetTitleConsortKLY
@@ -2238,7 +2243,7 @@
  EMIR_CONSORT_KLY:0 "еміре-консорте" #GetTitleConsortKLY
  SULTAN_CONSORT_KLY:0 "султане-консорте" #GetTitleConsortKLY
  PADISHAH_CONSORT_KLY:0 "падишаху-консорте" #GetTitleConsortKLY
- ###Патч 1.28 
+ ###Патч 1.28 "" 
  CAPTAIN_OGO:0 "капітана" #GetTitleOGO
  GRAND_CAPTAIN_OGO:0 "гранд-капітана" #GetTitleOGO
  ADMIRAL_OGO:0 "гранд-адмірала" #GetTitleOGO

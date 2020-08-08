@@ -2,7 +2,7 @@
  MODIFIER_WAR_TAXES_COST_MODIFIER:0 "Вартість військового податку"
  MODIFIER_SIEGE_BLOCKADE_PROGRESS:0 "Вплив блокади на облогу"
  MODIFIER_WARSCORE_COST_VS_OTHER_RELIGION:1 "Вартість війни проти інших релігій"
- MODIFIER_MERCENARY_DISCIPLINE:0 "Наймарська дисципліна"
+ MODIFIER_MERCENARY_DISCIPLINE:0 "Найманська дисципліна"
  MODIFIER_ARTILLERY_BONUS_VS_FORT:0 "Бонус артилерії проти фортифікацій"
  MODIFIER_DIPLOMATIC_UPKEEP:0 "Дипломатичні стосунки"
  MONTHLY_SPLENDOR:0 "Місячна зміна величі"
