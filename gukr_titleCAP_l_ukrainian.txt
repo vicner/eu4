@@ -418,7 +418,7 @@
  EARL_KYM_CAP:0 "Ерлом" #GetTitleKYM_CAP
  HIGH_KING_KYM_CAP:0 "Верховним королем" #GetTitleKYM_CAP
  LORD_KYM_CAP:0 "Лордом" #GetTitleKYM_CAP
- SHOGUN_KYM_CAP:0 "Ссьоґуном" #GetTitleKYM_CAP
+ SHOGUN_KYM_CAP:0 "Сьоґуном" #GetTitleKYM_CAP
  ATABEG_KYM_CAP:0 "Атабеком" #GetTitleKYM_CAP
  FAAMA_KYM_CAP:0 "Фаамою" #GetTitleKYM_CAP
  GREAT_MANSA_KYM_CAP:0 "Великим мансою" #GetTitleKYM_CAP

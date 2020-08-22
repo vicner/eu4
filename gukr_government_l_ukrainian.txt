@@ -28,7 +28,7 @@
  DESPOTATE_DE:0 "деспотаті" #GetGovernmentDE
  NAWABATE_DE:0 "навабаті" #GetGovernmentDE
  NIZAMATE_DE:0 "нізаматі" #GetGovernmentDE
- MONG_DE:0 "монгі" #GetGovernmentDE
+ MONG_DE:0 "монгу" #GetGovernmentDE
  GRAND_PRINCIPALITY_DE:0 "великому князівстві" #GetGovernmentDE
  ALTEPETL_DE:0 "альтепетлі" #GetGovernmentDE
  ALTEPETL_FEDERATION_DE:0 "альтепетельській федерації" #GetGovernmentDE
