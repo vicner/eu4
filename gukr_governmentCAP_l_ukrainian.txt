@@ -473,6 +473,6 @@
 ###Версія 1.30_CAP "" 
  SAVANAROLA_GOVERNMENT_DE_CAP:0 "Уряді Савонароли" #GеtGоvеrnmеntDЕ_CAP
  SAVANAROLA_GOVERNMENT_OMU_CAP:0 "Уряду Савонароли" #GеtGоvеrnmеntОМU_CAP
- SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряда Савонароли" #GеtGоvеrnmеntОGО_CAP
+ SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряду Савонароли" #GеtGоvеrnmеntОGО_CAP
  SAVANAROLA_GOVERNMENT_SCHO_CAP:0 "Уряд Савонароли" #GеtGоvеrnmеntSСНО_CAP
  SAVANAROLA_GOVERNMENT_KYM_CAP:0 "Урядом Савонароли" #GetGovernmentKYM_CAP

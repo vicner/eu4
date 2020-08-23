@@ -473,6 +473,6 @@
 ###Версія 1.30 "" 
  SAVANAROLA_GOVERNMENT_DE:0 "уряді Савонароли" #GеtGоvеrnmеntDЕ
  SAVANAROLA_GOVERNMENT_OMU:0 "уряду Савонароли" #GеtGоvеrnmеntОМU
- SAVANAROLA_GOVERNMENT_OGO:0 "уряда Савонароли" #GеtGоvеrnmеntОGО
+ SAVANAROLA_GOVERNMENT_OGO:0 "уряду Савонароли" #GеtGоvеrnmеntОGО
  SAVANAROLA_GOVERNMENT_SCHO:0 "уряд Савонароли" #GеtGоvеrnmеntSСНО
  SAVANAROLA_GOVERNMENT_KYM:0 "урядом Савонароли" #GеtGоvеrnmеntКYМ
