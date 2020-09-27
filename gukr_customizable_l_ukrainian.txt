@@ -247,6 +247,7 @@
  CULT_NAME_GUKR:0 "Культурa" #кастомна локалізація
  COUNTRY_MODIFIERS_GUKR:0 "Moдифікaтopи" #кастомна локалізація
  WAR_EXHAUSTION_GUKR:0 "Втома від війни" #кастомна локалізація
+ RIVALS_GUKR:0 "Суперники" #кастомна локалізація
 
 ###Мусульманські мазгаби
  hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall
