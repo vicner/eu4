@@ -2298,3 +2298,10 @@
  PIRATE_PRINCESS_KLY:0 "принцесо піратів" #GetTitleKLY
  PIRATE_QUEEN_KLY:0 "королево піратів" #GetTitleKLY
  PIRATE_EMPRESS_KLY:0 "імператрице піратів" #GetTitleKLY
+ ###Версія 1.30
+ BROTHER_OGO:0 "брата" #GetTitleOGO
+ BROTHER_OMU:0 "брату" #GetTitleOMU
+ BROTHER_KYM:0 "братом" #GetTitleKYM
+ BROTHER_KHTO:0 "брат" #GetTitleKHTO
+ BROTHER_PRO:0 "брата" #GetTitlePRO
+ BROTHER_KLY:0 "брате" #GetTitleKLY

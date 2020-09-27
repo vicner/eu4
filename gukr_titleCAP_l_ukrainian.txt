@@ -2298,3 +2298,10 @@
  PIRATE_PRINCESS_KLY_CAP:0 "Принцесо піратів" #GetTitleKLY_CAP
  PIRATE_QUEEN_KLY_CAP:0 "Королево піратів" #GetTitleKLY_CAP
  PIRATE_EMPRESS_KLY_CAP:0 "Імператрице піратів" #GetTitleKLY
+ ###Версія 1.30
+ BROTHER_OGO_CAP:0 "Брата" #GetTitleOGO_CAP
+ BROTHER_OMU_CAP:0 "Брату" #GetTitleOMU_CAP
+ BROTHER_KYM_CAP:0 "Братом" #GetTitleKYM_CAP
+ BROTHER_KHTO_CAP:0 "Брат" #GetTitleKHTO_CAP
+ BROTHER_PRO_CAP:0 "Брата" #GetTitlePRO_CAP
+ BROTHER_KLY_CAP:0 "Брате" #GetTitleKLY_CAP
