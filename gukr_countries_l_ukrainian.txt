@@ -2751,7 +2751,7 @@
  TAG_DE_CSH:0 "Шун" #GetTagDE
  TAG_DE_CXI:0 "Сі" #GetTagDE
  TAG_DE_JOL:0 "Джолофі" #GetTagDE
- TAG_DE_PLC:0 "Річі Посполиті" #GetTagDE
+ TAG_DE_PLC:0 "Річі Посполитій" #GetTagDE
  TAG_DE_PRM:0 "Пермі" #GetTagDE
  TAG_DE_CEY:1 "Котте" #GetTagDE
  TAG_DE_AFG:0 "Афганістані" #GetTagDE
