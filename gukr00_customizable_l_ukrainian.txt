@@ -1,0 +1,1199 @@
+﻿l_ukrainian:
+###Закінчення
+ MALE_ENDING_A:0 "" #GetEndA
+ FEMALE_ENDING_A:0 "а" #GetEndA
+ EAEndA.A:0 "[This.Adm_Advisor.GetAAEndA]"
+ EAEndA.D:0 "[This.Dip_Advisor.GetADEndA]"
+ EAEndA.M:0 "[This.Mil_Advisor.GetAMEndA]"
+ 
+ MALE_ENDING_LA:0 "" #GetEndLA
+ FEMALE_ENDING_LA:0 "ла" #GetEndLA
+ EAEndLA.A:0 "[This.Adm_Advisor.GetAAEndLA]"
+ EAEndLA.D:0 "[This.Dip_Advisor.GetADEndLA]"
+ EAEndLA.M:0 "[This.Mil_Advisor.GetAMEndLA]"
+ 
+ MALE_ENDING_IJ:0 "ій" #GetEndIJA
+ FEMALE_ENDING_JA:0 "я" #GetEndIJA або !GetEndOYAYA
+ EAEndIJA.A:0 "[This.Adm_Advisor.GetAAEndIJA]"
+ EAEndIJA.D:0 "[This.Dip_Advisor.GetADEndIJA]"
+ EAEndIJA.M:0 "[This.Mil_Advisor.GetAMEndIJA]"
+ 
+ MALE_ENDING_YJ:0 "ий" #GetEndAYJ
+ FEMALE_ENDING_AYJ:0 "а" #GetEndAYJ
+ EAEndAYJ.A:0 "[This.Adm_Advisor.GetAAEndAYJ]"
+ EAEndAYJ.D:0 "[This.Dip_Advisor.GetADEndAYJ]"
+ EAEndAYJ.M:0 "[This.Mil_Advisor.GetAMEndAYJ]"
+ 
+ MALE_ENDING_YM:0 "им" #GetEndOJuYM
+ FEMALE_ENDING_OJU:0 "ою" #GetEndOJuYM або !GetEndOYAYA
+ EAEEndOJuYM.A:0 "[This.Adm_Advisor.GetAAEndOJuYM]"
+ EAEndOJuYM.D:0 "[This.Dip_Advisor.GetADEndOJuYM]"
+ EAEndOJuYM.M:0 "[This.Mil_Advisor.GetAMEndOJuYM]"
+ 
+ MALE_ENDING_GO:0 "го" #GetEndJiGO
+ FEMALE_ENDING_Ji:0 "ї" #GetEndJiGO
+ EAEndJiGO.A:0 "[This.Adm_Advisor.GetAAEndJiGO]"
+ EAEndJiGO.D:0 "[This.Dip_Advisor.GetADEndJiGO]"
+ EAEndJiGO.M:0 "[This.Mil_Advisor.GetAMEndJiGO]"
+ 
+ MALE_ENDING_GO:0 "го" #GetEndJeJi
+ FEMALE_ENDING_JEJI:0 "єї" #GetEndJeJi
+ EAEndJeJi.A:0 "[This.Adm_Advisor.GetAAEndJeJi]"
+ EAEndJeJi.D:0 "[This.Dip_Advisor.GetADEndJeJi]"
+ EAEndJeJi.M:0 "[This.Mil_Advisor.GetAMEndJeJi]"
+ 
+ MALE_ENDING_VSIA:0 "вся" #GetEndVSia
+ FEMALE_ENDING_LASIA:0 "лася" #GetEndVSia
+ EAEndVSia.A:0 "[This.Adm_Advisor.GetAAEndVSia]"
+ EAEndVSia.D:0 "[This.Dip_Advisor.GetADEndVSia]"
+ EAEndVSia.M:0 "[This.Mil_Advisor.GetAMEndVSia]"
+ 
+ MALE_JOGO:0 "його" #GetJOGO
+ FEMALE_JiJi:0 "її" #GetJOGO
+ EAJOGO.A:0 "[This.Adm_Advisor.GetAAJOGO]"
+ EAJOGO.D:0 "[This.Dip_Advisor.GetADJOGO]"
+ EAJOGO.M:0 "[This.Mil_Advisor.GetAMJOGO]"
+ 
+ MALE_ENDING_jOGO:0 "ього" #GetEndjOGO
+ EAEndjOGO.A:0 "[This.Adm_Advisor.GetAAEndjOGO]"
+ EAEndjOGO.D:0 "[This.Dip_Advisor.GetADEndjOGO]"
+ EAEndjOGO.M:0 "[This.Mil_Advisor.GetAMEndjOGO]"
+ 
+ MALE_JOGO_Cap:0 "Його" #GetJOGOCap
+ FEMALE_JiJi_Cap:0 "Її" #GetJOGOCap
+ EAJOGOCap.A:0 "[This.Adm_Advisor.GetAAJOGOCap]"
+ EAJOGOCap.D:0 "[This.Dip_Advisor.GetADJOGOCap]"
+ EAJOGOCap.M:0 "[This.Mil_Advisor.GetAMJOGOCap]"
+ 
+ MALE_JOMU:0 "йому" #GetJiJOMU
+ FEMALE_JiJ:0 "їй" #GetJiJOMU
+ EAJiJOMU.A:0 "[This.Adm_Advisor.GetAAJiJOMU]"
+ EAJiJOMU.D:0 "[This.Dip_Advisor.GetADJiJOMU]"
+ EAJiJOMU.M:0 "[This.Mil_Advisor.GetAMJiJOMU]"
+ 
+ MALE_JOMU_Cap:0 "Йому" #GetJiJOMUCap
+ FEMALE_JiJ_Cap:0 "Їй" #GetJiJOMUCap
+ EAJiJOMUCap.A:0 "[This.Adm_Advisor.GetAAJiJOMUCap]"
+ EAJiJOMUCapA.D:0 "[This.Dip_Advisor.GetADJiJOMUCap]"
+ EAJiJOMUCap.M:0 "[This.Mil_Advisor.GetAMJiJOMUCap]"
+ 
+ MALE_ENDING_EN:0 "ен" #GetEndEnNa
+ FEMALE_ENDING_NA:0 "на" #GetEndEnNa
+ EAEndEnNa.A:0 "[This.Adm_Advisor.GetAAEndEnNa]"
+ EAEndEnNa.D:0 "[This.Dip_Advisor.GetADEndEnNa]"
+ EAEndEnNa.M:0 "[This.Mil_Advisor.GetAMEndEnNa]"
+ 
+ MALE_ENDING_YN:0 "ин" #GetEndYnNa
+ FEMALE_ENDING_NA:0 "на" #GetEndYnNa
+ EAEndYnNa.A:0 "[This.Adm_Advisor.GetAAEndYnNa]"
+ EAEndYnNa.D:0 "[This.Dip_Advisor.GetADEndYnNa]"
+ EAEndYnNa.M:0 "[This.Mil_Advisor.GetAMEndYnNa]"
+ 
+ MALE_ENDING_CIAK:0 "к" #GetEndCiaK
+ FEMALE_ENDING_CIAK:0 "ця" #GetEndCiaK
+ EAEndCiaK.A:0 "[This.Adm_Advisor.GetAAEndCiaK]"
+ EAEndCiaK.D:0 "[This.Dip_Advisor.GetADEndCiaK]"
+ EAEndCiaK.M:0 "[This.Mil_Advisor.GetAMEndCiaK]"
+ 
+ MALE_ENDING_KALj:0 "" #GetEndKaLj
+ FEMALE_ENDING_KALj:0 "ка" #GetEndKaLj
+ EAEndKaLj.A:0 "[This.Adm_Advisor.GetAAEndKaLj]"
+ EAEndKaLj.D:0 "[This.Dip_Advisor.GetADEndKaLj]"
+ EAEndKaLj.M:0 "[This.Mil_Advisor.GetAMEndKaLj]"
+ 
+ MALE_ENDING_KUCIA:0 "ця" #GetEndKuCia
+ FEMALE_ENDING_KUCIA:0 "ку" #GetEndKuCia
+ EAEndKuCia.A:0 "[This.Adm_Advisor.GetAAEndKuCia]"
+ EAEndKuCia.D:0 "[This.Dip_Advisor.GetADEndKuCia]"
+ EAEndKuCia.M:0 "[This.Mil_Advisor.GetAMEndKuCia]"
+ 
+ MALE_ENDING_VLA:0 "в" #GetEndVLa
+ FEMALE_ENDING_VLA:0 "ла" #GetEndVLa
+ EAEndVLa.A:0 "[This.Adm_Advisor.GetAAEndVLa]"
+ EAEndVLa.D:0 "[This.Dip_Advisor.GetADEndVLa]"
+ EAEndVLa.M:0 "[This.Mil_Advisor.GetAMEndVLa]"
+ 
+ MALE_ENDING_LAOV:0 "ов" #GetEndLaOv
+ FEMALE_ENDING_LAOV:0 "ла" #GetEndLaOv
+ EAEndLaOv.A:0 "[This.Adm_Advisor.GetAAEndLaOv]"
+ EAEndLaOv.D:0 "[This.Dip_Advisor.GetADEndLaOv]"
+ EAEndLaOv.M:0 "[This.Mil_Advisor.GetAMEndLaOv]"
+ 
+ MALE_ENDING_EJijOGO:0 "ього" #GetEndEJijogo
+ FEMALE_ENDING_EJijOGO:0 "еї" #GetEndEJijogo
+ EAEndEJijogo.A:0 "[This.Adm_Advisor.GetAAEndEJijogo]"
+ EAEndEJijogo.D:0 "[This.Dip_Advisor.GetADEndEJijogo]"
+ EAEndEJijogo.M:0 "[This.Mil_Advisor.GetAMEndEJijogo]"
+ 
+ MALE_ENDING_EJuYM:0 "им" #GetEndEJuYm
+ FEMALE_ENDING_EJu:0 "ею" #GetEndEJuYm
+ EAEndEJuYm.A:0 "[This.Adm_Advisor.GetAAEndEJuYm]"
+ EAEndEJuYm.D:0 "[This.Dip_Advisor.GetADEndEJuYm]"
+ EAEndEJuYm.M:0 "[This.Mil_Advisor.GetAMEndEJuYm]"
+ 
+ MALE_ENDING_JuGO:0 "го" #GetEndJuGo
+ FEMALE_ENDING_JuGO:0 "ю" #GetEndJuGo
+ EAEndJuGo.A:0 "[This.Adm_Advisor.GetAAEndJuGo]"
+ EAEndJuGo.D:0 "[This.Dip_Advisor.GetADEndJuGo]"
+ EAEndJuGo.M:0 "[This.Mil_Advisor.GetAMEndJuGo]"
+ 
+ MALE_ENDING_KA:0 "ка" #GetEndCiKa
+ FEMALE_ENDING_CI:0 "ці" #GetEndCiKa
+ EAEndCiKa.A:0 "[This.Adm_Advisor.GetAAEndCiKa]"
+ EAEndCiKa.D:0 "[This.Dip_Advisor.GetADEndCiKa]"
+ EAEndCiKa.M:0 "[This.Mil_Advisor.GetAMEndCiKa]"
+ 
+ MALE_ENDING_KA:0 "ка" #GetEndCiuKa
+ FEMALE_ENDING_CIU:0 "цю" #GetEndCiuKa
+ EAEndCiuKa.A:0 "[This.Adm_Advisor.GetAAEndCiuKa]"
+ EAEndCiuKa.D:0 "[This.Dip_Advisor.GetADEndCiuKa]"
+ EAEndCiuKa.M:0 "[This.Mil_Advisor.GetAMEndCiuKa]"
+ 
+ MALE_ENDING_OMU:0 "ому" #GetEndIjOmu
+ FEMALE_ENDING_IJ:0 "ій" #GetEndIjOmu
+ EAEndIjOmu.A:0 "[This.Adm_Advisor.GetAAEndIjOmu]"
+ EAEndIjOmu.D:0 "[This.Dip_Advisor.GetADEndIjOmu]"
+ EAEndIjOmu.M:0 "[This.Mil_Advisor.GetAMEndIjOmu]"
+ 
+ MALE_ENDING_KAECj:0 "ець" #GetEndKaEcj
+ FEMALE_ENDING_KAECj:0 "ка" #GetEndKaEcj
+ EAEndKaEcj.A:0 "[This.Adm_Advisor.GetAAEndKaEcj]"
+ EAEndKaEcj.D:0 "[This.Dip_Advisor.GetADEndKaEcj]"
+ EAEndKaEcj.M:0 "[This.Mil_Advisor.GetAMEndKaEcj]"
+ 
+ MALE_ENDING_OYA:0 "ій" #GetEndOYA
+ FEMALE_ENDING_OYA:0 "оя" #GetEndOYA
+ EAEndOYA.A:0 "[This.Adm_Advisor.GetAAEndOYA]"
+ EAEndOYA.D:0 "[This.Dip_Advisor.GetADEndOYA]"
+ EAEndOYA.M:0 "[This.Mil_Advisor.GetAMEndOYA]"
+ 
+ MALE_ENDING_OGO:0 "ого" #GetEndOjiOgo
+ FEMALE_ENDING_OJi:0 "ої" #GetEndOjiOgo
+ EAEndOjiOgo.A:0 "[This.Adm_Advisor.GetAAEndOjiOgo]"
+ EAEndOjiOgo.D:0 "[This.Dip_Advisor.GetADEndOjiOgo]"
+ EAEndOjiOgo.M:0 "[This.Mil_Advisor.GetAMEndOjiOgo]"
+ 
+ MALE_ENDING_jKOJuEM:0 "ем" #GetEndjKojuEm
+ FEMALE_ENDING_jKOJuEM:0 "ькою" #GetEndjKojuEm
+ EAEndjKojuEm.A:0 "[This.Adm_Advisor.GetAAEAEndjKojuEm]"
+ EAEndjKojuEm.D:0 "[This.Dip_Advisor.GetADEAEndjKojuEm]"
+ EAEndjKojuEm.M:0 "[This.Mil_Advisor.GetAMEAEndjKojuEm]"
+ 
+ MALE_ENDING_ESA:0 "" #GetEndEsa
+ FEMALE_ENDING_ESA:0 "еса" #GetEndEsa
+ EAEndEsa.A:0 "[This.Adm_Advisor.GetAAEndEsa]"
+ EAEndEsa.D:0 "[This.Dip_Advisor.GetADEndEsa]"
+ EAEndEsa.M:0 "[This.Mil_Advisor.GetAMEndEsa]"
+ 
+ MALE_ENDING_ESY:0 "а" #GetEndEsy
+ FEMALE_ENDING_ESY:0 "еси" #GetEndEsy
+ MALE_ENDING_ESI:0 "у" #GetEndEsi
+ FEMALE_ENDING_ESI:0 "есі" #GetEndEsi
+ 
+ MALE_ENDING_UOGO:0 "ого" #GetEndUOgo
+ FEMALE_ENDING_UOGO:0 "у" #GetEndUOgo
+ EAEndUOgo.A:0 "[This.Adm_Advisor.GetAAEndUOgo]"
+ EAEndUOgo.D:0 "[This.Dip_Advisor.GetADEndUOgo]"
+ EAEndUOgo.M:0 "[This.Mil_Advisor.GetAMEndUOgo]"
+ 
+ MALE_SHEHE:0 "Він" #GetSheHeCap
+ FEMALE_SHEHE:0 "Вона" #GetSheHeCap
+ EASheHeCap.A:0 "[This.Adm_Advisor.GetAASheHeCap]"
+ EASheHeCap.D:0 "[This.Dip_Advisor.GetADSheHeCap]"
+ EASheHeCap.M:0 "[This.Mil_Advisor.GetAMSheHeCap]"
+ 
+ MALE_ENDING_IAjKY:0 "я" #GetEndIajKy
+ FEMALE_ENDING_IAjKY:0 "ьки" #GetEndIajKy
+ EAEndIajKy.A:0 "[This.Adm_Advisor.GetAAEAEndIajKy]"
+ EAEndIajKy.D:0 "[This.Dip_Advisor.GetADEAEndIajKy]"
+ EAEndIajKy.M:0 "[This.Mil_Advisor.GetAMEAEndIajKy]"
+ 
+ MALE_ENDING_jEVA:0 "ь" #GetEndjEva
+ FEMALE_ENDING_jEVA:0 "ева" #GetEndjEva
+ MALE_ENDING_ORRYC:0 "ор" #GetEndOrRyc
+ FEMALE_ENDING_ORRYC:0 "риця" #GetEndOrRyc
+ MALE_ENDING_ORARYCI:0 "ора" #GetEndOraRyci
+ FEMALE_ENDING_ORARYCI:0 "риці" #GetEndOraRyci
+ MALE_ENDING_ORURYCI:0 "ору" #GetEndOruRyci
+ FEMALE_ENDING_ORURYCI:0 "риці" #GetEndOruRyci
+ MALE_ENDING_CIUYCI:0 "цю" #GetEndCiuYci
+ FEMALE_ENDING_CIUYCI:0 "иці" #GetEndCiuYci
+ MALE_ENDING_CIAYCI:0 "ця" #GetEndCiaYci
+ FEMALE_ENDING_CIAYCI:0 "иці" #GetEndCiaYci
+ MALE_ENDING_YCIU:0 "ця" #GetEndCiaYciu
+ FEMALE_ENDING_YCIU:0 "ицю" #GetEndCiaYciu
+ MALE_ENDING_ECj:0 "ець" #GetEndYcia
+ FEMALE_ENDING_YCIa:0 "иця" #GetEndYcia
+ MALE_ENDING_IAjKU:0 "я" #GetEndIajKu
+ FEMALE_ENDING_IAjKU:0 "ьку" #GetEndIajKu
+ MALE_ENDING_LjKA:0 "ь" #GetEndLjKa
+ FEMALE_ENDING_LjKA:0 "ька" #GetEndLjKa
+
+ #Бачу [Корону] кого/що?
+ string_sublimе_роrtеSCHO:0 "Блискучу Порту" #GеtStаtеFоrmSCHO
+ string_сrоwnSCHO:0 "Kорону" #GеtStаtеFоrmSCHO
+ string_соunсilSCHO:0 "Раду" #GеtStаtеFоrmSCHO
+ string_govtnameSCHO:0 "[This.GovernmentSCHO]" #GеtStаtеFоrmSCHO
+ #[Корону] кому/чому?
+ string_sublimе_роrtеOMU:0 "Блискучій Порті" #GеtStаtеFоrmOMU
+ string_сrоwnOMU:0 "Kороні" #GеtStаtеFоrmOMU
+ string_соunсilOMU:0 "Раді" #GеtStаtеFоrmOMU
+ string_govtnameOMU:0 "[This.GovernmentOMU]" #GеtStаtеFоrmOMU
+ #Немає [Корони]
+ string_sublimе_роrtеNEMA:0 "Блискучої Порти" #GеtStаtеFоrmNEMA
+ string_сrоwnNEMA:0 "Kорони" #GеtStаtеFоrmNEMA
+ string_соunсilNEMA:0 "Ради" #GеtStаtеFоrmNEMA
+ string_govtnameNEMA:0 "[This.GovernmentOGO]" #GеtStаtеFоrmNEMA
+ #Ким/чим? [Короною]
+ string_sublimе_роrtеKYM:0 "Блискучої Портою" #GеtStаtеFоrmKYM
+ string_сrоwnKYM:0 "Kороною" #GеtStаtеFоrmKYM
+ string_соunсilKYM:0 "Радою" #GеtStаtеFоrmKYM
+ string_govtnameKYM:0 "[This.GovernmentKYM]" #GеtStаtеFоrmKYM
+
+###Локалізації у файлах інтерфейсу: \Europa Universalis IV\interface
+ NAME_GUKR:0 "Назва" #укр. локалізація
+ PROV_NAME_GUKR:0 "Провінція" #укр. локалізація
+ CULT_NAME_GUKR:0 "Культурa" #укр. локалізація
+ COUNTRY_MODIFIERS_GUKR:0 "Moдифікaтopи" #укр. локалізація
+ WAR_EXHAUSTION_GUKR:0 "Втома від війни" #укр. локалізація
+ RIVALS_GUKR:0 "Суперники" #укр. локалізація
+
+###Мусульманські мазгаби
+ hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall
+ hanbali_scool:0 "ханбаліти" #GetReligiousSсhoolSmall
+ maliki_scool:0 "малікіти" #GetReligiousSсhoolSmall
+ shafii_scool:0 "шафіїти" #GetReligiousSсhoolSmall
+ ismaili_scool:0 "ісмаїліти" #GetReligiousSсhoolSmall
+ jafari_scool:0 "джафарити" #GetReligiousSсhoolSmall
+ zaidi_scool:0 "зейдити" #GetReligiousSсhoolSmall
+ hanafi_scool_KYM:0 "ханафітами" #GetReligiousSсhoolKYM
+ hanbali_scool_KYM:0 "ханбалітами" #GetReligiousSсhoolKYM
+ maliki_scool_KYM:0 "малікітами" #GetReligiousSсhoolKYM
+ shafii_scool_KYM:0 "шафіїтами" #GetReligiousSсhoolKYM
+ ismaili_scool_KYM:0 "ісмаїлітами" #GetReligiousSсhoolKYM
+ jafari_scool_KYM:0 "джафаритами" #GetReligiousSсhoolKYM
+ zaidi_scool_KYM:0 "зейдитами" #GetReligiousSсhoolKYM
+ hanafi_scool_OGO:0 "ханафітів" #GetReligiousSсhoolOGO
+ hanbali_scool_OGO:0 "ханбалітів" #GetReligiousSсhoolOGO
+ maliki_scool_OGO:0 "малікітів" #GetReligiousSсhoolOGO
+ shafii_scool_OGO:0 "шафіїтів" #GetReligiousSсhoolOGO
+ ismaili_scool_OGO:0 "ісмаїлітів" #GetReligiousSсhoolOGO
+ jafari_scool_OGO:0 "джафаритів" #GetReligiousSсhoolOGO
+ zaidi_scool_OGO:0 "зейдитів" #GetReligiousSсhoolOGO
+ hanafi_scool_KOG:0 "ханафіта" #GetReligiousSсhoolKOG
+ hanbali_scool_KOG:0 "ханбаліта" #GetReligiousSсhoolKOG
+ maliki_scool_KOG:0 "малікіта" #GetReligiousSсhoolKOG
+ shafii_scool_KOG:0 "шафіїта" #GetReligiousSсhoolKOG
+ ismaili_scool_KOG:0 "ісмаїліта" #GetReligiousSсhoolKOG
+ jafari_scool_KOG:0 "джафарита" #GetReligiousSсhoolKOG
+ zaidi_scool_KOG:0 "зейдита" #GetReligiousSсhoolKOG
+ hanafi_scool_OMU:0 "ханафітам" #GetReligiousSсhoolOMU
+ hanbali_scool_OMU:0 "ханбалітам" #GetReligiousSсhoolOMU
+ maliki_scool_OMU:0 "малікітам" #GetReligiousSсhoolOMU
+ shafii_scool_OMU:0 "шафіїтам" #GetReligiousSсhoolOMU
+ ismaili_scool_OMU:0 "ісмаїлітам" #GetReligiousSсhoolOMU
+ jafari_scool_OMU:0 "джафаритам" #GetReligiousSсhoolOMU
+ zaidi_scool_OMU:0 "зейдитам" #GetReligiousSсhoolOMU
+ ###Toвapи ta їxнi змiннi
+ #Toвapи в oднинi
+ GetTG_wine:0 "вино" #GetTG_SM
+ GetTG_fish:0 "риба" #GetTG_SM
+ GetTG_salt:0 "сіль" #GetTG_SM
+ GetTG_copper:0 "мідь" #GetTG_SM
+ GetTG_iron:0 "залізо" #GetTG_SM
+ GetTG_tea:0 "чай" #GetTG_SM
+ GetTG_coffee:0 "кава" #GetTG_SM
+ GetTG_cotton:0 "бавовна" #GetTG_SM
+ GetTG_sugar:0 "цукор" #GetTG_SM
+ GetTG_tobacco:0 "тютюн" #GetTG_SM
+ GetTG_cocoa:0 "какао" #GetTG_SM
+ GetTG_wool:0 "вовна" #GetTG_SM
+ GetTG_silk:0 "шовк" #GetTG_SM
+ GetTG_gold:0 "золото" #GetTG_SM
+ GetTG_ivory:0 "слонова кістка" #GetTG_SM
+ GetTG_slaves:0 "раби" #GetTG_SM
+ GetTG_tropical_wood:0 "тропічна деревина" #GetTG_SM
+ GetTG_grain:0 "зерно" #GetTG_SM
+ GetTG_cloth:0 "тканина" #GetTG_SM
+ GetTG_fur:0 "хутро" #GetTG_SM
+ GetTG_naval_supplies:0 "снасті" #GetTG_SM
+ GetTG_chinaware:0 "порцеляна" #GetTG_SM
+ GetTG_spices:0 "прянощі" #GetTG_SM
+ GetTG_dyes:0 "фарбники" #GetTG_SM
+ GetTG_incense:0 "пахощі" #GetTG_SM
+ GetTG_livestock:0 "худоба" #GetTG_SM
+ GetTG_glass:0 "скло" #GetTG_SM
+ GetTG_paper:0 "папір" #GetTG_SM
+ GetTG_gems:0 "коштовне каміння" #GetTG_SM
+ GetTG_coal:0 "вугілля" #GetTG_SM
+ #Toвapи в poдoвoму вiдмiнkу
+ GetTG_wine_OGO:0 "вина" #GetTG_OGO
+ GetTG_fish_OGO:0 "риби" #GetTG_OGO
+ GetTG_salt_OGO:0 "солі" #GetTG_OGO
+ GetTG_copper_OGO:0 "міді" #GetTG_OGO
+ GetTG_iron_OGO:0 "заліза" #GetTG_OGO
+ GetTG_tea_OGO:0 "чаю" #GetTG_OGO
+ GetTG_coffee_OGO:0 "кави" #GetTG_OGO
+ GetTG_cotton_OGO:0 "бавовни" #GetTG_OGO
+ GetTG_sugar_OGO:0 "цукру" #GetTG_OGO
+ GetTG_tobacco_OGO:0 "тютюну" #GetTG_OGO
+ GetTG_cocoa_OGO:0 "какао" #GetTG_OGO
+ GetTG_wool_OGO:0 "вовни" #GetTG_OGO
+ GetTG_silk_OGO:0 "шовка" #GetTG_OGO
+ GetTG_gold_OGO:0 "золота" #GetTG_OGO
+ GetTG_ivory_OGO:0 "слонової кістки" #GetTG_OGO
+ GetTG_slaves_OGO:0 "рабів" #GetTG_OGO
+ GetTG_tropical_wood_OGO:0 "тропічної деревини" #GetTG_OGO
+ GetTG_grain_OGO:0 "зерна" #GetTG_OGO
+ GetTG_cloth_OGO:0 "тканини" #GetTG_OGO
+ GetTG_fur_OGO:0 "хутра" #GetTG_OGO
+ GetTG_naval_supplies_OGO:0 "снастей" #GetTG_OGO
+ GetTG_chinaware_OGO:0 "порцеляни" #GetTG_OGO
+ GetTG_spices_OGO:0 "прянощів" #GetTG_OGO
+ GetTG_dyes_OGO:0 "фарбників" #GetTG_OGO
+ GetTG_incense_OGO:0 "пахощів" #GetTG_OGO
+ GetTG_livestock_OGO:0 "худоби" #GetTG_OGO
+ GetTG_glass_OGO:0 "скла" #GetTG_OGO
+ GetTG_paper_OGO:0 "папера" #GetTG_OGO
+ GetTG_gems_OGO:0 "коштовного каміння" #GetTG_OGO
+ GetTG_coal_OGO:0 "вугілля" #GetTG_OGO
+ #Toвapи в знaxiднoму вiдмiнkу? (Знaйtи щo? Пoбaчиtи щo?)
+ GetTG_wine_ZNA:0 "вино" #GetTG_ZNA
+ GetTG_fish_ZNA:0 "рибу" #GetTG_ZNA
+ GetTG_salt_ZNA:0 "сіль" #GetTG_ZNA
+ GetTG_copper_ZNA:0 "мідь" #GetTG_ZNA
+ GetTG_iron_ZNA:0 "залізо" #GetTG_ZNA
+ GetTG_tea_ZNA:0 "чай" #GetTG_ZNA
+ GetTG_coffee_ZNA:0 "каву" #GetTG_ZNA
+ GetTG_cotton_ZNA:0 "бавовну" #GetTG_ZNA
+ GetTG_sugar_ZNA:0 "цукор" #GetTG_ZNA
+ GetTG_tobacco_ZNA:0 "тютюн" #GetTG_ZNA
+ GetTG_cocoa_ZNA:0 "какао" #GetTG_ZNA
+ GetTG_wool_ZNA:0 "вовну" #GetTG_ZNA
+ GetTG_silk_ZNA:0 "шовк" #GetTG_ZNA
+ GetTG_gold_ZNA:0 "золото" #GetTG_ZNA
+ GetTG_ivory_ZNA:0 "слонову кістку" #GetTG_ZNA
+ GetTG_slaves_ZNA:0 "рабів" #GetTG_ZNA
+ GetTG_tropical_wood_ZNA:0 "тропічну деревину" #GetTG_ZNA
+ GetTG_grain_ZNA:0 "зерно" #GetTG_ZNA
+ GetTG_cloth_ZNA:0 "тканину" #GetTG_ZNA
+ GetTG_fur_ZNA:0 "хутро" #GetTG_ZNA
+ GetTG_naval_supplies_ZNA:0 "снасті" #GetTG_ZNA
+ GetTG_chinaware_ZNA:0 "порцеляну" #GetTG_ZNA
+ GetTG_spices_ZNA:0 "прянощі" #GetTG_ZNA
+ GetTG_dyes_ZNA:0 "фарбники" #GetTG_ZNA
+ GetTG_incense_ZNA:0 "пахощі" #GetTG_ZNA
+ GetTG_livestock_ZNA:0 "худобу" #GetTG_ZNA
+ GetTG_glass_ZNA:0 "скло" #GetTG_ZNA
+ GetTG_paper_ZNA:0 "папір" #GetTG_ZNA
+ GetTG_gems_ZNA:0 "коштовне каміння" #GetTG_ZNA
+ GetTG_coal_ZNA:0 "вугілля" #GetTG_ZNA
+ #Toвapи в opуднoму вiдмiнkу? (Biдoмий чим? Topгiвлi чим?)
+ GetTG_wine_ORU:0 "вином" #GetTG_ORU
+ GetTG_fish_ORU:0 "рибою" #GetTG_ORU
+ GetTG_salt_ORU:0 "сіллю" #GetTG_ORU
+ GetTG_copper_ORU:0 "міддю" #GetTG_ORU
+ GetTG_iron_ORU:0 "залізом" #GetTG_ORU
+ GetTG_tea_ORU:0 "чаєм" #GetTG_ORU
+ GetTG_coffee_ORU:0 "кавою" #GetTG_ORU
+ GetTG_cotton_ORU:0 "бавовною" #GetTG_ORU
+ GetTG_sugar_ORU:0 "цукром" #GetTG_ORU
+ GetTG_tobacco_ORU:0 "тютюном" #GetTG_ORU
+ GetTG_cocoa_ORU:0 "какао" #GetTG_ORU
+ GetTG_wool_ORU:0 "вовною" #GetTG_ORU
+ GetTG_silk_ORU:0 "шовком" #GetTG_ORU
+ GetTG_gold_ORU:0 "золотом" #GetTG_ORU
+ GetTG_ivory_ORU:0 "слоновою кісткою" #GetTG_ORU
+ GetTG_slaves_ORU:0 "рабами" #GetTG_ORU
+ GetTG_tropical_wood_ORU:0 "тропічною деревиною" #GetTG_ORU
+ GetTG_grain_ORU:0 "зерном" #GetTG_ORU
+ GetTG_cloth_ORU:0 "тканиною" #GetTG_ORU
+ GetTG_fur_ORU:0 "хутром" #GetTG_ORU
+ GetTG_naval_supplies_ORU:0 "снастями" #GetTG_ORU
+ GetTG_chinaware_ORU:0 "порцеляною" #GetTG_ORU
+ GetTG_spices_ORU:0 "прянощами" #GetTG_ORU
+ GetTG_dyes_ORU:0 "фарбниками" #GetTG_ORU
+ GetTG_incense_ORU:0 "пахощами" #GetTG_ORU
+ GetTG_livestock_ORU:0 "худобою" #GetTG_ORU
+ GetTG_glass_ORU:0 "склом" #GetTG_ORU
+ GetTG_paper_ORU:0 "папером" #GetTG_ORU
+ GetTG_gems_ORU:0 "коштовним камінням" #GetTG_ORU
+ GetTG_coal_ORU:0 "вугіллям" #GetTG_ORU
+ #Toвapи в мicцeвoму вiдмiнkу? (Нa/у koму? Нa/у чoму?)
+ GetTG_wine_MIS:0 "вині" #GetTG_MIS
+ GetTG_fish_MIS:0 "рибі" #GetTG_MIS
+ GetTG_salt_MIS:0 "солі" #GetTG_MIS
+ GetTG_copper_MIS:0 "міді" #GetTG_MIS
+ GetTG_iron_MIS:0 "залізі" #GetTG_MIS
+ GetTG_tea_MIS:0 "чаї" #GetTG_MIS
+ GetTG_coffee_MIS:0 "каві" #GetTG_MIS
+ GetTG_cotton_MIS:0 "бавовні" #GetTG_MIS
+ GetTG_sugar_MIS:0 "цукрі" #GetTG_MIS
+ GetTG_tobacco_MIS:0 "тютюні" #GetTG_MIS
+ GetTG_cocoa_MIS:0 "какао" #GetTG_MIS
+ GetTG_wool_MIS:0 "вовні" #GetTG_MIS
+ GetTG_silk_MIS:0 "шовку" #GetTG_MIS
+ GetTG_gold_MIS:0 "золоті" #GetTG_MIS
+ GetTG_ivory_MIS:0 "слоновій кістці" #GetTG_MIS
+ GetTG_slaves_MIS:0 "рабах" #GetTG_MIS
+ GetTG_tropical_wood_MIS:0 "тропічній деревині" #GetTG_MIS
+ GetTG_grain_MIS:0 "зерні" #GetTG_MIS
+ GetTG_cloth_MIS:0 "тканині" #GetTG_MIS
+ GetTG_fur_MIS:0 "хутрі" #GetTG_MIS
+ GetTG_naval_supplies_MIS:0 "снастях" #GetTG_MIS
+ GetTG_chinaware_MIS:0 "порцеляні" #GetTG_MIS
+ GetTG_spices_MIS:0 "прянощах" #GetTG_MIS
+ GetTG_dyes_MIS:0 "фарбниках" #GetTG_MIS
+ GetTG_incense_MIS:0 "пахощах" #GetTG_MIS
+ GetTG_livestock_MIS:0 "худобі" #GetTG_MIS
+ GetTG_glass_MIS:0 "склі" #GetTG_MIS
+ GetTG_paper_MIS:0 "папері" #GetTG_MIS
+ GetTG_gems_MIS:0 "коштовному камінні" #GetTG_MIS
+ GetTG_coal_MIS:0 "вугіллі" #GetTG_MIS
+
+ #[Kopoні] кoгo/чогo?
+ string_sublime_porteOGO:0 "Блискучої Порти" #GetStateFormOGO
+ string_crownOGO:0 "Корони" #GetStateFormOGO
+ string_councilOGO:0 "Ради" #GetStateFormOGO
+ #[Kopoну] koму/чому? ""
+ string_sublime_porteOMU:0 "Блискучій Порті" #GetStateFormOMU
+ string_crownOMU:0 "Короні" #GetStateFormOMU
+ string_councilOMU:0 "Раді" #GetStateFormOMU
+ #Немає [Kopoни] ""
+ string_sublime_porteNEMA:0 "Блискучої Порти" #GetStateFormNEMA
+ string_crownNEMA:0 "Корони" #GetStateFormNEMA
+ string_councilNEMA:0 "Ради" #GetStateFormNEMA
+
+ #Fancy Toвapи в poдoвoму вiдмiнkу з вeлиkoї лitepи
+ string_OGO_mother_of_pearl:0 "Перламутру" #GetFanсyTG_OGO
+ string_OGO_cowries:0 "Мушель" #GetFanсyTG_OGO
+ string_OGO_sapphires:0 "Сапфирів" #GetFanсyTG_OGO
+ string_OGO_turquoise:0 "Бірюзи" #GetFanсyTG_OGO
+ string_OGO_rubies:0 "Рубинів" #GetFanсyTG_OGO
+ string_OGO_jade:0 "Нефриту" #GetFanсyTG_OGO
+ string_OGO_amber:0 "Бурштину" #GetFanсyTG_OGO
+ string_OGO_pearls:0 "Перлів" #GetFanсyTG_OGO
+ string_OGO_diamonds:0 "Діамантів" #GetFanсyTG_OGO
+ string_OGO_imperial_eggs:0 "Яєць Фаберже" #GetFanсyTG_OGO
+ string_OGO_miniatures:0 "Мініатюр" #GetFanсyTG_OGO
+ string_OGO_republics:0 "Республік" #GetFanсyTG_OGO
+ string_OGO_calligraphy:0 "Каліграфії" #GetFanсyTG_OGO
+ string_OGO_book_of_hours:0 "Часослова" #GetFanсyTG_OGO
+ string_OGO_fustians:0 "Фланелі" #GetFanсyTG_OGO
+ string_OGO_carpets:0 "Килимів" #GetFanсyTG_OGO
+ string_OGO_draperies:0 "Драпіровок" #GetFanсyTG_OGO
+ string_OGO_chintz:0 "Ситцю" #GetFanсyTG_OGO
+ string_OGO_taffeta:0 "Тафти" #GetFanсyTG_OGO
+ string_OGO_frankincense:0 "Ладану" #GetFanсyTG_OGO
+ string_OGO_cardamom:0 "Кардамону" #GetFanсyTG_OGO
+ string_OGO_saffron:0 "Шафрану" #GetFanсyTG_OGO
+ string_OGO_cinnamon:0 "Кориці" #GetFanсyTG_OGO
+ string_OGO_vanilla:0 "Ванілі" #GetFanсyTG_OGO
+ string_OGO_dates:0 "Фініків" #GetFanсyTG_OGO
+ string_OGO_opium:0 "Опіуму" #GetFanсyTG_OGO
+ string_OGO_long_pepper:0 "Довгого перцю" #GetFanсyTG_OGO
+ string_OGO_nutmeg:0 "Мускатного горіху" #GetFanсyTG_OGO
+ string_OGO_perfume:0 "Парфумів" #GetFanсyTG_OGO
+ string_OGO_pepper:0 "Перцю" #GetFanсyTG_OGO
+ string_OGO_satin:0 "Сатину" #GetFanсyTG_OGO
+ string_OGO_embroidery:0 "Вишивки" #GetFanсyTG_OGO
+ string_OGO_ivory_figurines:0 "Виробів зі слонової кістки" #GetFanсyTG_OGO
+ string_OGO_lacquerware:0 "Лакованих виробів" #GetFanсyTG_OGO
+ string_OGO_jewellery:0 "Ювелірних виробів" #GetFanсyTG_OGO
+ string_OGO_books:0 "Книг" #GetFanсyTG_OGO
+ string_OGO_crystal:0 "Хришталю" #GetFanсyTG_OGO
+ string_OGO_ceramics:0 "Кераміки" #GetFanсyTG_OGO
+ #Fancy Toвapи в знахідному вiдмiнkу з вeлиkoї лitepи
+ string_ZNA_mother_of_pearl:0 "Перламутр" #GetFanсyTG_ZNA
+ string_ZNA_cowries:0 "Мушлі" #GetFanсyTG_ZNA
+ string_ZNA_sapphires:0 "Сапфіри" #GetFanсyTG_ZNA
+ string_ZNA_turquoise:0 "Бірюзу" #GetFanсyTG_ZNA
+ string_ZNA_rubies:0 "Рубіни" #GetFanсyTG_ZNA
+ string_ZNA_jade:0 "Нефрит" #GetFanсyTG_ZNA
+ string_ZNA_amber:0 "Бурштин" #GetFanсyTG_ZNA
+ string_ZNA_pearls:0 "Перли" #GetFanсyTG_ZNA
+ string_ZNA_diamonds:0 "Діаманти" #GetFanсyTG_ZNA
+ string_ZNA_imperial_eggs:0 "Яйця Фаберже" #GetFanсyTG_ZNA
+ string_ZNA_miniatures:0 "Мініатюри" #GetFanсyTG_ZNA
+ string_ZNA_republics:0 "Республіки" #GetFanсyTG_ZNA
+ string_ZNA_calligraphy:0 "Каліграфію" #GetFanсyTG_ZNA
+ string_ZNA_book_of_hours:0 "Часослов" #GetFanсyTG_ZNA
+ string_ZNA_fustians:0 "Фланель" #GetFanсyTG_ZNA
+ string_ZNA_carpets:0 "Килими" #GetFanсyTG_ZNA
+ string_ZNA_draperies:0 "Драпіровки" #GetFanсyTG_ZNA
+ string_ZNA_chintz:0 "Ситець" #GetFanсyTG_ZNA
+ string_ZNA_taffeta:0 "Тафту" #GetFanсyTG_ZNA
+ string_ZNA_frankincense:0 "Ладан" #GetFanсyTG_ZNA
+ string_ZNA_cardamom:0 "Кардамон" #GetFanсyTG_ZNA
+ string_ZNA_saffron:0 "Шафран" #GetFanсyTG_ZNA
+ string_ZNA_cinnamon:0 "Корицю" #GetFanсyTG_ZNA
+ string_ZNA_vanilla:0 "Ваниль" #GetFanсyTG_ZNA
+ string_ZNA_dates:0 "Фініки" #GetFanсyTG_ZNA
+ string_ZNA_opium:0 "Опіум" #GetFanсyTG_ZNA
+ string_ZNA_long_pepper:0 "Довгий перець" #GetFanсyTG_ZNA
+ string_ZNA_nutmeg:0 "Мускатний горіх" #GetFanсyTG_ZNA
+ string_ZNA_perfume:0 "Парфуми" #GetFanсyTG_ZNA
+ string_ZNA_pepper:0 "Перець" #GetFanсyTG_ZNA
+ string_ZNA_satin:0 "Сатин" #GetFanсyTG_ZNA
+ string_ZNA_embroidery:0 "Вишивку" #GetFanсyTG_ZNA
+ string_ZNA_ivory_figurines:0 "Вироби зі слонової кістки" #GetFanсyTG_ZNA
+ string_ZNA_lacquerware:0 "Лаковані вироби" #GetFanсyTG_ZNA
+ string_ZNA_jewellery:0 "Ювелірні вироби" #GetFanсyTG_ZNA
+ string_ZNA_books:0 "Книги" #GetFanсyTG_ZNA
+ string_ZNA_crystal:0 "Хришталь" #GetFanсyTG_ZNA
+ string_ZNA_ceramics:0 "Кераміку" #GetFanсyTG_ZNA
+ #Fancy Toвapи в орудному вiдмiнkу з вeлиkoї лitepи
+ string_ORU_mother_of_pearl:0 "Перламутром" #GetFanсyTG_ORU
+ string_ORU_cowries:0 "Мушлями" #GetFanсyTG_ORU
+ string_ORU_sapphires:0 "Сапфірами" #GetFanсyTG_ORU
+ string_ORU_turquoise:0 "Бірюзою" #GetFanсyTG_ORU
+ string_ORU_rubies:0 "Рубінами" #GetFanсyTG_ORU
+ string_ORU_jade:0 "Нефритом" #GetFanсyTG_ORU
+ string_ORU_amber:0 "Бурштином" #GetFanсyTG_ORU
+ string_ORU_pearls:0 "Перлами" #GetFanсyTG_ORU
+ string_ORU_diamonds:0 "Діамантами" #GetFanсyTG_ORU
+ string_ORU_imperial_eggs:0 "Яйцями Фаберже" #GetFanсyTG_ORU
+ string_ORU_miniatures:0 "Мініатюрами" #GetFanсyTG_ORU
+ string_ORU_republics:0 "Республіками" #GetFanсyTG_ORU
+ string_ORU_calligraphy:0 "Каліграфією" #GetFanсyTG_ORU
+ string_ORU_book_of_hours:0 "Часословом" #GetFanсyTG_ORU
+ string_ORU_fustians:0 "Фланеллю" #GetFanсyTG_ORU
+ string_ORU_carpets:0 "Килимами" #GetFanсyTG_ORU
+ string_ORU_draperies:0 "Драпіровками" #GetFanсyTG_ORU
+ string_ORU_chintz:0 "Ситцем" #GetFanсyTG_ORU
+ string_ORU_taffeta:0 "Тафтами" #GetFanсyTG_ORU
+ string_ORU_frankincense:0 "Ладаном" #GetFanсyTG_ORU
+ string_ORU_cardamom:0 "Кардамоном" #GetFanсyTG_ORU
+ string_ORU_saffron:0 "Шафраном" #GetFanсyTG_ORU
+ string_ORU_cinnamon:0 "Корицею" #GetFanсyTG_ORU
+ string_ORU_vanilla:0 "Ваниллю" #GetFanсyTG_ORU
+ string_ORU_dates:0 "Фініками" #GetFanсyTG_ORU
+ string_ORU_opium:0 "Опіумом" #GetFanсyTG_ORU
+ string_ORU_long_pepper:0 "Довгим перцем" #GetFanсyTG_ORU
+ string_ORU_nutmeg:0 "Мускатним горіхом" #GetFanсyTG_ORU
+ string_ORU_perfume:0 "Парфумами" #GetFanсyTG_ORU
+ string_ORU_pepper:0 "Перцем" #GetFanсyTG_ORU
+ string_ORU_satin:0 "Сатином" #GetFanсyTG_ORU
+ string_ORU_embroidery:0 "Вишивкою" #GetFanсyTG_ORU
+ string_ORU_ivory_figurines:0 "Виробами зі слонової кістки" #GetFanсyTG_ORU
+ string_ORU_lacquerware:0 "Лакованими виробами" #GetFanсyTG_ORU
+ string_ORU_jewellery:0 "Ювелірними виробами" #GetFanсyTG_ORU
+ string_ORU_books:0 "Книгами" #GetFanсyTG_ORU
+ string_ORU_crystal:0 "Хришталем" #GetFanсyTG_ORU
+ string_ORU_ceramics:0 "Керамікою" #GetFanсyTG_ORU
+ #Fancy Toвapи в місцевому вiдмiнkу з вeлиkoї лitepи
+ string_MIS_mother_of_pearl:0 "Перламутрі" #GetFanсyTG_MIS
+ string_MIS_cowries:0 "Мушлях" #GetFanсyTG_MIS
+ string_MIS_sapphires:0 "Сапфірах" #GetFanсyTG_MIS
+ string_MIS_turquoise:0 "Бірюзі" #GetFanсyTG_MIS
+ string_MIS_rubies:0 "Рубінах" #GetFanсyTG_MIS
+ string_MIS_jade:0 "Нефриті" #GetFanсyTG_MIS
+ string_MIS_amber:0 "Бурштині" #GetFanсyTG_MIS
+ string_MIS_pearls:0 "Перлах" #GetFanсyTG_MIS
+ string_MIS_diamonds:0 "Діамантах" #GetFanсyTG_MIS
+ string_MIS_imperial_eggs:0 "Яйцях Фаберже" #GetFanсyTG_MIS
+ string_MIS_miniatures:0 "Мініатюрах" #GetFanсyTG_MIS
+ string_MIS_republics:0 "Республіках" #GetFanсyTG_MIS
+ string_MIS_calligraphy:0 "Каліграфії" #GetFanсyTG_MIS
+ string_MIS_book_of_hours:0 "Часослові" #GetFanсyTG_MIS
+ string_MIS_fustians:0 "Фланелі" #GetFanсyTG_MIS
+ string_MIS_carpets:0 "Килимах" #GetFanсyTG_MIS
+ string_MIS_draperies:0 "Драпіровках" #GetFanсyTG_MIS
+ string_MIS_chintz:0 "Ситці" #GetFanсyTG_MIS
+ string_MIS_taffeta:0 "Тафті" #GetFanсyTG_MIS
+ string_MIS_frankincense:0 "Ладані" #GetFanсyTG_MIS
+ string_MIS_cardamom:0 "Кардамоні" #GetFanсyTG_MIS
+ string_MIS_saffron:0 "Шафрані" #GetFanсyTG_MIS
+ string_MIS_cinnamon:0 "Кориці" #GetFanсyTG_MIS
+ string_MIS_vanilla:0 "Ванілі" #GetFanсyTG_MIS
+ string_MIS_dates:0 "Фініках" #GetFanсyTG_MIS
+ string_MIS_opium:0 "Опіумі" #GetFanсyTG_MIS
+ string_MIS_long_pepper:0 "Довгому перці" #GetFanсyTG_MIS
+ string_MIS_nutmeg:0 "Мускатному горісі" #GetFanсyTG_MIS
+ string_MIS_perfume:0 "Парфумах" #GetFanсyTG_MIS
+ string_MIS_pepper:0 "Перці" #GetFanсyTG_MIS
+ string_MIS_satin:0 "Сатині" #GetFanсyTG_MIS
+ string_MIS_embroidery:0 "Вишивці" #GetFanсyTG_MIS
+ string_MIS_ivory_figurines:0 "Виробах зі слонової кістки" #GetFanсyTG_MIS
+ string_MIS_lacquerware:0 "Лакованих виробах" #GetFanсyTG_MIS
+ string_MIS_jewellery:0 "Ювелірних виробах" #GetFanсyTG_MIS
+ string_MIS_books:0 "Книгах" #GetFanсyTG_MIS
+ string_MIS_crystal:0 "Хришталі" #GetFanсyTG_MIS
+ string_MIS_ceramics:0 "Кераміці" #GetFanсyTG_MIS
+ #Fancy Toвapи в poдoвoму вiдмiнkу з мaлeньkoї
+ stringLOW_OGO_mother_of_pearl:0 "перламутру" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_cowries:0 "мушель" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_sapphires:0 "сапфирів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_turquoise:0 "бірюзи" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_rubies:0 "рубинів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_jade:0 "нефриту" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_amber:0 "бурштину" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_pearls:0 "перлів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_diamonds:0 "діамантів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_imperial_eggs:0 "яєць Фаберже" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_miniatures:0 "мініатюр" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_republics:0 "республік" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_calligraphy:0 "каліграфії" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_book_of_hours:0 "часослова" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_fustians:0 "фланелі" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_carpets:0 "килимів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_draperies:0 "драпіровок" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_chintz:0 "ситцю" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_taffeta:0 "тафти" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_frankincense:0 "ладану" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_cardamom:0 "кардамону" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_saffron:0 "шафрану" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_cinnamon:0 "кориці" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_vanilla:0 "ванілі" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_dates:0 "фініків" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_opium:0 "опіуму" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_long_pepper:0 "довгого перцю" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_nutmeg:0 "мускатного горіху" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_perfume:0 "парфумів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_pepper:0 "перцю" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_satin:0 "сатину" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_embroidery:0 "вишивки" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_ivory_figurines:0 "виробів зі слонової кістки" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_lacquerware:0 "лакованих виробів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_jewellery:0 "ювелірних виробів" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_books:0 "книг" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_crystal:0 "хришталю" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_ceramics:0 "кераміки" #GetFanсyTGLOW_OGO
+ #Fancy Toвapи в знaxiднoму вiдмiнkу з мaлeньkoї
+ stringLOW_ZNA_mother_of_pearl:0 "перламутр" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_cowries:0 "мушлі" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_sapphires:0 "сапфіри" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_turquoise:0 "бірюзу" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_rubies:0 "рубіни" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_jade:0 "нефрит" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_amber:0 "бурштин" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_pearls:0 "перли" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_diamonds:0 "діаманти" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_imperial_eggs:0 "яйця Фаберже" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_miniatures:0 "мініатюри" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_republics:0 "республіки" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_calligraphy:0 "каліграфію" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_book_of_hours:0 "часослов" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_fustians:0 "фланель" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_carpets:0 "килими" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_draperies:0 "драпіровки" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_chintz:0 "ситець" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_taffeta:0 "тафту" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_frankincense:0 "ладан" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_cardamom:0 "кардамон" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_saffron:0 "шафран" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_cinnamon:0 "корицю" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_vanilla:0 "ваниль" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_dates:0 "фініки" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_opium:0 "опіум" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_long_pepper:0 "довгий перець" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_nutmeg:0 "мускатний горіх" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_perfume:0 "парфуми" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_pepper:0 "перець" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_satin:0 "сатин" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_embroidery:0 "вишивку" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_ivory_figurines:0 "вироби зі слонової кістки" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_lacquerware:0 "лаковані вироби" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_jewellery:0 "ювелірні вироби" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_books:0 "книги" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_crystal:0 "хришталь" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_ceramics:0 "кераміку" #GetFanсyTGLOW_ZNA
+ #Fancy Toвapи в opуднoму вiдмiнkу з мaлeньkoї
+ stringLOW_ORU_mother_of_pearl:0 "перламутром" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_cowries:0 "мушлями" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_sapphires:0 "сапфірами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_turquoise:0 "бірюзою" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_rubies:0 "рубінами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_jade:0 "нефритом" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_amber:0 "бурштином" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_pearls:0 "перлами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_diamonds:0 "діамантами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_imperial_eggs:0 "яйцями Фаберже" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_miniatures:0 "мініатюрами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_republics:0 "республіками" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_calligraphy:0 "каліграфією" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_book_of_hours:0 "часословом" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_fustians:0 "фланеллю" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_carpets:0 "килимами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_draperies:0 "драпіровками" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_chintz:0 "ситцем" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_taffeta:0 "тафтами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_frankincense:0 "ладаном" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_cardamom:0 "кардамоном" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_saffron:0 "шафраном" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_cinnamon:0 "корицею" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_vanilla:0 "ваниллю" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_dates:0 "фініками" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_opium:0 "опіумом" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_long_pepper:0 "довгим перцем" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_nutmeg:0 "мускатним горіхом" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_perfume:0 "парфумами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_pepper:0 "перцем" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_satin:0 "сатином" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_embroidery:0 "вишивкою" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_ivory_figurines:0 "виробами зі слонової кістки" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_lacquerware:0 "лакованими виробами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_jewellery:0 "ювелірними виробами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_books:0 "книгами" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_crystal:0 "хришталем" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_ceramics:0 "керамікою" #GetFanсyTGLOW_ORU
+ #Fancy Toвapи в мicцeвoму вiдмiнkу з мaлeньkoї ""
+ stringLOW_MIS_mother_of_pearl:0 "перламутрі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_cowries:0 "мушлях" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_sapphires:0 "сапфірах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_turquoise:0 "бірюзі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_rubies:0 "рубінах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_jade:0 "нефриті" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_amber:0 "бурштині" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_pearls:0 "перлах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_diamonds:0 "діамантах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_imperial_eggs:0 "яйцях Фаберже" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_miniatures:0 "мініатюрах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_republics:0 "республіках" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_calligraphy:0 "каліграфії" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_book_of_hours:0 "часослові" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_fustians:0 "фланелі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_carpets:0 "килимах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_draperies:0 "драпіровках" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_chintz:0 "ситці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_taffeta:0 "тафті" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_frankincense:0 "ладані" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_cardamom:0 "кардамоні" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_saffron:0 "шафрані" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_cinnamon:0 "кориці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_vanilla:0 "ванілі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_dates:0 "фініках" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_opium:0 "опіумі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_long_pepper:0 "довгому перці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_nutmeg:0 "мускатному горісі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_perfume:0 "парфумах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_pepper:0 "перці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_satin:0 "сатині" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_embroidery:0 "вишивці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_ivory_figurines:0 "виробах зі слонової кістки" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_lacquerware:0 "лакованих виробах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_jewellery:0 "ювелірних виробах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_books:0 "книгах" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_crystal:0 "хришталі" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_ceramics:0 "кераміці" #GetFanсyTGLOW_MIS
+ ###Змiннi ctaнiв ""
+ #Змінні в називному вiдмiнkу з маленької літери ""
+ EST_BrahminsNZ:0 "брагмани" #BrahminsNZ
+ EST_MarathaNZ:0 "маратхи" #MarathaNZ
+ EST_RajputNZ:0 "раджпути" #RajputNZ
+ EST_VaisyasNZ:0 "вайш'ї" #VaisyasNZ
+ EST_CossacksNZ:0 "козаки" #CossaсksNZ
+ EST_NomadicNZ:0 "клани" #NomadiсNZ
+ EST_DhimmiNZ:0 "зіммі" #DhimmiNZ
+ EST_JainsNZ:0 "джайни" #JainsNZ
+ EST_churchNZ:0 "священослужителі" #ChurchNZ
+ EST_monasteriesNZ:0 "чернечі ордени" #ChurchNZ
+ EST_babaylanesNZ:0 "бабайлани" #ChurchNZ
+ EST_brahminsNZ:0 "брагмани" #ChurchNZ
+ EST_gentryNZ:0 "шитцу" #ChurchNZ
+ EST_ulemaNZ:0 "улеми" #ChurchNZ
+ EST_tlamacazquehNZ:0 "тламаказкі" #ChurchNZ
+ EST_noblesNZ:0 "дворяни" #NoblesNZ
+ EST_beysNZ:0 "беї" #NoblesNZ
+ EST_boyarsNZ:0 "бояри" #NoblesNZ
+ EST_szlachtaNZ:0 "шляхта" #NoblesNZ
+ EST_timawaNZ:0 "тімава" #NoblesNZ
+ EST_nayaksNZ:0 "наяки" #NoblesNZ
+ EST_samantasNZ:0 "самантаси" #NoblesNZ
+ EST_kshatriyasNZ:0 "кшатрії" #NoblesNZ
+ EST_qinwangNZ:0 "цінвани" #NoblesNZ
+ EST_mansabdarsNZ:0 "мансабдари" #NoblesNZ
+ EST_tetecuhtinNZ:0 "тетекухтини" #NoblesNZ
+ EST_andrianaNZ:0 "андріани" #NoblesNZ
+ EST_amirsNZ:0 "еміри" #NoblesNZ
+ EST_plantersNZ:0 "плантатори" #NoblesNZ
+ EST_bushiNZ:0 "буші" #NoblesNZ
+ EST_burghersNZ:0 "міщани" #BurghersNZ
+ EST_bourgeoisieNZ:0 "буржуа" #BurghersNZ
+ EST_shangbangNZ:0 "шаньбен" #BurghersNZ
+ EST_guildsNZ:0 "купецькі гільдії" #BurghersNZ
+ #Змінні в poдoвoму вiдмiнkу з маленької літери ""
+ EST_BrahminsRD:0 "брагманів" #BrahminsRD
+ EST_MarathaRD:0 "маратхів" #MarathaRD
+ EST_RajputRD:0 "раджпутів" #RajputRD
+ EST_VaisyasRD:0 "вайш'їв" #VaisyasRD
+ EST_CossacksRD:0 "козаків" #CossaсksRD
+ EST_NomadicRD:0 "кланів" #NomadiсRD
+ EST_DhimmiRD:0 "зіммі" #DhimmiRD
+ EST_JainsRD:0 "джайнів" #JainsRD
+ EST_churchRD:0 "священослужителів" #ChurchRD
+ EST_monasteriesRD:0 "чернечих орденів" #ChurchRD
+ EST_babaylanesRD:0 "бабайланів" #ChurchRD
+ EST_brahminsRD:0 "брагманів" #ChurchRD
+ EST_gentryRD:0 "шитцу" #ChurchRD
+ EST_ulemaRD:0 "улемів" #ChurchRD
+ EST_tlamacazquehRD:0 "тламаказкі" #ChurchRD
+ EST_noblesRD:0 "дворян" #NoblesRD
+ EST_beysRD:0 "беїв" #NoblesRD
+ EST_boyarsRD:0 "бояр" #NoblesRD
+ EST_szlachtaRD:0 "шляхти" #NoblesRD
+ EST_timawaRD:0 "тімава" #NoblesRD
+ EST_nayaksRD:0 "наяків" #NoblesRD
+ EST_samantasRD:0 "самантасів" #NoblesRD
+ EST_kshatriyasRD:0 "кшатрії" #NoblesRD
+ EST_qinwangRD:0 "цінванів" #NoblesRD
+ EST_mansabdarsRD:0 "мансабдарів" #NoblesRD
+ EST_tetecuhtinRD:0 "тетекухтинів" #NoblesRD
+ EST_andrianaRD:0 "андріанів" #NoblesRD
+ EST_amirsRD:0 "емірів" #NoblesRD
+ EST_plantersRD:0 "плантаторів" #NoblesRD
+ EST_bushiRD:0 "буші" #NoblesRD
+ EST_burghersRD:0 "міщан" #BurghersRD
+ EST_bourgeoisieRD:0 "буржуа" #BurghersRD
+ EST_shangbangRD:0 "шаньбен" #BurghersRD
+ EST_guildsRD:0 "купецьких гільдій" #BurghersRD
+ #Змінні в дaвальнoму вiдмiнkу з маленької літери ""
+ EST_BrahminsDV:0 "брагманам" #BrahminsDV
+ EST_MarathaDV:0 "маратхам" #MarathaDV
+ EST_RajputDV:0 "раджпутам" #RajputDV
+ EST_VaisyasDV:0 "вайш'ям" #VaisyasDV
+ EST_CossacksDV:0 "козакам" #CossaсksDV
+ EST_NomadicDV:0 "кланам" #NomadiсDV
+ EST_DhimmiDV:0 "зіммі" #DhimmiDV
+ EST_JainsDV:0 "джайнам" #JainsDV
+ EST_churchDV:0 "священослужителям" #ChurchDV
+ EST_monasteriesDV:0 "чернечим орденам" #ChurchDV
+ EST_babaylanesDV:0 "бабайланам" #ChurchDV
+ EST_brahminsDV:0 "брагманам" #ChurchDV
+ EST_gentryDV:0 "шитцу" #ChurchDV
+ EST_ulemaDV:0 "улемам" #ChurchDV
+ EST_tlamacazquehDV:0 "тламаказкі" #ChurchDV
+ EST_noblesDV:0 "дворянам" #NoblesDV
+ EST_beysDV:0 "беям" #NoblesDV
+ EST_boyarsDV:0 "боярам" #NoblesDV
+ EST_szlachtaDV:0 "шляхті" #NoblesDV
+ EST_timawaDV:0 "тімава" #NoblesDV
+ EST_nayaksDV:0 "наякам" #NoblesDV
+ EST_samantasDV:0 "самантасам" #NoblesDV
+ EST_kshatriyasDV:0 "кшатріям" #NoblesDV
+ EST_qinwangDV:0 "цінванам" #NoblesDV
+ EST_mansabdarsDV:0 "мансабдарам" #NoblesDV
+ EST_tetecuhtinDV:0 "тетекухтинам" #NoblesDV
+ EST_andrianaDV:0 "андріанам" #NoblesDV
+ EST_amirsDV:0 "емірам" #NoblesDV
+ EST_plantersDV:0 "плантаторам" #NoblesDV
+ EST_bushiDV:0 "буші" #NoblesDV
+ EST_burghersDV:0 "міщанам" #BurghersDV
+ EST_bourgeoisieDV:0 "буржуа" #BurghersDV
+ EST_shangbangDV:0 "шаньбен" #BurghersDV
+ EST_guildsDV:0 "купецьким гільдіям" #BurghersDV
+ #Змінні в знахідному вiдмiнkу з маленької літери ""
+ EST_BrahminsZN:0 "брагманів" #BrahminsZN
+ EST_MarathaZN:0 "маратхів" #MarathaZN
+ EST_RajputZN:0 "раджпутів" #RajputZN
+ EST_VaisyasZN:0 "вайш'їв" #VaisyasZN
+ EST_CossacksZN:0 "козаків" #CossaсksZN
+ EST_NomadicZN:0 "кланів" #NomadiсZN
+ EST_DhimmiZN:0 "зіммі" #DhimmiZN
+ EST_JainsZN:0 "джайнів" #JainsZN
+ EST_churchZN:0 "священослужителі" #ChurchZN
+ EST_monasteriesZN:0 "чернечі орденів" #ChurchZN
+ EST_babaylanesZN:0 "бабайланів" #ChurchZN
+ EST_brahminsZN:0 "брагманів" #ChurchZN
+ EST_gentryZN:0 "шитцу" #ChurchZN
+ EST_ulemaZN:0 "улемів" #ChurchZN
+ EST_tlamacazquehZN:0 "тламаказкі" #ChurchZN
+ EST_noblesZN:0 "дворян" #NoblesZN
+ EST_beysZN:0 "беїв" #NoblesZN
+ EST_boyarsZN:0 "бояр" #NoblesZN
+ EST_szlachtaZN:0 "шляхту" #NoblesZN
+ EST_timawaZN:0 "тімава" #NoblesZN
+ EST_nayaksZN:0 "наяків" #NoblesZN
+ EST_samantasZN:0 "самантасів" #NoblesZN
+ EST_kshatriyasZN:0 "кшатріїв" #NoblesZN
+ EST_qinwangZN:0 "цінванів" #NoblesZN
+ EST_mansabdarsZN:0 "мансабдарів" #NoblesZN
+ EST_tetecuhtinZN:0 "тетекухтинів" #NoblesZN
+ EST_andrianaZN:0 "андріанів" #NoblesZN
+ EST_amirsZN:0 "емірів" #NoblesZN
+ EST_plantersZN:0 "плантаторів" #NoblesZN
+ EST_bushiZN:0 "буші" #NoblesZN
+ EST_burghersZN:0 "міщан" #BurghersZN
+ EST_bourgeoisieZN:0 "буржуа" #BurghersZN
+ EST_shangbangZN:0 "шаньбен" #BurghersZN
+ EST_guildsZN:0 "купецькі гільдії" #BurghersZN
+ #Змінні в орудному вiдмiнkу з маленької літери ""
+ EST_BrahminsOD:0 "брагманами" #BrahminsOD
+ EST_MarathaOD:0 "маратхами" #MarathaOD
+ EST_RajputOD:0 "раджпутами" #RajputOD
+ EST_VaisyasOD:0 "вайш'ями" #VaisyasOD
+ EST_CossacksOD:0 "козаками" #CossaсksOD
+ EST_NomadicOD:0 "кланами" #NomadiсOD
+ EST_DhimmiOD:0 "зіммі" #DhimmiOD
+ EST_JainsOD:0 "джайнами" #JainsOD
+ EST_churchOD:0 "священослужителями" #ChurchOD
+ EST_monasteriesOD:0 "чернечеми орденами" #ChurchOD
+ EST_babaylanesOD:0 "бабайланами" #ChurchOD
+ EST_brahminsOD:0 "брагманами" #ChurchOD
+ EST_gentryOD:0 "шитцу" #ChurchOD
+ EST_ulemaOD:0 "улемами" #ChurchOD
+ EST_tlamacazquehOD:0 "тламаказкі" #ChurchOD
+ EST_noblesOD:0 "дворянами" #NoblesOD
+ EST_beysOD:0 "беями" #NoblesOD
+ EST_boyarsOD:0 "боярами" #NoblesOD
+ EST_szlachtaOD:0 "шляхтою" #NoblesOD
+ EST_timawaOD:0 "тімава" #NoblesOD
+ EST_nayaksOD:0 "наяками" #NoblesOD
+ EST_samantasOD:0 "самантасами" #NoblesOD
+ EST_kshatriyasOD:0 "кшатріями" #NoblesOD
+ EST_qinwangOD:0 "цінванами" #NoblesOD
+ EST_mansabdarsOD:0 "мансабдарами" #NoblesOD
+ EST_tetecuhtinOD:0 "тетекухтинами" #NoblesOD
+ EST_andrianaOD:0 "андріанами" #NoblesOD
+ EST_amirsOD:0 "емірами" #NoblesOD
+ EST_plantersOD:0 "плантаторами" #NoblesOD
+ EST_bushiOD:0 "буші" #NoblesOD
+ EST_burghersOD:0 "міщанами" #BurghersOD
+ EST_bourgeoisieOD:0 "буржуа" #BurghersOD
+ EST_shangbangOD:0 "шаньбен" #BurghersOD
+ EST_guildsOD:0 "купецькими гільдіями" #BurghersOD
+ #Змінні в місцевому вiдмiнkу з маленької літери ""
+ EST_BrahminsMS:0 "брагманах" #BrahminsMS
+ EST_MarathaMS:0 "маратхах" #MarathaMS
+ EST_RajputMS:0 "раджпутах" #RajputMS
+ EST_VaisyasMS:0 "вайш'ях" #VaisyasMS
+ EST_CossacksMS:0 "козаках" #CossaсksMS
+ EST_NomadicMS:0 "кланах" #NomadiсMS
+ EST_DhimmiMS:0 "зіммі" #DhimmiMS
+ EST_JainsMS:0 "джайнах" #JainsMS
+ EST_churchMS:0 "священослужителях" #ChurchMS
+ EST_monasteriesMS:0 "чернечих орденах" #ChurchMS
+ EST_babaylanesMS:0 "бабайланах" #ChurchMS
+ EST_brahminsMS:0 "брагманах" #ChurchMS
+ EST_gentryMS:0 "шитцу" #ChurchMS
+ EST_ulemaMS:0 "улемах" #ChurchMS
+ EST_tlamacazquehMS:0 "тламаказкі" #ChurchMS
+ EST_noblesMS:0 "дворянах" #NoblesMS
+ EST_beysMS:0 "беях" #NoblesMS
+ EST_boyarsMS:0 "боярах" #NoblesMS
+ EST_szlachtaMS:0 "шляхті" #NoblesMS
+ EST_timawaMS:0 "тімава" #NoblesMS
+ EST_nayaksMS:0 "наяках" #NoblesMS
+ EST_samantasMS:0 "самантасах" #NoblesMS
+ EST_kshatriyasMS:0 "кшатріях" #NoblesMS
+ EST_qinwangMS:0 "цінванах" #NoblesMS
+ EST_mansabdarsMS:0 "мансабдарах" #NoblesMS
+ EST_tetecuhtinMS:0 "тетекухтинах" #NoblesMS
+ EST_andrianaMS:0 "андріанах" #NoblesMS
+ EST_amirsMS:0 "емірах" #NoblesMS
+ EST_plantersMS:0 "плантаторах" #NoblesMS
+ EST_bushiMS:0 "буші" #NoblesMS
+ EST_burghersMS:0 "міщанах" #BurghersMS
+ EST_bourgeoisieMS:0 "буржуа" #BurghersMS
+ EST_shangbangMS:0 "шаньбен" #BurghersMS
+ EST_guildsMS:0 "купецьких гільдіях" #BurghersMS
+ #Змінні в називному вiдмiнkу з вeлиkoї лitepи ""
+ EST_BrahminsNZ_CAP:0 "Брагмани" #BrahminsNZ_CAP
+ EST_MarathaNZ_CAP:0 "Маратхи" #MarathaNZ_CAP
+ EST_RajputNZ_CAP:0 "Раджпути" #RajputNZ_CAP
+ EST_VaisyasNZ_CAP:0 "Вайш'ї" #VaisyasNZ_CAP
+ EST_CossacksNZ_CAP:0 "Козаки" #CossaсksNZ_CAP
+ EST_NomadicNZ_CAP:0 "Клани" #NomadiсNZ_CAP
+ EST_DhimmiNZ_CAP:0 "Зіммі" #DhimmiNZ_CAP
+ EST_JainsNZ_CAP:0 "Джайни" #JainsNZ_CAP
+ EST_churchNZ_CAP:0 "Священослужителі" #ChurchNZ_CAP
+ EST_monasteriesNZ_CAP:0 "Чернечі ордени" #ChurchNZ_CAP
+ EST_babaylanesNZ_CAP:0 "Бабайлани" #ChurchNZ_CAP
+ EST_brahminsNZ_CAP:0 "Брагмани" #ChurchNZ_CAP
+ EST_gentryNZ_CAP:0 "Шитцу" #ChurchNZ_CAP
+ EST_ulemaNZ_CAP:0 "Улеми" #ChurchNZ_CAP
+ EST_tlamacazquehNZ_CAP:0 "Тламаказкі" #ChurchNZ_CAP
+ EST_noblesNZ_CAP:0 "Дворяни" #NoblesNZ_CAP
+ EST_beysNZ_CAP:0 "Беї" #NoblesNZ_CAP
+ EST_boyarsNZ_CAP:0 "Бояри" #NoblesNZ_CAP
+ EST_szlachtaNZ_CAP:0 "Шляхта" #NoblesNZ_CAP
+ EST_timawaNZ_CAP:0 "Тімава" #NoblesNZ_CAP
+ EST_nayaksNZ_CAP:0 "Наяки" #NoblesNZ_CAP
+ EST_samantasNZ_CAP:0 "Самантаси" #NoblesNZ_CAP
+ EST_kshatriyasNZ_CAP:0 "Кшатрії" #NoblesNZ_CAP
+ EST_qinwangNZ_CAP:0 "Цінвани" #NoblesNZ_CAP
+ EST_mansabdarsNZ_CAP:0 "Мансабдари" #NoblesNZ_CAP
+ EST_tetecuhtinNZ_CAP:0 "Тетекухтини" #NoblesNZ_CAP
+ EST_andrianaNZ_CAP:0 "Андріани" #NoblesNZ_CAP
+ EST_amirsNZ_CAP:0 "Еміри" #NoblesNZ_CAP
+ EST_plantersNZ_CAP:0 "Плантатори" #NoblesNZ_CAP
+ EST_bushiNZ_CAP:0 "Буші" #NoblesNZ_CAP
+ EST_burghersNZ_CAP:0 "Міщани" #BurghersNZ_CAP
+ EST_bourgeoisieNZ_CAP:0 "Буржуа" #BurghersNZ_CAP
+ EST_shangbangNZ_CAP:0 "Шаньбен" #BurghersNZ_CAP
+ EST_guildsNZ_CAP:0 "Купецькі гільдії" #BurghersNZ_CAP
+ #Змінні в poдoвoму вiдмiнkу з вeлиkoї лitepи ""
+ EST_BrahminsRD_CAP:0 "Брагманів" #BrahminsRD_CAP
+ EST_MarathaRD_CAP:0 "Маратхів" #MarathaRD_CAP
+ EST_RajputRD_CAP:0 "Раджпутів" #RajputRD_CAP
+ EST_VaisyasRD_CAP:0 "Вайш'їв" #VaisyasRD_CAP
+ EST_CossacksRD_CAP:0 "Козаків" #CossaсksRD_CAP
+ EST_NomadicRD_CAP:0 "Кланів" #NomadiсRD_CAP
+ EST_DhimmiRD_CAP:0 "Зіммі" #DhimmiRD_CAP
+ EST_JainsRD_CAP:0 "Джайнів" #JainsRD_CAP
+ EST_churchRD_CAP:0 "Священослужителів" #ChurchRD_CAP
+ EST_monasteriesRD_CAP:0 "Чернечих орденів" #ChurchRD_CAP
+ EST_babaylanesRD_CAP:0 "Бабайланів" #ChurchRD_CAP
+ EST_brahminsRD_CAP:0 "Брагманів" #ChurchRD_CAP
+ EST_gentryRD_CAP:0 "Шитцу" #ChurchRD_CAP
+ EST_ulemaRD_CAP:0 "Улемів" #ChurchRD_CAP
+ EST_tlamacazquehRD_CAP:0 "Тламаказкі" #ChurchRD_CAP
+ EST_noblesRD_CAP:0 "Дворян" #NoblesRD_CAP
+ EST_beysRD_CAP:0 "Беїв" #NoblesRD_CAP
+ EST_boyarsRD_CAP:0 "Бояр" #NoblesRD_CAP
+ EST_szlachtaRD_CAP:0 "Шляхти" #NoblesRD_CAP
+ EST_timawaRD_CAP:0 "Тімава" #NoblesRD_CAP
+ EST_nayaksRD_CAP:0 "Наяків" #NoblesRD_CAP
+ EST_samantasRD_CAP:0 "Самантасів" #NoblesRD_CAP
+ EST_kshatriyasRD_CAP:0 "Кшатрії" #NoblesRD_CAP
+ EST_qinwangRD_CAP:0 "Цінванів" #NoblesRD_CAP
+ EST_mansabdarsRD_CAP:0 "Мансабдарів" #NoblesRD_CAP
+ EST_tetecuhtinRD_CAP:0 "Тетекухтинів" #NoblesRD_CAP
+ EST_andrianaRD_CAP:0 "Андріанів" #NoblesRD_CAP
+ EST_amirsRD_CAP:0 "Емірів" #NoblesRD_CAP
+ EST_plantersRD_CAP:0 "Плантаторів" #NoblesRD_CAP
+ EST_bushiRD_CAP:0 "Буші" #NoblesRD_CAP
+ EST_burghersRD_CAP:0 "Міщан" #BurghersRD_CAP
+ EST_bourgeoisieRD_CAP:0 "Буржуа" #BurghersRD_CAP
+ EST_shangbangRD_CAP:0 "Шаньбен" #BurghersRD_CAP
+ EST_guildsRD_CAP:0 "Купецьких гільдій" #BurghersRD_CAP
+ #Змінні в давальному вiдмiнkу з вeлиkoї лitepи ""
+ EST_BrahminsDV_CAP:0 "Брагманам" #BrahminsDV_CAP
+ EST_MarathaDV_CAP:0 "Маратхам" #MarathaDV_CAP
+ EST_RajputDV_CAP:0 "Раджпутам" #RajputDV_CAP
+ EST_VaisyasDV_CAP:0 "Вайш'ям" #VaisyasDV_CAP
+ EST_CossacksDV_CAP:0 "Козакам" #CossaсksDV_CAP
+ EST_NomadicDV_CAP:0 "Кланам" #NomadiсDV_CAP
+ EST_DhimmiDV_CAP:0 "Зіммі" #DhimmiDV_CAP
+ EST_JainsDV_CAP:0 "Джайнам" #JainsDV_CAP
+ EST_churchDV_CAP:0 "Священослужителям" #ChurchDV_CAP
+ EST_monasteriesDV_CAP:0 "Чернечим орденам" #ChurchDV_CAP
+ EST_babaylanesDV_CAP:0 "Бабайланам" #ChurchDV_CAP
+ EST_brahminsDV_CAP:0 "Брагманам" #ChurchDV_CAP
+ EST_gentryDV_CAP:0 "Шитцу" #ChurchDV_CAP
+ EST_ulemaDV_CAP:0 "Улемам" #ChurchDV_CAP
+ EST_tlamacazquehDV_CAP:0 "Тламаказкі" #ChurchDV_CAP
+ EST_noblesDV_CAP:0 "Дворянам" #NoblesDV_CAP
+ EST_beysDV_CAP:0 "Беям" #NoblesDV_CAP
+ EST_boyarsDV_CAP:0 "Боярам" #NoblesDV_CAP
+ EST_szlachtaDV_CAP:0 "Шляхті" #NoblesDV_CAP
+ EST_timawaDV_CAP:0 "Тімава" #NoblesDV_CAP
+ EST_nayaksDV_CAP:0 "Наякам" #NoblesDV_CAP
+ EST_samantasDV_CAP:0 "Самантасам" #NoblesDV_CAP
+ EST_kshatriyasDV_CAP:0 "Кшатріям" #NoblesDV_CAP
+ EST_qinwangDV_CAP:0 "Цінванам" #NoblesDV_CAP
+ EST_mansabdarsDV_CAP:0 "Мансабдарам" #NoblesDV_CAP
+ EST_tetecuhtinDV_CAP:0 "Тетекухтинам" #NoblesDV_CAP
+ EST_andrianaDV_CAP:0 "Андріанам" #NoblesDV_CAP
+ EST_amirsDV_CAP:0 "Емірам" #NoblesDV_CAP
+ EST_plantersDV_CAP:0 "Плантаторам" #NoblesDV_CAP
+ EST_bushiDV_CAP:0 "Буші" #NoblesDV_CAP
+ EST_burghersDV_CAP:0 "Міщанам" #BurghersDV_CAP
+ EST_bourgeoisieDV_CAP:0 "Буржуа" #BurghersDV_CAP
+ EST_shangbangDV_CAP:0 "Шаньбен" #BurghersDV_CAP
+ EST_guildsDV_CAP:0 "Купецьким гільдіям" #BurghersDV_CAP
+ #Змінні в знахідному вiдмiнkу з вeлиkoї лitepи ""
+ EST_BrahminsZN_CAP:0 "Брагманів" #BrahminsZN_CAP
+ EST_MarathaZN_CAP:0 "Маратхів" #MarathaZN_CAP
+ EST_RajputZN_CAP:0 "Раджпутів" #RajputZN_CAP
+ EST_VaisyasZN_CAP:0 "Вайш'їв" #VaisyasZN_CAP
+ EST_CossacksZN_CAP:0 "Козаків" #CossaсksZN_CAP
+ EST_NomadicZN_CAP:0 "Кланів" #NomadiсZN_CAP
+ EST_DhimmiZN_CAP:0 "Зіммі" #DhimmiZN_CAP
+ EST_JainsZN_CAP:0 "Джайнів" #JainsZN_CAP
+ EST_churchZN_CAP:0 "Священослужителі" #ChurchZN_CAP
+ EST_monasteriesZN_CAP:0 "Чернечі орденів" #ChurchZN_CAP
+ EST_babaylanesZN_CAP:0 "Бабайланів" #ChurchZN_CAP
+ EST_brahminsZN_CAP:0 "Брагманів" #ChurchZN_CAP
+ EST_gentryZN_CAP:0 "Шитцу" #ChurchZN_CAP
+ EST_ulemaZN_CAP:0 "Улемів" #ChurchZN_CAP
+ EST_tlamacazquehZN_CAP:0 "Тламаказкі" #ChurchZN_CAP
+ EST_noblesZN_CAP:0 "Дворян" #NoblesZN_CAP
+ EST_beysZN_CAP:0 "Беїв" #NoblesZN_CAP
+ EST_boyarsZN_CAP:0 "Бояр" #NoblesZN_CAP
+ EST_szlachtaZN_CAP:0 "Шляхту" #NoblesZN_CAP
+ EST_timawaZN_CAP:0 "Тімава" #NoblesZN_CAP
+ EST_nayaksZN_CAP:0 "Наяків" #NoblesZN_CAP
+ EST_samantasZN_CAP:0 "Самантасів" #NoblesZN_CAP
+ EST_kshatriyasZN_CAP:0 "Кшатріїв" #NoblesZN_CAP
+ EST_qinwangZN_CAP:0 "Цінванів" #NoblesZN_CAP
+ EST_mansabdarsZN_CAP:0 "Мансабдарів" #NoblesZN_CAP
+ EST_tetecuhtinZN_CAP:0 "Тетекухтинів" #NoblesZN_CAP
+ EST_andrianaZN_CAP:0 "Андріанів" #NoblesZN_CAP
+ EST_amirsZN_CAP:0 "Емірів" #NoblesZN_CAP
+ EST_plantersZN_CAP:0 "Плантаторів" #NoblesZN_CAP
+ EST_bushiZN_CAP:0 "Буші" #NoblesZN_CAP
+ EST_burghersZN_CAP:0 "Міщан" #BurghersZN_CAP
+ EST_bourgeoisieZN_CAP:0 "Буржуа" #BurghersZN_CAP
+ EST_shangbangZN_CAP:0 "Шаньбен" #BurghersZN_CAP
+ EST_guildsZN_CAP:0 "Купецькі гільдії" #BurghersZN_CAP
+ #Змінні в орудному вiдмiнkу з вeлиkoї лitepи ""
+ EST_BrahminsOD_CAP:0 "Брагманами" #BrahminsOD_CAP
+ EST_MarathaOD_CAP:0 "Маратхами" #MarathaOD_CAP
+ EST_RajputOD_CAP:0 "Раджпутами" #RajputOD_CAP
+ EST_VaisyasOD_CAP:0 "Вайш'ями" #VaisyasOD_CAP
+ EST_CossacksOD_CAP:0 "Козаками" #CossaсksOD_CAP
+ EST_NomadicOD_CAP:0 "Кланами" #NomadiсOD_CAP
+ EST_DhimmiOD_CAP:0 "Зіммі" #DhimmiOD_CAP
+ EST_JainsOD_CAP:0 "Джайнами" #JainsOD_CAP
+ EST_churchOD_CAP:0 "Священослужителями" #ChurchOD_CAP
+ EST_monasteriesOD_CAP:0 "Чернечеми орденами" #ChurchOD_CAP
+ EST_babaylanesOD_CAP:0 "Бабайланами" #ChurchOD_CAP
+ EST_brahminsOD_CAP:0 "Брагманами" #ChurchOD_CAP
+ EST_gentryOD_CAP:0 "Шитцу" #ChurchOD_CAP
+ EST_ulemaOD_CAP:0 "Улемами" #ChurchOD_CAP
+ EST_tlamacazquehOD_CAP:0 "Тламаказкі" #ChurchOD_CAP
+ EST_noblesOD_CAP:0 "Дворянами" #NoblesOD_CAP
+ EST_beysOD_CAP:0 "Беями" #NoblesOD_CAP
+ EST_boyarsOD_CAP:0 "Боярами" #NoblesOD_CAP
+ EST_szlachtaOD_CAP:0 "Шляхтою" #NoblesOD_CAP
+ EST_timawaOD_CAP:0 "Тімава" #NoblesOD_CAP
+ EST_nayaksOD_CAP:0 "Наяками" #NoblesOD_CAP
+ EST_samantasOD_CAP:0 "Самантасами" #NoblesOD_CAP
+ EST_kshatriyasOD_CAP:0 "Кшатріями" #NoblesOD_CAP
+ EST_qinwangOD_CAP:0 "Цінванами" #NoblesOD_CAP
+ EST_mansabdarsOD_CAP:0 "Мансабдарами" #NoblesOD_CAP
+ EST_tetecuhtinOD_CAP:0 "Тетекухтинами" #NoblesOD_CAP
+ EST_andrianaOD_CAP:0 "Андріанами" #NoblesOD_CAP
+ EST_amirsOD_CAP:0 "Емірами" #NoblesOD_CAP
+ EST_plantersOD_CAP:0 "Плантаторами" #NoblesOD_CAP
+ EST_bushiOD_CAP:0 "Буші" #NoblesOD_CAP
+ EST_burghersOD_CAP:0 "Міщанами" #BurghersOD_CAP
+ EST_bourgeoisieOD_CAP:0 "Буржуа" #BurghersOD_CAP
+ EST_shangbangOD_CAP:0 "Шаньбен" #BurghersOD_CAP
+ EST_guildsOD_CAP:0 "Купецькими гільдіями" #BurghersOD_CAP
+ #Змінні в місцевому вiдмiнkу з вeлиkoї лitepи ""
+ EST_BrahminsMS_CAP:0 "Брагманах" #BrahminsMS_CAP
+ EST_MarathaMS_CAP:0 "Маратхах" #MarathaMS_CAP
+ EST_RajputMS_CAP:0 "Раджпутах" #RajputMS_CAP
+ EST_VaisyasMS_CAP:0 "Вайш'ях" #VaisyasMS_CAP
+ EST_CossacksMS_CAP:0 "Козаках" #CossaсksMS_CAP
+ EST_NomadicMS_CAP:0 "Кланах" #NomadiсMS_CAP
+ EST_DhimmiMS_CAP:0 "Зіммі" #DhimmiMS_CAP
+ EST_JainsMS_CAP:0 "Джайнах" #JainsMS_CAP
+ EST_churchMS_CAP:0 "Священослужителях" #ChurchMS_CAP
+ EST_monasteriesMS_CAP:0 "Чернечих орденах" #ChurchMS_CAP
+ EST_babaylanesMS_CAP:0 "Бабайланах" #ChurchMS_CAP
+ EST_brahminsMS_CAP:0 "Брагманах" #ChurchMS_CAP
+ EST_gentryMS_CAP:0 "Шитцу" #ChurchMS_CAP
+ EST_ulemaMS_CAP:0 "Улемах" #ChurchMS_CAP
+ EST_tlamacazquehMS_CAP:0 "Тламаказкі" #ChurchMS_CAP
+ EST_noblesMS_CAP:0 "Дворянах" #NoblesMS_CAP
+ EST_beysMS_CAP:0 "Беях" #NoblesMS_CAP
+ EST_boyarsMS_CAP:0 "Боярах" #NoblesMS_CAP
+ EST_szlachtaMS_CAP:0 "Шляхті" #NoblesMS_CAP
+ EST_timawaMS_CAP:0 "Тімава" #NoblesMS_CAP
+ EST_nayaksMS_CAP:0 "Наяках" #NoblesMS_CAP
+ EST_samantasMS_CAP:0 "Самантасах" #NoblesMS_CAP
+ EST_kshatriyasMS_CAP:0 "Кшатріях" #NoblesMS_CAP
+ EST_qinwangMS_CAP:0 "Цінванах" #NoblesMS_CAP
+ EST_mansabdarsMS_CAP:0 "Мансабдарах" #NoblesMS_CAP
+ EST_tetecuhtinMS_CAP:0 "Тетекухтинах" #NoblesMS_CAP
+ EST_andrianaMS_CAP:0 "Андріанах" #NoblesMS_CAP
+ EST_amirsMS_CAP:0 "Емірах" #NoblesMS_CAP
+ EST_plantersMS_CAP:0 "Плантаторах" #NoblesMS_CAP
+ EST_bushiMS_CAP:0 "Буші" #NoblesMS_CAP
+ EST_burghersMS_CAP:0 "Міщанах" #BurghersMS_CAP
+ EST_bourgeoisieMS_CAP:0 "Буржуа" #BurghersMS_CAP
+ EST_shangbangMS_CAP:0 "Шаньбен" #BurghersMS_CAP
+ EST_guildsMS_CAP:0 "Купецьких гільдіях" #BurghersMS_CAP
