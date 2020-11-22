@@ -230,24 +230,24 @@
  FEMALE_ENDING_LjKA:0 "ька" #GetEndLjKa
 
  #Бачу [Корону] кого/що?
- string_sublimе_роrtеSCHO:0 "Блискучу Порту" #GеtStаtеFоrmSCHO
- string_сrоwnSCHO:0 "Kорону" #GеtStаtеFоrmSCHO
- string_соunсilSCHO:0 "Раду" #GеtStаtеFоrmSCHO
+ string_sublime_porteSCHO:0 "Блискучу Порту" #GеtStаtеFоrmSCHO
+ string_crownSCHO:0 "Kорону" #GеtStаtеFоrmSCHO
+ string_councilSCHO:0 "Раду" #GеtStаtеFоrmSCHO
  string_govtnameSCHO:0 "[This.GovernmentSCHO]" #GеtStаtеFоrmSCHO
  #[Корону] кому/чому?
- string_sublimе_роrtеOMU:0 "Блискучій Порті" #GеtStаtеFоrmOMU
- string_сrоwnOMU:0 "Kороні" #GеtStаtеFоrmOMU
- string_соunсilOMU:0 "Раді" #GеtStаtеFоrmOMU
+ string_sublime_porteOMU:0 "Блискучій Порті" #GеtStаtеFоrmOMU
+ string_crownOMU:0 "Kороні" #GеtStаtеFоrmOMU
+ string_councilOMU:0 "Раді" #GеtStаtеFоrmOMU
  string_govtnameOMU:0 "[This.GovernmentOMU]" #GеtStаtеFоrmOMU
  #Немає [Корони]
- string_sublimе_роrtеNEMA:0 "Блискучої Порти" #GеtStаtеFоrmNEMA
- string_сrоwnNEMA:0 "Kорони" #GеtStаtеFоrmNEMA
- string_соunсilNEMA:0 "Ради" #GеtStаtеFоrmNEMA
+ string_sublime_porteNEMA:0 "Блискучої Порти" #GеtStаtеFоrmNEMA
+ string_crownNEMA:0 "Kорони" #GеtStаtеFоrmNEMA
+ string_councilNEMA:0 "Ради" #GеtStаtеFоrmNEMA
  string_govtnameNEMA:0 "[This.GovernmentOGO]" #GеtStаtеFоrmNEMA
  #Ким/чим? [Короною]
- string_sublimе_роrtеKYM:0 "Блискучої Портою" #GеtStаtеFоrmKYM
- string_сrоwnKYM:0 "Kороною" #GеtStаtеFоrmKYM
- string_соunсilKYM:0 "Радою" #GеtStаtеFоrmKYM
+ string_sublime_porteKYM:0 "Блискучої Портою" #GеtStаtеFоrmKYM
+ string_crownKYM:0 "Kороною" #GеtStаtеFоrmKYM
+ string_councilKYM:0 "Радою" #GеtStаtеFоrmKYM
  string_govtnameKYM:0 "[This.GovernmentKYM]" #GеtStаtеFоrmKYM
 
 ###Локалізації у файлах інтерфейсу: \Europa Universalis IV\interface
