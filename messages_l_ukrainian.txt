@@ -1275,7 +1275,7 @@
  FABRICATECLAIMSTHEM_1:0 "Сфабриковано претензії"
  FABRICATECLAIMSTHEM_2:0 "$MONARCHTITLE$, ці підступні шахраї з держави"
  FABRICATECLAIMSTHEM_3:0 "$WHO$"
- FABRICATECLAIMSTHEM_4:0 "мають наглість заявити свої права на провінцію $TARGET$."
+ FABRICATECLAIMSTHEM_4:0 "мають нахабство заявити свої права на провінцію $TARGET$."
  FABRICATECLAIMSTHEM_5:0 "Незважаючи на те, що їхні претензії підроблені, цього буде достатньо для обґрунтування війни, якщо вони забажають."
  FABRICATECLAIMSTHEM_LOG:0 "Держава $WHO$ сфабрикувала претензії на провінцію $TARGET$."
  FABRICATECLAIMSTHEM_BTN1:0 "Гаразд"
