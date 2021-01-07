@@ -2510,7 +2510,7 @@
  china_superregion:0 "Китай"
  china_superregion_name:0 "Китай"
  china_superregion_adj:0 "Китайськ"
- east_indies_superregion:0 "Індонезія"
+ east_indies_superregion:0 "Ост-Індія"
  east_indies_superregion_name:0 "Індонезія"
  east_indies_superregion_adj:0 "Індонезійськ"
  india_superregion:0 "Індія"
