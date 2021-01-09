@@ -687,7 +687,7 @@
  estate_privileges_and_agendas_events.3.d:1 "Пропозиція [Root.NoblesRD]"
  estate_privileges_and_agendas_events.3.e:1 "Пропозиція [Root.BurghersRD]"
  estate_privileges_and_agendas_events.3.f:1 "Пропозиція [Root.VaisyasRD]"
- estate_privileges_and_agendas_events.3.g:1 "Пропозиція [Root.CossaсksRD]"
+ estate_privileges_and_agendas_events.3.g:1 "Пропозиція [Root.CossacksRD]"
  estate_privileges_and_agendas_events.3.h:1 "Пропозиція [Root.NomadiсRD]"
  estate_privileges_and_agendas_events.3.i:1 "Пропозиція [Root.DhimmiRD]"
  estate_privileges_and_agendas_events.3.j:1 "Пропозиція [Root.JainsRD]"
