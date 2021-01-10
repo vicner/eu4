@@ -10,7 +10,7 @@
  PLC_country_string_OMU:0 "Річі Посполитій"
  ###--GetUsableNameOGO
  plural_country_name_OGO:0 "[This.GetAdjective]. [This.GovernmentOGO]"
- already_has_proper_name_DE:0 "[This.GetTagOGO]"
+ already_has_proper_name_OGO:0 "[This.GetTagOGO]"
  PLC_country_string_OGO:0 "Річі Посполитої"
  ###--GetUsableNameSCHO
  plural_country_name_SCHO:0 "[This.GetAdjective]. [This.GovernmentSCHO]"
@@ -32,7 +32,7 @@
  PLC_country_string_OMU_CAP:0 "Річі Посполитій"
  ###--GetUsableNameOGO_CAP
  plural_country_name_OGO_CAP:0 "[This.GetAdjective]. [This.GovernmentOGO_CAP]"
- already_has_proper_name_DE_CAP:0 "[This.GetTagOGO_CAP]"
+ already_has_proper_name_OGO_CAP:0 "[This.GetTagOGO_CAP]"
  PLC_country_string_OGO_CAP:0 "Річі Посполитої"
  ###--GetUsableNameSCHO_CAP
  plural_country_name_SCHO_CAP:0 "[This.GetAdjective]. [This.GovernmentSCHO_CAP]"
