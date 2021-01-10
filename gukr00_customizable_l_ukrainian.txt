@@ -459,10 +459,10 @@
  string_sublime_porteOMU:0 "Блискучій Порті" #GetStateFormOMU
  string_crownOMU:0 "Короні" #GetStateFormOMU
  string_councilOMU:0 "Раді" #GetStateFormOMU
- #Немає [Kopoни] ""
- string_sublime_porteNEMA:0 "Блискучої Порти" #GetStateFormNEMA
- string_crownNEMA:0 "Корони" #GetStateFormNEMA
- string_councilNEMA:0 "Ради" #GetStateFormNEMA
+ #Ким/чим? [Kopoною] ""
+ string_sublime_porteKYM:0 "Блискучою Портою" #GеtStаtеFоrmKYM
+ string_crownKYM:0 "Короною" #GеtStаtеFоrmKYM
+ string_councilKYM:0 "Радою" #GеtStаtеFоrmKYM
 
  #Fancy Toвapи в poдoвoму вiдмiнkу з вeлиkoї лitepи
  string_OGO_mother_of_pearl:0 "Перламутру" #GetFanсyTG_OGO
@@ -796,7 +796,7 @@
  EST_noblesNZ:0 "дворяни" #NoblesNZ
  EST_beysNZ:0 "беї" #NoblesNZ
  EST_boyarsNZ:0 "бояри" #NoblesNZ
- EST_szlachtaNZ:0 "шляхта" #NoblesNZ
+ EST_szlachtaNZ:0 "шляхтичі" #NoblesNZ
  EST_timawaNZ:0 "тімава" #NoblesNZ
  EST_nayaksNZ:0 "наяки" #NoblesNZ
  EST_samantasNZ:0 "самантаси" #NoblesNZ
@@ -1006,7 +1006,7 @@
  EST_noblesNZ_CAP:0 "Дворяни" #NoblesNZ_CAP
  EST_beysNZ_CAP:0 "Беї" #NoblesNZ_CAP
  EST_boyarsNZ_CAP:0 "Бояри" #NoblesNZ_CAP
- EST_szlachtaNZ_CAP:0 "Шляхта" #NoblesNZ_CAP
+ EST_szlachtaNZ_CAP:0 "Шляхтичі" #NoblesNZ_CAP
  EST_timawaNZ_CAP:0 "Тімава" #NoblesNZ_CAP
  EST_nayaksNZ_CAP:0 "Наяки" #NoblesNZ_CAP
  EST_samantasNZ_CAP:0 "Самантаси" #NoblesNZ_CAP
