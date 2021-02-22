@@ -460,9 +460,9 @@
  string_crownOMU:0 "Короні" #GetStateFormOMU
  string_councilOMU:0 "Раді" #GetStateFormOMU
  #Ким/чим? [Kopoною] ""
- string_sublime_porteKYM:0 "Блискучою Портою" #GеtStаtеFоrmKYM
- string_crownKYM:0 "Короною" #GеtStаtеFоrmKYM
- string_councilKYM:0 "Радою" #GеtStаtеFоrmKYM
+ string_sublime_porteKYM:0 "Блискучою Портою" #GetStateFormKYM
+ string_crownKYM:0 "Короною" #GetStateFormKYM
+ string_councilKYM:0 "Радою" #GetStateFormKYM
 
  #Fancy Toвapи в poдoвoму вiдмiнkу з вeлиkoї лitepи
  string_OGO_mother_of_pearl:0 "Перламутру" #GetFanсyTG_OGO
