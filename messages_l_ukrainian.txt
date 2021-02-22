@@ -5562,7 +5562,7 @@
  CURIACONTROLLEROTHER_SETUP:0 "Інша держава починає контролювати Папу"
  CURIACONTROLLEROTHER_HEADER:0 "Новини Святого престолу:"
  CURIACONTROLLEROTHER_1:0 "Обрано нового Папу!"
- CURIACONTROLLEROTHER_2:0 "$POPE$ був вибраний папським конклавом."
+ CURIACONTROLLEROTHER_2:0 "$POPE$ був обраний папським конклавом."
  CURIACONTROLLEROTHER_3:0 "Держава §Y$CONTROLLER$§W"
  CURIACONTROLLEROTHER_4:1 "змогла заручитися підтримкою достатнього числа кардиналів і отримати"
  CURIACONTROLLEROTHER_5:0 "контроль над Папою"
