@@ -602,7 +602,7 @@
  NEW_ACHIEVEMENT_47_NAME:0 "Everything's Coming Up Mulhouse"
  NEW_ACHIEVEMENT_47_DESC:0 "Starting as Mulhouse, become Emperor of the HRE and completely decentralize the Empire."
  NEW_ACHIEVEMENT_48_NAME:0 "Global Hegemony"
- NEW_ACHIEVEMENT_49_DESC:0 "Reach 100% Strength as any type of Hegemon."
+ NEW_ACHIEVEMENT_48_DESC:0 "Reach 100% Strength as any type of Hegemon."
  NEW_ACHIEVEMENT_50_NAME:0 "God Tier"
  NEW_ACHIEVEMENT_50_DESC:0 "Become a Tier 5 Defender of the Faith as a nation that is neither Catholic nor Sunni."
  NEW_ACHIEVEMENT_51_NAME:0 "Spaghetti Western"
