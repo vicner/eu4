@@ -626,7 +626,7 @@
  desc_agenda_guaranteed_minority_rights:0 "Права меншостей у цій провінції нещодавно було гарантовано, що дозволило населенню зітхнути з полегшенням."
  #New Parliamentary Debate
  increase_crown_land_share:0 "Централізувати землеволодіння"
- desc_increase_crown_land_share:0 "Централізуючи право власності на землю в королівських руках, ми можемо набагато краще контролювати широку владу станів."
+ desc_increase_crown_land_share:0 "Централізуючи право власності на землю в королівських руках, ми можемо набагато краще контролювати необмежену владу станів."
  #Estate monopoly events 
  monopoly_privileges.1.t:0 "Розширення монополії на текстиль"
  monopoly_privileges.1.d.burghers:0 "Монополія на текстиль, яку ми надали [Root.BurghersDV], минула. Це означає, що тепер ми знову зможемо отримувати прибуток від нашого текстильного виробництва. Проте, [Root.BurghersNZ] прагнуть зберегти свої привілеї та пропонують виплатити нам одноразову суму в обмін на гарантовану монополію протягом наступних 10 років."
@@ -714,7 +714,7 @@
 
  pay_crown_land:0 "Дозвіл на використання земель корони"
 
- estate_church_propagate_religion_trigger_tooltip:2 "Усі населені провінції в торговому вузлі §Y[agenda_trade_node.GetTradeNodeName]§! сповідують §Y[Root.Religion.ReligionSmall]§!, або дотримуються християнської, мусульманської чи юдейської віри."
+ estate_church_propagate_religion_trigger_tooltip:2 "Усі заселені провінції в торговому вузлі §Y[agenda_trade_node.GetTradeNodeName]§! сповідують §Y[Root.Religion.ReligionSmall]§!, або дотримуються християнської, мусульманської чи юдейської віри."
  agenda_automatically_completed_explain_dhimmi:0 "§R25%§! місцевої автономії додано в провінції §Y[agenda_province.GetName]§!."
  estate_nobles_protect_our_culture_effect_tooltip:0 "У разі окупації, сепаратизм у провінції §Y[agenda_province.GetName]§! зменшиться на §G5§! років."
  owned_by_country_of_root_religion:0 "Є власністю держави, що сповідує §Y[Root.Religion.ReligionSmall]§!."
