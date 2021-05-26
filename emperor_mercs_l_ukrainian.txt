@@ -103,7 +103,7 @@
  COMPANY_NOT_HIRED_MONTHS:0 "Було найнято менше ніж на $VAL|Y$ місяців."
  COMPANY_ADD_MANPOWER:1 "Найманська компанія $COMPANY|Y$ відновить до $VAL|Y$% рекрутів у резерві."
  COMPANY_LOSE_MANPOWER:1 "Найманська компанія $COMPANY|Y$ втратить до $VAL|R$% рекрутів у резерві."
- ONLY_MERCENARY_MODIFIER:0 "§YAffects only Mercenary Regiments§!"
+ ONLY_MERCENARY_MODIFIER:0 "§YДіє лише на полки найманців§!"
  merc_swiss_guard:0 "Швейцарська гвардія"
  merc_bande_nere:0 "Чорні загони"
  merc_schwarze_garde:0 "Чорна гвардія"
