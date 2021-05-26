@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  MERC_COST_BASE:0 "Від складу: $VAL|Y$¤\n"
  MERC_COST_TYPE:0 "$NAME$: $VAL|-=%$\n"
  MERC_ORIGIN:0 "\nЦе рідна провінція для $NAME|Y$"
