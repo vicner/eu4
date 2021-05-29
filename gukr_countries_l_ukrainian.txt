@@ -437,7 +437,7 @@
  TAG_OGO_SHM:0 "Шаммара" #GetTagOGO
  TAG_OGO_ARB:0 "Аравії" #GetTagOGO
  TAG_OGO_GRM:0 "Герміяна" #GetTagOGO
- TAG_OGO_MPH:0 "Муан Пуаня" #GetTagOGO
+ TAG_OGO_MPH:0 "Муанг Фуаня" #GetTagOGO
  TAG_OGO_LIG:0 "Лігора" #GetTagOGO
  TAG_OGO_JOH:0 "Джохора" #GetTagOGO
  TAG_OGO_KED:0 "Кедаха" #GetTagOGO
@@ -696,7 +696,7 @@
  TAG_OGO_LAC:0 "Цоциля" #GetTagOGO
  TAG_OGO_KAQ:0 "Какчикелі" #GetTagOGO
  TAG_OGO_CTM:0 "Чактемалі" #GetTagOGO
- TAG_OGO_KER:0 "Кересів" #GetTagOGO
+ TAG_OGO_KER:0 "Зії" #GetTagOGO
  TAG_OGO_ZNI:0 "Зуні" #GetTagOGO
  TAG_OGO_MSC:0 "Мескалеро" #GetTagOGO
  TAG_OGO_LIP:0 "Ліпана" #GetTagOGO
@@ -1242,7 +1242,7 @@
  TAG_KUDY_SHM:0 "Шаммар" #GetTagKUDY
  TAG_KUDY_ARB:0 "Аравію" #GetTagKUDY
  TAG_KUDY_GRM:0 "Герміян" #GetTagKUDY
- TAG_KUDY_MPH:0 "Муан Пуань" #GetTagKUDY
+ TAG_KUDY_MPH:0 "Муанг Фуань" #GetTagKUDY
  TAG_KUDY_LIG:0 "Лігор" #GetTagKUDY
  TAG_KUDY_JOH:0 "Джохор" #GetTagKUDY
  TAG_KUDY_KED:0 "Кедах" #GetTagKUDY
@@ -1501,7 +1501,7 @@
  TAG_KUDY_LAC:0 "Цоциль" #GetTagKUDY
  TAG_KUDY_KAQ:0 "Какчикелі" #GetTagKUDY
  TAG_KUDY_CTM:0 "Чактемалі" #GetTagKUDY
- TAG_KUDY_KER:0 "Кересів" #GetTagKUDY
+ TAG_KUDY_KER:0 "Зію" #GetTagKUDY
  TAG_KUDY_ZNI:0 "Зуні" #GetTagKUDY
  TAG_KUDY_MSC:0 "Мескалеро" #GetTagKUDY
  TAG_KUDY_LIP:0 "Ліпан" #GetTagKUDY
@@ -2047,7 +2047,7 @@
  TAG_KYM_SHM:0 "Шаммаром" #GetTagKYM
  TAG_KYM_ARB:0 "Аравією" #GetTagKYM
  TAG_KYM_GRM:0 "Герміяном" #GetTagKYM
- TAG_KYM_MPH:0 "Муан Пуанем" #GetTagKYM
+ TAG_KYM_MPH:0 "Муанг Фуанем" #GetTagKYM
  TAG_KYM_LIG:0 "Лігором" #GetTagKYM
  TAG_KYM_JOH:0 "Джохором" #GetTagKYM
  TAG_KYM_KED:0 "Кедахом" #GetTagKYM
@@ -2306,7 +2306,7 @@
  TAG_KYM_LAC:0 "Цоцилем" #GetTagKYM
  TAG_KYM_KAQ:0 "Какчикелі" #GetTagKYM
  TAG_KYM_CTM:0 "Чактемалі" #GetTagKYM
- TAG_KYM_KER:0 "Кересами" #GetTagKYM
+ TAG_KYM_KER:0 "Зією" #GetTagKYM
  TAG_KYM_ZNI:0 "Зуні" #GetTagKYM
  TAG_KYM_MSC:0 "Мескалеро" #GetTagKYM
  TAG_KYM_LIP:0 "Ліпаном" #GetTagKYM
@@ -2852,7 +2852,7 @@
  TAG_DE_SHM:0 "Шаммарі" #GetTagDE
  TAG_DE_ARB:0 "Аравії" #GetTagDE
  TAG_DE_GRM:0 "Герміяні" #GetTagDE
- TAG_DE_MPH:0 "Муан Пуані" #GetTagDE
+ TAG_DE_MPH:0 "Муанг Фуані" #GetTagDE
  TAG_DE_LIG:0 "Лігорі" #GetTagDE
  TAG_DE_JOH:0 "Джохорі" #GetTagDE
  TAG_DE_KED:0 "Кедаху" #GetTagDE
@@ -3111,7 +3111,7 @@
  TAG_DE_LAC:0 "Цоцилі" #GetTagDE
  TAG_DE_KAQ:0 "Какчикелі" #GetTagDE
  TAG_DE_CTM:0 "Чактемалі" #GetTagDE
- TAG_DE_KER:0 "Кересів" #GetTagDE
+ TAG_DE_KER:0 "Зії" #GetTagDE
  TAG_DE_ZNI:0 "Зуні" #GetTagDE
  TAG_DE_MSC:0 "Мескалеро" #GetTagDE
  TAG_DE_LIP:0 "Ліпані" #GetTagDE
@@ -3657,7 +3657,7 @@
  TAG_OMU_SHM:0 "Шаммару" #GetTagOMU
  TAG_OMU_ARB:0 "Аравії" #GetTagOMU
  TAG_OMU_GRM:0 "Герміяну" #GetTagOMU
- TAG_OMU_MPH:0 "Муан Пуаню" #GetTagOMU
+ TAG_OMU_MPH:0 "Муанг Фуаню" #GetTagOMU
  TAG_OMU_LIG:0 "Лігору" #GetTagOMU
  TAG_OMU_JOH:0 "Джохору" #GetTagOMU
  TAG_OMU_KED:0 "Кедаху" #GetTagOMU
@@ -3916,7 +3916,7 @@
  TAG_OMU_LAC:0 "Цоцилю" #GetTagOMU
  TAG_OMU_KAQ:0 "Какчикелі" #GetTagOMU
  TAG_OMU_CTM:0 "Чактемалі" #GetTagOMU
- TAG_OMU_KER:0 "Кересам" #GetTagOMU
+ TAG_OMU_KER:0 "Зії" #GetTagOMU
  TAG_OMU_ZNI:0 "Зуні" #GetTagOMU
  TAG_OMU_MSC:0 "Мескалеро" #GetTagOMU
  TAG_OMU_LIP:0 "Ліпану" #GetTagOMU
@@ -4462,7 +4462,7 @@
  TAG_KLY_SHM:0 "Шаммаре" #GetTagKLY
  TAG_KLY_ARB:0 "Аравіє" #GetTagKLY
  TAG_KLY_GRM:0 "Герміяне" #GetTagKLY
- TAG_KLY_MPH:0 "Муан Пуане" #GetTagKLY
+ TAG_KLY_MPH:0 "Муанг Фуаню" #GetTagKLY
  TAG_KLY_LIG:0 "Лігоре" #GetTagKLY
  TAG_KLY_JOH:0 "Джохоре" #GetTagKLY
  TAG_KLY_KED:0 "Кедаху" #GetTagKLY
@@ -4721,7 +4721,7 @@
  TAG_KLY_LAC:0 "Цоцилю" #GetTagKLY
  TAG_KLY_KAQ:0 "Какчикелі" #GetTagKLY
  TAG_KLY_CTM:0 "Чактемалі" #GetTagKLY
- TAG_KLY_KER:0 "Кереси" #GetTagKLY
+ TAG_KLY_KER:0 "Зія" #GetTagKLY
  TAG_KLY_ZNI:0 "Зуні" #GetTagKLY
  TAG_KLY_MSC:0 "Мескалеро" #GetTagKLY
  TAG_KLY_LIP:0 "Ліпане" #GetTagKLY
