@@ -213,7 +213,7 @@
  mechanic_force_admiral_leader_no:0 "" # deliberately blank
  mechanic_admirals_become_rulers_yes:0 "Адмірал стає правителем, коли нинішній правитель вмирає."
  mechanic_admirals_become_rulers_no:0 "" # deliberately blank
- pirates.1.t:0 "Вибори в [Root.GovernmentName]"
+ pirates.1.t:0 "Вибори до [Root.GetGovernmentOGO]"
  pirates.1.desc:0 "A [Root.Monarch.GetTitle] rules over a nation of thieves and murderers whose sole political desire is to not be ruled at all. It is a task comparable to herding sharks, yet some brave or foolhardy soul must fill the role.\n\nThe time has come once again to elect the [Root.Monarch.GetTitle], and [Root.Monarch.GetName] does not plan on giving up [Root.Monarch.GetHerHis] authority.  [Root.Monarch.GetName] must convince the assembled pirates through persuasion or dread intimidation that [Root.Monarch.GetHerHis] rule is preferable to that of [Root.Monarch.GetHerHis] rivals."
  pirates.1.desc2:0 "[Root.Monarch.GetName] has met the fate destined for most pirates; a brutal and untimely end. The crews have been called to assembly to elect a new [Root.Monarch.GetTitle].\n\nA [Root.Monarch.GetTitle] rules over a nation of thieves and murderers whose sole political desire is to not be ruled at all. It is a task comparable to herding sharks, yet some brave or foolhardy soul must fill the role."
  pirates.1.keep:0 "Правитиме $MONARCH$"
@@ -323,7 +323,7 @@
  CAN_NOT_ESTABLISH_ORDER:1 "Не можна засновувати місію Святого Ордену у володінні $LOCATION|Y$."
  MODIFIER_CENTER_OF_TRADE_UPGRADE_COST:0 "Вартість розвитку центру торгівлі"
  MODIFIER_MISSIONARY_MAINTENANCE_COST:0 "Витрати на утримання місій"
- MODIFIER_NAVAL_TRADITION_FROM_TRADE:1 "Зміна морських традицій від захисту торгівлі"
+ MODIFIER_NAVAL_TRADITION_FROM_TRADE:2 "Зміна морських традицій від захисту торгівлі"
  MODIFIER_ADMIRAL_COST:0 "Вартість найму адмірала"
  MODIFIER_EXPEL_MINORITIES_COST:0 "Вартість вислання меншостей"
  IDEA_MAY_FABRICATE_FOR_VASSALS:1 "Можна фабрикувати претензії для суб'єктів"
