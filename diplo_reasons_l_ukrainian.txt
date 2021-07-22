@@ -163,7 +163,7 @@
  DIPLO_IS_CONSOLIDATING:0 "Мають плани на їхню власність: "
  DIPLO_HAS_TRUCE_WITH:0 "Держава $WHO1$ має укладене перемир'я з державою $WHO2$: "
  DIPLO_FEAR_OF_BEING_ANNEXED:0 "Анексуються: "
- DIPLO_RESTRICTED_REGION:0 "Регіональний скептицизм торгової хартії"
+ DIPLO_RESTRICTED_REGION:0 "Регіональний скептицизм торгової хартії: "
  DIPLO_TRADING_CITY:0 "Торгове місто: "
  DIPLO_SELL_PROVINCE_FREE_CITY:0 "Втратить статус §YВільного міста§!: "
  DIPLO_SELL_PROVINCE_TRADE_LEAGUE:0 "Будуть змушені вийти з §YТорговельної ліги§!: "
