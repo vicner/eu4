@@ -439,7 +439,7 @@
  REFORM_LEVEL_NEEDS_PREVIOUS_DESC:0 "Потрібно провести попередні реформи, перш ніж обрати одну з цих."
  CURRENT_REFORM_PROGRESS:0 "У вас є $POINTS$ прогресу реформ: вам потрібно $REQPOINTS|Y$ для прийняття наступної реформи."
  NEXT_REFORM_EXPECTED:0 "Ми досягнемо цього $WHEN|Y$."
- REFORM_PROGRESS_DEV:4 "\n $POINTS|G$ від середньої локальної автономії §Y$LOCALAUTONOMY$%§!\nФормула для її обчислення: $BASE|+=0$ на рік, поділена на (12 * (100-§Y$LOCALAUTONOMY$%§!)).\n"
+ REFORM_PROGRESS_DEV:5 "\n $POINTS|G$ від середньої локальної автономії §Y$LOCALAUTONOMY$%§!\nФормула для її обчислення: $BASE|+=0$ на рік, поділена на (12 * (100+§Y$LOCALAUTONOMY$%§!)).\n"
  REFORM_PROGRESS_BUILDINGS:1 "\n $POINTS|G$ від будівель"
  REFORM_PROGRESS_MODIFIER_DESC:3 "Ви отримуєте $POINTS|Y$ щомісяця завдяки:$FROM_AUTONOMY$$FROM_BUILDINGS$$FROM_MONTHLY$\n"
  REFORM_INCREASED_COST:1 "Кожен рівень реформ збільшуватиме вартість на §Y50§!" 
