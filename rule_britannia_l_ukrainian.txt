@@ -445,7 +445,7 @@
  INNOVATIVENESS_AMOUNT:0 "Ми досягли $AMOUNT|Y$ інноваційності."
  INNOVATIVENESS_CHANGE_DESC:0 "На нашу інноваційність впливають такі параметри:\n"
  INNOVATIVENESS_FULL_MOD_DESC:0 "\nЕфект від §Y100§! інноваційності:\n$MOD$"
- INNOVATIVENESS_DESC:1 "Інноваційність підвищується через:\nВипередження за технологіями: §G+2§!\nВипередження за ідеями: §G+1§!\nВипередження часу: §G+0.005§!/місяць\n\nІнноваційність зменшується через:\nВплив сусідів: §R-0.03§!/місяць\n"
+ INNOVATIVENESS_DESC:2 "Інноваційність підвищується через:\nВипередження за технологіями: $FIRSTINTECH|G$\nВипередження за ідеями: $FIRSTINIDEA|G$\nВипередження часу: $AHEADOFTIME|G$/місяць\n\nІнноваційність зменшується через:\nВплив сусідів: $BEHINDNEIGHBOURS|R$/місяць\n"
  INNOVATIVENESS_MOD_DESC:0 "\nЕфект нашої нинішньої інноваційності:\n$MOD$"
  TECH_INNOVATIVENESS_DATE:0 "\nТехнологічний рівень $TECH|Y$ вперше було досягнуто $DATE|Y$."
  TECH_INNOVATIVENESS_DAYS_LEFT:0 " Доступно протягом $DAYS|Y$ днів."
