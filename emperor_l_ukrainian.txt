@@ -191,8 +191,8 @@
  COUNCIL_STANCE_THEM_TITLE:0 "$POSITION_HEAD$ на Тридентському Соборі"
  COUNCIL_STANCE_THEM_SETUP:0 "Коли інша держава змінить позицію на Тридентському Соборі"
  COUNCIL_STANCE_THEM_HEADER:0 "Наш архієпископ повідомляє"
- COUNCIL_STANCE_THEM_1:1 "Зміна позиції на Тридентському Соборі"
- COUNCIL_STANCE_THEM_2:1 "Держава $WHO$ змінила свою позицію $POSITION$ на Тридентському Соборі"
+ COUNCIL_STANCE_THEM_1:1 "Держава $WHO$ змінила свою позицію на Тридентському Соборі"
+ COUNCIL_STANCE_THEM_2:1 "$POSITION$"
  COUNCIL_STANCE_THEM_3:0 ""
  COUNCIL_STANCE_THEM_4:0 ""
  COUNCIL_STANCE_THEM_LOG:0 "$POSITION$ відстоюється державою $WHO$ на Тридентському Соборі."
@@ -1041,5 +1041,5 @@
  force_peasant_republic_desc:0 "Держава [From.GetName] стане селянською республікою."
  CB_ALLOWED_force_peasant_republic:0 "Нав'язати селянське правління"
  PEACE_force_peasant_republic:0 "Нав'язати селянське правління"
- just_lost_war_timer:0 "Щойно програли війну"
+ just_lost_war_timer:0 "Щойно програно війну"
 
