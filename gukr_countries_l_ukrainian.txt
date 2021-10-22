@@ -798,7 +798,7 @@
  TAG_OGO_AYD:0 "Айдина" #GetTagOGO
  TAG_OGO_AQU:0 "Аквілеї" #GetTagOGO
  TAG_OGO_BYZ:0 "Візантії" #GetTagOGO
- TAG_OGO_MAJ:0 "Меджепегіта" #GetTagOGO
+ TAG_OGO_MAJ:0 "Маджапагіта" #GetTagOGO
  TAG_OGO_MEI:0 "Майсена" #GetTagOGO
  TAG_OGO_SUK:0 "Сухотая" #GetTagOGO
  TAG_OGO_GAL:0 "Галісії" #GetTagOGO
@@ -1603,7 +1603,7 @@
  TAG_KUDY_AYD:0 "Айдин" #GetTagKUDY
  TAG_KUDY_AQU:0 "Аквілею" #GetTagKUDY
  TAG_KUDY_BYZ:0 "Візантію" #GetTagKUDY
- TAG_KUDY_MAJ:0 "Меджепегіт" #GetTagKUDY
+ TAG_KUDY_MAJ:0 "Маджапагіт" #GetTagKUDY
  TAG_KUDY_MEI:0 "Майсен" #GetTagKUDY
  TAG_KUDY_SUK:0 "Сухотай" #GetTagKUDY
  TAG_KUDY_GAL:0 "Галісію" #GetTagKUDY
@@ -2408,7 +2408,7 @@
  TAG_KYM_AYD:0 "Айдином" #GetTagKYM
  TAG_KYM_AQU:0 "Аквілеєю" #GetTagKYM
  TAG_KYM_BYZ:0 "Візантією" #GetTagKYM
- TAG_KYM_MAJ:0 "Меджепегітом" #GetTagKYM
+ TAG_KYM_MAJ:0 "Маджапагітом" #GetTagKYM
  TAG_KYM_MEI:0 "Майсеном" #GetTagKYM
  TAG_KYM_SUK:0 "Сухотай" #GetTagKYM
  TAG_KYM_GAL:0 "Галісією" #GetTagKYM
@@ -3213,7 +3213,7 @@
  TAG_DE_AYD:0 "Айдині" #GetTagDE
  TAG_DE_AQU:0 "Аквілеї" #GetTagDE
  TAG_DE_BYZ:0 "Візантії" #GetTagDE
- TAG_DE_MAJ:0 "Меджепегіті" #GetTagDE
+ TAG_DE_MAJ:0 "Маджапагіті" #GetTagDE
  TAG_DE_MEI:0 "Майсені" #GetTagDE
  TAG_DE_SUK:0 "Сухотаї" #GetTagDE
  TAG_DE_GAL:0 "Галісії" #GetTagDE
@@ -4018,7 +4018,7 @@
  TAG_OMU_AYD:0 "Айдину" #GetTagOMU
  TAG_OMU_AQU:0 "Аквілеї" #GetTagOMU
  TAG_OMU_BYZ:0 "Візантії" #GetTagOMU
- TAG_OMU_MAJ:0 "Меджепегіту" #GetTagOMU
+ TAG_OMU_MAJ:0 "Маджапагіту" #GetTagOMU
  TAG_OMU_MEI:0 "Майсену" #GetTagOMU
  TAG_OMU_SUK:0 "Сухотаю" #GetTagOMU
  TAG_OMU_GAL:0 "Галісії" #GetTagOMU
@@ -4823,7 +4823,7 @@
  TAG_KLY_AYD:0 "Айдине" #GetTagKLY
  TAG_KLY_AQU:0 "Аквілеє" #GetTagKLY
  TAG_KLY_BYZ:0 "Візантіє" #GetTagKLY
- TAG_KLY_MAJ:0 "Меджепегіте" #GetTagKLY
+ TAG_KLY_MAJ:0 "Маджапагіте" #GetTagKLY
  TAG_KLY_MEI:0 "Майсене" #GetTagKLY
  TAG_KLY_SUK:0 "Сухотає" #GetTagKLY
  TAG_KLY_GAL:0 "Галісіє" #GetTagKLY
