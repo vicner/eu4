@@ -471,23 +471,23 @@
  PIRATE_KINGDOM_KYM_CAP:0 "Кopoлівcтвoм піратів" #GetGovernmentKYM_CAP
  PIRATE_EMPIRE_KYM_CAP:0 "Імпepією піратів" #GetGovernmentKYM_CAP
 ###Версія 1.30_CAP "" 
- SAVANAROLA_GOVERNMENT_DE_CAP:0 "Уряді Савонароли" #GеtGоvеrnmеntDЕ_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_DE_CAP:0 "Верховній хунті" #GеtGоvеrnmеntDЕ_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_DE_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntDЕ_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_DE_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntDЕ_CAP
- SAVANAROLA_GOVERNMENT_OMU_CAP:0 "Уряду Савонароли" #GеtGоvеrnmеntОМU_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_OMU_CAP:0 "Верховній хунті" #GеtGоvеrnmеntОМU_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_OMU_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntОМU_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_OMU_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntОМU_CAP
- SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряду Савонароли" #GеtGоvеrnmеntОGО_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_OGO_CAP:0 "Верховної хунти" #GеtGоvеrnmеntОGО_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_OGO_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntОGО_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_OGO_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntОGО_CAP
- SAVANAROLA_GOVERNMENT_SCHO_CAP:0 "Уряд Савонароли" #GеtGоvеrnmеntSСНО_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_SCHO_CAP:0 "Верховну хунту" #GеtGоvеrnmеntSСНО_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntSСНО_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_SCHO_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntSСНО_CAP
- SAVANAROLA_GOVERNMENT_KYM_CAP:0 "Урядом Савонароли" #GеtGоvеrnmеntКYМ_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_KYM_CAP:0 "Верховною хунтою" #GеtGоvеrnmеntКYМ_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_KYM_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntКYМ_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_KYM_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntКYМ_CAP
+ SAVANAROLA_GOVERNMENT_DE_CAP:0 "Уряді Савонароли" #GetGovernmentDЕ_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_DE_CAP:0 "Верховній хунті" #GetGovernmentDЕ_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DE_CAP:0 "Sakerhetstinget" #GetGovernmentDЕ_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_DE_CAP:0 "Sikkerhedtinget" #GetGovernmentDЕ_CAP
+ SAVANAROLA_GOVERNMENT_OMU_CAP:0 "Уряду Савонароли" #GetGovernmentОМU_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_OMU_CAP:0 "Верховній хунті" #GetGovernmentОМU_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OMU_CAP:0 "Sakerhetstinget" #GetGovernmentОМU_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_OMU_CAP:0 "Sikkerhedtinget" #GetGovernmentОМU_CAP
+ SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряду Савонароли" #GetGovernmentОGО_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_OGO_CAP:0 "Верховної хунти" #GetGovernmentОGО_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OGO_CAP:0 "Sakerhetstinget" #GetGovernmentОGО_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_OGO_CAP:0 "Sikkerhedtinget" #GetGovernmentОGО_CAP
+ SAVANAROLA_GOVERNMENT_SCHO_CAP:0 "Уряд Савонароли" #GetGovernmentSСНО_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_SCHO_CAP:0 "Верховну хунту" #GetGovernmentSСНО_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO_CAP:0 "Sakerhetstinget" #GetGovernmentSСНО_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_SCHO_CAP:0 "Sikkerhedtinget" #GetGovernmentSСНО_CAP
+ SAVANAROLA_GOVERNMENT_KYM_CAP:0 "Урядом Савонароли" #GetGovernmentКYМ_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_KYM_CAP:0 "Верховною хунтою" #GetGovernmentКYМ_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_KYM_CAP:0 "Sakerhetstinget" #GetGovernmentКYМ_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_KYM_CAP:0 "Sikkerhedtinget" #GetGovernmentКYМ_CAP
