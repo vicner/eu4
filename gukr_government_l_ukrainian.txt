@@ -471,23 +471,23 @@
  PIRATE_KINGDOM_KYM:0 "кopoлівcтвoм піратів" #GetGovernmentKYM
  PIRATE_EMPIRE_KYM:0 "імпepією піратів" #GetGovernmentKYM
 ###Версія 1.30 "" 
- SAVANAROLA_GOVERNMENT_DE:0 "уряді Савонароли" #GеtGоvеrnmеntDЕ
- REVOLUTIONARY_SPANISH_REPUBLIC_DE:0 "верховній хунті" #GеtGоvеrnmеntDЕ
- REVOLUTIONARY_SWEDISH_REPUBLIC_DE:0 "Sakerhetstinget" #GеtGоvеrnmеntDЕ
- REVOLUTIONARY_DANISH_REPUBLIC_DE:0 "Sikkerhedtinget" #GеtGоvеrnmеntDЕ
- SAVANAROLA_GOVERNMENT_OMU:0 "уряду Савонароли" #GеtGоvеrnmеntОМU
- REVOLUTIONARY_SPANISH_REPUBLIC_OMU:0 "верховній хунті" #GеtGоvеrnmеntОМU
- REVOLUTIONARY_SWEDISH_REPUBLIC_OMU:0 "Sakerhetstinget" #GеtGоvеrnmеntОМU
- REVOLUTIONARY_DANISH_REPUBLIC_OMU:0 "Sikkerhedtinget" #GеtGоvеrnmеntОМU
- SAVANAROLA_GOVERNMENT_OGO:0 "уряду Савонароли" #GеtGоvеrnmеntОGО
- REVOLUTIONARY_SPANISH_REPUBLIC_OGO:0 "верховної хунти" #GеtGоvеrnmеntОGО
- REVOLUTIONARY_SWEDISH_REPUBLIC_OGO:0 "Sakerhetstinget" #GеtGоvеrnmеntОGО
- REVOLUTIONARY_DANISH_REPUBLIC_OGO:0 "Sikkerhedtinget" #GеtGоvеrnmеntОGО
- SAVANAROLA_GOVERNMENT_SCHO:0 "уряд Савонароли" #GеtGоvеrnmеntSСНО
- REVOLUTIONARY_SPANISH_REPUBLIC_SCHO:0 "верховну хунту" #GеtGоvеrnmеntSСНО
- REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO:0 "Sakerhetstinget" #GеtGоvеrnmеntSСНО
- REVOLUTIONARY_DANISH_REPUBLIC_SCHO:0 "Sikkerhedtinget" #GеtGоvеrnmеntSСНО
- SAVANAROLA_GOVERNMENT_KYM:0 "урядом Савонароли" #GеtGоvеrnmеntКYМ
- REVOLUTIONARY_SPANISH_REPUBLIC_KYM:0 "верховною хунтою" #GеtGоvеrnmеntКYМ
- REVOLUTIONARY_SWEDISH_REPUBLIC_KYM:0 "Sakerhetstinget" #GеtGоvеrnmеntКYМ
- REVOLUTIONARY_DANISH_REPUBLIC_KYM:0 "Sikkerhedtinget" #GеtGоvеrnmеntКYМ
+ SAVANAROLA_GOVERNMENT_DE:0 "уряді Савонароли" #GetGovernmentDЕ
+ REVOLUTIONARY_SPANISH_REPUBLIC_DE:0 "верховній хунті" #GetGovernmentDЕ
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DE:0 "Sakerhetstinget" #GetGovernmentDЕ
+ REVOLUTIONARY_DANISH_REPUBLIC_DE:0 "Sikkerhedtinget" #GetGovernmentDЕ
+ SAVANAROLA_GOVERNMENT_OMU:0 "уряду Савонароли" #GetGovernmentОМU
+ REVOLUTIONARY_SPANISH_REPUBLIC_OMU:0 "верховній хунті" #GetGovernmentОМU
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OMU:0 "Sakerhetstinget" #GetGovernmentОМU
+ REVOLUTIONARY_DANISH_REPUBLIC_OMU:0 "Sikkerhedtinget" #GetGovernmentОМU
+ SAVANAROLA_GOVERNMENT_OGO:0 "уряду Савонароли" #GetGovernmentОGО
+ REVOLUTIONARY_SPANISH_REPUBLIC_OGO:0 "верховної хунти" #GetGovernmentОGО
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OGO:0 "Sakerhetstinget" #GetGovernmentОGО
+ REVOLUTIONARY_DANISH_REPUBLIC_OGO:0 "Sikkerhedtinget" #GetGovernmentОGО
+ SAVANAROLA_GOVERNMENT_SCHO:0 "уряд Савонароли" #GetGovernmentSСНО
+ REVOLUTIONARY_SPANISH_REPUBLIC_SCHO:0 "верховну хунту" #GetGovernmentSСНО
+ REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO:0 "Sakerhetstinget" #GetGovernmentSСНО
+ REVOLUTIONARY_DANISH_REPUBLIC_SCHO:0 "Sikkerhedtinget" #GetGovernmentSСНО
+ SAVANAROLA_GOVERNMENT_KYM:0 "урядом Савонароли" #GetGovernmentКYМ
+ REVOLUTIONARY_SPANISH_REPUBLIC_KYM:0 "верховною хунтою" #GetGovernmentКYМ
+ REVOLUTIONARY_SWEDISH_REPUBLIC_KYM:0 "Sakerhetstinget" #GetGovernmentКYМ
+ REVOLUTIONARY_DANISH_REPUBLIC_KYM:0 "Sikkerhedtinget" #GetGovernmentКYМ
