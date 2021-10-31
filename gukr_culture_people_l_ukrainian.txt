@@ -417,6 +417,34 @@
  lower_saxon_people_small:0 "нижньосакси" #CulturePeopleSmall
  cornish_people_small:0 "корнуольці" #CulturePeopleSmall
  icelandic_people_small:0 "ісландці" #CulturePeopleSmall
+ algonquin_people_small:0 "алгонкіни" #CulturePeopleSmall
+ miami_people_small:0 "маямі" #CulturePeopleSmall
+ innu_people_small:0 "інну" #CulturePeopleSmall
+ natchez_people_small:0 "натчези" #CulturePeopleSmall
+ yoron_people_small:0 "йорони" #CulturePeopleSmall
+ yuchi_people_small:0 "ючі" #CulturePeopleSmall
+ laurentian_people_small:0 "лаврентійці" #CulturePeopleSmall
+ tionontate_people_small:0 "тіононтати" #CulturePeopleSmall
+ maliseet_people_small:0 "малесити" #CulturePeopleSmall
+ hitchiti_people_small:0 "хітчіти" #CulturePeopleSmall
+ massachusset_people_small:0 "массачусетси" #CulturePeopleSmall
+ plains_cree_people_small:0 "рівнинні крі" #CulturePeopleSmall
+ bungi_people_small:0 "бунги" #CulturePeopleSmall
+ yamasee_people_small:0 "ямаси" #CulturePeopleSmall
+ sundanese_people_small:0 "сунданці" #CulturePeopleSmall
+ nusa_tenggara_people_small:0 "нуса-тенггарці" #CulturePeopleSmall
+ maori_people_small:0 "маорі" #CulturePeopleSmall
+ aboriginal_australian_people_small:0 "австралійські аборигени" #CulturePeopleSmall
+ yura_people_small:0 "еорці" #CulturePeopleSmall
+ paman_people_small:0 "паманці" #CulturePeopleSmall
+ gunwinyguan_people_small:0 "гунвингуанці" #CulturePeopleSmall
+ nyoongah_people_small:0 "ньонгахці" #CulturePeopleSmall
+ palawa_people_small:0 "палави" #CulturePeopleSmall
+ gamilaraay_people_small:0 "гамиларайці" #CulturePeopleSmall
+ kulin_people_small:0 "кулінці" #CulturePeopleSmall
+ parsi_people_small:0 "парси" #CulturePeopleSmall
+ acehnese_people_small:0 "ачехи" #CulturePeopleSmall
+ southeastasian_people_small:0 "мон-кхмери" #CulturePeopleSmall
  ## Народи з великої
  goths_people_cap:0 "Готи" #CulturePeopleCap
  yukagyr_people_cap:0 "Юкагіри" #CulturePeopleCap
@@ -833,3 +861,31 @@
  lower_saxon_people_cap:0 "Нижньосакси" #CulturePeopleCap
  cornish_people_cap:0 "Корнуольці" #CulturePeopleCap
  icelandic_people_cap:0 "Ісландці" #CulturePeopleCap
+ algonquin_people_cap:0 "Алгонкіни" #CulturePeopleCap
+ miami_people_cap:0 "Маямі" #CulturePeopleCap
+ innu_people_cap:0 "Інну" #CulturePeopleCap
+ natchez_people_cap:0 "Натчези" #CulturePeopleCap
+ yoron_people_cap:0 "Йорони" #CulturePeopleCap
+ yuchi_people_cap:0 "Ючі" #CulturePeopleCap
+ laurentian_people_cap:0 "Лаврентійці" #CulturePeopleCap
+ tionontate_people_cap:0 "Тіононтати" #CulturePeopleCap
+ maliseet_people_cap:0 "Малесити" #CulturePeopleCap
+ hitchiti_people_cap:0 "Хітчіти" #CulturePeopleCap
+ massachusset_people_cap:0 "Массачусетси" #CulturePeopleCap
+ plains_cree_people_cap:0 "Рівнинні крі" #CulturePeopleCap
+ bungi_people_cap:0 "Бунги" #CulturePeopleCap
+ yamasee_people_cap:0 "Ямаси" #CulturePeopleCap
+ sundanese_people_cap:0 "Сунданці" #CulturePeopleCap
+ nusa_tenggara_people_cap:0 "Нуса-тенггарці" #CulturePeopleCap
+ maori_people_cap:0 "Маорі" #CulturePeopleCap
+ aboriginal_australian_people_cap:0 "Австралійські аборигени" #CulturePeopleCap
+ yura_people_cap:0 "Еорці" #CulturePeopleCap
+ paman_people_cap:0 "Паманці" #CulturePeopleCap
+ gunwinyguan_people_cap:0 "Гунвингуанці" #CulturePeopleCap
+ nyoongah_people_cap:0 "Ньонгахці" #CulturePeopleCap
+ palawa_people_cap:0 "Палави" #CulturePeopleCap
+ gamilaraay_people_cap:0 "Гамиларайці" #CulturePeopleCap
+ kulin_people_cap:0 "Куліни" #CulturePeopleCap
+ parsi_people_cap:0 "Парси" #CulturePeopleCap
+ acehnese_people_cap:0 "Ачехи" #CulturePeopleCap
+ southeastasian_people_cap:0 "Мон-кхмери" #CulturePeopleCap
