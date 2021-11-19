@@ -1268,7 +1268,7 @@
  estate_cossacks_exploration_expedition_mod_revoke_tooltip:0 "Вилучає §YКозацькі експедиції§! з усіх приналежних степових провінцій."
  estate_burghers_exclusive_trade_rights_enact_tooltip:2 "Додає §R20§! до місцевої автономії та §G-15%§! до вартості місцевого розвитку в центрах торгівлі в торговому вузлі §Y[This.GetTradeNodeName]§!."
  estate_burghers_exclusive_trade_rights_revoke_tooltip:0 "Вилучає модифікатор 'Виняткові торгові права' з усіх приналежних провінцій"
- PRIVILEGE_LOYALTY_CHANGE:0 "Лояльність стану $ESTATE$ зміниться на $VAL|+%0$."
+ PRIVILEGE_LOYALTY_CHANGE:1 "Рівновага лояльністі стану $ESTATE$ зміниться на $VAL|+%0$."
  PRIVILEGE_INFLUENCE_CHANGE:0 "Вплив стану $ESTATE$ зміниться на $VAL|Y%0$."
  PRIVILEGE_MAX_ABSOLUTISM_CHANGE:0 "Максимальний абсолютизм зміниться на $VAL|+0$."
  PRIVILEGE_LANDSHARE_CHANGE:0 "Ми $DIR$ $VAL|Y0$ земель корони."
