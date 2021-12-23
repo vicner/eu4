@@ -103,7 +103,7 @@
  emp_sax_conquer_franconia_title:0 "Завоювати Франконію"
  emp_sax_conquer_franconia_desc:1 "Ми довго вважали Кобург своєю базою у Франконії. Можливо, нам пора використати його як плацдарм для розширення наших володінь в цих землях."
  emp_sax_found_wittenberg_title:0 "Віттенберзький Університет"
- emp_sax_found_wittenberg_desc:0 "Ми повинні заснувати центр навчання, де ми зможемо навчати теологів, правознавців та медиків майбутнього та залучати провідні уми Німеччини до служіння [Root.GеtGоvеrnmеntОМU]."
+ emp_sax_found_wittenberg_desc:0 "Ми повинні заснувати центр навчання, де ми зможемо навчати теологів, правознавців та медиків майбутнього та залучати провідні уми Німеччини до служіння [Root.GetGovernmentOMU]."
  emp_sax_victor_for_faith_title:0 "Переможець за істинну віру"
  emp_sax_victor_for_faith_desc:0 "Для блага Європи ми повинні переконатися, що перемогли у війнах Реформації за свою [Root.ReligionAdjectiveJAKU] віру."
  emp_sax_victor_for_faith_religious_wars_happened_tooltip:0 "Війни релігійних ліг закінчилися."
