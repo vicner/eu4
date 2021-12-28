@@ -42,3 +42,36 @@
  plural_country_name_KYM_CAP:0 "[This.GetAdjective]. [This.GovernmentKYM_CAP]"
  already_has_proper_name_KYM_CAP:0 "[This.GetTagKYM_CAP]"
  PLC_country_string_KYM_CAP:0 "Річчю Посполитою"
+ 
+ ### [GetRulerTitleOrRegency]: ([король] / [Регентська рада]), з маленької:
+ string_ruler_title_sm:0 "[This.Monarch.GetTitleKHTO]"
+ #string_regency_council_2:0 "Регентська рада" – Р-Рада завжди з великої
+ string_ruler_title_ogo:0 "[This.Monarch.GetTitleOGO]"
+ string_regency_council_2_ogo:0 "Регентської ради"
+ string_ruler_title_omu:0 "[This.Monarch.GetTitleOMU]"
+ string_regency_council_2_omu:0 "Регентській раді"
+ string_ruler_title_kym:0 "[This.Monarch.GetTitleKYM]"
+ string_regency_council_2_kym:0 "Регентською радою"
+ string_ruler_title_pro:0 "[This.Monarch.GetTitlePRO]"
+ string_regency_council_2_pro:0 "Регентську раду"
+ ## З великої:
+ string_ruler_title_cap:0 "[This.Monarch.GetTitle]"
+ #string_regency_council_2:0 "Регентська рада" – Р-Рада завжди з великої
+ string_ruler_title_ogo_cap:0 "[This.Monarch.GetTitleOGO_CAP]"
+ #
+ string_ruler_title_omu_cap:0 "[This.Monarch.GetTitleOMU_CAP]"
+ #
+ string_ruler_title_kym_cap:0 "[This.Monarch.GetTitleKYM_CAP]"
+ #
+ string_ruler_title_pro_cap:0 "[This.Monarch.GetTitlePRO_CAP]"
+ 
+ 
+ ### [GetRulerAdjAndTitle]: The [English King] / The [Pope] / The [English Regency Council]
+ string_ruler_adj_and_title_ogo:0 "[This.GetAdjective][This.Monarch.GetMEndOjiOgo] [This.Monarch.GetTitleOGO]"
+ string_adj_and_regency_council_ogo:0 "[This.GetAdjective]ої Регентської ради"
+ string_ruler_adj_and_title_omu:0 "[This.GetAdjective][This.Monarch.GetMEndIjOmu] [This.Monarch.GetTitleOMU]"
+ string_adj_and_regency_council_omu:0 "[This.GetAdjective]ій Регентській раді"
+ string_ruler_adj_and_title_kym:0 "[This.GetAdjective][This.Monarch.GetMEndOJuYM] [This.Monarch.GetTitleKYM]"
+ string_adj_and_regency_council_kym:0 "[This.GetAdjective]ою Регентською радою"
+ string_ruler_adj_and_title_pro:0 "[This.GetAdjective][This.Monarch.GetMEndUOgo] [This.Monarch.GetTitlePRO]"
+ string_adj_and_regency_council_pro:0 "[This.GetAdjective]у Регентську раду"
