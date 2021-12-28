@@ -372,7 +372,7 @@
  string_govtname:0 "[This.GovernmentName]"
  string_ruler_adj_and_title:0 "[This.GetAdjective][This.Monarch.GetMEndAYJ] [This.Monarch.GetTitleKHTO]"
  string_ruler_title:0 "[This.Monarch.GetTitle]"
- string_adj_and_regency_council:0 "[This.GetAdjective]а регентська рада"
+ string_adj_and_regency_council:0 "[This.GetAdjective]а Регентська рада"
  string_regency_council_2:0 "Регентська рада"
  string_ruler_title_and_name:0 "[This.Monarch.GetTitle] [This.Monarch.GetName]"
  string_regency_council_no_cap:0 "регентська рада"
