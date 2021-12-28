@@ -24,7 +24,7 @@
  MODIFIER_YEARLY_FEDERATION_FAVOR_GROWTH:0 "Щорічне зростання прихильності до членів федерації"
  MODIFIER_MONTHLY_REFORM_PROGRESS_MODIFIER:0 "Щомісячний модифікатор прогресу реформ"
  TRIBAL_DEVELOPMENT_VALUE:0 "Від племінного розвитку: $VAL|Y0$"
- TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION:0 "Випадкова категорія зросте на $VAL|+$:\n"
+ TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION:1 "Категорія $POWER|$ зросте на $VAL|+3$:\n"
  PROVINCE_SETTLE_TOOLTIP_DESC:0 "Наш народ осяде в цій провінції, через що вона стане повністю нашою, і туди переміститься $ADM|Y$£adm£, $DIP|Y$£dip£, $MIL|Y$£mil£ розвитку.\n\n"
  SETTLE_PROVINCE_COST:0 "Коштує $COST|Y$ $POWER|$ балів\n"
  MIGRATE_PROVINE_NOT_LAND:0 "§R$PROV|Y$ не годиться для заселення.\n"
@@ -127,3 +127,4 @@
  SETTLE_PROVINCE_NO_DEVELOPMENT:0 "§RНедостатньо племінного розвитку для заселення провінції.§!"
  BUILDING_SLOT_NATIVE_IN_NON_NATIVE:0 "Тубільці не можуть будувати на чужій землі"
  BUILDING_SLOT_NON_NATIVE_IN_NATIVE:0 "Не тубільці не можуть будувати на тубільній землі"
+ native_remain_being_native_reform:0 "Племінна ідентичність"
