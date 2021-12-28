@@ -26,7 +26,8 @@
  tengri_pagan_reformed_small:0  "тенгріанство" 
  jewish_small:0  "юдаїзм" 
  zoroastrian_small:0  "зороастризм" 
- hussite_small:0  "гусизм" 
+ hussite_small:0  "гусизм"
+ dreamtime_small:0  "альчера"
  #Релігія, що відповідає на запитання Послідовники чого? "" стара змінна #EGO
  animism_name_CHOGO:0  "анімізму"  #ReligionNameCHOGO
  buddhism_name_CHOGO:0  "тгеравади"  #ReligionNameCHOGO
@@ -56,6 +57,7 @@
  jewish_name_CHOGO:0  "юдаїзму"  #ReligionNameCHOGO
  zoroastrian_name_CHOGO:0  "зороастризму"  #ReligionNameCHOGO
  hussite_name_CHOGO:0  "гусизму"  #ReligionNameCHOGO
+ dreamtime_name_CHOGO:0  "альчери"  #ReligionNameCHOGO
  #Релігія, що відповідає на запитання Послідовники чого? з великої літери "" стара змінна #EGO
  animism_name_CHOGO_CAP:0  "Анімізму"  #ReligionNameCHOGO_CAP
  buddhism_name_CHOGO_CAP:0  "Тгеравади"  #ReligionNameCHOGO_CAP
@@ -80,11 +82,12 @@
  inti_name_CHOGO_CAP:0  "Інті"  #ReligionNameCHOGO_CAP
  nahuatl_name_CHOGO_CAP:0  "Науатля"  #ReligionNameCHOGO_CAP
  mesoamerican_religion_name_CHOGO_CAP:0  "Майя"  #ReligionNameCHOGO_CAP
- norse_pagan_reformed_name_CHOGO_CAP:0  "Скандинавського язичництва"  #ReligionNameCHOGO_CAP
+ norse_pagan_reformed_name_CHOGO_CAP:0  "Скандинавського язичництва"  #ReligionNameCHOGO_CAP  
  tengri_pagan_reformed_name_CHOGO_CAP:0  "Тенгріанства"  #ReligionNameCHOGO_CAP
  jewish_name_CHOGO_CAP:0  "Юдаїзму"  #ReligionNameCHOGO_CAP
  zoroastrian_name_CHOGO_CAP:0  "Зороастризму"  #ReligionNameCHOGO_CAP
  hussite_name_CHOGO_CAP:0  "Гусизму"  #ReligionNameCHOGO_CAP
+ dreamtime_name_CHOGO_CAP:0  "Альчери"  #ReligionNameCHOGO_CAP
  #Державна група з маленької літери в родовому відмінку "" стара змінна #EGO
  christian_smallCHOGO:0  "християнства"  #ReligionGroupCHOGO
  muslim_smallCHOGO:0  "ісламу"  #ReligionGroupCHOGO
@@ -122,6 +125,7 @@
  jewish_name_CHOMU:0  "юдаїзму"  #ReligionNameCHOMU
  zoroastrian_name_CHOMU:0  "зороастризму"  #ReligionNameCHOMU
  hussite_name_CHOMU:0  "гусизму"  #ReligionNameCHOMU
+ dreamtime_name_CHOMU:0  "альчері"  #ReligionNameCHOMU
  #Релігія, що відповідає на запитання Завдяки чому?  з великої літери "" стара змінна #EMU
  animism_name_CHOMU_CAP:0  "Анімізму"  #ReligionNameCHOMU_CAP
  buddhism_name_CHOMU_CAP:0  "Тгераваді"  #ReligionNameCHOMU_CAP
@@ -151,6 +155,7 @@
  jewish_name_CHOMU_CAP:0  "Юдаїзму"  #ReligionNameCHOMU_CAP
  zoroastrian_name_CHOMU_CAP:0  "Зороастризму"  #ReligionNameCHOMU_CAP
  hussite_name_CHOMU_CAP:0  "Гусизму"  #ReligionNameCHOMU_CAP
+ dreamtime_name_CHOMU_CAP:0  "Альчері"  #ReligionNameCHOMU_CAP
  #Державна група з маленької літери, що відповідає на запитання Дати чому? "" стара змінна #EMU
  christian_smallCHOMU:0  "християнству"  #ReligionGroupCHOMU
  muslim_smallCHOMU:0  "ісламу"  #ReligionGroupCHOMU
@@ -189,6 +194,7 @@
  jewish_name_PRO:0  "юдаїзм"  #ReligionNamePRO
  zoroastrian_name_PRO:0  "зороастризм"  #ReligionNamePRO
  hussite_name_PRO:0  "гусизм"  #ReligionNamePRO
+ dreamtime_name_PRO:0  "альчеру"  #ReligionNamePRO
  #Релігія, що відповідає на запитання Чули про що? з великої літери "" стара змінна #CEM
  animism_name_PRO_CAP:0  "Анімізм"  #ReligionNamePRO_CAP
  buddhism_name_PRO_CAP:0  "Тгераваду"  #ReligionNamePRO_CAP
@@ -218,6 +224,7 @@
  jewish_name_PRO_CAP:0  "Юдаїзм"  #ReligionNamePRO_CAP
  zoroastrian_name_PRO_CAP:0  "Зороастризм"  #ReligionNamePRO_CAP
  hussite_name_PRO_CAP:0  "Гусизм"  #ReligionNamePRO_CAP
+ dreamtime_name_PRO_CAP:0  "Альчеру"  #ReligionNamePRO_CAP
  #Прикметники державної релігії з маленької літери в називному відмінку "" 
  animism_ADJ:0  "анімістичні"  #ReligionAdjective
  buddhism_ADJ:0  "тгеравадські"  #ReligionAdjective
@@ -247,6 +254,7 @@
  jewish_ADJ:0  "юдейські"  #ReligionAdjective
  zoroastrian_ADJ:0  "зороастрійські"  #ReligionAdjective
  hussite_ADJ:0  "гуситські"  #ReligionAdjective
+ dreamtime_ADJ:0  "альчерські"  #ReligionAdjective
  #Прикметники державної релігії з великої літери в називному відмінку "" 
  animism_ADJ_CAP:0  "Анімістичні"  #ReligionAdjective_CAP
  buddhism_ADJ_CAP:0  "Тгеравадські"  #ReligionAdjective_CAP
@@ -276,6 +284,7 @@
  jewish_ADJ_CAP:0  "Юдейські"  #ReligionAdjective_CAP
  zoroastrian_ADJ_CAP:0  "Зороастрійські"  #ReligionAdjective_CAP
  hussite_ADJ_CAP:0  "Гуситські"  #ReligionAdjective_CAP
+ dreamtime_ADJ_CAP:0  "Альчерські"  #ReligionAdjective_CAP
  #Прикметники державної релігії з маленької літери в родовому відмінку "" 
  animismOGO_ADJ:0  "анімістичних"  #ReligionAdjectiveOGO
  buddhismOGO_ADJ:0  "тгеравадських"  #ReligionAdjectiveOGO
@@ -305,6 +314,7 @@
  jewishOGO_ADJ:0  "юдейських"  #ReligionAdjectiveOGO
  zoroastrianOGO_ADJ:0  "зороастрійських"  #ReligionAdjectiveOGO
  hussiteOGO_ADJ:0  "гуситських"  #ReligionAdjectiveOGO
+ dreamtimeOGO_ADJ:0  "альчерських"  #ReligionAdjectiveOGO
  #Прикметники державної релігії  з великої літери в родовому відмінку "" 
  animismOGO_ADJ_CAP:0  "Анімістичних"  #ReligionAdjectiveOGO_CAP
  buddhismOGO_ADJ_CAP:0  "Тгеравадських"  #ReligionAdjectiveOGO_CAP
@@ -334,6 +344,7 @@
  jewishOGO_ADJ_CAP:0  "Юдейських"  #ReligionAdjectiveOGO_CAP
  zoroastrianOGO_ADJ_CAP:0  "Зороастрійських"  #ReligionAdjectiveOGO_CAP
  hussiteOGO_ADJ_CAP:0  "Гуситських"  #ReligionAdjectiveOGO_CAP
+ dreamtimeOGO_ADJ_CAP:0  "Альчерських"  #ReligionAdjectiveOGO_CAP
  #Прикметники державної релігії з маленької літери в орудному відмінку "" стара змінна #KEM
  animismKYM_ADJ:0  "анімістичними"  #ReligionAdjectiveKYM
  buddhismKYM_ADJ:0  "тгеравадськими"  #ReligionAdjectiveKYM
@@ -363,6 +374,7 @@
  jewishKYM_ADJ:0  "юдейськими"  #ReligionAdjectiveKYM
  zoroastrianKYM_ADJ:0  "зороастрійськими"  #ReligionAdjectiveKYM
  hussiteKYM_ADJ:0  "гуситськими"  #ReligionAdjectiveKYM
+ dreamtimeKYM_ADJ:0  "альчерськими"  #ReligionAdjectiveKYM
  #Прикметники державної релігії з великої літери в орудному відмінку "" стара змінна #KEM
  animismKYM_ADJ_CAP:0  "Анімістичними"  #ReligionAdjectiveKYM_CAP
  buddhismKYM_ADJ_CAP:0  "Тгеравадськими"  #ReligionAdjectiveKYM_CAP
@@ -392,6 +404,7 @@
  jewishKYM_ADJ_CAP:0  "Юдейськими"  #ReligionAdjectiveKYM_CAP
  zoroastrianKYM_ADJ_CAP:0  "Зороастрійськими"  #ReligionAdjectiveKYM_CAP
  hussiteKYM_ADJ_CAP:0  "Гуситськими"  #ReligionAdjectiveKYM_CAP
+ dreamtimeKYM_ADJ_CAP:0  "Альчерськими"  #ReligionAdjectiveKYM_CAP
  #Прикметники державної релігії з маленької літери Якої? "" стара змінна #KOI
  animismKOJI_ADJ:0  "анімістичної"  #ReligionAdjectiveKOJI
  buddhismKOJI_ADJ:0  "тгеравадської"  #ReligionAdjectiveKOJI
@@ -421,6 +434,7 @@
  jewishKOJI_ADJ:0  "юдейської"  #ReligionAdjectiveKOJI
  zoroastrianKOJI_ADJ:0  "зороастрійської"  #ReligionAdjectiveKOJI
  hussiteKOJI_ADJ:0  "гуситської"  #ReligionAdjectiveKOJI
+ dreamtimeKOJI_ADJ:0  "альчерської"  #ReligionAdjectiveKOJI
  #Прикметники державної релігії з великої літери Якої? "" стара змінна #KOI
  animismKOJI_ADJ_CAP:0  "Анімістичної"  #ReligionAdjectiveKOJI_CAP
  buddhismKOJI_ADJ_CAP:0  "Тгеравадської"  #ReligionAdjectiveKOJI_CAP
@@ -450,6 +464,7 @@
  jewishKOJI_ADJ_CAP:0  "Юдейської"  #ReligionAdjectiveKOJI_CAP
  zoroastrianKOJI_ADJ_CAP:0  "Зороастрійської"  #ReligionAdjectiveKOJI_CAP
  hussiteKOJI_ADJ_CAP:0  "Гуситської"  #ReligionAdjectiveKOJI_CAP
+ dreamtimeKOJI_ADJ_CAP:0  "Альчерської"  #ReligionAdjectiveKOJI_CAP
  #Прикметники державної релігії з маленької літери Якою? "" 
  animismKOJU_ADJ:0  "анімістичною"  #ReligionAdjectiveKOJU
  buddhismKOJU_ADJ:0  "тгеравадською"  #ReligionAdjectiveKOJU
@@ -479,6 +494,7 @@
  jewishKOJU_ADJ:0  "юдейською"  #ReligionAdjectiveKOJU
  zoroastrianKOJU_ADJ:0  "зороастрійською"  #ReligionAdjectiveKOJU
  hussiteKOJU_ADJ:0  "гуситською"  #ReligionAdjectiveKOJU
+ dreamtimeKOJU_ADJ:0  "альчерською"  #ReligionAdjectiveKOJU
  #Прикметники державної релігії з Великої літери Якою? "" 
  animismKOJU_ADJ_CAP:0  "Анімістичною"  #ReligionAdjectiveKOJU_CAP
  buddhismKOJU_ADJ_CAP:0  "Тгеравадською"  #ReligionAdjectiveKOJU_CAP
@@ -508,6 +524,7 @@
  jewishKOJU_ADJ_CAP:0  "Юдейською"  #ReligionAdjectiveKOJU_CAP
  zoroastrianKOJU_ADJ_CAP:0  "Зороастрійською"  #ReligionAdjectiveKOJU_CAP
  hussiteKOJU_ADJ_CAP:0  "Гуситською"  #ReligionAdjectiveKOJU_CAP
+ dreamtimeKOJU_ADJ_CAP:0  "Альчерською"  #ReligionAdjectiveKOJU_CAP
  #Прикметники державної релігії з маленької літери, що відповідає на запитання Яка? "" стара змінна #AYA_ADJ
  animismJAKA_ADJ:0  "анімістична"  #ReligionAdjectiveJAKA
  buddhismJAKA_ADJ:0  "тгеравадська"  #ReligionAdjectiveJAKA
@@ -537,6 +554,7 @@
  jewishJAKA_ADJ:0  "юдейська"  #ReligionAdjectiveJAKA
  zoroastrianJAKA_ADJ:0  "зороастрійська"  #ReligionAdjectiveJAKA
  hussiteJAKA_ADJ:0  "гуситська"  #ReligionAdjectiveJAKA
+ dreamtimeJAKA_ADJ:0  "альчерська"  #ReligionAdjectiveJAKA
  #Прикметники державної релігії з великої літери, що відповідає на запитання Яка? "" стара змінна #AYA_ADJ
  animismJAKA_ADJ_CAP:0  "Анімістична"  #ReligionAdjectiveJAKA_CAP
  buddhismJAKA_ADJ_CAP:0  "Тгеравадська"  #ReligionAdjectiveJAKA_CAP
@@ -566,6 +584,7 @@
  jewishJAKA_ADJ_CAP:0  "Юдейська"  #ReligionAdjectiveJAKA_CAP
  zoroastrianJAKA_ADJ_CAP:0  "Зороастрійська"  #ReligionAdjectiveJAKA_CAP
  hussiteJAKA_ADJ_CAP:0  "Гуситська"  #ReligionAdjectiveJAKA_CAP
+ dreamtimeJAKA_ADJ_CAP:0  "Альчерська"  #ReligionAdjectiveJAKA_CAP
  #Прикметники державної релігії з маленької літери, що відповідає на запитання Яку? "" стара змінна #UYU_ADJ
  animismJAKU_ADJ:0  "анімістичну"  #ReligionAdjectiveJAKU
  buddhismJAKU_ADJ:0  "тгеравадську"  #ReligionAdjectiveJAKU
@@ -595,6 +614,7 @@
  jewishJAKU_ADJ:0  "юдейську"  #ReligionAdjectiveJAKU
  zoroastrianJAKU_ADJ:0  "зороастрійську"  #ReligionAdjectiveJAKU
  hussiteJAKU_ADJ:0  "гуситьску"  #ReligionAdjectiveJAKU
+ dreamtimeJAKU_ADJ:0  "альчерську"  #ReligionAdjectiveJAKU
  #Прикметники державної релігії з великої літери, що відповідає на запитання Яку? "" стара змінна #UYU_ADJ
  animismJAKU_ADJ_CAP:0  "Анімістичну"  #ReligionAdjectiveJAKU_CAP
  buddhismJAKU_ADJ_CAP:0  "Тгеравадську"  #ReligionAdjectiveJAKU_CAP
@@ -624,6 +644,7 @@
  jewishJAKU_ADJ_CAP:0  "Юдейську"  #ReligionAdjectiveJAKU_CAP
  zoroastrianJAKU_ADJ_CAP:0  "Зороастрійську"  #ReligionAdjectiveJAKU_CAP
  hussiteJAKU_ADJ_CAP:0  "Гуситську"  #ReligionAdjectiveJAKU_CAP
+ dreamtimeJAKU_ADJ_CAP:0  "Альчерську"  #ReligionAdjectiveJAKU_CAP
  #Піддані державної релігії з маленької літери в називному відмінку "" стара змінна #KTO
  animismKHTO:0  "анімісти"  #ReligionKHTO
  buddhismKHTO:0  "тгеравадці"  #ReligionKHTO
@@ -653,6 +674,7 @@
  jewishKHTO:0  "юдеї"  #ReligionKHTO
  zoroastrianKHTO:0  "зороастрійці"  #ReligionKHTO
  hussiteKHTO:0  "гусити"  #ReligionKHTO
+ dreamtimeKHTO:0  "альчерити"  #ReligionKHTO
  #Піддані державної релігії з великої літери в називному відмінку "" стара змінна #KTO
  animismKHTO_CAP:0  "Анімісти"  #ReligionKHTO_CAP
  buddhismKHTO_CAP:0  "Тгеравадці"  #ReligionKHTO_CAP
@@ -682,6 +704,7 @@
  jewishKHTO_CAP:0  "Юдеї"  #ReligionKHTO_CAP
  zoroastrianKHTO_CAP:0  "Зороастрійці"  #ReligionKHTO_CAP
  hussiteKHTO_CAP:0  "Гусити"  #ReligionKHTO_CAP
+ dreamtimeKHTO_CAP:0  "Альчерити"  #ReligionKHTO_CAP
  #Піддані державної релігії з маленької літери в родовому відмінку "" 
  animismOGO:0  "анімістів"  #ReligionOGO
  buddhismOGO:0  "тгеравадців"  #ReligionOGO
@@ -711,6 +734,7 @@
  jewishOGO:0  "юдеїв"  #ReligionOGO
  zoroastrianOGO:0  "зороастрійців"  #ReligionOGO
  hussiteOGO:0  "гуситів"  #ReligionOGO
+ dreamtimeOGO:0  "альчеритів"  #ReligionOGO
  #Піддані державної релігії з великої літери в родовому відмінку "" 
  animismOGO_CAP:0  "Анімістів"  #ReligionOGO_CAP
  buddhismOGO_CAP:0  "Тгеравадців"  #ReligionOGO_CAP
@@ -740,6 +764,7 @@
  jewishOGO_CAP:0  "Юдеїв"  #ReligionOGO_CAP
  zoroastrianOGO_CAP:0  "Зороастрійців"  #ReligionOGO_CAP
  hussiteOGO_CAP:0  "Гуситів"  #ReligionOGO_CAP
+ dreamtimeOGO_CAP:0  "Альчеритів"  #ReligionOGO_CAP
  #Піддані державної релігії з маленької літери в давальному відмінку "" 
  animismOMU:0  "анімістам"  #ReligionOMU
  buddhismOMU:0  "тгеравадцям"  #ReligionOMU
@@ -769,6 +794,7 @@
  jewishOMU:0  "юдеям"  #ReligionOMU
  zoroastrianOMU:0  "зороастрійцям"  #ReligionOMU
  hussiteOMU:0  "гуситам"  #ReligionOMU
+ dreamtimeOMU:0  "альчеритам"  #ReligionOMU
  #Піддані державної релігії з великої літери в давальному відмінку "" 
  animismOMU_CAP:0  "Анімістам"  #ReligionOMU_CAP
  buddhismOMU_CAP:0  "Тгеравадцям"  #ReligionOMU_CAP
@@ -798,6 +824,7 @@
  jewishOMU_CAP:0  "Юдеям"  #ReligionOMU_CAP
  zoroastrianOMU_CAP:0  "Зороастрійцям"  #ReligionOMU_CAP
  hussiteOMU_CAP:0  "Гуситам"  #ReligionOMU_CAP
+ dreamtimeOMU_CAP:0  "Альчеритам"  #ReligionOMU_CAP
  #Піддані державної релігії з маленької літери в місцевому відмінку "" стара змінна #PRE
  animismMIS:0  "анімістах"  #ReligionMIS
  buddhismMIS:0  "тгеравадцях"  #ReligionMIS
@@ -827,6 +854,7 @@
  jewishMIS:0  "юдеях"  #ReligionMIS
  zoroastrianMIS:0  "зороастрійцях"  #ReligionMIS
  hussiteMIS:0  "гуситах"  #ReligionMIS
+ dreamtimeMIS:0  "альчеритах"  #ReligionMIS
  #Піддані державної релігії з великої літери в місцевому відмінку "" стара змінна #PRE
  animismMIS_CAP:0  "Анімістах"  #ReligionMIS_CAP
  buddhismMIS_CAP:0  "Тгеравадцях"  #ReligionMIS_CAP
@@ -856,6 +884,7 @@
  jewishMIS_CAP:0  "Юдеях"  #ReligionMIS_CAP
  zoroastrianMIS_CAP:0  "Зороастрійцях"  #ReligionMIS_CAP
  hussiteMIS_CAP:0  "Гуситах"  #ReligionMIS_CAP
+ dreamtimeMIS_CAP:0  "Альчеритах"  #ReligionMIS_CAP
  #Державна група з маленької літери "" 
  christian_small:0  "християнство"  #ReligionGroupSmall
  muslim_small:0  "іслам"  #ReligionGroupSmall
@@ -893,6 +922,7 @@
  jewish_name_CHYM:0  "юдаїзмом"  #ReligionNameCHYM
  zoroastrian_name_CHYM:0  "зороастризмом"  #ReligionNameCHYM
  hussite_name_CHYM:0  "гусизмом"  #ReligionNameCHYM
+ dreamtime_name_CHYM:0  "альчерою"  #ReligionNameCHYM
  #Релігія, що відповідає на запитання в орудному відмінку з великої літери "" стара змінна #HEM
  animism_name_CHYM_CAP:0  "Анімізмом"  #ReligionNameCHYM_CAP
  buddhism_name_CHYM_CAP:0  "Тгеравадою"  #ReligionNameCHYM_CAP
@@ -921,7 +951,8 @@
  tengri_pagan_reformed_name_CHYM_CAP:0  "Тенгріанством"  #ReligionNameCHYM_CAP
  jewish_name_CHYM_CAP:0  "Юдаїзмом"  #ReligionNameCHYM_CAP
  zoroastrian_name_CHYM_CAP:0  "Зороастризмом"  #ReligionNameCHYM_CAP 
- hussite_name_CHYM_CAP:0  "Гусизмом"  #ReligionNameCHYM_CAP 
+ hussite_name_CHYM_CAP:0  "Гусизмом"  #ReligionNameCHYM_CAP
+ dreamtime_name_CHYM_CAP:0  "Альчерою"  #ReligionNameCHYM_CAP
  #Прикметник релігійної групи "" 
  christian_adj:0  "християнськими"  #ReligionGroupAdjective
  muslim_adj:0  "ісламськими"  #ReligionGroupAdjective
