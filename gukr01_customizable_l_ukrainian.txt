@@ -1,5 +1,5 @@
 ﻿l_ukrainian:
- #Відмінки для кастомної локалізації Парадоксів [GetUsableName].
+  #Відмінки для кастомної локалізації Парадоксів [GetUsableName].
  ###--GetUsableNameDE
  plural_country_name_DE:0 "[This.GetAdjective]. [This.GovernmentDE]"
  already_has_proper_name_DE:0 "[This.GetTagDE]"
@@ -75,3 +75,19 @@
  string_adj_and_regency_council_kym:0 "[This.GetAdjective]ою Регентською радою"
  string_ruler_adj_and_title_pro:0 "[This.GetAdjective][This.Monarch.GetMEndUOgo] [This.Monarch.GetTitlePRO]"
  string_adj_and_regency_council_pro:0 "[This.GetAdjective]у Регентську раду"
+
+ 
+ ### Назви місяців скорочено
+ Jan:0 "Січ."
+ Feb:0 "Лют."
+ Mar:0 "Бер."
+ Apr:0 "Квіт."
+ May:0 "Трав."
+ Jun:0 "Черв."
+ Jul:0 "Лип."
+ Aug:0 "Серп."
+ Sep:0 "Вер."
+ Oct:0 "Жовт."
+ Nov:0 "Лист."
+ Dec:0 "Груд." 
+ 
