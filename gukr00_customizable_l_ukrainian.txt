@@ -258,42 +258,42 @@
  WAR_EXHAUSTION_GUKR:0 "Втома від війни" #укр. локалізація
  RIVALS_GUKR:0 "Суперники" #укр. локалізація
 
-###Мусульманські мазгаби
- hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall
- hanbali_scool:0 "ханбаліти" #GetReligiousSсhoolSmall
- maliki_scool:0 "малікіти" #GetReligiousSсhoolSmall
- shafii_scool:0 "шафіїти" #GetReligiousSсhoolSmall
- ismaili_scool:0 "ісмаїліти" #GetReligiousSсhoolSmall
- jafari_scool:0 "джафарити" #GetReligiousSсhoolSmall
- zaidi_scool:0 "зейдити" #GetReligiousSсhoolSmall
- hanafi_scool_KYM:0 "ханафітами" #GetReligiousSсhoolKYM
- hanbali_scool_KYM:0 "ханбалітами" #GetReligiousSсhoolKYM
- maliki_scool_KYM:0 "малікітами" #GetReligiousSсhoolKYM
- shafii_scool_KYM:0 "шафіїтами" #GetReligiousSсhoolKYM
- ismaili_scool_KYM:0 "ісмаїлітами" #GetReligiousSсhoolKYM
- jafari_scool_KYM:0 "джафаритами" #GetReligiousSсhoolKYM
- zaidi_scool_KYM:0 "зейдитами" #GetReligiousSсhoolKYM
- hanafi_scool_OGO:0 "ханафітів" #GetReligiousSсhoolOGO
- hanbali_scool_OGO:0 "ханбалітів" #GetReligiousSсhoolOGO
- maliki_scool_OGO:0 "малікітів" #GetReligiousSсhoolOGO
- shafii_scool_OGO:0 "шафіїтів" #GetReligiousSсhoolOGO
- ismaili_scool_OGO:0 "ісмаїлітів" #GetReligiousSсhoolOGO
- jafari_scool_OGO:0 "джафаритів" #GetReligiousSсhoolOGO
- zaidi_scool_OGO:0 "зейдитів" #GetReligiousSсhoolOGO
- hanafi_scool_KOG:0 "ханафіта" #GetReligiousSсhoolKOG
- hanbali_scool_KOG:0 "ханбаліта" #GetReligiousSсhoolKOG
- maliki_scool_KOG:0 "малікіта" #GetReligiousSсhoolKOG
- shafii_scool_KOG:0 "шафіїта" #GetReligiousSсhoolKOG
- ismaili_scool_KOG:0 "ісмаїліта" #GetReligiousSсhoolKOG
- jafari_scool_KOG:0 "джафарита" #GetReligiousSсhoolKOG
- zaidi_scool_KOG:0 "зейдита" #GetReligiousSсhoolKOG
- hanafi_scool_OMU:0 "ханафітам" #GetReligiousSсhoolOMU
- hanbali_scool_OMU:0 "ханбалітам" #GetReligiousSсhoolOMU
- maliki_scool_OMU:0 "малікітам" #GetReligiousSсhoolOMU
- shafii_scool_OMU:0 "шафіїтам" #GetReligiousSсhoolOMU
- ismaili_scool_OMU:0 "ісмаїлітам" #GetReligiousSсhoolOMU
- jafari_scool_OMU:0 "джафаритам" #GetReligiousSсhoolOMU
- zaidi_scool_OMU:0 "зейдитам" #GetReligiousSсhoolOMU
+###Мусульманські мазгаби з маленької
+ hanafi_scool:0 "ханафіти" #GetReligiousSchoolSmall
+ hanbali_scool:0 "ханбаліти" #GetReligiousSchoolSmall
+ maliki_scool:0 "малікіти" #GetReligiousSchoolSmall
+ shafii_scool:0 "шафіїти" #GetReligiousSchoolSmall
+ ismaili_scool:0 "ісмаїліти" #GetReligiousSchoolSmall
+ jafari_scool:0 "джафарити" #GetReligiousSchoolSmall
+ zaidi_scool:0 "зейдити" #GetReligiousSchoolSmall
+ hanafi_scool_KYM:0 "ханафітами" #GetReligiousSchoolKYM
+ hanbali_scool_KYM:0 "ханбалітами" #GetReligiousSchoolKYM
+ maliki_scool_KYM:0 "малікітами" #GetReligiousSchoolKYM
+ shafii_scool_KYM:0 "шафіїтами" #GetReligiousSchoolKYM
+ ismaili_scool_KYM:0 "ісмаїлітами" #GetReligiousSchoolKYM
+ jafari_scool_KYM:0 "джафаритами" #GetReligiousSchoolKYM
+ zaidi_scool_KYM:0 "зейдитами" #GetReligiousSchoolKYM
+ hanafi_scool_OGO:0 "ханафітів" #GetReligiousSchoolOGO
+ hanbali_scool_OGO:0 "ханбалітів" #GetReligiousSchoolOGO
+ maliki_scool_OGO:0 "малікітів" #GetReligiousSchoolOGO
+ shafii_scool_OGO:0 "шафіїтів" #GetReligiousSchoolOGO
+ ismaili_scool_OGO:0 "ісмаїлітів" #GetReligiousSchoolOGO
+ jafari_scool_OGO:0 "джафаритів" #GetReligiousSchoolOGO
+ zaidi_scool_OGO:0 "зейдитів" #GetReligiousSchoolOGO
+ hanafi_scool_KOG:0 "ханафіта" #GetReligiousSchoolKOG
+ hanbali_scool_KOG:0 "ханбаліта" #GetReligiousSchoolKOG
+ maliki_scool_KOG:0 "малікіта" #GetReligiousSchoolKOG
+ shafii_scool_KOG:0 "шафіїта" #GetReligiousSchoolKOG
+ ismaili_scool_KOG:0 "ісмаїліта" #GetReligiousSchoolKOG
+ jafari_scool_KOG:0 "джафарита" #GetReligiousSchoolKOG
+ zaidi_scool_KOG:0 "зейдита" #GetReligiousSchoolKOG
+ hanafi_scool_OMU:0 "ханафітам" #GetReligiousSchoolOMU
+ hanbali_scool_OMU:0 "ханбалітам" #GetReligiousSchoolOMU
+ maliki_scool_OMU:0 "малікітам" #GetReligiousSchoolOMU
+ shafii_scool_OMU:0 "шафіїтам" #GetReligiousSchoolOMU
+ ismaili_scool_OMU:0 "ісмаїлітам" #GetReligiousSchoolOMU
+ jafari_scool_OMU:0 "джафаритам" #GetReligiousSchoolOMU
+ zaidi_scool_OMU:0 "зейдитам" #GetReligiousSchoolOMU
  ###Toвapи ta їxнi змiннi
  #Toвapи в oднинi
  GetTG_wine:0 "вино" #GetTG_SM
@@ -326,6 +326,7 @@
  GetTG_paper:0 "папір" #GetTG_SM
  GetTG_gems:0 "коштовне каміння" #GetTG_SM
  GetTG_coal:0 "вугілля" #GetTG_SM
+ GetTG_cloves:0 "гвоздика" #GetTG_SM
  #Toвapи в poдoвoму вiдмiнkу
  GetTG_wine_OGO:0 "вина" #GetTG_OGO
  GetTG_fish_OGO:0 "риби" #GetTG_OGO
@@ -357,7 +358,8 @@
  GetTG_paper_OGO:0 "папера" #GetTG_OGO
  GetTG_gems_OGO:0 "коштовного каміння" #GetTG_OGO
  GetTG_coal_OGO:0 "вугілля" #GetTG_OGO
- #Toвapи в знaxiднoму вiдмiнkу? (Знaйtи щo? Пoбaчиtи щo?)
+ GetTG_cloves_OGO:0 "гвоздики" #GetTG_OGO
+ #Toвapи в знaxiднoму вiдмiнkу? (Знaйtи щo? Пoбaчити щo?)
  GetTG_wine_ZNA:0 "вино" #GetTG_ZNA
  GetTG_fish_ZNA:0 "рибу" #GetTG_ZNA
  GetTG_salt_ZNA:0 "сіль" #GetTG_ZNA
@@ -388,6 +390,7 @@
  GetTG_paper_ZNA:0 "папір" #GetTG_ZNA
  GetTG_gems_ZNA:0 "коштовне каміння" #GetTG_ZNA
  GetTG_coal_ZNA:0 "вугілля" #GetTG_ZNA
+ GetTG_cloves_ZNA:0 "гвоздику" #GetTG_ZNA
  #Toвapи в opуднoму вiдмiнkу? (Biдoмий чим? Topгiвлi чим?)
  GetTG_wine_ORU:0 "вином" #GetTG_ORU
  GetTG_fish_ORU:0 "рибою" #GetTG_ORU
@@ -419,6 +422,7 @@
  GetTG_paper_ORU:0 "папером" #GetTG_ORU
  GetTG_gems_ORU:0 "коштовним камінням" #GetTG_ORU
  GetTG_coal_ORU:0 "вугіллям" #GetTG_ORU
+ GetTG_cloves_ORU:0 "гвоздикою" #GetTG_ORU
  #Toвapи в мicцeвoму вiдмiнkу? (Нa/у koму? Нa/у чoму?)
  GetTG_wine_MIS:0 "вині" #GetTG_MIS
  GetTG_fish_MIS:0 "рибі" #GetTG_MIS
@@ -450,6 +454,7 @@
  GetTG_paper_MIS:0 "папері" #GetTG_MIS
  GetTG_gems_MIS:0 "коштовному камінні" #GetTG_MIS
  GetTG_coal_MIS:0 "вугіллі" #GetTG_MIS
+ GetTG_cloves_MIS:0 "гвоздиці" #GetTG_MIS
 
  #[Kopoні] кoгo/чогo?
  string_sublime_porteOGO:0 "Блискучої Порти" #GetStateFormOGO
@@ -465,317 +470,317 @@
  string_councilKYM:0 "Радою" #GetStateFormKYM
 
  #Fancy Toвapи в poдoвoму вiдмiнkу з вeлиkoї лitepи
- string_OGO_mother_of_pearl:0 "Перламутру" #GetFanсyTG_OGO
- string_OGO_cowries:0 "Мушель" #GetFanсyTG_OGO
- string_OGO_sapphires:0 "Сапфирів" #GetFanсyTG_OGO
- string_OGO_turquoise:0 "Бірюзи" #GetFanсyTG_OGO
- string_OGO_rubies:0 "Рубинів" #GetFanсyTG_OGO
- string_OGO_jade:0 "Нефриту" #GetFanсyTG_OGO
- string_OGO_amber:0 "Бурштину" #GetFanсyTG_OGO
- string_OGO_pearls:0 "Перлів" #GetFanсyTG_OGO
- string_OGO_diamonds:0 "Діамантів" #GetFanсyTG_OGO
- string_OGO_imperial_eggs:0 "Яєць Фаберже" #GetFanсyTG_OGO
- string_OGO_miniatures:0 "Мініатюр" #GetFanсyTG_OGO
- string_OGO_republics:0 "Республік" #GetFanсyTG_OGO
- string_OGO_calligraphy:0 "Каліграфії" #GetFanсyTG_OGO
- string_OGO_book_of_hours:0 "Часослова" #GetFanсyTG_OGO
- string_OGO_fustians:0 "Фланелі" #GetFanсyTG_OGO
- string_OGO_carpets:0 "Килимів" #GetFanсyTG_OGO
- string_OGO_draperies:0 "Драпіровок" #GetFanсyTG_OGO
- string_OGO_chintz:0 "Ситцю" #GetFanсyTG_OGO
- string_OGO_taffeta:0 "Тафти" #GetFanсyTG_OGO
- string_OGO_frankincense:0 "Ладану" #GetFanсyTG_OGO
- string_OGO_cardamom:0 "Кардамону" #GetFanсyTG_OGO
- string_OGO_saffron:0 "Шафрану" #GetFanсyTG_OGO
- string_OGO_cinnamon:0 "Кориці" #GetFanсyTG_OGO
- string_OGO_vanilla:0 "Ванілі" #GetFanсyTG_OGO
- string_OGO_dates:0 "Фініків" #GetFanсyTG_OGO
- string_OGO_opium:0 "Опіуму" #GetFanсyTG_OGO
- string_OGO_long_pepper:0 "Довгого перцю" #GetFanсyTG_OGO
- string_OGO_nutmeg:0 "Мускатного горіху" #GetFanсyTG_OGO
- string_OGO_perfume:0 "Парфумів" #GetFanсyTG_OGO
- string_OGO_pepper:0 "Перцю" #GetFanсyTG_OGO
- string_OGO_satin:0 "Сатину" #GetFanсyTG_OGO
- string_OGO_embroidery:0 "Вишивки" #GetFanсyTG_OGO
- string_OGO_ivory_figurines:0 "Виробів зі слонової кістки" #GetFanсyTG_OGO
- string_OGO_lacquerware:0 "Лакованих виробів" #GetFanсyTG_OGO
- string_OGO_jewellery:0 "Ювелірних виробів" #GetFanсyTG_OGO
- string_OGO_books:0 "Книг" #GetFanсyTG_OGO
- string_OGO_crystal:0 "Хришталю" #GetFanсyTG_OGO
- string_OGO_ceramics:0 "Кераміки" #GetFanсyTG_OGO
+ string_OGO_mother_of_pearl:0 "Перламутру" #GetFancyTG_OGO
+ string_OGO_cowries:0 "Мушель" #GetFancyTG_OGO
+ string_OGO_sapphires:0 "Сапфирів" #GetFancyTG_OGO
+ string_OGO_turquoise:0 "Бірюзи" #GetFancyTG_OGO
+ string_OGO_rubies:0 "Рубинів" #GetFancyTG_OGO
+ string_OGO_jade:0 "Нефриту" #GetFancyTG_OGO
+ string_OGO_amber:0 "Бурштину" #GetFancyTG_OGO
+ string_OGO_pearls:0 "Перлів" #GetFancyTG_OGO
+ string_OGO_diamonds:0 "Діамантів" #GetFancyTG_OGO
+ string_OGO_imperial_eggs:0 "Яєць Фаберже" #GetFancyTG_OGO
+ string_OGO_miniatures:0 "Мініатюр" #GetFancyTG_OGO
+ string_OGO_republics:0 "Республік" #GetFancyTG_OGO
+ string_OGO_calligraphy:0 "Каліграфії" #GetFancyTG_OGO
+ string_OGO_book_of_hours:0 "Часослова" #GetFancyTG_OGO
+ string_OGO_fustians:0 "Фланелі" #GetFancyTG_OGO
+ string_OGO_carpets:0 "Килимів" #GetFancyTG_OGO
+ string_OGO_draperies:0 "Драпіровок" #GetFancyTG_OGO
+ string_OGO_chintz:0 "Ситцю" #GetFancyTG_OGO
+ string_OGO_taffeta:0 "Тафти" #GetFancyTG_OGO
+ string_OGO_frankincense:0 "Ладану" #GetFancyTG_OGO
+ string_OGO_cardamom:0 "Кардамону" #GetFancyTG_OGO
+ string_OGO_saffron:0 "Шафрану" #GetFancyTG_OGO
+ string_OGO_cinnamon:0 "Кориці" #GetFancyTG_OGO
+ string_OGO_vanilla:0 "Ванілі" #GetFancyTG_OGO
+ string_OGO_dates:0 "Фініків" #GetFancyTG_OGO
+ string_OGO_opium:0 "Опіуму" #GetFancyTG_OGO
+ string_OGO_long_pepper:0 "Довгого перцю" #GetFancyTG_OGO
+ string_OGO_nutmeg:0 "Мускатного горіху" #GetFancyTG_OGO
+ string_OGO_perfume:0 "Парфумів" #GetFancyTG_OGO
+ string_OGO_pepper:0 "Перцю" #GetFancyTG_OGO
+ string_OGO_satin:0 "Сатину" #GetFancyTG_OGO
+ string_OGO_embroidery:0 "Вишивки" #GetFancyTG_OGO
+ string_OGO_ivory_figurines:0 "Виробів зі слонової кістки" #GetFancyTG_OGO
+ string_OGO_lacquerware:0 "Лакованих виробів" #GetFancyTG_OGO
+ string_OGO_jewellery:0 "Ювелірних виробів" #GetFancyTG_OGO
+ string_OGO_books:0 "Книг" #GetFancyTG_OGO
+ string_OGO_crystal:0 "Хришталю" #GetFancyTG_OGO
+ string_OGO_ceramics:0 "Кераміки" #GetFancyTG_OGO
  #Fancy Toвapи в знахідному вiдмiнkу з вeлиkoї лitepи
- string_ZNA_mother_of_pearl:0 "Перламутр" #GetFanсyTG_ZNA
- string_ZNA_cowries:0 "Мушлі" #GetFanсyTG_ZNA
- string_ZNA_sapphires:0 "Сапфіри" #GetFanсyTG_ZNA
- string_ZNA_turquoise:0 "Бірюзу" #GetFanсyTG_ZNA
- string_ZNA_rubies:0 "Рубіни" #GetFanсyTG_ZNA
- string_ZNA_jade:0 "Нефрит" #GetFanсyTG_ZNA
- string_ZNA_amber:0 "Бурштин" #GetFanсyTG_ZNA
- string_ZNA_pearls:0 "Перли" #GetFanсyTG_ZNA
- string_ZNA_diamonds:0 "Діаманти" #GetFanсyTG_ZNA
- string_ZNA_imperial_eggs:0 "Яйця Фаберже" #GetFanсyTG_ZNA
- string_ZNA_miniatures:0 "Мініатюри" #GetFanсyTG_ZNA
- string_ZNA_republics:0 "Республіки" #GetFanсyTG_ZNA
- string_ZNA_calligraphy:0 "Каліграфію" #GetFanсyTG_ZNA
- string_ZNA_book_of_hours:0 "Часослов" #GetFanсyTG_ZNA
- string_ZNA_fustians:0 "Фланель" #GetFanсyTG_ZNA
- string_ZNA_carpets:0 "Килими" #GetFanсyTG_ZNA
- string_ZNA_draperies:0 "Драпіровки" #GetFanсyTG_ZNA
- string_ZNA_chintz:0 "Ситець" #GetFanсyTG_ZNA
- string_ZNA_taffeta:0 "Тафту" #GetFanсyTG_ZNA
- string_ZNA_frankincense:0 "Ладан" #GetFanсyTG_ZNA
- string_ZNA_cardamom:0 "Кардамон" #GetFanсyTG_ZNA
- string_ZNA_saffron:0 "Шафран" #GetFanсyTG_ZNA
- string_ZNA_cinnamon:0 "Корицю" #GetFanсyTG_ZNA
- string_ZNA_vanilla:0 "Ваниль" #GetFanсyTG_ZNA
- string_ZNA_dates:0 "Фініки" #GetFanсyTG_ZNA
- string_ZNA_opium:0 "Опіум" #GetFanсyTG_ZNA
- string_ZNA_long_pepper:0 "Довгий перець" #GetFanсyTG_ZNA
- string_ZNA_nutmeg:0 "Мускатний горіх" #GetFanсyTG_ZNA
- string_ZNA_perfume:0 "Парфуми" #GetFanсyTG_ZNA
- string_ZNA_pepper:0 "Перець" #GetFanсyTG_ZNA
- string_ZNA_satin:0 "Сатин" #GetFanсyTG_ZNA
- string_ZNA_embroidery:0 "Вишивку" #GetFanсyTG_ZNA
- string_ZNA_ivory_figurines:0 "Вироби зі слонової кістки" #GetFanсyTG_ZNA
- string_ZNA_lacquerware:0 "Лаковані вироби" #GetFanсyTG_ZNA
- string_ZNA_jewellery:0 "Ювелірні вироби" #GetFanсyTG_ZNA
- string_ZNA_books:0 "Книги" #GetFanсyTG_ZNA
- string_ZNA_crystal:0 "Хришталь" #GetFanсyTG_ZNA
- string_ZNA_ceramics:0 "Кераміку" #GetFanсyTG_ZNA
+ string_ZNA_mother_of_pearl:0 "Перламутр" #GetFancyTG_ZNA
+ string_ZNA_cowries:0 "Мушлі" #GetFancyTG_ZNA
+ string_ZNA_sapphires:0 "Сапфіри" #GetFancyTG_ZNA
+ string_ZNA_turquoise:0 "Бірюзу" #GetFancyTG_ZNA
+ string_ZNA_rubies:0 "Рубіни" #GetFancyTG_ZNA
+ string_ZNA_jade:0 "Нефрит" #GetFancyTG_ZNA
+ string_ZNA_amber:0 "Бурштин" #GetFancyTG_ZNA
+ string_ZNA_pearls:0 "Перли" #GetFancyTG_ZNA
+ string_ZNA_diamonds:0 "Діаманти" #GetFancyTG_ZNA
+ string_ZNA_imperial_eggs:0 "Яйця Фаберже" #GetFancyTG_ZNA
+ string_ZNA_miniatures:0 "Мініатюри" #GetFancyTG_ZNA
+ string_ZNA_republics:0 "Республіки" #GetFancyTG_ZNA
+ string_ZNA_calligraphy:0 "Каліграфію" #GetFancyTG_ZNA
+ string_ZNA_book_of_hours:0 "Часослов" #GetFancyTG_ZNA
+ string_ZNA_fustians:0 "Фланель" #GetFancyTG_ZNA
+ string_ZNA_carpets:0 "Килими" #GetFancyTG_ZNA
+ string_ZNA_draperies:0 "Драпіровки" #GetFancyTG_ZNA
+ string_ZNA_chintz:0 "Ситець" #GetFancyTG_ZNA
+ string_ZNA_taffeta:0 "Тафту" #GetFancyTG_ZNA
+ string_ZNA_frankincense:0 "Ладан" #GetFancyTG_ZNA
+ string_ZNA_cardamom:0 "Кардамон" #GetFancyTG_ZNA
+ string_ZNA_saffron:0 "Шафран" #GetFancyTG_ZNA
+ string_ZNA_cinnamon:0 "Корицю" #GetFancyTG_ZNA
+ string_ZNA_vanilla:0 "Ваниль" #GetFancyTG_ZNA
+ string_ZNA_dates:0 "Фініки" #GetFancyTG_ZNA
+ string_ZNA_opium:0 "Опіум" #GetFancyTG_ZNA
+ string_ZNA_long_pepper:0 "Довгий перець" #GetFancyTG_ZNA
+ string_ZNA_nutmeg:0 "Мускатний горіх" #GetFancyTG_ZNA
+ string_ZNA_perfume:0 "Парфуми" #GetFancyTG_ZNA
+ string_ZNA_pepper:0 "Перець" #GetFancyTG_ZNA
+ string_ZNA_satin:0 "Сатин" #GetFancyTG_ZNA
+ string_ZNA_embroidery:0 "Вишивку" #GetFancyTG_ZNA
+ string_ZNA_ivory_figurines:0 "Вироби зі слонової кістки" #GetFancyTG_ZNA
+ string_ZNA_lacquerware:0 "Лаковані вироби" #GetFancyTG_ZNA
+ string_ZNA_jewellery:0 "Ювелірні вироби" #GetFancyTG_ZNA
+ string_ZNA_books:0 "Книги" #GetFancyTG_ZNA
+ string_ZNA_crystal:0 "Хришталь" #GetFancyTG_ZNA
+ string_ZNA_ceramics:0 "Кераміку" #GetFancyTG_ZNA
  #Fancy Toвapи в орудному вiдмiнkу з вeлиkoї лitepи
- string_ORU_mother_of_pearl:0 "Перламутром" #GetFanсyTG_ORU
- string_ORU_cowries:0 "Мушлями" #GetFanсyTG_ORU
- string_ORU_sapphires:0 "Сапфірами" #GetFanсyTG_ORU
- string_ORU_turquoise:0 "Бірюзою" #GetFanсyTG_ORU
- string_ORU_rubies:0 "Рубінами" #GetFanсyTG_ORU
- string_ORU_jade:0 "Нефритом" #GetFanсyTG_ORU
- string_ORU_amber:0 "Бурштином" #GetFanсyTG_ORU
- string_ORU_pearls:0 "Перлами" #GetFanсyTG_ORU
- string_ORU_diamonds:0 "Діамантами" #GetFanсyTG_ORU
- string_ORU_imperial_eggs:0 "Яйцями Фаберже" #GetFanсyTG_ORU
- string_ORU_miniatures:0 "Мініатюрами" #GetFanсyTG_ORU
- string_ORU_republics:0 "Республіками" #GetFanсyTG_ORU
- string_ORU_calligraphy:0 "Каліграфією" #GetFanсyTG_ORU
- string_ORU_book_of_hours:0 "Часословом" #GetFanсyTG_ORU
- string_ORU_fustians:0 "Фланеллю" #GetFanсyTG_ORU
- string_ORU_carpets:0 "Килимами" #GetFanсyTG_ORU
- string_ORU_draperies:0 "Драпіровками" #GetFanсyTG_ORU
- string_ORU_chintz:0 "Ситцем" #GetFanсyTG_ORU
- string_ORU_taffeta:0 "Тафтами" #GetFanсyTG_ORU
- string_ORU_frankincense:0 "Ладаном" #GetFanсyTG_ORU
- string_ORU_cardamom:0 "Кардамоном" #GetFanсyTG_ORU
- string_ORU_saffron:0 "Шафраном" #GetFanсyTG_ORU
- string_ORU_cinnamon:0 "Корицею" #GetFanсyTG_ORU
- string_ORU_vanilla:0 "Ваниллю" #GetFanсyTG_ORU
- string_ORU_dates:0 "Фініками" #GetFanсyTG_ORU
- string_ORU_opium:0 "Опіумом" #GetFanсyTG_ORU
- string_ORU_long_pepper:0 "Довгим перцем" #GetFanсyTG_ORU
- string_ORU_nutmeg:0 "Мускатним горіхом" #GetFanсyTG_ORU
- string_ORU_perfume:0 "Парфумами" #GetFanсyTG_ORU
- string_ORU_pepper:0 "Перцем" #GetFanсyTG_ORU
- string_ORU_satin:0 "Сатином" #GetFanсyTG_ORU
- string_ORU_embroidery:0 "Вишивкою" #GetFanсyTG_ORU
- string_ORU_ivory_figurines:0 "Виробами зі слонової кістки" #GetFanсyTG_ORU
- string_ORU_lacquerware:0 "Лакованими виробами" #GetFanсyTG_ORU
- string_ORU_jewellery:0 "Ювелірними виробами" #GetFanсyTG_ORU
- string_ORU_books:0 "Книгами" #GetFanсyTG_ORU
- string_ORU_crystal:0 "Хришталем" #GetFanсyTG_ORU
- string_ORU_ceramics:0 "Керамікою" #GetFanсyTG_ORU
+ string_ORU_mother_of_pearl:0 "Перламутром" #GetFancyTG_ORU
+ string_ORU_cowries:0 "Мушлями" #GetFancyTG_ORU
+ string_ORU_sapphires:0 "Сапфірами" #GetFancyTG_ORU
+ string_ORU_turquoise:0 "Бірюзою" #GetFancyTG_ORU
+ string_ORU_rubies:0 "Рубінами" #GetFancyTG_ORU
+ string_ORU_jade:0 "Нефритом" #GetFancyTG_ORU
+ string_ORU_amber:0 "Бурштином" #GetFancyTG_ORU
+ string_ORU_pearls:0 "Перлами" #GetFancyTG_ORU
+ string_ORU_diamonds:0 "Діамантами" #GetFancyTG_ORU
+ string_ORU_imperial_eggs:0 "Яйцями Фаберже" #GetFancyTG_ORU
+ string_ORU_miniatures:0 "Мініатюрами" #GetFancyTG_ORU
+ string_ORU_republics:0 "Республіками" #GetFancyTG_ORU
+ string_ORU_calligraphy:0 "Каліграфією" #GetFancyTG_ORU
+ string_ORU_book_of_hours:0 "Часословом" #GetFancyTG_ORU
+ string_ORU_fustians:0 "Фланеллю" #GetFancyTG_ORU
+ string_ORU_carpets:0 "Килимами" #GetFancyTG_ORU
+ string_ORU_draperies:0 "Драпіровками" #GetFancyTG_ORU
+ string_ORU_chintz:0 "Ситцем" #GetFancyTG_ORU
+ string_ORU_taffeta:0 "Тафтами" #GetFancyTG_ORU
+ string_ORU_frankincense:0 "Ладаном" #GetFancyTG_ORU
+ string_ORU_cardamom:0 "Кардамоном" #GetFancyTG_ORU
+ string_ORU_saffron:0 "Шафраном" #GetFancyTG_ORU
+ string_ORU_cinnamon:0 "Корицею" #GetFancyTG_ORU
+ string_ORU_vanilla:0 "Ваниллю" #GetFancyTG_ORU
+ string_ORU_dates:0 "Фініками" #GetFancyTG_ORU
+ string_ORU_opium:0 "Опіумом" #GetFancyTG_ORU
+ string_ORU_long_pepper:0 "Довгим перцем" #GetFancyTG_ORU
+ string_ORU_nutmeg:0 "Мускатним горіхом" #GetFancyTG_ORU
+ string_ORU_perfume:0 "Парфумами" #GetFancyTG_ORU
+ string_ORU_pepper:0 "Перцем" #GetFancyTG_ORU
+ string_ORU_satin:0 "Сатином" #GetFancyTG_ORU
+ string_ORU_embroidery:0 "Вишивкою" #GetFancyTG_ORU
+ string_ORU_ivory_figurines:0 "Виробами зі слонової кістки" #GetFancyTG_ORU
+ string_ORU_lacquerware:0 "Лакованими виробами" #GetFancyTG_ORU
+ string_ORU_jewellery:0 "Ювелірними виробами" #GetFancyTG_ORU
+ string_ORU_books:0 "Книгами" #GetFancyTG_ORU
+ string_ORU_crystal:0 "Хришталем" #GetFancyTG_ORU
+ string_ORU_ceramics:0 "Керамікою" #GetFancyTG_ORU
  #Fancy Toвapи в місцевому вiдмiнkу з вeлиkoї лitepи
- string_MIS_mother_of_pearl:0 "Перламутрі" #GetFanсyTG_MIS
- string_MIS_cowries:0 "Мушлях" #GetFanсyTG_MIS
- string_MIS_sapphires:0 "Сапфірах" #GetFanсyTG_MIS
- string_MIS_turquoise:0 "Бірюзі" #GetFanсyTG_MIS
- string_MIS_rubies:0 "Рубінах" #GetFanсyTG_MIS
- string_MIS_jade:0 "Нефриті" #GetFanсyTG_MIS
- string_MIS_amber:0 "Бурштині" #GetFanсyTG_MIS
- string_MIS_pearls:0 "Перлах" #GetFanсyTG_MIS
- string_MIS_diamonds:0 "Діамантах" #GetFanсyTG_MIS
- string_MIS_imperial_eggs:0 "Яйцях Фаберже" #GetFanсyTG_MIS
- string_MIS_miniatures:0 "Мініатюрах" #GetFanсyTG_MIS
- string_MIS_republics:0 "Республіках" #GetFanсyTG_MIS
- string_MIS_calligraphy:0 "Каліграфії" #GetFanсyTG_MIS
- string_MIS_book_of_hours:0 "Часослові" #GetFanсyTG_MIS
- string_MIS_fustians:0 "Фланелі" #GetFanсyTG_MIS
- string_MIS_carpets:0 "Килимах" #GetFanсyTG_MIS
- string_MIS_draperies:0 "Драпіровках" #GetFanсyTG_MIS
- string_MIS_chintz:0 "Ситці" #GetFanсyTG_MIS
- string_MIS_taffeta:0 "Тафті" #GetFanсyTG_MIS
- string_MIS_frankincense:0 "Ладані" #GetFanсyTG_MIS
- string_MIS_cardamom:0 "Кардамоні" #GetFanсyTG_MIS
- string_MIS_saffron:0 "Шафрані" #GetFanсyTG_MIS
- string_MIS_cinnamon:0 "Кориці" #GetFanсyTG_MIS
- string_MIS_vanilla:0 "Ванілі" #GetFanсyTG_MIS
- string_MIS_dates:0 "Фініках" #GetFanсyTG_MIS
- string_MIS_opium:0 "Опіумі" #GetFanсyTG_MIS
- string_MIS_long_pepper:0 "Довгому перці" #GetFanсyTG_MIS
- string_MIS_nutmeg:0 "Мускатному горісі" #GetFanсyTG_MIS
- string_MIS_perfume:0 "Парфумах" #GetFanсyTG_MIS
- string_MIS_pepper:0 "Перці" #GetFanсyTG_MIS
- string_MIS_satin:0 "Сатині" #GetFanсyTG_MIS
- string_MIS_embroidery:0 "Вишивці" #GetFanсyTG_MIS
- string_MIS_ivory_figurines:0 "Виробах зі слонової кістки" #GetFanсyTG_MIS
- string_MIS_lacquerware:0 "Лакованих виробах" #GetFanсyTG_MIS
- string_MIS_jewellery:0 "Ювелірних виробах" #GetFanсyTG_MIS
- string_MIS_books:0 "Книгах" #GetFanсyTG_MIS
- string_MIS_crystal:0 "Хришталі" #GetFanсyTG_MIS
- string_MIS_ceramics:0 "Кераміці" #GetFanсyTG_MIS
+ string_MIS_mother_of_pearl:0 "Перламутрі" #GetFancyTG_MIS
+ string_MIS_cowries:0 "Мушлях" #GetFancyTG_MIS
+ string_MIS_sapphires:0 "Сапфірах" #GetFancyTG_MIS
+ string_MIS_turquoise:0 "Бірюзі" #GetFancyTG_MIS
+ string_MIS_rubies:0 "Рубінах" #GetFancyTG_MIS
+ string_MIS_jade:0 "Нефриті" #GetFancyTG_MIS
+ string_MIS_amber:0 "Бурштині" #GetFancyTG_MIS
+ string_MIS_pearls:0 "Перлах" #GetFancyTG_MIS
+ string_MIS_diamonds:0 "Діамантах" #GetFancyTG_MIS
+ string_MIS_imperial_eggs:0 "Яйцях Фаберже" #GetFancyTG_MIS
+ string_MIS_miniatures:0 "Мініатюрах" #GetFancyTG_MIS
+ string_MIS_republics:0 "Республіках" #GetFancyTG_MIS
+ string_MIS_calligraphy:0 "Каліграфії" #GetFancyTG_MIS
+ string_MIS_book_of_hours:0 "Часослові" #GetFancyTG_MIS
+ string_MIS_fustians:0 "Фланелі" #GetFancyTG_MIS
+ string_MIS_carpets:0 "Килимах" #GetFancyTG_MIS
+ string_MIS_draperies:0 "Драпіровках" #GetFancyTG_MIS
+ string_MIS_chintz:0 "Ситці" #GetFancyTG_MIS
+ string_MIS_taffeta:0 "Тафті" #GetFancyTG_MIS
+ string_MIS_frankincense:0 "Ладані" #GetFancyTG_MIS
+ string_MIS_cardamom:0 "Кардамоні" #GetFancyTG_MIS
+ string_MIS_saffron:0 "Шафрані" #GetFancyTG_MIS
+ string_MIS_cinnamon:0 "Кориці" #GetFancyTG_MIS
+ string_MIS_vanilla:0 "Ванілі" #GetFancyTG_MIS
+ string_MIS_dates:0 "Фініках" #GetFancyTG_MIS
+ string_MIS_opium:0 "Опіумі" #GetFancyTG_MIS
+ string_MIS_long_pepper:0 "Довгому перці" #GetFancyTG_MIS
+ string_MIS_nutmeg:0 "Мускатному горісі" #GetFancyTG_MIS
+ string_MIS_perfume:0 "Парфумах" #GetFancyTG_MIS
+ string_MIS_pepper:0 "Перці" #GetFancyTG_MIS
+ string_MIS_satin:0 "Сатині" #GetFancyTG_MIS
+ string_MIS_embroidery:0 "Вишивці" #GetFancyTG_MIS
+ string_MIS_ivory_figurines:0 "Виробах зі слонової кістки" #GetFancyTG_MIS
+ string_MIS_lacquerware:0 "Лакованих виробах" #GetFancyTG_MIS
+ string_MIS_jewellery:0 "Ювелірних виробах" #GetFancyTG_MIS
+ string_MIS_books:0 "Книгах" #GetFancyTG_MIS
+ string_MIS_crystal:0 "Хришталі" #GetFancyTG_MIS
+ string_MIS_ceramics:0 "Кераміці" #GetFancyTG_MIS
  #Fancy Toвapи в poдoвoму вiдмiнkу з мaлeньkoї
- stringLOW_OGO_mother_of_pearl:0 "перламутру" #GetFanсyTGLOW_OGO
- stringLOW_OGO_cowries:0 "мушель" #GetFanсyTGLOW_OGO
- stringLOW_OGO_sapphires:0 "сапфирів" #GetFanсyTGLOW_OGO
- stringLOW_OGO_turquoise:0 "бірюзи" #GetFanсyTGLOW_OGO
- stringLOW_OGO_rubies:0 "рубинів" #GetFanсyTGLOW_OGO
- stringLOW_OGO_jade:0 "нефриту" #GetFanсyTGLOW_OGO
- stringLOW_OGO_amber:0 "бурштину" #GetFanсyTGLOW_OGO
- stringLOW_OGO_pearls:0 "перлів" #GetFanсyTGLOW_OGO
- stringLOW_OGO_diamonds:0 "діамантів" #GetFanсyTGLOW_OGO
- stringLOW_OGO_imperial_eggs:0 "яєць Фаберже" #GetFanсyTGLOW_OGO
- stringLOW_OGO_miniatures:0 "мініатюр" #GetFanсyTGLOW_OGO
- stringLOW_OGO_republics:0 "республік" #GetFanсyTGLOW_OGO
- stringLOW_OGO_calligraphy:0 "каліграфії" #GetFanсyTGLOW_OGO
- stringLOW_OGO_book_of_hours:0 "часослова" #GetFanсyTGLOW_OGO
- stringLOW_OGO_fustians:0 "фланелі" #GetFanсyTGLOW_OGO
- stringLOW_OGO_carpets:0 "килимів" #GetFanсyTGLOW_OGO
- stringLOW_OGO_draperies:0 "драпіровок" #GetFanсyTGLOW_OGO
- stringLOW_OGO_chintz:0 "ситцю" #GetFanсyTGLOW_OGO
- stringLOW_OGO_taffeta:0 "тафти" #GetFanсyTGLOW_OGO
- stringLOW_OGO_frankincense:0 "ладану" #GetFanсyTGLOW_OGO
- stringLOW_OGO_cardamom:0 "кардамону" #GetFanсyTGLOW_OGO
- stringLOW_OGO_saffron:0 "шафрану" #GetFanсyTGLOW_OGO
- stringLOW_OGO_cinnamon:0 "кориці" #GetFanсyTGLOW_OGO
- stringLOW_OGO_vanilla:0 "ванілі" #GetFanсyTGLOW_OGO
- stringLOW_OGO_dates:0 "фініків" #GetFanсyTGLOW_OGO
- stringLOW_OGO_opium:0 "опіуму" #GetFanсyTGLOW_OGO
- stringLOW_OGO_long_pepper:0 "довгого перцю" #GetFanсyTGLOW_OGO
- stringLOW_OGO_nutmeg:0 "мускатного горіху" #GetFanсyTGLOW_OGO
- stringLOW_OGO_perfume:0 "парфумів" #GetFanсyTGLOW_OGO
- stringLOW_OGO_pepper:0 "перцю" #GetFanсyTGLOW_OGO
- stringLOW_OGO_satin:0 "сатину" #GetFanсyTGLOW_OGO
- stringLOW_OGO_embroidery:0 "вишивки" #GetFanсyTGLOW_OGO
- stringLOW_OGO_ivory_figurines:0 "виробів зі слонової кістки" #GetFanсyTGLOW_OGO
- stringLOW_OGO_lacquerware:0 "лакованих виробів" #GetFanсyTGLOW_OGO
- stringLOW_OGO_jewellery:0 "ювелірних виробів" #GetFanсyTGLOW_OGO
- stringLOW_OGO_books:0 "книг" #GetFanсyTGLOW_OGO
- stringLOW_OGO_crystal:0 "хришталю" #GetFanсyTGLOW_OGO
- stringLOW_OGO_ceramics:0 "кераміки" #GetFanсyTGLOW_OGO
+ stringLOW_OGO_mother_of_pearl:0 "перламутру" #GetFancyTGLOW_OGO
+ stringLOW_OGO_cowries:0 "мушель" #GetFancyTGLOW_OGO
+ stringLOW_OGO_sapphires:0 "сапфирів" #GetFancyTGLOW_OGO
+ stringLOW_OGO_turquoise:0 "бірюзи" #GetFancyTGLOW_OGO
+ stringLOW_OGO_rubies:0 "рубинів" #GetFancyTGLOW_OGO
+ stringLOW_OGO_jade:0 "нефриту" #GetFancyTGLOW_OGO
+ stringLOW_OGO_amber:0 "бурштину" #GetFancyTGLOW_OGO
+ stringLOW_OGO_pearls:0 "перлів" #GetFancyTGLOW_OGO
+ stringLOW_OGO_diamonds:0 "діамантів" #GetFancyTGLOW_OGO
+ stringLOW_OGO_imperial_eggs:0 "яєць Фаберже" #GetFancyTGLOW_OGO
+ stringLOW_OGO_miniatures:0 "мініатюр" #GetFancyTGLOW_OGO
+ stringLOW_OGO_republics:0 "республік" #GetFancyTGLOW_OGO
+ stringLOW_OGO_calligraphy:0 "каліграфії" #GetFancyTGLOW_OGO
+ stringLOW_OGO_book_of_hours:0 "часослова" #GetFancyTGLOW_OGO
+ stringLOW_OGO_fustians:0 "фланелі" #GetFancyTGLOW_OGO
+ stringLOW_OGO_carpets:0 "килимів" #GetFancyTGLOW_OGO
+ stringLOW_OGO_draperies:0 "драпіровок" #GetFancyTGLOW_OGO
+ stringLOW_OGO_chintz:0 "ситцю" #GetFancyTGLOW_OGO
+ stringLOW_OGO_taffeta:0 "тафти" #GetFancyTGLOW_OGO
+ stringLOW_OGO_frankincense:0 "ладану" #GetFancyTGLOW_OGO
+ stringLOW_OGO_cardamom:0 "кардамону" #GetFancyTGLOW_OGO
+ stringLOW_OGO_saffron:0 "шафрану" #GetFancyTGLOW_OGO
+ stringLOW_OGO_cinnamon:0 "кориці" #GetFancyTGLOW_OGO
+ stringLOW_OGO_vanilla:0 "ванілі" #GetFancyTGLOW_OGO
+ stringLOW_OGO_dates:0 "фініків" #GetFancyTGLOW_OGO
+ stringLOW_OGO_opium:0 "опіуму" #GetFancyTGLOW_OGO
+ stringLOW_OGO_long_pepper:0 "довгого перцю" #GetFancyTGLOW_OGO
+ stringLOW_OGO_nutmeg:0 "мускатного горіху" #GetFancyTGLOW_OGO
+ stringLOW_OGO_perfume:0 "парфумів" #GetFancyTGLOW_OGO
+ stringLOW_OGO_pepper:0 "перцю" #GetFancyTGLOW_OGO
+ stringLOW_OGO_satin:0 "сатину" #GetFancyTGLOW_OGO
+ stringLOW_OGO_embroidery:0 "вишивки" #GetFancyTGLOW_OGO
+ stringLOW_OGO_ivory_figurines:0 "виробів зі слонової кістки" #GetFancyTGLOW_OGO
+ stringLOW_OGO_lacquerware:0 "лакованих виробів" #GetFancyTGLOW_OGO
+ stringLOW_OGO_jewellery:0 "ювелірних виробів" #GetFancyTGLOW_OGO
+ stringLOW_OGO_books:0 "книг" #GetFancyTGLOW_OGO
+ stringLOW_OGO_crystal:0 "хришталю" #GetFancyTGLOW_OGO
+ stringLOW_OGO_ceramics:0 "кераміки" #GetFancyTGLOW_OGO
  #Fancy Toвapи в знaxiднoму вiдмiнkу з мaлeньkoї
- stringLOW_ZNA_mother_of_pearl:0 "перламутр" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_cowries:0 "мушлі" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_sapphires:0 "сапфіри" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_turquoise:0 "бірюзу" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_rubies:0 "рубіни" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_jade:0 "нефрит" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_amber:0 "бурштин" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_pearls:0 "перли" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_diamonds:0 "діаманти" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_imperial_eggs:0 "яйця Фаберже" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_miniatures:0 "мініатюри" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_republics:0 "республіки" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_calligraphy:0 "каліграфію" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_book_of_hours:0 "часослов" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_fustians:0 "фланель" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_carpets:0 "килими" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_draperies:0 "драпіровки" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_chintz:0 "ситець" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_taffeta:0 "тафту" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_frankincense:0 "ладан" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_cardamom:0 "кардамон" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_saffron:0 "шафран" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_cinnamon:0 "корицю" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_vanilla:0 "ваниль" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_dates:0 "фініки" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_opium:0 "опіум" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_long_pepper:0 "довгий перець" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_nutmeg:0 "мускатний горіх" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_perfume:0 "парфуми" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_pepper:0 "перець" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_satin:0 "сатин" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_embroidery:0 "вишивку" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_ivory_figurines:0 "вироби зі слонової кістки" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_lacquerware:0 "лаковані вироби" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_jewellery:0 "ювелірні вироби" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_books:0 "книги" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_crystal:0 "хришталь" #GetFanсyTGLOW_ZNA
- stringLOW_ZNA_ceramics:0 "кераміку" #GetFanсyTGLOW_ZNA
+ stringLOW_ZNA_mother_of_pearl:0 "перламутр" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_cowries:0 "мушлі" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_sapphires:0 "сапфіри" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_turquoise:0 "бірюзу" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_rubies:0 "рубіни" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_jade:0 "нефрит" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_amber:0 "бурштин" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_pearls:0 "перли" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_diamonds:0 "діаманти" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_imperial_eggs:0 "яйця Фаберже" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_miniatures:0 "мініатюри" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_republics:0 "республіки" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_calligraphy:0 "каліграфію" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_book_of_hours:0 "часослов" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_fustians:0 "фланель" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_carpets:0 "килими" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_draperies:0 "драпіровки" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_chintz:0 "ситець" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_taffeta:0 "тафту" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_frankincense:0 "ладан" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_cardamom:0 "кардамон" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_saffron:0 "шафран" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_cinnamon:0 "корицю" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_vanilla:0 "ваниль" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_dates:0 "фініки" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_opium:0 "опіум" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_long_pepper:0 "довгий перець" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_nutmeg:0 "мускатний горіх" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_perfume:0 "парфуми" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_pepper:0 "перець" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_satin:0 "сатин" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_embroidery:0 "вишивку" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_ivory_figurines:0 "вироби зі слонової кістки" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_lacquerware:0 "лаковані вироби" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_jewellery:0 "ювелірні вироби" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_books:0 "книги" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_crystal:0 "хришталь" #GetFancyTGLOW_ZNA
+ stringLOW_ZNA_ceramics:0 "кераміку" #GetFancyTGLOW_ZNA
  #Fancy Toвapи в opуднoму вiдмiнkу з мaлeньkoї
- stringLOW_ORU_mother_of_pearl:0 "перламутром" #GetFanсyTGLOW_ORU
- stringLOW_ORU_cowries:0 "мушлями" #GetFanсyTGLOW_ORU
- stringLOW_ORU_sapphires:0 "сапфірами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_turquoise:0 "бірюзою" #GetFanсyTGLOW_ORU
- stringLOW_ORU_rubies:0 "рубінами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_jade:0 "нефритом" #GetFanсyTGLOW_ORU
- stringLOW_ORU_amber:0 "бурштином" #GetFanсyTGLOW_ORU
- stringLOW_ORU_pearls:0 "перлами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_diamonds:0 "діамантами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_imperial_eggs:0 "яйцями Фаберже" #GetFanсyTGLOW_ORU
- stringLOW_ORU_miniatures:0 "мініатюрами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_republics:0 "республіками" #GetFanсyTGLOW_ORU
- stringLOW_ORU_calligraphy:0 "каліграфією" #GetFanсyTGLOW_ORU
- stringLOW_ORU_book_of_hours:0 "часословом" #GetFanсyTGLOW_ORU
- stringLOW_ORU_fustians:0 "фланеллю" #GetFanсyTGLOW_ORU
- stringLOW_ORU_carpets:0 "килимами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_draperies:0 "драпіровками" #GetFanсyTGLOW_ORU
- stringLOW_ORU_chintz:0 "ситцем" #GetFanсyTGLOW_ORU
- stringLOW_ORU_taffeta:0 "тафтами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_frankincense:0 "ладаном" #GetFanсyTGLOW_ORU
- stringLOW_ORU_cardamom:0 "кардамоном" #GetFanсyTGLOW_ORU
- stringLOW_ORU_saffron:0 "шафраном" #GetFanсyTGLOW_ORU
- stringLOW_ORU_cinnamon:0 "корицею" #GetFanсyTGLOW_ORU
- stringLOW_ORU_vanilla:0 "ваниллю" #GetFanсyTGLOW_ORU
- stringLOW_ORU_dates:0 "фініками" #GetFanсyTGLOW_ORU
- stringLOW_ORU_opium:0 "опіумом" #GetFanсyTGLOW_ORU
- stringLOW_ORU_long_pepper:0 "довгим перцем" #GetFanсyTGLOW_ORU
- stringLOW_ORU_nutmeg:0 "мускатним горіхом" #GetFanсyTGLOW_ORU
- stringLOW_ORU_perfume:0 "парфумами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_pepper:0 "перцем" #GetFanсyTGLOW_ORU
- stringLOW_ORU_satin:0 "сатином" #GetFanсyTGLOW_ORU
- stringLOW_ORU_embroidery:0 "вишивкою" #GetFanсyTGLOW_ORU
- stringLOW_ORU_ivory_figurines:0 "виробами зі слонової кістки" #GetFanсyTGLOW_ORU
- stringLOW_ORU_lacquerware:0 "лакованими виробами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_jewellery:0 "ювелірними виробами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_books:0 "книгами" #GetFanсyTGLOW_ORU
- stringLOW_ORU_crystal:0 "хришталем" #GetFanсyTGLOW_ORU
- stringLOW_ORU_ceramics:0 "керамікою" #GetFanсyTGLOW_ORU
+ stringLOW_ORU_mother_of_pearl:0 "перламутром" #GetFancyTGLOW_ORU
+ stringLOW_ORU_cowries:0 "мушлями" #GetFancyTGLOW_ORU
+ stringLOW_ORU_sapphires:0 "сапфірами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_turquoise:0 "бірюзою" #GetFancyTGLOW_ORU
+ stringLOW_ORU_rubies:0 "рубінами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_jade:0 "нефритом" #GetFancyTGLOW_ORU
+ stringLOW_ORU_amber:0 "бурштином" #GetFancyTGLOW_ORU
+ stringLOW_ORU_pearls:0 "перлами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_diamonds:0 "діамантами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_imperial_eggs:0 "яйцями Фаберже" #GetFancyTGLOW_ORU
+ stringLOW_ORU_miniatures:0 "мініатюрами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_republics:0 "республіками" #GetFancyTGLOW_ORU
+ stringLOW_ORU_calligraphy:0 "каліграфією" #GetFancyTGLOW_ORU
+ stringLOW_ORU_book_of_hours:0 "часословом" #GetFancyTGLOW_ORU
+ stringLOW_ORU_fustians:0 "фланеллю" #GetFancyTGLOW_ORU
+ stringLOW_ORU_carpets:0 "килимами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_draperies:0 "драпіровками" #GetFancyTGLOW_ORU
+ stringLOW_ORU_chintz:0 "ситцем" #GetFancyTGLOW_ORU
+ stringLOW_ORU_taffeta:0 "тафтами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_frankincense:0 "ладаном" #GetFancyTGLOW_ORU
+ stringLOW_ORU_cardamom:0 "кардамоном" #GetFancyTGLOW_ORU
+ stringLOW_ORU_saffron:0 "шафраном" #GetFancyTGLOW_ORU
+ stringLOW_ORU_cinnamon:0 "корицею" #GetFancyTGLOW_ORU
+ stringLOW_ORU_vanilla:0 "ваниллю" #GetFancyTGLOW_ORU
+ stringLOW_ORU_dates:0 "фініками" #GetFancyTGLOW_ORU
+ stringLOW_ORU_opium:0 "опіумом" #GetFancyTGLOW_ORU
+ stringLOW_ORU_long_pepper:0 "довгим перцем" #GetFancyTGLOW_ORU
+ stringLOW_ORU_nutmeg:0 "мускатним горіхом" #GetFancyTGLOW_ORU
+ stringLOW_ORU_perfume:0 "парфумами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_pepper:0 "перцем" #GetFancyTGLOW_ORU
+ stringLOW_ORU_satin:0 "сатином" #GetFancyTGLOW_ORU
+ stringLOW_ORU_embroidery:0 "вишивкою" #GetFancyTGLOW_ORU
+ stringLOW_ORU_ivory_figurines:0 "виробами зі слонової кістки" #GetFancyTGLOW_ORU
+ stringLOW_ORU_lacquerware:0 "лакованими виробами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_jewellery:0 "ювелірними виробами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_books:0 "книгами" #GetFancyTGLOW_ORU
+ stringLOW_ORU_crystal:0 "хришталем" #GetFancyTGLOW_ORU
+ stringLOW_ORU_ceramics:0 "керамікою" #GetFancyTGLOW_ORU
  #Fancy Toвapи в мicцeвoму вiдмiнkу з мaлeньkoї ""
- stringLOW_MIS_mother_of_pearl:0 "перламутрі" #GetFanсyTGLOW_MIS
- stringLOW_MIS_cowries:0 "мушлях" #GetFanсyTGLOW_MIS
- stringLOW_MIS_sapphires:0 "сапфірах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_turquoise:0 "бірюзі" #GetFanсyTGLOW_MIS
- stringLOW_MIS_rubies:0 "рубінах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_jade:0 "нефриті" #GetFanсyTGLOW_MIS
- stringLOW_MIS_amber:0 "бурштині" #GetFanсyTGLOW_MIS
- stringLOW_MIS_pearls:0 "перлах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_diamonds:0 "діамантах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_imperial_eggs:0 "яйцях Фаберже" #GetFanсyTGLOW_MIS
- stringLOW_MIS_miniatures:0 "мініатюрах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_republics:0 "республіках" #GetFanсyTGLOW_MIS
- stringLOW_MIS_calligraphy:0 "каліграфії" #GetFanсyTGLOW_MIS
- stringLOW_MIS_book_of_hours:0 "часослові" #GetFanсyTGLOW_MIS
- stringLOW_MIS_fustians:0 "фланелі" #GetFanсyTGLOW_MIS
- stringLOW_MIS_carpets:0 "килимах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_draperies:0 "драпіровках" #GetFanсyTGLOW_MIS
- stringLOW_MIS_chintz:0 "ситці" #GetFanсyTGLOW_MIS
- stringLOW_MIS_taffeta:0 "тафті" #GetFanсyTGLOW_MIS
- stringLOW_MIS_frankincense:0 "ладані" #GetFanсyTGLOW_MIS
- stringLOW_MIS_cardamom:0 "кардамоні" #GetFanсyTGLOW_MIS
- stringLOW_MIS_saffron:0 "шафрані" #GetFanсyTGLOW_MIS
- stringLOW_MIS_cinnamon:0 "кориці" #GetFanсyTGLOW_MIS
- stringLOW_MIS_vanilla:0 "ванілі" #GetFanсyTGLOW_MIS
- stringLOW_MIS_dates:0 "фініках" #GetFanсyTGLOW_MIS
- stringLOW_MIS_opium:0 "опіумі" #GetFanсyTGLOW_MIS
- stringLOW_MIS_long_pepper:0 "довгому перці" #GetFanсyTGLOW_MIS
- stringLOW_MIS_nutmeg:0 "мускатному горісі" #GetFanсyTGLOW_MIS
- stringLOW_MIS_perfume:0 "парфумах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_pepper:0 "перці" #GetFanсyTGLOW_MIS
- stringLOW_MIS_satin:0 "сатині" #GetFanсyTGLOW_MIS
- stringLOW_MIS_embroidery:0 "вишивці" #GetFanсyTGLOW_MIS
- stringLOW_MIS_ivory_figurines:0 "виробах зі слонової кістки" #GetFanсyTGLOW_MIS
- stringLOW_MIS_lacquerware:0 "лакованих виробах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_jewellery:0 "ювелірних виробах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_books:0 "книгах" #GetFanсyTGLOW_MIS
- stringLOW_MIS_crystal:0 "хришталі" #GetFanсyTGLOW_MIS
- stringLOW_MIS_ceramics:0 "кераміці" #GetFanсyTGLOW_MIS
+ stringLOW_MIS_mother_of_pearl:0 "перламутрі" #GetFancyTGLOW_MIS
+ stringLOW_MIS_cowries:0 "мушлях" #GetFancyTGLOW_MIS
+ stringLOW_MIS_sapphires:0 "сапфірах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_turquoise:0 "бірюзі" #GetFancyTGLOW_MIS
+ stringLOW_MIS_rubies:0 "рубінах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_jade:0 "нефриті" #GetFancyTGLOW_MIS
+ stringLOW_MIS_amber:0 "бурштині" #GetFancyTGLOW_MIS
+ stringLOW_MIS_pearls:0 "перлах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_diamonds:0 "діамантах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_imperial_eggs:0 "яйцях Фаберже" #GetFancyTGLOW_MIS
+ stringLOW_MIS_miniatures:0 "мініатюрах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_republics:0 "республіках" #GetFancyTGLOW_MIS
+ stringLOW_MIS_calligraphy:0 "каліграфії" #GetFancyTGLOW_MIS
+ stringLOW_MIS_book_of_hours:0 "часослові" #GetFancyTGLOW_MIS
+ stringLOW_MIS_fustians:0 "фланелі" #GetFancyTGLOW_MIS
+ stringLOW_MIS_carpets:0 "килимах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_draperies:0 "драпіровках" #GetFancyTGLOW_MIS
+ stringLOW_MIS_chintz:0 "ситці" #GetFancyTGLOW_MIS
+ stringLOW_MIS_taffeta:0 "тафті" #GetFancyTGLOW_MIS
+ stringLOW_MIS_frankincense:0 "ладані" #GetFancyTGLOW_MIS
+ stringLOW_MIS_cardamom:0 "кардамоні" #GetFancyTGLOW_MIS
+ stringLOW_MIS_saffron:0 "шафрані" #GetFancyTGLOW_MIS
+ stringLOW_MIS_cinnamon:0 "кориці" #GetFancyTGLOW_MIS
+ stringLOW_MIS_vanilla:0 "ванілі" #GetFancyTGLOW_MIS
+ stringLOW_MIS_dates:0 "фініках" #GetFancyTGLOW_MIS
+ stringLOW_MIS_opium:0 "опіумі" #GetFancyTGLOW_MIS
+ stringLOW_MIS_long_pepper:0 "довгому перці" #GetFancyTGLOW_MIS
+ stringLOW_MIS_nutmeg:0 "мускатному горісі" #GetFancyTGLOW_MIS
+ stringLOW_MIS_perfume:0 "парфумах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_pepper:0 "перці" #GetFancyTGLOW_MIS
+ stringLOW_MIS_satin:0 "сатині" #GetFancyTGLOW_MIS
+ stringLOW_MIS_embroidery:0 "вишивці" #GetFancyTGLOW_MIS
+ stringLOW_MIS_ivory_figurines:0 "виробах зі слонової кістки" #GetFancyTGLOW_MIS
+ stringLOW_MIS_lacquerware:0 "лакованих виробах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_jewellery:0 "ювелірних виробах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_books:0 "книгах" #GetFancyTGLOW_MIS
+ stringLOW_MIS_crystal:0 "хришталі" #GetFancyTGLOW_MIS
+ stringLOW_MIS_ceramics:0 "кераміці" #GetFancyTGLOW_MIS
  ###Змiннi ctaнiв ""
  #Змінні в називному вiдмiнkу з маленької літери ""
  EST_BrahminsNZ:0 "брагмани" #BrahminsNZ
@@ -808,10 +813,23 @@
  EST_amirsNZ:0 "еміри" #NoblesNZ
  EST_plantersNZ:0 "плантатори" #NoblesNZ
  EST_bushiNZ:0 "буші" #NoblesNZ
+ EST_yangban_administratorsNZ:0 "янбани" #NoblesNZ
+ EST_junkersNZ:0 "юнкери" #NoblesNZ
  EST_burghersNZ:0 "міщани" #BurghersNZ
  EST_bourgeoisieNZ:0 "буржуа" #BurghersNZ
+ EST_neoconfucian_reformersNZ:0 "неоконфуціанські реформатори" #BurghersNZ
  EST_shangbangNZ:0 "шаньбен" #BurghersNZ
  EST_guildsNZ:0 "купецькі гільдії" #BurghersNZ
+ EST_yangban_scholarsNZ:0 "вчені-янбани" #ChurchNZ
+ EST_kahunaNZ:1 "кахуна" #ChurchNZ
+ EST_tohungaNZ:1 "тохунга" #ChurchNZ
+ EST_beteNZ:1 "бете" #ChurchNZ
+ EST_taula_otuaNZ:1 "таула отуа" #ChurchNZ
+ EST_taula_aituNZ:1 "таула аіту" #ChurchNZ
+ EST_aliiNZ:1 "алі-і" #NoblesNZ
+ EST_rangatiraNZ:0 "рангатіра" #NoblesNZ
+ EST_eikiNZ:1 "'еікі" #NoblesNZ
+ EST_ratuNZ:1 "рату" #NoblesNZ
  #Змінні в poдoвoму вiдмiнkу з маленької літери ""
  EST_BrahminsRD:0 "брагманів" #BrahminsRD
  EST_MarathaRD:0 "маратхів" #MarathaRD
@@ -843,10 +861,23 @@
  EST_amirsRD:0 "емірів" #NoblesRD
  EST_plantersRD:0 "плантаторів" #NoblesRD
  EST_bushiRD:0 "буші" #NoblesRD
+ EST_yangban_administratorsRD:0 "адміністраторів-янбанів" #NoblesRD
+ EST_junkersRD:0 "юнкерів" #NoblesRD
  EST_burghersRD:0 "міщан" #BurghersRD
  EST_bourgeoisieRD:0 "буржуа" #BurghersRD
+ EST_neoconfucian_reformersRD:0 "неоконфуціанських реформаторів" #BurghersRD
  EST_shangbangRD:0 "шаньбен" #BurghersRD
  EST_guildsRD:0 "купецьких гільдій" #BurghersRD
+ EST_yangban_scholarsRD:0 "вчених-янбанів" #ChurchRD
+ EST_kahunaRD:1 "кахуна" #ChurchRD
+ EST_tohungaRD:1 "тохунга" #ChurchRD
+ EST_beteRD:1 "бете" #ChurchRD
+ EST_taula_otuaRD:1 "таула отуа" #ChurchRD
+ EST_taula_aituRD:1 "таула аіту" #ChurchRD
+ EST_aliiRD:1 "алі-і" #NoblesRD
+ EST_rangatiraRD:0 "рангатіра" #NoblesRD
+ EST_eikiRD:1 "'еікі" #NoblesRD
+ EST_ratuRD:1 "рату" #NoblesRD
  #Змінні в дaвальнoму вiдмiнkу з маленької літери ""
  EST_BrahminsDV:0 "брагманам" #BrahminsDV
  EST_MarathaDV:0 "маратхам" #MarathaDV
@@ -878,10 +909,23 @@
  EST_amirsDV:0 "емірам" #NoblesDV
  EST_plantersDV:0 "плантаторам" #NoblesDV
  EST_bushiDV:0 "буші" #NoblesDV
+ EST_yangban_administratorsDV:0 "адміністраторам-янбанам" #NoblesDV
+ EST_junkersDV:0 "юнкерам" #NoblesDV
  EST_burghersDV:0 "міщанам" #BurghersDV
  EST_bourgeoisieDV:0 "буржуа" #BurghersDV
+ EST_neoconfucian_reformersDV:0 "неоконфуціанським реформаторам" #BurghersDV
  EST_shangbangDV:0 "шаньбен" #BurghersDV
  EST_guildsDV:0 "купецьким гільдіям" #BurghersDV
+ EST_yangban_scholarsDV:0 "вченим-янбанам" #ChurchDV
+ EST_kahunaDV:1 "кахуна" #ChurchDV
+ EST_tohungaDV:1 "тохунга" #ChurchDV
+ EST_beteDV:1 "бете" #ChurchDV
+ EST_taula_otuaDV:1 "таула отуа" #ChurchDV
+ EST_taula_aituDV:1 "таула аіту" #ChurchDV
+ EST_aliiDV:1 "алі-і" #NoblesDV
+ EST_rangatiraDV:0 "рангатіра" #NoblesDV
+ EST_eikiDV:1 "'еікі" #NoblesDV
+ EST_ratuDV:1 "рату" #NoblesDV
  #Змінні в знахідному вiдмiнkу з маленької літери ""
  EST_BrahminsZN:0 "брагманів" #BrahminsZN
  EST_MarathaZN:0 "маратхів" #MarathaZN
@@ -913,10 +957,23 @@
  EST_amirsZN:0 "емірів" #NoblesZN
  EST_plantersZN:0 "плантаторів" #NoblesZN
  EST_bushiZN:0 "буші" #NoblesZN
+ EST_yangban_administratorsZN:0 "адміністраторів-янбанів" #NoblesZN
+ EST_junkersZN:0 "юнкерів" #NoblesZN
  EST_burghersZN:0 "міщан" #BurghersZN
  EST_bourgeoisieZN:0 "буржуа" #BurghersZN
+ EST_neoconfucian_reformersZN:0 "неоконфуціанських реформаторів" #BurghersZN
  EST_shangbangZN:0 "шаньбен" #BurghersZN
  EST_guildsZN:0 "купецькі гільдії" #BurghersZN
+ EST_yangban_scholarsZN:0 "вчених-янбанів" #ChurchZN
+ EST_kahunaZN:1 "кахуна" #ChurchZN
+ EST_tohungaZN:1 "тохунга" #ChurchZN
+ EST_beteZN:1 "бете" #ChurchZN
+ EST_taula_otuaZN:1 "таула отуа" #ChurchZN
+ EST_taula_aituZN:1 "таула аіту" #ChurchZN
+ EST_aliiZN:1 "алі-і" #NoblesZN
+ EST_rangatiraZN:0 "рангатіра" #NoblesZN
+ EST_eikiZN:1 "'еікі" #NoblesZN
+ EST_ratuZN:1 "рату" #NoblesZN
  #Змінні в орудному вiдмiнkу з маленької літери ""
  EST_BrahminsOD:0 "брагманами" #BrahminsOD
  EST_MarathaOD:0 "маратхами" #MarathaOD
@@ -948,10 +1005,23 @@
  EST_amirsOD:0 "емірами" #NoblesOD
  EST_plantersOD:0 "плантаторами" #NoblesOD
  EST_bushiOD:0 "буші" #NoblesOD
+ EST_yangban_administratorsOD:0 "адміністраторами-янбанами" #NoblesOD
+ EST_junkersOD:0 "юнкерами" #NoblesOD
  EST_burghersOD:0 "міщанами" #BurghersOD
  EST_bourgeoisieOD:0 "буржуа" #BurghersOD
+ EST_neoconfucian_reformersOD:0 "неоконфуціанськими реформаторами" #BurghersOD
  EST_shangbangOD:0 "шаньбен" #BurghersOD
  EST_guildsOD:0 "купецькими гільдіями" #BurghersOD
+ EST_yangban_scholarsOD:0 "вченими-янбанами" #ChurchOD
+ EST_kahunaOD:1 "кахуна" #ChurchOD
+ EST_tohungaOD:1 "тохунга" #ChurchOD
+ EST_beteOD:1 "бете" #ChurchOD
+ EST_taula_otuaOD:1 "таула отуа" #ChurchOD
+ EST_taula_aituOD:1 "таула аіту" #ChurchOD
+ EST_aliiOD:1 "алі-і" #NoblesOD
+ EST_rangatiraOD:0 "рангатіра" #NoblesOD
+ EST_eikiOD:1 "'еікі" #NoblesOD
+ EST_ratuOD:1 "рату" #NoblesOD
  #Змінні в місцевому вiдмiнkу з маленької літери ""
  EST_BrahminsMS:0 "брагманах" #BrahminsMS
  EST_MarathaMS:0 "маратхах" #MarathaMS
@@ -983,10 +1053,23 @@
  EST_amirsMS:0 "емірах" #NoblesMS
  EST_plantersMS:0 "плантаторах" #NoblesMS
  EST_bushiMS:0 "буші" #NoblesMS
+ EST_yangban_administratorsMS:0 "адміністраторах-янбанах" #NoblesMS
+ EST_junkersMS:0 "юнкерах" #NoblesMS
  EST_burghersMS:0 "міщанах" #BurghersMS
  EST_bourgeoisieMS:0 "буржуа" #BurghersMS
+ EST_neoconfucian_reformersMS:0 "неоконфуціанських реформаторах" #BurghersMS
  EST_shangbangMS:0 "шаньбен" #BurghersMS
  EST_guildsMS:0 "купецьких гільдіях" #BurghersMS
+ EST_yangban_scholarsMS:0 "вчених-янбанах" #ChurchMS
+ EST_kahunaMS:1 "кахуна" #ChurchMS
+ EST_tohungaMS:1 "тохунга" #ChurchMS
+ EST_beteMS:1 "бете" #ChurchMS
+ EST_taula_otuaMS:1 "таула отуа" #ChurchMS
+ EST_taula_aituMS:1 "таула аіту" #ChurchMS
+ EST_aliiMS:1 "алі-і" #NoblesMS
+ EST_rangatiraMS:0 "рангатіра" #NoblesMS
+ EST_eikiMS:1 "'еікі" #NoblesMS
+ EST_ratuMS:1 "рату" #NoblesMS
  #Змінні в називному вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsNZ_CAP:0 "Брагмани" #BrahminsNZ_CAP
  EST_MarathaNZ_CAP:0 "Маратхи" #MarathaNZ_CAP
@@ -1018,10 +1101,23 @@
  EST_amirsNZ_CAP:0 "Еміри" #NoblesNZ_CAP
  EST_plantersNZ_CAP:0 "Плантатори" #NoblesNZ_CAP
  EST_bushiNZ_CAP:0 "Буші" #NoblesNZ_CAP
+ EST_yangban_administratorsNZ_CAP:0 "Адміністратори-янбани" #NoblesNZ_CAP
+ EST_junkersNZ_CAP:0 "Юнкери" #NoblesNZ_CAP
  EST_burghersNZ_CAP:0 "Міщани" #BurghersNZ_CAP
  EST_bourgeoisieNZ_CAP:0 "Буржуа" #BurghersNZ_CAP
+ EST_neoconfucian_reformersNZ_CAP:0 "Неоконфуціанські реформатори" #BurghersNZ_CAP
  EST_shangbangNZ_CAP:0 "Шаньбен" #BurghersNZ_CAP
  EST_guildsNZ_CAP:0 "Купецькі гільдії" #BurghersNZ_CAP
+ EST_yangban_scholarsNZ_CAP:0 "Вчені-янбани" #ChurchNZ_CAP
+ EST_kahunaNZ_CAP:1 "Кахуна" #ChurchNZ_CAP
+ EST_tohungaNZ_CAP:1 "Тохунга" #ChurchNZ_CAP
+ EST_beteNZ_CAP:1 "Бете" #ChurchNZ_CAP
+ EST_taula_otuaNZ_CAP:1 "Таула отуа" #ChurchNZ_CAP
+ EST_taula_aituNZ_CAP:1 "Таула аіту" #ChurchNZ_CAP
+ EST_aliiNZ_CAP:1 "Алі-і" #NoblesNZ_CAP
+ EST_rangatiraNZ_CAP:0 "Рангатіра" #NoblesNZ_CAP
+ EST_eikiNZ_CAP:1 "'Еікі" #NoblesNZ_CAP
+ EST_ratuNZ_CAP:1 "Рату" #NoblesNZ_CAP
  #Змінні в poдoвoму вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsRD_CAP:0 "Брагманів" #BrahminsRD_CAP
  EST_MarathaRD_CAP:0 "Маратхів" #MarathaRD_CAP
@@ -1053,10 +1149,23 @@
  EST_amirsRD_CAP:0 "Емірів" #NoblesRD_CAP
  EST_plantersRD_CAP:0 "Плантаторів" #NoblesRD_CAP
  EST_bushiRD_CAP:0 "Буші" #NoblesRD_CAP
+ EST_yangban_administratorsRD_CAP:0 "Адміністраторів-янбанів" #NoblesRD_CAP
+ EST_junkersRD_CAP:0 "Юнкерів" #NoblesRD_CAP
  EST_burghersRD_CAP:0 "Міщан" #BurghersRD_CAP
  EST_bourgeoisieRD_CAP:0 "Буржуа" #BurghersRD_CAP
+ EST_neoconfucian_reformersRD_CAP:0 "Неоконфуціанських реформаторів" #BurghersRD_CAP
  EST_shangbangRD_CAP:0 "Шаньбен" #BurghersRD_CAP
  EST_guildsRD_CAP:0 "Купецьких гільдій" #BurghersRD_CAP
+ EST_yangban_scholarsRD_CAP:0 "Вчених-янбанів" #ChurchRD_CAP
+ EST_kahunaRD_CAP:1 "Кахуна" #ChurchRD_CAP
+ EST_tohungaRD_CAP:1 "Тохунга" #ChurchRD_CAP
+ EST_beteRD_CAP:1 "Бете" #ChurchRD_CAP
+ EST_taula_otuaRD_CAP:1 "Таула отуа" #ChurchRD_CAP
+ EST_taula_aituRD_CAP:1 "Таула аіту" #ChurchRD_CAP
+ EST_aliiRD_CAP:1 "Алі-і" #NoblesRD_CAP
+ EST_rangatiraRD_CAP:0 "Рангатіра" #NoblesRD_CAP
+ EST_eikiRD_CAP:1 "'Еікі" #NoblesRD_CAP
+ EST_ratuRD_CAP:1 "Рату" #NoblesRD_CAP
  #Змінні в давальному вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsDV_CAP:0 "Брагманам" #BrahminsDV_CAP
  EST_MarathaDV_CAP:0 "Маратхам" #MarathaDV_CAP
@@ -1088,10 +1197,23 @@
  EST_amirsDV_CAP:0 "Емірам" #NoblesDV_CAP
  EST_plantersDV_CAP:0 "Плантаторам" #NoblesDV_CAP
  EST_bushiDV_CAP:0 "Буші" #NoblesDV_CAP
+ EST_yangban_administratorsDV_CAP:0 "Адміністраторам-янбанам" #NoblesDV_CAP
+ EST_junkersDV_CAP:0 "Юнкерам" #NoblesDV_CAP
  EST_burghersDV_CAP:0 "Міщанам" #BurghersDV_CAP
  EST_bourgeoisieDV_CAP:0 "Буржуа" #BurghersDV_CAP
+ EST_neoconfucian_reformersDV_CAP:0 "Неоконфуціанським реформаторам" #BurghersDV_CAP
  EST_shangbangDV_CAP:0 "Шаньбен" #BurghersDV_CAP
  EST_guildsDV_CAP:0 "Купецьким гільдіям" #BurghersDV_CAP
+ EST_yangban_scholarsDV_CAP:0 "Вченим-янбанам" #ChurchDV_CAP
+ EST_kahunaDV_CAP:1 "Кахуна" #ChurchDV_CAP
+ EST_tohungaDV_CAP:1 "Тохунга" #ChurchDV_CAP
+ EST_beteDV_CAP:1 "Бете" #ChurchDV_CAP
+ EST_taula_otuaDV_CAP:1 "Таула отуа" #ChurchDV_CAP
+ EST_taula_aituDV_CAP:1 "Таула аіту" #ChurchDV_CAP
+ EST_aliiDV_CAP:1 "Алі-і" #NoblesDV_CAP
+ EST_rangatiraDV_CAP:0 "Рангатіра" #NoblesDV_CAP
+ EST_eikiDV_CAP:1 "'Еікі" #NoblesDV_CAP
+ EST_ratuDV_CAP:1 "Рату" #NoblesDV_CAP
  #Змінні в знахідному вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsZN_CAP:0 "Брагманів" #BrahminsZN_CAP
  EST_MarathaZN_CAP:0 "Маратхів" #MarathaZN_CAP
@@ -1123,10 +1245,23 @@
  EST_amirsZN_CAP:0 "Емірів" #NoblesZN_CAP
  EST_plantersZN_CAP:0 "Плантаторів" #NoblesZN_CAP
  EST_bushiZN_CAP:0 "Буші" #NoblesZN_CAP
+ EST_yangban_administratorsZN_CAP:0 "Адміністраторів-янбанів" #NoblesZN_CAP
+ EST_junkersZN_CAP:0 "Юнкерів" #NoblesZN_CAP
  EST_burghersZN_CAP:0 "Міщан" #BurghersZN_CAP
  EST_bourgeoisieZN_CAP:0 "Буржуа" #BurghersZN_CAP
+ EST_neoconfucian_reformersZN_CAP:0 "Неоконфуціанських реформаторів" #BurghersZN_CAP
  EST_shangbangZN_CAP:0 "Шаньбен" #BurghersZN_CAP
  EST_guildsZN_CAP:0 "Купецькі гільдії" #BurghersZN_CAP
+ EST_yangban_scholarsZN_CAP:0 "Вчених-янбанів" #ChurchZN_CAP
+ EST_kahunaZN_CAP:1 "Кахуна" #ChurchZN_CAP
+ EST_tohungaZN_CAP:1 "Тохунга" #ChurchZN_CAP
+ EST_beteZN_CAP:1 "Бете" #ChurchZN_CAP
+ EST_taula_otuaZN_CAP:1 "Таула отуа" #ChurchZN_CAP
+ EST_taula_aituZN_CAP:1 "Таула аіту" #ChurchZN_CAP
+ EST_aliiZN_CAP:1 "Алі-і" #NoblesZN_CAP
+ EST_rangatiraZN_CAP:0 "Рангатіра" #NoblesZN_CAP
+ EST_eikiZN_CAP:1 "'Еікі" #NoblesZN_CAP
+ EST_ratuZN_CAP:1 "Рату" #NoblesZN_CAP
  #Змінні в орудному вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsOD_CAP:0 "Брагманами" #BrahminsOD_CAP
  EST_MarathaOD_CAP:0 "Маратхами" #MarathaOD_CAP
@@ -1158,10 +1293,23 @@
  EST_amirsOD_CAP:0 "Емірами" #NoblesOD_CAP
  EST_plantersOD_CAP:0 "Плантаторами" #NoblesOD_CAP
  EST_bushiOD_CAP:0 "Буші" #NoblesOD_CAP
+ EST_yangban_administratorsOD_CAP:0 "Адміністраторами-янбанами" #NoblesOD_CAP
+ EST_junkersOD_CAP:0 "Юнкерами" #NoblesOD_CAP
  EST_burghersOD_CAP:0 "Міщанами" #BurghersOD_CAP
  EST_bourgeoisieOD_CAP:0 "Буржуа" #BurghersOD_CAP
+ EST_neoconfucian_reformersOD_CAP:0 "Неоконфуціанськими реформаторами" #BurghersOD_CAP
  EST_shangbangOD_CAP:0 "Шаньбен" #BurghersOD_CAP
  EST_guildsOD_CAP:0 "Купецькими гільдіями" #BurghersOD_CAP
+ EST_yangban_scholarsOD_CAP:0 "Вченими-янбанами" #ChurchOD_CAP
+ EST_kahunaOD_CAP:1 "Кахуна" #ChurchOD_CAP
+ EST_tohungaOD_CAP:1 "Тохунга" #ChurchOD_CAP
+ EST_beteOD_CAP:1 "Бете" #ChurchOD_CAP
+ EST_taula_otuaOD_CAP:1 "Таула отуа" #ChurchOD_CAP
+ EST_taula_aituOD_CAP:1 "Таула аіту" #ChurchOD_CAP
+ EST_aliiOD_CAP:1 "Алі-і" #NoblesOD_CAP
+ EST_rangatiraOD_CAP:0 "Рангатіра" #NoblesOD_CAP
+ EST_eikiOD_CAP:1 "'Еікі" #NoblesOD_CAP
+ EST_ratuOD_CAP:1 "Рату" #NoblesOD_CAP
  #Змінні в місцевому вiдмiнkу з вeлиkoї лitepи ""
  EST_BrahminsMS_CAP:0 "Брагманах" #BrahminsMS_CAP
  EST_MarathaMS_CAP:0 "Маратхах" #MarathaMS_CAP
@@ -1193,7 +1341,20 @@
  EST_amirsMS_CAP:0 "Емірах" #NoblesMS_CAP
  EST_plantersMS_CAP:0 "Плантаторах" #NoblesMS_CAP
  EST_bushiMS_CAP:0 "Буші" #NoblesMS_CAP
+ EST_yangban_administratorsMS_CAP:0 "Адміністраторах-янбанах" #NoblesMS_CAP
+ EST_junkersMS_CAP:0 "Юнкерах" #NoblesMS_CAP
  EST_burghersMS_CAP:0 "Міщанах" #BurghersMS_CAP
  EST_bourgeoisieMS_CAP:0 "Буржуа" #BurghersMS_CAP
+ EST_neoconfucian_reformersMS_CAP:0 "Неоконфуціанських реформаторах" #BurghersMS_CAP
  EST_shangbangMS_CAP:0 "Шаньбен" #BurghersMS_CAP
  EST_guildsMS_CAP:0 "Купецьких гільдіях" #BurghersMS_CAP
+ EST_yangban_scholarsMS_CAP:0 "Вчених-янбанах" #ChurchMS_CAP
+ EST_kahunaMS_CAP:1 "Кахуна" #ChurchMS_CAP
+ EST_tohungaMS_CAP:1 "Тохунга" #ChurchMS_CAP
+ EST_beteMS_CAP:1 "Бете" #ChurchMS_CAP
+ EST_taula_otuaMS_CAP:1 "Таула отуа" #ChurchMS_CAP
+ EST_taula_aituMS_CAP:1 "Таула аіту" #ChurchMS_CAP
+ EST_aliiMS_CAP:1 "Алі-і" #NoblesMS_CAP
+ EST_rangatiraMS_CAP:0 "Рангатіра" #NoblesMS_CAP
+ EST_eikiMS_CAP:1 "'Еікі" #NoblesMS_CAP
+ EST_ratuMS_CAP:1 "Рату" #NoblesMS_CAP
