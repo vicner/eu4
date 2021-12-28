@@ -2305,3 +2305,495 @@
  BROTHER_KHTO:0 "брат" #GetTitleKHTO
  BROTHER_PRO:0 "брата" #GetTitlePRO
  BROTHER_KLY:0 "брате" #GetTitleKLY
+ 
+ MARSHAL_OGO:0 "маршала" #GetTitleOGO
+ MARSHAL_KHTO:0 "маршал" #GetTitleKHTO
+ MARSHAL_OMU:0 "маршалу" #GetTitleOMU
+ MARSHAL_KYM:0 "маршалом" #GetTitleKYM
+ MARSHAL_PRO:0 "маршала" #GetTitlePRO
+ MARSHAL_KLY:0 "маршале" #GetTitleKLY
+ 
+ SERENE_MARSHAL_OGO:0 "світлішого маршала" #GetTitleOGO
+ SERENE_MARSHAL_KHTO:0 "світліший маршал" #GetTitleKHTO
+ SERENE_MARSHAL_OMU:0 "світлішому маршалу" #GetTitleOMU
+ SERENE_MARSHAL_KYM:0 "світлішим маршалом" #GetTitleKYM
+ SERENE_MARSHAL_PRO:0 "світлішого маршала" #GetTitlePRO
+ SERENE_MARSHAL_KLY:0 "світліший маршале" #GetTitleKLY
+ 
+ MOST_SERENE_MARSHAL_OGO:0 "найсвітлішого маршала" #GetTitleOGO
+ MOST_SERENE_MARSHAL_KHTO:0 "найсвітліший маршал" #GetTitleKHTO
+ MOST_SERENE_MARSHAL_OMU:0 "найсвітлішому маршалу" #GetTitleOMU
+ MOST_SERENE_MARSHAL_KYM:0 "найсвітлішим маршалом" #GetTitleKYM
+ MOST_SERENE_MARSHAL_PRO:0 "найсвітлішого маршала" #GetTitlePRO
+ MOST_SERENE_MARSHAL_KLY:0 "найсвітліший маршале" #GetTitleKLY
+ 
+ TRIBAL_LEADER_KHTO:0 "племінний лідер" #GetTitleKHTO
+ TRIBAL_LEADER_OGO:0 "племінного лідера" #GetTitleOGO
+ TRIBAL_LEADER_OMU:0 "племінному лідеру" #GetTitleOMU
+ TRIBAL_LEADER_KLY:0 "племінний лідере" #GetTitleKLY
+ TRIBAL_LEADER_KYM:0 "племінним лідером" #GetTitleKYM
+ TRIBAL_LEADER_PRO:0 "племінного лідера" #GetTitlePRO
+ 
+ CALIPH_KHTO:0 "халіф" #GetTitleKHTO
+ CALIPH_OGO:0 "халіфа" #GetTitleOGO
+ CALIPH_OMU:0 "халіфу" #GetTitleOMU
+ CALIPH_KLY:0 "халіфе" #GetTitleKLY
+ CALIPH_KYM:0 "халіфом" #GetTitleKYM
+ CALIPH_PRO:0 "халіфа" #GetTitlePRO
+ 
+ CALIPHA_KHTO:0 "халіфа" #GetTitleKHTO
+ CALIPHA_OGO:0 "халіфи" #GetTitleOGO
+ CALIPHA_OMU:0 "халіфі" #GetTitleOMU
+ CALIPHA_KLY:0 "халіфе" #GetTitleKLY
+ CALIPHA_KYM:0 "халіфою" #GetTitleKYM
+ CALIPHA_PRO:0 "халіфу" #GetTitlePRO
+ 
+ FIRST_LAWSPEAKER_KHTO:0 "перший закономовець" #GetTitleKHTO
+ FIRST_LAWSPEAKER_OGO:0 "першого закономовця" #GetTitleOGO
+ FIRST_LAWSPEAKER_OMU:0 "першому закономовцю" #GetTitleOMU
+ FIRST_LAWSPEAKER_KLY:0 "перший закономовце" #GetTitleKLY
+ FIRST_LAWSPEAKER_KYM:0 "першим закономовцем" #GetTitleKYM
+ FIRST_LAWSPEAKER_PRO:0 "першого закономовця" #GetTitlePRO
+ 
+ FIRST_LAWSPEAKER_fem_KHTO:0 "перша закономовиця" #GetTitleKHTO
+ FIRST_LAWSPEAKER_fem_OGO:0 "першої закономовиці" #GetTitleOGO
+ FIRST_LAWSPEAKER_fem_OMU:0 "першій закономовиці" #GetTitleOMU
+ FIRST_LAWSPEAKER_fem_KLY:0 "перша закономовице" #GetTitleKLY
+ FIRST_LAWSPEAKER_fem_KYM:0 "першою закономовицею" #GetTitleKYM
+ FIRST_LAWSPEAKER_fem_PRO:0 "першу закономовицю" #GetTitlePRO
+ 
+ SUPREME_VIZIER_KHTO:0 "верховний візир" #GetTitleKHTO
+ SUPREME_VIZIER_OGO:0 "верховного візира" #GetTitleOGO
+ SUPREME_VIZIER_OMU:0 "верховному візиру" #GetTitleOMU
+ SUPREME_VIZIER_KLY:0 "верховний візире" #GetTitleKLY
+ SUPREME_VIZIER_KYM:0 "верховним візирем" #GetTitleKYM
+ SUPREME_VIZIER_PRO:0 "верховного візира" #GetTitlePRO
+ 
+ SUPREME_VIZIER_fem_KHTO:0 "верховна візира" #GetTitleKHTO
+ SUPREME_VIZIER_fem_OGO:0 "верховної візири" #GetTitleOGO
+ SUPREME_VIZIER_fem_OMU:0 "верховній візирі" #GetTitleOMU
+ SUPREME_VIZIER_fem_KLY:0 "верховна візире" #GetTitleKLY
+ SUPREME_VIZIER_fem_KYM:0 "верховною візирою" #GetTitleKYM
+ SUPREME_VIZIER_fem_PRO:0 "верховну візиру" #GetTitlePRO
+ 
+ CHAIRMAN_KHTO:0 "голова" #GetTitleKHTO
+ CHAIRMAN_OGO:0 "голови" #GetTitleOGO
+ CHAIRMAN_OMU:0 "голові" #GetTitleOMU
+ CHAIRMAN_KLY:0 "голово" #GetTitleKLY
+ CHAIRMAN_KYM:0 "головою" #GetTitleKYM
+ CHAIRMAN_PRO:0 "голову" #GetTitlePRO
+ 
+ CHAIRMAN_fem_KHTO:0 "голова" #GetTitleKHTO
+ CHAIRMAN_fem_OGO:0 "голови" #GetTitleOGO
+ CHAIRMAN_fem_OMU:0 "голові" #GetTitleOMU
+ CHAIRMAN_fem_KLY:0 "голово" #GetTitleKLY
+ CHAIRMAN_fem_KYM:0 "головою" #GetTitleKYM
+ CHAIRMAN_fem_PRO:0 "голову" #GetTitlePRO
+ 
+ CONSULESS_KHTO:0 "консулеса" #GetTitleKHTO
+ CONSULESS_OGO:0 "консулеси" #GetTitleOGO
+ CONSULESS_OMU:0 "консулесі" #GetTitleOMU
+ CONSULESS_KLY:0 "консулесо" #GetTitleKLY
+ CONSULESS_KYM:0 "консулесою" #GetTitleKYM
+ CONSULESS_PRO:0 "консулесу" #GetTitlePRO
+ 
+ KAISER_KHTO:0 "кайзер" #GetTitleKHTO
+ KAISER_OGO:0 "кайзера" #GetTitleOGO
+ KAISER_OMU:0 "кайзеру" #GetTitleOMU
+ KAISER_KLY:0 "кайзере" #GetTitleKLY
+ KAISER_KYM:0 "кайзером" #GetTitleKYM
+ KAISER_PRO:0 "кайзера" #GetTitlePRO
+ 
+ KAISERIN_KHTO:0 "кайзерин" #GetTitleKHTO
+ KAISERIN_OGO:0 "кайзерин" #GetTitleOGO
+ KAISERIN_OMU:0 "кайзерин" #GetTitleOMU
+ KAISERIN_KLY:0 "кайзерине" #GetTitleKLY
+ KAISERIN_KYM:0 "кайзерин" #GetTitleKYM
+ KAISERIN_PRO:0 "кайзерин" #GetTitlePRO
+ 
+ FIELD_MARSHAL_KHTO:0 "фельдмаршал" #GetTitleKHTO
+ FIELD_MARSHAL_OGO:0 "фельдмаршала" #GetTitleOGO
+ FIELD_MARSHAL_OMU:0 "фельдмаршалу" #GetTitleOMU
+ FIELD_MARSHAL_KLY:0 "фельдмаршале" #GetTitleKLY
+ FIELD_MARSHAL_KYM:0 "фельдмаршалом" #GetTitleKYM
+ FIELD_MARSHAL_PRO:0 "фельдмаршала" #GetTitlePRO
+ 
+ LORD_HIGH_ADMIRAL_KHTO:0 "лорд вищий адмірал" #GetTitleKHTO
+ LORD_HIGH_ADMIRAL_OGO:0 "лорда вищого адмірала" #GetTitleOGO
+ LORD_HIGH_ADMIRAL_OMU:0 "лорду вищиму адміралу" #GetTitleOMU
+ LORD_HIGH_ADMIRAL_KLY:0 "лорд вищий адмірале" #GetTitleKLY
+ LORD_HIGH_ADMIRAL_KYM:0 "лордом вищим адміралом" #GetTitleKYM
+ LORD_HIGH_ADMIRAL_PRO:0 "лорда вищого адмірала" #GetTitlePRO
+ 
+ SUPREME_ADMIRAL_KHTO:0 "верховний адмірал" #GetTitleKHTO
+ SUPREME_ADMIRAL_OGO:0 "верховного адмірала" #GetTitleOGO
+ SUPREME_ADMIRAL_OMU:0 "верховномк адміралу" #GetTitleOMU
+ SUPREME_ADMIRAL_KLY:0 "верховний адмірале" #GetTitleKLY
+ SUPREME_ADMIRAL_KYM:0 "верховним адміралом" #GetTitleKYM
+ SUPREME_ADMIRAL_PRO:0 "верховного адмірала" #GetTitlePRO
+ 
+ CAPTAIN_GENERAL_KHTO:0 "генерал-капітан" #GetTitleKHTO
+ CAPTAIN_GENERAL_OGO:0 "генерал-капітана" #GetTitleOGO
+ CAPTAIN_GENERAL_OMU:0 "генерал-капітану" #GetTitleOMU
+ CAPTAIN_GENERAL_KLY:0 "генерал-капітане" #GetTitleKLY
+ CAPTAIN_GENERAL_KYM:0 "генерал-капітаном" #GetTitleKYM
+ CAPTAIN_GENERAL_PRO:0 "генерал-капітана" #GetTitlePRO
+ 
+ ARCHPIRATE_KHTO:0 "архипірат" #GetTitleKHTO
+ ARCHPIRATE_OGO:0 "архипірата" #GetTitleOGO
+ ARCHPIRATE_OMU:0 "архипірату" #GetTitleOMU
+ ARCHPIRATE_KLY:0 "архипірате" #GetTitleKLY
+ ARCHPIRATE_KYM:0 "архипіратом" #GetTitleKYM
+ ARCHPIRATE_PRO:0 "архипірата" #GetTitlePRO
+ 
+ PIRATE_DAIMYO_KHTO:0 "піратський даймьо" #GetTitleKHTO
+ PIRATE_DAIMYO_OGO:0 "піратського даймьо" #GetTitleOGO
+ PIRATE_DAIMYO_OMU:0 "піратському даймьо" #GetTitleOMU
+ PIRATE_DAIMYO_KLY:0 "піратський даймьо" #GetTitleKLY
+ PIRATE_DAIMYO_KYM:0 "піратським даймьо" #GetTitleKYM
+ PIRATE_DAIMYO_PRO:0 "піратського даймьо" #GetTitlePRO
+ 
+ CAPTAIN_fem_KHTO:0 "капітанша" #GetTitleKHTO
+ CAPTAIN_fem_OGO:0 "капітанши" #GetTitleOGO
+ CAPTAIN_fem_OMU:0 "капітанці" #GetTitleOMU
+ CAPTAIN_fem_KLY:0 "капітанко" #GetTitleKLY
+ CAPTAIN_fem_KYM:0 "капітаншою" #GetTitleKYM
+ CAPTAIN_fem_PRO:0 "капітаншу" #GetTitlePRO
+ 
+ GRAND_CAPTAIN_fem_KHTO:0 "гранд-капітанша" #GetTitleKHTO
+ GRAND_CAPTAIN_fem_OGO:0 "гранд-капітанши" #GetTitleOGO
+ GRAND_CAPTAIN_fem_OMU:0 "гранд-капітанці" #GetTitleOMU
+ GRAND_CAPTAIN_fem_KLY:0 "гранд-капітанко" #GetTitleKLY
+ GRAND_CAPTAIN_fem_KYM:0 "гранд-капітаншою" #GetTitleKYM
+ GRAND_CAPTAIN_fem_PRO:0 "гранд-капітаншу" #GetTitlePRO
+ 
+ ADMIRAL_fem_KHTO:0 "адміралтеса" #GetTitleKHTO
+ ADMIRAL_fem_OGO:0 "адміралтеси" #GetTitleOGO
+ ADMIRAL_fem_OMU:0 "адміралтесі" #GetTitleOMU
+ ADMIRAL_fem_KLY:0 "адміралтесо" #GetTitleKLY
+ ADMIRAL_fem_KYM:0 "адміралтесою" #GetTitleKYM
+ ADMIRAL_fem_PRO:0 "адміралтесу" #GetTitlePRO
+ 
+ POPE_ELECTOR_KHTO:0 "папа-курфюрст" #GetTitleKHTO
+ POPE_ELECTOR_OGO:0 "папи-курфюрста" #GetTitleOGO
+ POPE_ELECTOR_OMU:0 "папі-курфюрсту" #GetTitleOMU
+ POPE_ELECTOR_KLY:0 "папа-курфюрсте" #GetTitleKLY
+ POPE_ELECTOR_KYM:0 "папою-курфюрстом" #GetTitleKYM
+ POPE_ELECTOR_PRO:0 "папу-курфюрста" #GetTitlePRO
+ 
+ POPETTE_ELECTOR_KHTO:0 "папеса-курфюрста" #GetTitleKHTO
+ POPETTE_ELECTOR_OGO:0 "папеси-курфюрсти" #GetTitleOGO
+ POPETTE_ELECTOR_OMU:0 "папесі-курфюрсті" #GetTitleOMU
+ POPETTE_ELECTOR_KLY:0 "папеса-курфюрста" #GetTitleKLY
+ POPETTE_ELECTOR_KYM:0 "папесою-курфюрстою" #GetTitleKYM
+ POPETTE_ELECTOR_PRO:0 "папесу-курфюрсту" #GetTitlePRO
+ 
+ ELECTOR_PALATINE_KHTO:0 "виборний пфальцграф" #GetTitleKHTO
+ ELECTOR_PALATINE_OGO:0 "виборного пфальцграфа" #GetTitleOGO
+ ELECTOR_PALATINE_OMU:0 "виборному пфальцграфу" #GetTitleOMU
+ ELECTOR_PALATINE_KLY:0 "виборний пфальцграфе" #GetTitleKLY
+ ELECTOR_PALATINE_KYM:0 "виборним пфальцграфом" #GetTitleKYM
+ ELECTOR_PALATINE_PRO:0 "виборного пфальцграфа" #GetTitlePRO
+ 
+ ELECTRESS_PALATINE_KHTO:0 "виборна пфальцграфиня" #GetTitleKHTO
+ ELECTRESS_PALATINE_OGO:0 "виборної пфальцграфині" #GetTitleOGO
+ ELECTRESS_PALATINE_OMU:0 "виборній пфальцграфині" #GetTitleOMU
+ ELECTRESS_PALATINE_KLY:0 "виборна пфальцграфине" #GetTitleKLY
+ ELECTRESS_PALATINE_KYM:0 "виборною пфальцграфинею" #GetTitleKYM
+ ELECTRESS_PALATINE_PRO:0 "виборну пфальцграфиню" #GetTitlePRO
+ 
+ COUNT_PALATINE_KHTO:0 "пфальцграф" #GetTitleKHTO
+ COUNT_PALATINE_OGO:0 "пфальцграфа" #GetTitleOGO
+ COUNT_PALATINE_OMU:0 "пфальцграфу" #GetTitleOMU
+ COUNT_PALATINE_KLY:0 "пфальцграфе" #GetTitleKLY
+ COUNT_PALATINE_KYM:0 "пфальцграфом" #GetTitleKYM
+ COUNT_PALATINE_PRO:0 "пфальцграфа" #GetTitlePRO
+ 
+ KING_PALATINE_KHTO:0 "пфальцкайзер" #GetTitleKHTO
+ KING_PALATINE_OGO:0 "пфальцкайзера" #GetTitleOGO
+ KING_PALATINE_OMU:0 "пфальцкайзеру" #GetTitleOMU
+ KING_PALATINE_KLY:0 "пфальцкайзере" #GetTitleKLY
+ KING_PALATINE_KYM:0 "пфальцкайзером" #GetTitleKYM
+ KING_PALATINE_PRO:0 "пфальцкайзера" #GetTitlePRO
+ 
+ COUNTESS_PALATINE_KHTO:0 "пфальцграфиня" #GetTitleKHTO
+ COUNTESS_PALATINE_OGO:0 "пфальцграфині" #GetTitleOGO
+ COUNTESS_PALATINE_OMU:0 "пфальцграфині" #GetTitleOMU
+ COUNTESS_PALATINE_KLY:0 "пфальцграфине" #GetTitleKLY
+ COUNTESS_PALATINE_KYM:0 "пфальцграфинею" #GetTitleKYM
+ COUNTESS_PALATINE_PRO:0 "пфальцграфиню" #GetTitlePRO
+ 
+ QUEEN_PALATINE_KHTO:0 "пфальцкенігін" #GetTitleKHTO
+ QUEEN_PALATINE_OGO:0 "пфальцкенігін" #GetTitleOGO
+ QUEEN_PALATINE_OMU:0 "пфальцкенігін" #GetTitleOMU
+ QUEEN_PALATINE_KLY:0 "пфальцкенігіне" #GetTitleKLY
+ QUEEN_PALATINE_KYM:0 "пфальцкенігін" #GetTitleKYM
+ QUEEN_PALATINE_PRO:0 "пфальцкенігін" #GetTitlePRO
+ 
+ HERCEG_KHTO:0 "князь" #GetTitleKHTO
+ HERCEG_OGO:0 "князя" #GetTitleOGO
+ HERCEG_OMU:0 "князю" #GetTitleOMU
+ HERCEG_KLY:0 "князю" #GetTitleKLY
+ HERCEG_KYM:0 "князем" #GetTitleKYM
+ HERCEG_PRO:0 "князя" #GetTitlePRO
+ 
+ PRINCE_HERCEG_KHTO:0 "великий князь" #GetTitleKHTO
+ PRINCE_HERCEG_OGO:0 "великого князя" #GetTitleOGO
+ PRINCE_HERCEG_OMU:0 "великому князю" #GetTitleOMU
+ PRINCE_HERCEG_KLY:0 "великий князю" #GetTitleKLY
+ PRINCE_HERCEG_KYM:0 "великим князем" #GetTitleKYM
+ PRINCE_HERCEG_PRO:0 "великого князя" #GetTitlePRO
+ 
+ HERCEGI_KHTO:0 "княгиня" #GetTitleKHTO
+ HERCEGI_OGO:0 "княгині" #GetTitleOGO
+ HERCEGI_OMU:0 "княгині" #GetTitleOMU
+ HERCEGI_KLY:0 "княгине" #GetTitleKLY
+ HERCEGI_KYM:0 "княгинею" #GetTitleKYM
+ HERCEGI_PRO:0 "княгиню" #GetTitlePRO
+ 
+ PRINCESS_HERCEGI_KHTO:0 "велика княгиня" #GetTitleKHTO
+ PRINCESS_HERCEGI_OGO:0 "великої княгині" #GetTitleOGO
+ PRINCESS_HERCEGI_OMU:0 "великій княгині" #GetTitleOMU
+ PRINCESS_HERCEGI_KLY:0 "велика княгинею" #GetTitleKLY
+ PRINCESS_HERCEGI_KYM:0 "великою княгиня" #GetTitleKYM
+ PRINCESS_HERCEGI_PRO:0 "велику княгиню" #GetTitlePRO
+ 
+ CONSUL_ELECTOR_KHTO:0 "консул-курфюрст" #GetTitleKHTO
+ CONSUL_ELECTOR_OGO:0 "консула-курфюрста" #GetTitleOGO
+ CONSUL_ELECTOR_OMU:0 "консулу-курфюрсту" #GetTitleOMU
+ CONSUL_ELECTOR_KLY:0 "консул-курфюрсте" #GetTitleKLY
+ CONSUL_ELECTOR_KYM:0 "консулом-курфюрстом" #GetTitleKYM
+ CONSUL_ELECTOR_PRO:0 "консула-курфюрста" #GetTitlePRO
+ 
+ GRAND_CONSUL_ELECTOR_KHTO:0 "великий консул-курфюрст" #GetTitleKHTO
+ GRAND_CONSUL_ELECTOR_OGO:0 "великого консула-курфюрста" #GetTitleOGO
+ GRAND_CONSUL_ELECTOR_OMU:0 "великому консулу-курфюрсту" #GetTitleOMU
+ GRAND_CONSUL_ELECTOR_KLY:0 "великий консул-курфюрсте" #GetTitleKLY
+ GRAND_CONSUL_ELECTOR_KYM:0 "великим консулом-курфюрстом" #GetTitleKYM
+ GRAND_CONSUL_ELECTOR_PRO:0 "великого консула-курфюрста" #GetTitlePRO
+ 
+ GREAT_CONSUL_ELECTOR_KHTO:0 "найвеличніший консул-курфюрст" #GetTitleKHTO
+ GREAT_CONSUL_ELECTOR_OGO:0 "найвеличнішого консула-курфюрста" #GetTitleOGO
+ GREAT_CONSUL_ELECTOR_OMU:0 "найвеличнішому консулу-курфюрсту" #GetTitleOMU
+ GREAT_CONSUL_ELECTOR_KLY:0 "найвеличніший консул-курфюрсте" #GetTitleKLY
+ GREAT_CONSUL_ELECTOR_KYM:0 "найвеличнішим консулом-курфюрстом" #GetTitleKYM
+ GREAT_CONSUL_ELECTOR_PRO:0 "найвеличнішого консула-курфюрста" #GetTitlePRO
+ 
+ CONSULESS_ELECTOR_KHTO:0 "консулесса-курфюрста" #GetTitleKHTO
+ CONSULESS_ELECTOR_OGO:0 "консулесси-курфюрсти" #GetTitleOGO
+ CONSULESS_ELECTOR_OMU:0 "консулессі-курфюрсті" #GetTitleOMU
+ CONSULESS_ELECTOR_KLY:0 "консулесса-курфюрста" #GetTitleKLY
+ CONSULESS_ELECTOR_KYM:0 "консулессою-курфюрстою" #GetTitleKYM
+ CONSULESS_ELECTOR_PRO:0 "консулессу-курфюрсту" #GetTitlePRO
+ 
+ GRAND_CONSULESS_ELECTOR_KHTO:0 "велика консулесса-курфюрста" #GetTitleKHTO
+ GRAND_CONSULESS_ELECTOR_OGO:0 "великої консулесси-курфюрсти" #GetTitleOGO
+ GRAND_CONSULESS_ELECTOR_OMU:0 "великій консулессі-курфюрсті" #GetTitleOMU
+ GRAND_CONSULESS_ELECTOR_KLY:0 "велика консулесса-курфюрста" #GetTitleKLY
+ GRAND_CONSULESS_ELECTOR_KYM:0 "великою консулессою-курфюрстою" #GetTitleKYM
+ GRAND_CONSULESS_ELECTOR_PRO:0 "велику консулессу-курфюрсту" #GetTitlePRO
+ 
+ GREAT_CONSULESS_ELECTOR_KHTO:0 "найвеличніша консулесса-курфюрста" #GetTitleKHTO
+ GREAT_CONSULESS_ELECTOR_OGO:0 "найвеличнішої консулесси-курфюрсти" #GetTitleOGO
+ GREAT_CONSULESS_ELECTOR_OMU:0 "найвеличнішій консулессі-курфюрсті" #GetTitleOMU
+ GREAT_CONSULESS_ELECTOR_KLY:0 "найвеличніша консулесса-курфюрста" #GetTitleKLY
+ GREAT_CONSULESS_ELECTOR_KYM:0 "найвеличнішою консулессою-курфюрстою" #GetTitleKYM
+ GREAT_CONSULESS_ELECTOR_PRO:0 "найвеличнішу консулессу-курфюрсту" #GetTitlePRO
+ 
+ regent_KHTO:0 "регент" #GetTitleKHTO
+ regent_OGO:0 "регента" #GetTitleOGO
+ regent_OMU:0 "регенту" #GetTitleOMU
+ regent_KLY:0 "регенте" #GetTitleKLY
+ regent_KYM:0 "регентом" #GetTitleKYM
+ regent_PRO:0 "регента" #GetTitlePRO
+ 
+ COUNT_KHTO:0 "граф" #GetTitleKHTO
+ COUNT_OGO:0 "графа" #GetTitleOGO
+ COUNT_OMU:0 "графу" #GetTitleOMU
+ COUNT_KLY:0 "графе" #GetTitleKLY
+ COUNT_KYM:0 "графом" #GetTitleKYM
+ COUNT_PRO:0 "графа" #GetTitlePRO
+ 
+ COUNT_PALATINE_KHTO:0 "пфальцграф" #GetTitleKHTO
+ COUNT_PALATINE_OGO:0 "пфальцграфа" #GetTitleOGO
+ COUNT_PALATINE_OMU:0 "пфальцграфу" #GetTitleOMU
+ COUNT_PALATINE_KLY:0 "пфальцграфе" #GetTitleKLY
+ COUNT_PALATINE_KYM:0 "пфальцграфом" #GetTitleKYM
+ COUNT_PALATINE_PRO:0 "пфальцграфа" #GetTitlePRO
+ 
+ KING_PALATINE_KHTO:0 "пфальцкайзер" #GetTitleKHTO
+ KING_PALATINE_OGO:0 "пфальцкайзера" #GetTitleOGO
+ KING_PALATINE_OMU:0 "пфальцкайзеру" #GetTitleOMU
+ KING_PALATINE_KLY:0 "пфальцкайзере" #GetTitleKLY
+ KING_PALATINE_KYM:0 "пфальцкайзером" #GetTitleKYM
+ KING_PALATINE_PRO:0 "пфальцкайзера" #GetTitlePRO
+ 
+ COUNTESS_PALATINE_KHTO:0 "пфальцграфиня" #GetTitleKHTO
+ COUNTESS_PALATINE_OGO:0 "пфальцграфині" #GetTitleOGO
+ COUNTESS_PALATINE_OMU:0 "пфальцграфині" #GetTitleOMU
+ COUNTESS_PALATINE_KLY:0 "пфальцграфине" #GetTitleKLY
+ COUNTESS_PALATINE_KYM:0 "пфальцграфинею" #GetTitleKYM
+ COUNTESS_PALATINE_PRO:0 "пфальцграфиню" #GetTitlePRO
+ 
+ QUEEN_PALATINE_KHTO:0 "пфальцкенігін" #GetTitleKHTO
+ QUEEN_PALATINE_OGO:0 "пфальцкенігін" #GetTitleOGO
+ QUEEN_PALATINE_OMU:0 "пфальцкенігін" #GetTitleOMU
+ QUEEN_PALATINE_KLY:0 "пфальцкенігіне" #GetTitleKLY
+ QUEEN_PALATINE_KYM:0 "пфальцкенігін" #GetTitleKYM
+ QUEEN_PALATINE_PRO:0 "пфальцкенігін" #GetTitlePRO
+ 
+ MONSHU_KHTO:0 "моншу" #GetTitleKHTO
+ MONSHU_OGO:0 "моншу" #GetTitleOGO
+ MONSHU_OMU:0 "моншу" #GetTitleOMU
+ MONSHU_KLY:0 "моншу" #GetTitleKLY
+ MONSHU_KYM:0 "моншу" #GetTitleKYM
+ MONSHU_PRO:0 "моншу" #GetTitlePRO
+ 
+ HIGH_MONSHU_KHTO:0 "моншу-сьоґун" #GetTitleKHTO
+ HIGH_MONSHU_OGO:0 "моншу-сьоґуна" #GetTitleOGO
+ HIGH_MONSHU_OMU:0 "моншу-сьоґуну" #GetTitleOMU
+ HIGH_MONSHU_KLY:0 "моншу-сьоґуне" #GetTitleKLY
+ HIGH_MONSHU_KYM:0 "моншу-сьоґуном" #GetTitleKYM
+ HIGH_MONSHU_PRO:0 "моншу-сьоґуна" #GetTitlePRO
+ 
+ HIGH_MONSHUESS_KHTO:0 "моншу-сьоґунка" #GetTitleKHTO
+ HIGH_MONSHUESS_OGO:0 "моншу-сьоґунки" #GetTitleOGO
+ HIGH_MONSHUESS_OMU:0 "моншу-сьоґунці" #GetTitleOMU
+ HIGH_MONSHUESS_KLY:0 "моншу-сьоґунко" #GetTitleKLY
+ HIGH_MONSHUESS_KYM:0 "моншу-сьоґункою" #GetTitleKYM
+ HIGH_MONSHUESS_PRO:0 "моншу-сьоґунку" #GetTitlePRO
+ 
+ SHINRAN_KHTO:0 "сінран" #GetTitleKHTO
+ SHINRAN_OGO:0 "сінрана" #GetTitleOGO
+ SHINRAN_OMU:0 "сінрану" #GetTitleOMU
+ SHINRAN_KLY:0 "сінране" #GetTitleKLY
+ SHINRAN_KYM:0 "сінраном" #GetTitleKYM
+ SHINRAN_PRO:0 "сінрана" #GetTitlePRO
+ 
+ FIRST_RANGER_KHTO:0 "лорд-рейнджер" #GetTitleKHTO
+ FIRST_RANGER_OGO:0 "лорда-рейнджера" #GetTitleOGO
+ FIRST_RANGER_OMU:0 "лорду-рейнджеру" #GetTitleOMU
+ FIRST_RANGER_KLY:0 "лорд-рейнджере" #GetTitleKLY
+ FIRST_RANGER_KYM:0 "лордом-рейнджером" #GetTitleKYM
+ FIRST_RANGER_PRO:0 "лорда-рейнджера" #GetTitlePRO
+ 
+ KNIGHT_KING_KHTO:0 "лицарський король" #GetTitleKHTO
+ KNIGHT_KING_OGO:0 "лицарського короля" #GetTitleOGO
+ KNIGHT_KING_OMU:0 "лицарському королю" #GetTitleOMU
+ KNIGHT_KING_KLY:0 "лицарський королю" #GetTitleKLY
+ KNIGHT_KING_KYM:0 "лицарським королем" #GetTitleKYM
+ KNIGHT_KING_PRO:0 "лицарського короля" #GetTitlePRO
+ 
+ KNIGHT_QUEEN_KHTO:0 "лицарська королева" #GetTitleKHTO
+ KNIGHT_QUEEN_OGO:0 "лицарської королеви" #GetTitleOGO
+ KNIGHT_QUEEN_OMU:0 "лицарській королеві" #GetTitleOMU
+ KNIGHT_QUEEN_KLY:0 "лицарська королево" #GetTitleKLY
+ KNIGHT_QUEEN_KYM:0 "лицарською королевою" #GetTitleKYM
+ KNIGHT_QUEEN_PRO:0 "лицарську королеву" #GetTitlePRO
+ 
+ LORD_COMMANDER_KHTO:0 "лорд-командувач" #GetTitleKHTO
+ LORD_COMMANDER_OGO:0 "лорда-командувача" #GetTitleOGO
+ LORD_COMMANDER_OMU:0 "лорду-командувачу" #GetTitleOMU
+ LORD_COMMANDER_KLY:0 "лорд-командувачу" #GetTitleKLY
+ LORD_COMMANDER_KYM:0 "лордом-командувачем" #GetTitleKYM
+ LORD_COMMANDER_PRO:0 "лорда-командувача" #GetTitlePRO
+ 
+ LADY_COMMANDER_KHTO:0 "леді-командувачка" #GetTitleKHTO
+ LADY_COMMANDER_OGO:0 "леді-командувачки" #GetTitleOGO
+ LADY_COMMANDER_OMU:0 "леді-командувачці" #GetTitleOMU
+ LADY_COMMANDER_KLY:0 "леді-командувачко" #GetTitleKLY
+ LADY_COMMANDER_KYM:0 "леді-командувачкою" #GetTitleKYM
+ LADY_COMMANDER_PRO:0 "леді-командувачку" #GetTitlePRO
+ 
+ MAGISTER_HOCHMEISTER_KHTO:0 "великий магистр" #GetTitleKHTO
+ MAGISTER_HOCHMEISTER_OGO:0 "великого магистра" #GetTitleOGO
+ MAGISTER_HOCHMEISTER_OMU:0 "великому магистру" #GetTitleOMU
+ MAGISTER_HOCHMEISTER_KLY:0 "великий магистре" #GetTitleKLY
+ MAGISTER_HOCHMEISTER_KYM:0 "великим магистром" #GetTitleKYM
+ MAGISTER_HOCHMEISTER_PRO:0 "великого магистра" #GetTitlePRO
+ 
+ DEUTSCHMEISTER_KHTO:0 "гросмейстер Тевтонського ордену" #GetTitleKHTO
+ DEUTSCHMEISTER_OGO:0 "гросмейстера Тевтонського ордену" #GetTitleOGO
+ DEUTSCHMEISTER_OMU:0 "гросмейстеру Тевтонського ордену" #GetTitleOMU
+ DEUTSCHMEISTER_KLY:0 "гросмейстере Тевтонського ордену" #GetTitleKLY
+ DEUTSCHMEISTER_KYM:0 "гросмейстером Тевтонського ордену" #GetTitleKYM
+ DEUTSCHMEISTER_PRO:0 "гросмейстера Тевтонського ордену" #GetTitlePRO
+ 
+ TRAPPIST_KHTO:0 "траппіст" #GetTitleKHTO
+ TRAPPIST_OGO:0 "траппіста" #GetTitleOGO
+ TRAPPIST_OMU:0 "траппісту" #GetTitleOMU
+ TRAPPIST_KLY:0 "траппісте" #GetTitleKLY
+ TRAPPIST_KYM:0 "траппістом" #GetTitleKYM
+ TRAPPIST_PRO:0 "траппіста" #GetTitlePRO
+ 
+ TRAPPISTINE_KHTO:0 "траппістка" #GetTitleKHTO
+ TRAPPISTINE_OGO:0 "траппістки" #GetTitleOGO
+ TRAPPISTINE_OMU:0 "траппістці" #GetTitleOMU
+ TRAPPISTINE_KLY:0 "траппістко" #GetTitleKLY
+ TRAPPISTINE_KYM:0 "траппісткою" #GetTitleKYM
+ TRAPPISTINE_PRO:0 "траппістку" #GetTitlePRO
+ 
+ ARCH_TRAPPIST_KHTO:0 "архітраппіст" #GetTitleKHTO
+ ARCH_TRAPPIST_OGO:0 "архітраппіста" #GetTitleOGO
+ ARCH_TRAPPIST_OMU:0 "архітраппісту" #GetTitleOMU
+ ARCH_TRAPPIST_KLY:0 "архітраппісте" #GetTitleKLY
+ ARCH_TRAPPIST_KYM:0 "архітраппістом" #GetTitleKYM
+ ARCH_TRAPPIST_PRO:0 "архітраппіста" #GetTitlePRO
+ 
+ ARCH_TRAPPISTINE_KHTO:0 "архітраппістка" #GetTitleKHTO
+ ARCH_TRAPPISTINE_OGO:0 "архітраппістки" #GetTitleOGO
+ ARCH_TRAPPISTINE_OMU:0 "архітраппістці" #GetTitleOMU
+ ARCH_TRAPPISTINE_KLY:0 "архітраппістко" #GetTitleKLY
+ ARCH_TRAPPISTINE_KYM:0 "архітраппісткою" #GetTitleKYM
+ ARCH_TRAPPISTINE_PRO:0 "архітраппістку" #GetTitlePRO
+ 
+ BREWMASTER_KHTO:0 "бровар" #GetTitleKHTO
+ BREWMASTER_OGO:0 "броваря" #GetTitleOGO
+ BREWMASTER_OMU:0 "броварю" #GetTitleOMU
+ BREWMASTER_KLY:0 "броварю" #GetTitleKLY
+ BREWMASTER_KYM:0 "броварем" #GetTitleKYM
+ BREWMASTER_PRO:0 "броваря" #GetTitlePRO
+ 
+ BREWMISTRESS_KHTO:0 "броварниця" #GetTitleKHTO
+ BREWMISTRESS_OGO:0 "броварниці" #GetTitleOGO
+ BREWMISTRESS_OMU:0 "броварниці" #GetTitleOMU
+ BREWMISTRESS_KLY:0 "броварнице" #GetTitleKLY
+ BREWMISTRESS_KYM:0 "броварницею" #GetTitleKYM
+ BREWMISTRESS_PRO:0 "броварницю" #GetTitlePRO
+ 
+ COMMANDER_EMPEROR_KHTO:0 "імперський командувач" #GetTitleKHTO
+ COMMANDER_EMPEROR_OGO:0 "імперського командувача" #GetTitleOGO
+ COMMANDER_EMPEROR_OMU:0 "імперському командувачу" #GetTitleOMU
+ COMMANDER_EMPEROR_KLY:0 "ªімперський командуваче" #GetTitleKLY
+ COMMANDER_EMPEROR_KYM:0 "імперським командувачем" #GetTitleKYM
+ COMMANDER_EMPEROR_PRO:0 "імперського командувача" #GetTitlePRO
+ 
+ GRAND_MISTRESS_KHTO:0 "великий магистр" #GetTitleKHTO
+ GRAND_MISTRESS_OGO:0 "великого магистра" #GetTitleOGO
+ GRAND_MISTRESS_OMU:0 "великому магистру" #GetTitleOMU
+ GRAND_MISTRESS_KLY:0 "великий магистре" #GetTitleKLY
+ GRAND_MISTRESS_KYM:0 "великим магистром" #GetTitleKYM
+ GRAND_MISTRESS_PRO:0 "великого магистра" #GetTitlePRO
+ 
+ ABBESS_KHTO:0 "абатиса" #GetTitleKHTO
+ ABBESS_OGO:0 "абатиси" #GetTitleOGO
+ ABBESS_OMU:0 "абатисі" #GetTitleOMU
+ ABBESS_KLY:0 "абатисе" #GetTitleKLY
+ ABBESS_KYM:0 "абатисою" #GetTitleKYM
+ ABBESS_PRO:0 "абатису" #GetTitlePRO
+ 
+ MOTHER_SUPERIOR_KHTO:0 "настоятелька" #GetTitleKHTO
+ MOTHER_SUPERIOR_OGO:0 "настоятельку" #GetTitleOGO
+ MOTHER_SUPERIOR_OMU:0 "настоятельці" #GetTitleOMU
+ MOTHER_SUPERIOR_KLY:0 "настоятелько" #GetTitleKLY
+ MOTHER_SUPERIOR_KYM:0 "настоятелькою" #GetTitleKYM
+ MOTHER_SUPERIOR_PRO:0 "настоятельку" #GetTitlePRO
+ 
+ HEIR_fem_KHTO:0 "спадкоємиця" #GetTitleKHTO
+ HEIR_fem_OGO:0 "спадкоємиці" #GetTitleOGO
+ HEIR_fem_OMU:0 "спадкоємиці" #GetTitleOMU
+ HEIR_fem_KLY:0 "спадкоємице" #GetTitleKLY
+ HEIR_fem_KYM:0 "спадкоємицею" #GetTitleKYM
+ HEIR_fem_PRO:0 "спадкоємицю" #GetTitlePRO
+ 
+
