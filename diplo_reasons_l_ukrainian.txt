@@ -373,3 +373,4 @@
  DIPLO_IS_CELESTIAL_EMPEROR:0 "$WHO$ – Імператор Піднебесної: "
  DIPLO_IS_HORDE_EMPIRE:0 "$WHO$ – Ординська Імперія: "
  DIPLO_ESCALATED_COLONIAL_WAR:0 "Не хоче вплутуватися в ескалацію колоніальної війни: "
+ 

@@ -626,7 +626,7 @@
  mechanic_has_parliament_yes:3 "Парламент доступний."
  mechanic_disables_nobility_yes:0 "Недоступний стан дворян."
  mechanic_disables_nobility_no:0 "Доступний стан дворян."
- mechanic_has_parliament_no:1 "Парламент не доступний."
+ mechanic_has_parliament_no:1 "Парламент недоступний."
  mechanic_raze_province_yes:0 "Може зруйнувати провінції вщент"
  mechanic_raze_province_no:0 "НЕ може зруйнувати провінції"
  MODIFIER_LEADER_COST:0 "Вартість командувача"
