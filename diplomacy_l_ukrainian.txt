@@ -422,6 +422,8 @@
  superiority_insult_mutual_desc:0 "Мета війни – продемонструвати вищість над ними, перемагаючи у битвах."
  take_capital_personal_union:0 "Захопити столицю"
  take_capital_personal_union_desc:0 "Мета війни – захопити столицю."
+ take_capital_hundred_years_war:0 "Захопити столицю"
+ take_capital_hundred_years_war_desc:0 "Мета війни – захопити столицю."
  defend_country_soi:0 "Захистити від них дружню державу"
  defend_country_soi_desc:0 "Мета війни – захистити дружню державу."
  take_capital_fabricated_claims:0 "Захопити столицю"
