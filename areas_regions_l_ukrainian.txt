@@ -352,7 +352,7 @@
  astrakhan_area_adj:0 "Астраханськ"
  lower_don_area:0 "Пониззя Дону"
  lower_don_area_name:0 "Черкаськ"
- lower_don_area_adj:0 "Черкасськ"
+ lower_don_area_adj:0 "Черкаськ"
  kazan_area:0 "Казань"
  kazan_area_name:0 "Казань"
  kazan_area_adj:0 "Казанськ"
