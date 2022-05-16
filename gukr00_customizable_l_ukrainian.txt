@@ -822,10 +822,10 @@
  EST_guildsNZ:0 "купецькі гільдії" #BurghersNZ
  EST_yangban_scholarsNZ:0 "вчені-янбани" #ChurchNZ
  EST_kahunaNZ:1 "кахуна" #ChurchNZ
- EST_tohungaNZ:1 "тохунга" #ChurchNZ
+ EST_tohungaNZ:1 "тогунґа" #ChurchNZ
  EST_beteNZ:1 "бете" #ChurchNZ
  EST_taula_otuaNZ:1 "таула отуа" #ChurchNZ
- EST_taula_aituNZ:1 "таула аіту" #ChurchNZ
+ EST_taula_aituNZ:1 "таула аїту" #ChurchNZ
  EST_aliiNZ:1 "алі-і" #NoblesNZ
  EST_rangatiraNZ:0 "рангатіра" #NoblesNZ
  EST_eikiNZ:1 "'еікі" #NoblesNZ
@@ -870,10 +870,10 @@
  EST_guildsRD:0 "купецьких гільдій" #BurghersRD
  EST_yangban_scholarsRD:0 "вчених-янбанів" #ChurchRD
  EST_kahunaRD:1 "кахуна" #ChurchRD
- EST_tohungaRD:1 "тохунга" #ChurchRD
+ EST_tohungaRD:1 "тогунґа" #ChurchRD
  EST_beteRD:1 "бете" #ChurchRD
  EST_taula_otuaRD:1 "таула отуа" #ChurchRD
- EST_taula_aituRD:1 "таула аіту" #ChurchRD
+ EST_taula_aituRD:1 "таула аїту" #ChurchRD
  EST_aliiRD:1 "алі-і" #NoblesRD
  EST_rangatiraRD:0 "рангатіра" #NoblesRD
  EST_eikiRD:1 "'еікі" #NoblesRD
@@ -918,10 +918,10 @@
  EST_guildsDV:0 "купецьким гільдіям" #BurghersDV
  EST_yangban_scholarsDV:0 "вченим-янбанам" #ChurchDV
  EST_kahunaDV:1 "кахуна" #ChurchDV
- EST_tohungaDV:1 "тохунга" #ChurchDV
+ EST_tohungaDV:1 "тогунґа" #ChurchDV
  EST_beteDV:1 "бете" #ChurchDV
  EST_taula_otuaDV:1 "таула отуа" #ChurchDV
- EST_taula_aituDV:1 "таула аіту" #ChurchDV
+ EST_taula_aituDV:1 "таула аїту" #ChurchDV
  EST_aliiDV:1 "алі-і" #NoblesDV
  EST_rangatiraDV:0 "рангатіра" #NoblesDV
  EST_eikiDV:1 "'еікі" #NoblesDV
@@ -966,10 +966,10 @@
  EST_guildsZN:0 "купецькі гільдії" #BurghersZN
  EST_yangban_scholarsZN:0 "вчених-янбанів" #ChurchZN
  EST_kahunaZN:1 "кахуна" #ChurchZN
- EST_tohungaZN:1 "тохунга" #ChurchZN
+ EST_tohungaZN:1 "тогунґа" #ChurchZN
  EST_beteZN:1 "бете" #ChurchZN
  EST_taula_otuaZN:1 "таула отуа" #ChurchZN
- EST_taula_aituZN:1 "таула аіту" #ChurchZN
+ EST_taula_aituZN:1 "таула аїту" #ChurchZN
  EST_aliiZN:1 "алі-і" #NoblesZN
  EST_rangatiraZN:0 "рангатіра" #NoblesZN
  EST_eikiZN:1 "'еікі" #NoblesZN
@@ -1014,10 +1014,10 @@
  EST_guildsOD:0 "купецькими гільдіями" #BurghersOD
  EST_yangban_scholarsOD:0 "вченими-янбанами" #ChurchOD
  EST_kahunaOD:1 "кахуна" #ChurchOD
- EST_tohungaOD:1 "тохунга" #ChurchOD
+ EST_tohungaOD:1 "тогунґа" #ChurchOD
  EST_beteOD:1 "бете" #ChurchOD
  EST_taula_otuaOD:1 "таула отуа" #ChurchOD
- EST_taula_aituOD:1 "таула аіту" #ChurchOD
+ EST_taula_aituOD:1 "таула аїту" #ChurchOD
  EST_aliiOD:1 "алі-і" #NoblesOD
  EST_rangatiraOD:0 "рангатіра" #NoblesOD
  EST_eikiOD:1 "'еікі" #NoblesOD
@@ -1062,10 +1062,10 @@
  EST_guildsMS:0 "купецьких гільдіях" #BurghersMS
  EST_yangban_scholarsMS:0 "вчених-янбанах" #ChurchMS
  EST_kahunaMS:1 "кахуна" #ChurchMS
- EST_tohungaMS:1 "тохунга" #ChurchMS
+ EST_tohungaMS:1 "тогунґа" #ChurchMS
  EST_beteMS:1 "бете" #ChurchMS
  EST_taula_otuaMS:1 "таула отуа" #ChurchMS
- EST_taula_aituMS:1 "таула аіту" #ChurchMS
+ EST_taula_aituMS:1 "таула аїту" #ChurchMS
  EST_aliiMS:1 "алі-і" #NoblesMS
  EST_rangatiraMS:0 "рангатіра" #NoblesMS
  EST_eikiMS:1 "'еікі" #NoblesMS
@@ -1110,10 +1110,10 @@
  EST_guildsNZ_CAP:0 "Купецькі гільдії" #BurghersNZ_CAP
  EST_yangban_scholarsNZ_CAP:0 "Вчені-янбани" #ChurchNZ_CAP
  EST_kahunaNZ_CAP:1 "Кахуна" #ChurchNZ_CAP
- EST_tohungaNZ_CAP:1 "Тохунга" #ChurchNZ_CAP
+ EST_tohungaNZ_CAP:1 "Тогунґа" #ChurchNZ_CAP
  EST_beteNZ_CAP:1 "Бете" #ChurchNZ_CAP
  EST_taula_otuaNZ_CAP:1 "Таула отуа" #ChurchNZ_CAP
- EST_taula_aituNZ_CAP:1 "Таула аіту" #ChurchNZ_CAP
+ EST_taula_aituNZ_CAP:1 "Таула аїту" #ChurchNZ_CAP
  EST_aliiNZ_CAP:1 "Алі-і" #NoblesNZ_CAP
  EST_rangatiraNZ_CAP:0 "Рангатіра" #NoblesNZ_CAP
  EST_eikiNZ_CAP:1 "'Еікі" #NoblesNZ_CAP
@@ -1158,10 +1158,10 @@
  EST_guildsRD_CAP:0 "Купецьких гільдій" #BurghersRD_CAP
  EST_yangban_scholarsRD_CAP:0 "Вчених-янбанів" #ChurchRD_CAP
  EST_kahunaRD_CAP:1 "Кахуна" #ChurchRD_CAP
- EST_tohungaRD_CAP:1 "Тохунга" #ChurchRD_CAP
+ EST_tohungaRD_CAP:1 "Тогунґа" #ChurchRD_CAP
  EST_beteRD_CAP:1 "Бете" #ChurchRD_CAP
  EST_taula_otuaRD_CAP:1 "Таула отуа" #ChurchRD_CAP
- EST_taula_aituRD_CAP:1 "Таула аіту" #ChurchRD_CAP
+ EST_taula_aituRD_CAP:1 "Таула аїту" #ChurchRD_CAP
  EST_aliiRD_CAP:1 "Алі-і" #NoblesRD_CAP
  EST_rangatiraRD_CAP:0 "Рангатіра" #NoblesRD_CAP
  EST_eikiRD_CAP:1 "'Еікі" #NoblesRD_CAP
@@ -1206,10 +1206,10 @@
  EST_guildsDV_CAP:0 "Купецьким гільдіям" #BurghersDV_CAP
  EST_yangban_scholarsDV_CAP:0 "Вченим-янбанам" #ChurchDV_CAP
  EST_kahunaDV_CAP:1 "Кахуна" #ChurchDV_CAP
- EST_tohungaDV_CAP:1 "Тохунга" #ChurchDV_CAP
+ EST_tohungaDV_CAP:1 "Тогунґа" #ChurchDV_CAP
  EST_beteDV_CAP:1 "Бете" #ChurchDV_CAP
  EST_taula_otuaDV_CAP:1 "Таула отуа" #ChurchDV_CAP
- EST_taula_aituDV_CAP:1 "Таула аіту" #ChurchDV_CAP
+ EST_taula_aituDV_CAP:1 "Таула аїту" #ChurchDV_CAP
  EST_aliiDV_CAP:1 "Алі-і" #NoblesDV_CAP
  EST_rangatiraDV_CAP:0 "Рангатіра" #NoblesDV_CAP
  EST_eikiDV_CAP:1 "'Еікі" #NoblesDV_CAP
@@ -1254,10 +1254,10 @@
  EST_guildsZN_CAP:0 "Купецькі гільдії" #BurghersZN_CAP
  EST_yangban_scholarsZN_CAP:0 "Вчених-янбанів" #ChurchZN_CAP
  EST_kahunaZN_CAP:1 "Кахуна" #ChurchZN_CAP
- EST_tohungaZN_CAP:1 "Тохунга" #ChurchZN_CAP
+ EST_tohungaZN_CAP:1 "Тогунґа" #ChurchZN_CAP
  EST_beteZN_CAP:1 "Бете" #ChurchZN_CAP
  EST_taula_otuaZN_CAP:1 "Таула отуа" #ChurchZN_CAP
- EST_taula_aituZN_CAP:1 "Таула аіту" #ChurchZN_CAP
+ EST_taula_aituZN_CAP:1 "Таула аїту" #ChurchZN_CAP
  EST_aliiZN_CAP:1 "Алі-і" #NoblesZN_CAP
  EST_rangatiraZN_CAP:0 "Рангатіра" #NoblesZN_CAP
  EST_eikiZN_CAP:1 "'Еікі" #NoblesZN_CAP
@@ -1302,10 +1302,10 @@
  EST_guildsOD_CAP:0 "Купецькими гільдіями" #BurghersOD_CAP
  EST_yangban_scholarsOD_CAP:0 "Вченими-янбанами" #ChurchOD_CAP
  EST_kahunaOD_CAP:1 "Кахуна" #ChurchOD_CAP
- EST_tohungaOD_CAP:1 "Тохунга" #ChurchOD_CAP
+ EST_tohungaOD_CAP:1 "Тогунґа" #ChurchOD_CAP
  EST_beteOD_CAP:1 "Бете" #ChurchOD_CAP
  EST_taula_otuaOD_CAP:1 "Таула отуа" #ChurchOD_CAP
- EST_taula_aituOD_CAP:1 "Таула аіту" #ChurchOD_CAP
+ EST_taula_aituOD_CAP:1 "Таула аїту" #ChurchOD_CAP
  EST_aliiOD_CAP:1 "Алі-і" #NoblesOD_CAP
  EST_rangatiraOD_CAP:0 "Рангатіра" #NoblesOD_CAP
  EST_eikiOD_CAP:1 "'Еікі" #NoblesOD_CAP
@@ -1350,10 +1350,10 @@
  EST_guildsMS_CAP:0 "Купецьких гільдіях" #BurghersMS_CAP
  EST_yangban_scholarsMS_CAP:0 "Вчених-янбанах" #ChurchMS_CAP
  EST_kahunaMS_CAP:1 "Кахуна" #ChurchMS_CAP
- EST_tohungaMS_CAP:1 "Тохунга" #ChurchMS_CAP
+ EST_tohungaMS_CAP:1 "Тогунґа" #ChurchMS_CAP
  EST_beteMS_CAP:1 "Бете" #ChurchMS_CAP
  EST_taula_otuaMS_CAP:1 "Таула отуа" #ChurchMS_CAP
- EST_taula_aituMS_CAP:1 "Таула аіту" #ChurchMS_CAP
+ EST_taula_aituMS_CAP:1 "Таула аїту" #ChurchMS_CAP
  EST_aliiMS_CAP:1 "Алі-і" #NoblesMS_CAP
  EST_rangatiraMS_CAP:0 "Рангатіра" #NoblesMS_CAP
  EST_eikiMS_CAP:1 "'Еікі" #NoblesMS_CAP

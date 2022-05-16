@@ -1,6 +1,6 @@
 ﻿l_ukrainian:
  ###Змінні народів. Лише в називному відмінку
- #
+
  ## Народи з маленької
  goths_people_small:0 "готи" #CulturePeopleSmall
  yukagyr_people_small:0 "юкагіри" #CulturePeopleSmall
