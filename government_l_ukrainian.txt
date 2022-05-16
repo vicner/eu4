@@ -229,7 +229,7 @@
  mechanic_enables_divine_idea_group_no:0 "Церковні ідеї недоступні."
  mechanic_allow_convert_yes:0 ""
  mechanic_allow_convert_no:1 ""
- mechanic_has_unify_china_cb_yes:0 "Є доступ до casus belli об'єднаного Китаю."
+ mechanic_has_unify_china_cb_yes:0 "Є доступ до casus belli Об'єднати Китай."
  mechanic_papacy_yes:0 "Використовуються механіки папства."
  mechanic_papacy_no:0 "Механіки папства недоступні."
  mechanic_fixed_rank:0 "Закріплено ранг $RANK$."
