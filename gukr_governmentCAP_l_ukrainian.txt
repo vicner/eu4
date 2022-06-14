@@ -29,6 +29,7 @@
  NAWABATE_DE_CAP:0 "Навабаті" #GetGovernmentDE_CAP
  NIZAMATE_DE_CAP:0 "Нізаматі" #GetGovernmentDE_CAP
  MONG_DE_CAP:0 "Монгі" #GetGovernmentDE_CAP
+ PRINCIPALITY_DE_CAP:0 "Князівстві" #GetGovernmentDE_CAP
  GRAND_PRINCIPALITY_DE_CAP:0 "Великому князівстві" #GetGovernmentDE_CAP
  ALTEPETL_DE_CAP:0 "Альтепетлі" #GetGovernmentDE_CAP
  ALTEPETL_FEDERATION_DE_CAP:0 "Альтепетельській федерації" #GetGovernmentDE_CAP
@@ -117,6 +118,7 @@
  NAWABATE_OMU_CAP:0 "Навабату" #GetGovernmentOMU_CAP
  NIZAMATE_OMU_CAP:0 "Нізамату" #GetGovernmentOMU_CAP
  MONG_OMU_CAP:0 "Монгу" #GetGovernmentOMU_CAP
+ PRINCIPALITY_OMU_CAP:0 "Князівству" #GetGovernmentOMU_CAP
  GRAND_PRINCIPALITY_OMU_CAP:0 "Великому князівству" #GetGovernmentOMU_CAP
  ALTEPETL_OMU_CAP:0 "Альтепетлю" #GetGovernmentOMU_CAP
  ALTEPETL_FEDERATION_OMU_CAP:0 "Альтепетельскій федерації" #GetGovernmentOMU_CAP
@@ -205,6 +207,7 @@
  NAWABATE_OGO_CAP:0 "Навабату" #GetGovernmentOGO_CAP
  NIZAMATE_OGO_CAP:0 "Нізамату" #GetGovernmentOGO_CAP
  MONG_OGO_CAP:0 "Монгу" #GetGovernmentOGO_CAP
+ PRINCIPALITY_OGO_CAP:0 "Князівства" #GetGovernmentOGO_CAP
  GRAND_PRINCIPALITY_OGO_CAP:0 "Великого князівства" #GetGovernmentOGO_CAP
  ALTEPETL_OGO_CAP:0 "Альтепетля" #GetGovernmentOGO_CAP
  ALTEPETL_FEDERATION_OGO_CAP:0 "Альтепетельскої федерації" #GetGovernmentOGO_CAP
@@ -293,6 +296,7 @@
  NAWABATE_SCHO_CAP:0 "Навабат" #GetGovernmentSCHO_CAP
  NIZAMATE_SCHO_CAP:0 "Нізамат" #GetGovernmentSCHO_CAP
  MONG_SCHO_CAP:0 "Монг" #GetGovernmentSCHO_CAP
+ PRINCIPALITY_SCHO_CAP:0 "Князівство" #GetGovernmentSCHO_CAP
  GRAND_PRINCIPALITY_SCHO_CAP:0 "Велике князівство" #GetGovernmentSCHO_CAP
  ALTEPETL_SCHO_CAP:0 "Альтепетль" #GetGovernmentSCHO_CAP
  ALTEPETL_FEDERATION_SCHO_CAP:0 "Альтепетельську федерацію" #GetGovernmentSCHO_CAP
@@ -381,6 +385,7 @@
  NAWABATE_KYM_CAP:0 "Навабатом" #GetGovernmentKYM_CAP
  NIZAMATE_KYM_CAP:0 "Нізаматом" #GetGovernmentKYM_CAP
  MONG_KYM_CAP:0 "Монгом" #GetGovernmentKYM_CAP
+ PRINCIPALITY_KYM_CAP:0 "Князівством" #GetGovernmentKYM_CAP
  GRAND_PRINCIPALITY_KYM_CAP:0 "Великим князівством" #GetGovernmentKYM_CAP
  ALTEPETL_KYM_CAP:0 "Альтепетль" #GetGovernmentKYM_CAP
  ALTEPETL_FEDERATION_KYM_CAP:0 "Альтепетельською федерацією" #GetGovernmentKYM_CAP
@@ -470,24 +475,267 @@
  PIRATE_PRINCIPALITY_KYM_CAP:0 "Піратcьким князівcтвoм" #GetGovernmentKYM_CAP
  PIRATE_KINGDOM_KYM_CAP:0 "Кopoлівcтвoм піратів" #GetGovernmentKYM_CAP
  PIRATE_EMPIRE_KYM_CAP:0 "Імпepією піратів" #GetGovernmentKYM_CAP
-###Версія 1.30_CAP "" 
- SAVANAROLA_GOVERNMENT_DE_CAP:0 "Уряді Савонароли" #GеtGоvеrnmеntDЕ_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_DE_CAP:0 "Верховній хунті" #GеtGоvеrnmеntDЕ_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_DE_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntDЕ_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_DE_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntDЕ_CAP
- SAVANAROLA_GOVERNMENT_OMU_CAP:0 "Уряду Савонароли" #GеtGоvеrnmеntОМU_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_OMU_CAP:0 "Верховній хунті" #GеtGоvеrnmеntОМU_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_OMU_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntОМU_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_OMU_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntОМU_CAP
- SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряду Савонароли" #GеtGоvеrnmеntОGО_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_OGO_CAP:0 "Верховної хунти" #GеtGоvеrnmеntОGО_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_OGO_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntОGО_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_OGO_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntОGО_CAP
- SAVANAROLA_GOVERNMENT_SCHO_CAP:0 "Уряд Савонароли" #GеtGоvеrnmеntSСНО_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_SCHO_CAP:0 "Верховну хунту" #GеtGоvеrnmеntSСНО_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntSСНО_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_SCHO_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntSСНО_CAP
- SAVANAROLA_GOVERNMENT_KYM_CAP:0 "Урядом Савонароли" #GеtGоvеrnmеntКYМ_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_KYM_CAP:0 "Верховною хунтою" #GеtGоvеrnmеntКYМ_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_KYM_CAP:0 "Sakerhetstinget" #GеtGоvеrnmеntКYМ_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_KYM_CAP:0 "Sikkerhedtinget" #GеtGоvеrnmеntКYМ_CAP
+###Версія 1.30-1.31 "" 
+ SAVANAROLA_GOVERNMENT_DE_CAP:0 "Уряді Савонароли" #GetGovernmentDE_CAP
+ SAVANAROLA_GOVERNMENT_OMU_CAP:0 "Уряду Савонароли" #GetGovernmentOMU_CAP
+ SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряду Савонароли" #GetGovernmentOGO_CAP
+ SAVANAROLA_GOVERNMENT_SCHO_CAP:0 "Уряд Савонароли" #GetGovernmentSCHO_CAP
+ SAVANAROLA_GOVERNMENT_KYM_CAP:0 "Урядом Савонароли" #GetGovernmentKYM_CAP
+ 
+ MOST_SERENE_REPUBLIC_DE_CAP:0 "Найсвітлішій республіці" #GetGovernmentDE_CAP
+ MOST_SERENE_REPUBLIC_OMU_CAP:0 "Найсвітлішій pecпубліці" #GetGovernmentOMU_CAP
+ MOST_SERENE_REPUBLIC_OGO_CAP:0 "Найсвітлішої республіки" #GetGovernmentOGO_CAP
+ MOST_SERENE_REPUBLIC_SCHO_CAP:0 "Найсвітлішу республіку" #GetGovernmentSCHO_CAP
+ MOST_SERENE_REPUBLIC_KYM_CAP:0 "Найсвітлішою республікою" #GetGovernmentKYM_CAP
+ 
+ STATELESS_SOCIETY_SCHO_CAP:0 "Суспільство без держави" #GetGovernmentSCHO_CAP
+ STATELESS_SOCIETY_OGO_CAP:0 "Суспільства без держави" #GetGovernmentOGO_CAP
+ STATELESS_SOCIETY_OMU_CAP:0 "Суспільству без держави" #GetGovernmentOMU_CAP
+ STATELESS_SOCIETY_KYM_CAP:0 "Суспільством без держави" #GetGovernmentKYM_CAP
+ STATELESS_SOCIETY_DE_CAP:0 "Суспільстві без держави" #GetGovernmentDE_CAP
+ 
+ ISLAMIC_CALIPHATE_SCHO_CAP:0 "Ісламський халіфат" #GetGovernmentSCHO_CAP
+ ISLAMIC_CALIPHATE_OGO_CAP:0 "Ісламського халіфату" #GetGovernmentOGO_CAP
+ ISLAMIC_CALIPHATE_OMU_CAP:0 "Ісламському халіфату" #GetGovernmentOMU_CAP
+ ISLAMIC_CALIPHATE_KYM_CAP:0 "Ісламським халіфатом" #GetGovernmentKYM_CAP
+ ISLAMIC_CALIPHATE_DE_CAP:0 "Ісламському халіфаті" #GetGovernmentDE_CAP
+  
+ REVOLUTIONARY_SPANISH_REPUBLIC_DE_CAP:0 "Верховній хунті" #GetGovernmentDE_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_OMU_CAP:0 "Верховній хунті" #GetGovernmentOMU_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_OGO_CAP:0 "Верховної хунти" #GetGovernmentOGO_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_SCHO_CAP:0 "Верховну хунту" #GetGovernmentSCHO_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_KYM_CAP:0 "Верховною хунтою" #GetGovernmentKYM_CAP
+ 
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DE_CAP:0 "Sakerhetstinget" #GetGovernmentDE_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OMU_CAP:0 "Sakerhetstinget" #GetGovernmentOMU_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OGO_CAP:0 "Sakerhetstinget" #GetGovernmentOGO_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO_CAP:0 "Sakerhetstinget" #GetGovernmentSCHO_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_KYM_CAP:0 "Sakerhetstinget" #GetGovernmentKYM_CAP
+  
+ REVOLUTIONARY_DANISH_REPUBLIC_DE_CAP:0 "Sikkerhedtinget" #GetGovernmentDE_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_OMU_CAP:0 "Sikkerhedtinget" #GetGovernmentOMU_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_OGO_CAP:0 "Sikkerhedtinget" #GetGovernmentOGO_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_SCHO_CAP:0 "Sikkerhedtinget" #GetGovernmentSCHO_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_KYM_CAP:0 "Sikkerhedtinget" #GetGovernmentKYM_CAP
+ 
+ GOV_REVOLUTIONARY_REPUBLIC_SCHO_CAP:0 "Революційна республіка" #GetGovernmentSCHO_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_OGO_CAP:0 "Революційної республіки" #GetGovernmentOGO_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_OMU_CAP:0 "Революційній республіці" #GetGovernmentOMU_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_KYM_CAP:0 "Революційною республікою" #GetGovernmentKYM_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_DE_CAP:0 "Революційній республіці" #GetGovernmentDE_CAP
+ 
+ KAISERREICH_SCHO_CAP:0 "Імперія" #GetGovernmentSCHO_CAP
+ KAISERREICH_OGO_CAP:0 "Імперії" #GetGovernmentOGO_CAP
+ KAISERREICH_OMU_CAP:0 "Імперії" #GetGovernmentOMU_CAP
+ KAISERREICH_KYM_CAP:0 "Імперією" #GetGovernmentKYM_CAP
+ KAISERREICH_DE_CAP:0 "Імперії" #GetGovernmentDE_CAP
+ 
+ STRATOCRACY_SCHO_CAP:0 "Стратократія" #GetGovernmentSCHO_CAP
+ STRATOCRACY_OGO_CAP:0 "Стратократії" #GetGovernmentOGO_CAP
+ STRATOCRACY_OMU_CAP:0 "Стратократії" #GetGovernmentOMU_CAP
+ STRATOCRACY_KYM_CAP:0 "Стратократією" #GetGovernmentKYM_CAP
+ STRATOCRACY_DE_CAP:0 "Стратократії" #GetGovernmentDE_CAP
+ 
+ ADMIRALTY_SCHO_CAP:0 "Адміралтейство" #GetGovernmentSCHO_CAP
+ ADMIRALTY_OGO_CAP:0 "Адміралтейства" #GetGovernmentOGO_CAP
+ ADMIRALTY_OMU_CAP:0 "Адміралтейству" #GetGovernmentOMU_CAP
+ ADMIRALTY_KYM_CAP:0 "Адміралтейством" #GetGovernmentKYM_CAP
+ ADMIRALTY_DE_CAP:0 "Адміралтействі" #GetGovernmentDE_CAP
+ 
+ HIGH_ADMIRALTY_SCHO_CAP:0 "Вище адміралтейство" #GetGovernmentSCHO_CAP
+ HIGH_ADMIRALTY_OGO_CAP:0 "Вищого адміралтейства" #GetGovernmentOGO_CAP
+ HIGH_ADMIRALTY_OMU_CAP:0 "Вищому адміралтейству" #GetGovernmentOMU_CAP
+ HIGH_ADMIRALTY_KYM_CAP:0 "Вищим адміралтейством" #GetGovernmentKYM_CAP
+ HIGH_ADMIRALTY_DE_CAP:0 "Вищому адміралтействі" #GetGovernmentDE_CAP
+ 
+ SUPREME_ADMIRALTY_SCHO_CAP:0 "Верховне адміралтейство" #GetGovernmentSCHO_CAP
+ SUPREME_ADMIRALTY_OGO_CAP:0 "Верховного адміралтейства" #GetGovernmentOGO_CAP
+ SUPREME_ADMIRALTY_OMU_CAP:0 "Верховному адміралтейству" #GetGovernmentOMU_CAP
+ SUPREME_ADMIRALTY_KYM_CAP:0 "Верховним адміралтейством" #GetGovernmentKYM_CAP
+ SUPREME_ADMIRALTY_DE_CAP:0 "Верховному адміралтействі" #GetGovernmentDE_CAP
+ 
+ COMMONWEALTH_SCHO_CAP:0 "Співдружність" #GetGovernmentSCHO_CAP
+ COMMONWEALTH_OGO_CAP:0 "Співдружності" #GetGovernmentOGO_CAP
+ COMMONWEALTH_OMU_CAP:0 "Співдружності" #GetGovernmentOMU_CAP
+ COMMONWEALTH_KYM_CAP:0 "Співдружністю" #GetGovernmentKYM_CAP
+ COMMONWEALTH_DE_CAP:0 "Співдружності" #GetGovernmentDE_CAP
+ 
+ MILITARY_GOVERNMENT_SCHO_CAP:0 "Військова республіка" #GetGovernmentSCHO_CAP
+ MILITARY_GOVERNMENT_OGO_CAP:0 "Військової республіки" #GetGovernmentOGO_CAP
+ MILITARY_GOVERNMENT_OMU_CAP:0 "Військовій республіці" #GetGovernmentOMU_CAP
+ MILITARY_GOVERNMENT_KYM_CAP:0 "Військовою республікою" #GetGovernmentKYM_CAP
+ MILITARY_GOVERNMENT_DE_CAP:0 "Військовій республіці" #GetGovernmentDE_CAP
+ 
+ ELECTORAL_PALATINATE_SCHO_CAP:0 "Виборне пфальцграфство" #GetGovernmentSCHO_CAP
+ ELECTORAL_PALATINATE_OGO_CAP:0 "Виборного пфальцграфства" #GetGovernmentOGO_CAP
+ ELECTORAL_PALATINATE_OMU_CAP:0 "Виборному пфальцграфству" #GetGovernmentOMU_CAP
+ ELECTORAL_PALATINATE_KYM_CAP:0 "Виборним пфальцграфством" #GetGovernmentKYM_CAP
+ ELECTORAL_PALATINATE_DE_CAP:0 "Виборному пфальцграфстві" #GetGovernmentDE_CAP
+  
+ HERCEGSEG_SCHO_CAP:0 "Князівство" #GetGovernmentSCHO_CAP
+ HERCEGSEG_OGO_CAP:0 "Князівства" #GetGovernmentOGO_CAP
+ HERCEGSEG_OMU_CAP:0 "Князівству" #GetGovernmentOMU_CAP
+ HERCEGSEG_KYM_CAP:0 "Князівством" #GetGovernmentKYM_CAP
+ HERCEGSEG_DE_CAP:0 "Князівстві" #GetGovernmentDE_CAP
+ 
+ GRAND_HERCEGSEG_SCHO_CAP:0 "Велике князівство" #GetGovernmentSCHO_CAP
+ GRAND_HERCEGSEG_OGO_CAP:0 "Великого князівства" #GetGovernmentOGO_CAP
+ GRAND_HERCEGSEG_OMU_CAP:0 "Великому князівству" #GetGovernmentOMU_CAP
+ GRAND_HERCEGSEG_KYM_CAP:0 "Великим князівством" #GetGovernmentKYM_CAP
+ GRAND_HERCEGSEG_DE_CAP:0 "Великому князівстві" #GetGovernmentDE_CAP
+ 
+ ELECTORATE_DUCHY_SCHO_CAP:0 "Курфюрство" #GetGovernmentSCHO_CAP
+ ELECTORATE_DUCHY_OGO_CAP:0 "Курфюрства" #GetGovernmentOGO_CAP
+ ELECTORATE_DUCHY_OMU_CAP:0 "Курфюрству" #GetGovernmentOMU_CAP
+ ELECTORATE_DUCHY_KYM_CAP:0 "Курфюрством" #GetGovernmentKYM_CAP
+ ELECTORATE_DUCHY_DE_CAP:0 "Курфюрстві" #GetGovernmentDE_CAP
+ 
+ ELECTORATE_BISHOPRIC_SCHO_CAP:0 "Єпископство-курфюрство" #GetGovernmentSCHO_CAP
+ ELECTORATE_BISHOPRIC_OGO_CAP:0 "Єпископства-курфюрства" #GetGovernmentOGO_CAP
+ ELECTORATE_BISHOPRIC_OMU_CAP:0 "Єпископству-курфюрству" #GetGovernmentOMU_CAP
+ ELECTORATE_BISHOPRIC_KYM_CAP:0 "Єпископством-курфюрством" #GetGovernmentKYM_CAP
+ ELECTORATE_BISHOPRIC_DE_CAP:0 "Єпископстві-курфюрстві" #GetGovernmentDE_CAP
+ 
+ ELECTORAL_REPUBLIC_SCHO_CAP:0 "Республіка-курфюрство" #GetGovernmentSCHO_CAP
+ ELECTORAL_REPUBLIC_OGO_CAP:0 "Республіки-курфюрства" #GetGovernmentOGO_CAP
+ ELECTORAL_REPUBLIC_OMU_CAP:0 "Республіці-курфюрстві" #GetGovernmentOMU_CAP
+ ELECTORAL_REPUBLIC_KYM_CAP:0 "Республікою-курфюрством" #GetGovernmentKYM_CAP
+ ELECTORAL_REPUBLIC_DE_CAP:0 "Республіці-курфюрстві" #GetGovernmentDE_CAP
+ 
+ GRAND_ELECTORAL_REPUBLIC_SCHO_CAP:0 "Велика республіка-курфюрство" #GetGovernmentSCHO_CAP
+ GRAND_ELECTORAL_REPUBLIC_OGO_CAP:0 "Великої республіки-курфюрства" #GetGovernmentOGO_CAP
+ GRAND_ELECTORAL_REPUBLIC_OMU_CAP:0 "Великій республіці-курфюрству" #GetGovernmentOMU_CAP
+ GRAND_ELECTORAL_REPUBLIC_KYM_CAP:0 "Великою республікою-курфюрством" #GetGovernmentKYM_CAP
+ GRAND_ELECTORAL_REPUBLIC_DE_CAP:0 "Великій республіці-курфюрстві" #GetGovernmentDE_CAP
+ 
+ GREAT_ELECTORAL_REPUBLIC_SCHO_CAP:0 "Найвеличніша республіка-курфюрство" #GetGovernmentSCHO_CAP
+ GREAT_ELECTORAL_REPUBLIC_OGO_CAP:0 "Найвеличнішої республіки-курфюрства" #GetGovernmentOGO_CAP
+ GREAT_ELECTORAL_REPUBLIC_OMU_CAP:0 "Найвеличнішій республіці-курфюрству" #GetGovernmentOMU_CAP
+ GREAT_ELECTORAL_REPUBLIC_KYM_CAP:0 "Найвеличнішою республікою-курфюрством" #GetGovernmentKYM_CAP
+ GREAT_ELECTORAL_REPUBLIC_DE_CAP:0 "Найвеличнішій республіці-курфюрстві" #GetGovernmentDE_CAP
+ 
+ COUNTY_SCHO_CAP:0 "Графство" #GetGovernmentSCHO_CAP
+ COUNTY_OGO_CAP:0 "Графства" #GetGovernmentOGO_CAP
+ COUNTY_OMU_CAP:0 "Графству" #GetGovernmentOMU_CAP
+ COUNTY_KYM_CAP:0 "Графством" #GetGovernmentKYM_CAP
+ COUNTY_DE_CAP:0 "Графстві" #GetGovernmentDE_CAP
+ 
+ COUNTY_PALATINE_SCHO_CAP:0 "Пфальцграфство" #GetGovernmentSCHO_CAP
+ COUNTY_PALATINE_OGO_CAP:0 "Пфальцграфства" #GetGovernmentOGO_CAP
+ COUNTY_PALATINE_OMU_CAP:0 "Пфальцграфству" #GetGovernmentOMU_CAP
+ COUNTY_PALATINE_KYM_CAP:0 "Пфальцграфством" #GetGovernmentKYM_CAP
+ COUNTY_PALATINE_DE_CAP:0 "Пфальцграфстві" #GetGovernmentDE_CAP
+ 
+ KINGDOM_PALATINE_SCHO_CAP:0 "Пфальцокоролівство" #GetGovernmentSCHO_CAP
+ KINGDOM_PALATINE_OGO_CAP:0 "Пфальцокоролівства" #GetGovernmentOGO_CAP
+ KINGDOM_PALATINE_OMU_CAP:0 "Пфальцокоролівству" #GetGovernmentOMU_CAP
+ KINGDOM_PALATINE_KYM_CAP:0 "Пфальцокоролівством" #GetGovernmentKYM_CAP
+ KINGDOM_PALATINE_DE_CAP:0 "Пфальцокоролівстві" #GetGovernmentDE_CAP
+ 
+ IKKO_IKKI_COMMUNE_SCHO_CAP:0 "Республіка Ікко-іккі" #GetGovernmentSCHO_CAP
+ IKKO_IKKI_COMMUNE_OGO_CAP:0 "Республіки Ікко-іккі" #GetGovernmentOGO_CAP
+ IKKO_IKKI_COMMUNE_OMU_CAP:0 "Республіці Ікко-іккі" #GetGovernmentOMU_CAP
+ IKKO_IKKI_COMMUNE_KYM_CAP:0 "Республікою Ікко-іккі" #GetGovernmentKYM_CAP
+ IKKO_IKKI_COMMUNE_DE_CAP:0 "Республіці Ікко-іккі" #GetGovernmentDE_CAP
+ 
+ IKKO_IKKI_ORDER_SCHO_CAP:0 "Орден Ікко-іккі" #GetGovernmentSCHO_CAP
+ IKKO_IKKI_ORDER_OGO_CAP:0 "Ордена Ікко-іккі" #GetGovernmentOGO_CAP
+ IKKO_IKKI_ORDER_OMU_CAP:0 "Ордену Ікко-іккі" #GetGovernmentOMU_CAP
+ IKKO_IKKI_ORDER_KYM_CAP:0 "Орденом Ікко-іккі" #GetGovernmentKYM_CAP
+ IKKO_IKKI_ORDER_DE_CAP:0 "Ордені Ікко-іккі" #GetGovernmentDE_CAP
+ 
+ IKKO_IKKI_SHOGUN_SCHO_CAP:0 "Сьоґунат Ікко-іккі" #GetGovernmentSCHO_CAP
+ IKKO_IKKI_SHOGUN_OGO_CAP:0 "Сьоґуната Ікко-іккі" #GetGovernmentOGO_CAP
+ IKKO_IKKI_SHOGUN_OMU_CAP:0 "Сьоґунату Ікко-іккі" #GetGovernmentOMU_CAP
+ IKKO_IKKI_SHOGUN_KYM_CAP:0 "Сьоґунатом Ікко-іккі" #GetGovernmentKYM_CAP
+ IKKO_IKKI_SHOGUN_DE_CAP:0 "Сьоґунаті Ікко-іккі" #GetGovernmentDE_CAP
+ 
+ IKKO_IKKI_EMPIRE_SCHO_CAP:0 "Протекторат Ікко-іккі" #GetGovernmentSCHO_CAP
+ IKKO_IKKI_EMPIRE_OGO_CAP:0 "Протектората Ікко-іккі" #GetGovernmentOGO_CAP
+ IKKO_IKKI_EMPIRE_OMU_CAP:0 "Протекторату Ікко-іккі" #GetGovernmentOMU_CAP
+ IKKO_IKKI_EMPIRE_KYM_CAP:0 "Протекторатом Ікко-іккі" #GetGovernmentKYM_CAP
+ IKKO_IKKI_EMPIRE_DE_CAP:0 "Протектораті Ікко-іккі" #GetGovernmentDE_CAP
+ 
+ WARRIOR_MONK_ORDER_SCHO_CAP:0 "Сохей" #GetGovernmentSCHO_CAP
+ WARRIOR_MONK_ORDER_OGO_CAP:0 "Сохея" #GetGovernmentOGO_CAP
+ WARRIOR_MONK_ORDER_OMU_CAP:0 "Сохею" #GetGovernmentOMU_CAP
+ WARRIOR_MONK_ORDER_KYM_CAP:0 "Сохеєм" #GetGovernmentKYM_CAP
+ WARRIOR_MONK_ORDER_DE_CAP:0 "Сохеї" #GetGovernmentDE_CAP
+ 
+ WARRIOR_MONK_HIGH_ORDER_SCHO_CAP:0 "Чернечий сьоґунат" #GetGovernmentSCHO_CAP
+ WARRIOR_MONK_HIGH_ORDER_OGO_CAP:0 "Чернечого сьоґуната" #GetGovernmentOGO_CAP
+ WARRIOR_MONK_HIGH_ORDER_OMU_CAP:0 "Чернечому сьоґунату" #GetGovernmentOMU_CAP
+ WARRIOR_MONK_HIGH_ORDER_KYM_CAP:0 "Чернечим сьоґунатом" #GetGovernmentKYM_CAP
+ WARRIOR_MONK_HIGH_ORDER_DE_CAP:0 "Чернечому сьоґунаті" #GetGovernmentDE_CAP
+ 
+ DIVINE_PROTECTORS_SCHO_CAP:0 "Божественний протекторат" #GetGovernmentSCHO_CAP
+ DIVINE_PROTECTORS_OGO_CAP:0 "Божественного протекторату" #GetGovernmentOGO_CAP
+ DIVINE_PROTECTORS_OMU_CAP:0 "Божественному протекторату" #GetGovernmentOMU_CAP
+ DIVINE_PROTECTORS_KYM_CAP:0 "Божественним протекторатом" #GetGovernmentKYM_CAP
+ DIVINE_PROTECTORS_DE_CAP:0 "Божественному протектораті" #GetGovernmentDE_CAP
+ 
+ BLACK_KNIGHTS_SCHO_CAP:0 "Лицарі Адріана" #GetGovernmentSCHO_CAP
+ BLACK_KNIGHTS_OGO_CAP:0 "Лицарів Адріана" #GetGovernmentOGO_CAP
+ BLACK_KNIGHTS_OMU_CAP:0 "Лицарям Адріана" #GetGovernmentOMU_CAP
+ BLACK_KNIGHTS_KYM_CAP:0 "Лицарями Адріана" #GetGovernmentKYM_CAP
+ BLACK_KNIGHTS_DE_CAP:0 "Лицарях Адріана" #GetGovernmentDE_CAP
+ 
+ BLACK_LONG_KNIGHTS_SCHO_CAP:0 "Лицарі Адріана" #GetGovernmentSCHO_CAP
+ BLACK_LONG_KNIGHTS_OGO_CAP:0 "Лицарів Адріана" #GetGovernmentOGO_CAP
+ BLACK_LONG_KNIGHTS_OMU_CAP:0 "Лицарям Адріана" #GetGovernmentOMU_CAP
+ BLACK_LONG_KNIGHTS_KYM_CAP:0 "Лицарями Адріана" #GetGovernmentKYM_CAP
+ BLACK_LONG_KNIGHTS_DE_CAP:0 "Лицарях Адріана" #GetGovernmentDE_CAP
+ 
+ BLACK_WATCH_SCHO_CAP:0 "Варта Адріана" #GetGovernmentSCHO_CAP
+ BLACK_WATCH_OGO_CAP:0 "Варти Адріана" #GetGovernmentOGO_CAP
+ BLACK_WATCH_OMU_CAP:0 "Варті Адріана" #GetGovernmentOMU_CAP
+ BLACK_WATCH_KYM_CAP:0 "Вартою Адріана" #GetGovernmentKYM_CAP
+ BLACK_WATCH_DE_CAP:0 "Варті Адріана" #GetGovernmentDE_CAP
+ 
+ SOVREIGN_MONASTIC_ORDER_SCHO_CAP:0 "Суверенний військовий орден" #GetGovernmentSCHO_CAP
+ SOVREIGN_MONASTIC_ORDER_OGO_CAP:0 "Суверенного військового ордену" #GetGovernmentOGO_CAP
+ SOVREIGN_MONASTIC_ORDER_OMU_CAP:0 "Суверенному військовому ордену" #GetGovernmentOMU_CAP
+ SOVREIGN_MONASTIC_ORDER_KYM_CAP:0 "Суверенним військовим орденом" #GetGovernmentKYM_CAP
+ SOVREIGN_MONASTIC_ORDER_DE_CAP:0 "Суверенному військовому ордені" #GetGovernmentDE_CAP
+ 
+ SOVREIGN_MONASTIC_CONFEDERATION_SCHO_CAP:0 "Суверенна лицарська конфедерація" #GetGovernmentSCHO_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_OGO_CAP:0 "Суверенної лицарської конфедерації" #GetGovernmentOGO_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_OMU_CAP:0 "Суверенній лицарській конфедерації" #GetGovernmentOMU_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_KYM_CAP:0 "Суверенною лицарською конфедерацією" #GetGovernmentKYM_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_DE_CAP:0 "Суверенній лицарській конфедерації" #GetGovernmentDE_CAP
+ 
+ SISTERHOOD_SCHO_CAP:0 "Сестринство" #GetGovernmentSCHO_CAP
+ SISTERHOOD_OGO_CAP:0 "Сестринства" #GetGovernmentOGO_CAP
+ SISTERHOOD_OMU_CAP:0 "Сестринству" #GetGovernmentOMU_CAP
+ SISTERHOOD_KYM_CAP:0 "Сестринством" #GetGovernmentKYM_CAP
+ SISTERHOOD_DE_CAP:0 "Сестринстві" #GetGovernmentDE_CAP
+ 
+ GRAND_SISTERHOOD_SCHO_CAP:0 "Велике сестринство" #GetGovernmentSCHO_CAP
+ GRAND_SISTERHOOD_OGO_CAP:0 "Великого сестринства" #GetGovernmentOGO_CAP
+ GRAND_SISTERHOOD_OMU_CAP:0 "Великому сестринству" #GetGovernmentOMU_CAP
+ GRAND_SISTERHOOD_KYM_CAP:0 "Великим сестринством" #GetGovernmentKYM_CAP
+ GRAND_SISTERHOOD_DE_CAP:0 "Великому сестринстві" #GetGovernmentDE_CAP
+ 
+ TRAPPIST_STATE_SCHO_CAP:0 "Орден траппістів" #GetGovernmentSCHO_CAP
+ TRAPPIST_STATE_OGO_CAP:0 "Ордена траппістів" #GetGovernmentOGO_CAP
+ TRAPPIST_STATE_OMU_CAP:0 "Ордену траппістів" #GetGovernmentOMU_CAP
+ TRAPPIST_STATE_KYM_CAP:0 "Орденом траппістів" #GetGovernmentKYM_CAP
+ TRAPPIST_STATE_DE_CAP:0 "Ордені траппістів" #GetGovernmentDE_CAP
+ 
+ MONASTIC_STATE_SCHO_CAP:0 "Чернеча держава" #GetGovernmentSCHO_CAP
+ MONASTIC_STATE_OGO_CAP:0 "Чернечої держави" #GetGovernmentOGO_CAP
+ MONASTIC_STATE_OMU_CAP:0 "Чернечій державі" #GetGovernmentOMU_CAP
+ MONASTIC_STATE_KYM_CAP:0 "Чернечою державою" #GetGovernmentKYM_CAP
+ MONASTIC_STATE_DE_CAP:0 "Чернечій державі" #GetGovernmentDE_CAP
+ 
+ BREWING_EMPIRE_SCHO_CAP:0 "Пивна імперія" #GetGovernmentSCHO_CAP
+ BREWING_EMPIRE_OGO_CAP:0 "Пивної імперії" #GetGovernmentOGO_CAP
+ BREWING_EMPIRE_OMU_CAP:0 "Пивній імперії" #GetGovernmentOMU_CAP
+ BREWING_EMPIRE_KYM_CAP:0 "Пивною імперією" #GetGovernmentKYM_CAP
+ BREWING_EMPIRE_DE_CAP:0 "Пивній імперії" #GetGovernmentDE_CAP
+ 
+ SYNTH_GOV_SCHO_CAP:0 "Машинний інтелект" #GetGovernmentSCHO_CAP
+ SYNTH_GOV_OGO_CAP:0 "Машинного інтелекту" #GetGovernmentOGO_CAP
+ SYNTH_GOV_OMU_CAP:0 "Машинному інтелекту" #GetGovernmentOMU_CAP
+ SYNTH_GOV_KYM_CAP:0 "Машинним інтелектом" #GetGovernmentKYM_CAP
+ SYNTH_GOV_DE_CAP:0 "Машинному інтелекті" #GetGovernmentDE_CAP
