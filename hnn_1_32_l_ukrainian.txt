@@ -1,8 +1,8 @@
-﻿l_english:
- a_new_destiny_awaits:0 "Нова доля чекає"
- into_the_wild:0 "У дикій природі"
+﻿l_ukrainian:
+ a_new_destiny_awaits:0 "В очікуванні нової долі"
+ into_the_wild:0 "У дику далечінь"
  strategy_reborn:0 "Відродження стратегії"
  encounters_in_the_sun_ea:0 "Зустрічі на сонці"
  neverending_dunes:0 "Нескінченні дюни"
  the_long_walk_ea:0 "Довга прогулянка"
- take_native_american_land_desc:1 "Мета війни - показати їм перевагу, виграючи битви."
+ take_native_american_land_desc:1 "Мета війни – показати їм перевагу, виграючи битви."
