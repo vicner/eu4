@@ -961,3 +961,4 @@
  pagan_adj:0  "язичницькими"  #ReligionGroupAdjective
  jewish_group_adj:0  "юдейськими"  #ReligionGroupAdjective
  zoroastrian_group_adj:0  "зороастрійськими"  #ReligionGroupAdjective
+

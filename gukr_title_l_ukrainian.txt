@@ -2795,5 +2795,3 @@
  HEIR_fem_KLY:0 "спадкоємице" #GetTitleKLY
  HEIR_fem_KYM:0 "спадкоємицею" #GetTitleKYM
  HEIR_fem_PRO:0 "спадкоємицю" #GetTitlePRO
- 
-

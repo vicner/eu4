@@ -2298,502 +2298,502 @@
  PIRATE_PRINCESS_KLY_CAP:0 "Принцесо піратів" #GetTitleKLY_CAP
  PIRATE_QUEEN_KLY_CAP:0 "Королево піратів" #GetTitleKLY_CAP
  PIRATE_EMPRESS_KLY_CAP:0 "Імператрице піратів" #GetTitleKLY
+ 
  ###Версія 1.30
- BROTHER_OGO_CAP:0 "брата" #GetTitleOGO_CAP
- BROTHER_OMU_CAP:0 "брату" #GetTitleOMU_CAP
- BROTHER_KYM_CAP:0 "братом" #GetTitleKYM_CAP
- BROTHER_KHTO_CAP:0 "брат" #GetTitleKHTO_CAP
- BROTHER_PRO_CAP:0 "брата" #GetTitlePRO_CAP
- BROTHER_KLY_CAP:0 "брате" #GetTitleKLY_CAP
- 
- MARSHAL_OGO_CAP:0 "маршала" #GetTitleOGO_CAP
- MARSHAL_KHTO_CAP:0 "маршал" #GetTitleKHTO_CAP
- MARSHAL_OMU_CAP:0 "маршалу" #GetTitleOMU_CAP
- MARSHAL_KYM_CAP:0 "маршалом" #GetTitleKYM_CAP
- MARSHAL_PRO_CAP:0 "маршала" #GetTitlePRO_CAP
- MARSHAL_KLY_CAP:0 "маршале" #GetTitleKLY_CAP
- 
- SERENE_MARSHAL_OGO_CAP:0 "світлішого маршала" #GetTitleOGO_CAP
- SERENE_MARSHAL_KHTO_CAP:0 "світліший маршал" #GetTitleKHTO_CAP
- SERENE_MARSHAL_OMU_CAP:0 "світлішому маршалу" #GetTitleOMU_CAP
- SERENE_MARSHAL_KYM_CAP:0 "світлішим маршалом" #GetTitleKYM_CAP
- SERENE_MARSHAL_PRO_CAP:0 "світлішого маршала" #GetTitlePRO_CAP
- SERENE_MARSHAL_KLY_CAP:0 "світліший маршале" #GetTitleKLY_CAP
- 
- MOST_SERENE_MARSHAL_OGO_CAP:0 "найсвітлішого маршала" #GetTitleOGO_CAP
- MOST_SERENE_MARSHAL_KHTO_CAP:0 "найсвітліший маршал" #GetTitleKHTO_CAP
- MOST_SERENE_MARSHAL_OMU_CAP:0 "найсвітлішому маршалу" #GetTitleOMU_CAP
- MOST_SERENE_MARSHAL_KYM_CAP:0 "найсвітлішим маршалом" #GetTitleKYM_CAP
- MOST_SERENE_MARSHAL_PRO_CAP:0 "найсвітлішого маршала" #GetTitlePRO_CAP
- MOST_SERENE_MARSHAL_KLY_CAP:0 "найсвітліший маршале" #GetTitleKLY_CAP
- 
- TRIBAL_LEADER_KHTO_CAP:0 "племінний лідер" #GetTitleKHTO_CAP
- TRIBAL_LEADER_OGO_CAP:0 "племінного лідера" #GetTitleOGO_CAP
- TRIBAL_LEADER_OMU_CAP:0 "племінному лідеру" #GetTitleOMU_CAP
- TRIBAL_LEADER_KLY_CAP:0 "племінний лідере" #GetTitleKLY_CAP
- TRIBAL_LEADER_KYM_CAP:0 "племінним лідером" #GetTitleKYM_CAP
- TRIBAL_LEADER_PRO_CAP:0 "племінного лідера" #GetTitlePRO_CAP
- 
- CALIPH_KHTO_CAP:0 "халіф" #GetTitleKHTO_CAP
- CALIPH_OGO_CAP:0 "халіфа" #GetTitleOGO_CAP
- CALIPH_OMU_CAP:0 "халіфу" #GetTitleOMU_CAP
- CALIPH_KLY_CAP:0 "халіфе" #GetTitleKLY_CAP
- CALIPH_KYM_CAP:0 "халіфом" #GetTitleKYM_CAP
- CALIPH_PRO_CAP:0 "халіфа" #GetTitlePRO_CAP
- 
- CALIPHA_KHTO_CAP:0 "халіфа" #GetTitleKHTO_CAP
- CALIPHA_OGO_CAP:0 "халіфи" #GetTitleOGO_CAP
- CALIPHA_OMU_CAP:0 "халіфі" #GetTitleOMU_CAP
- CALIPHA_KLY_CAP:0 "халіфе" #GetTitleKLY_CAP
- CALIPHA_KYM_CAP:0 "халіфою" #GetTitleKYM_CAP
- CALIPHA_PRO_CAP:0 "халіфу" #GetTitlePRO_CAP
- 
- FIRST_LAWSPEAKER_KHTO_CAP:0 "перший закономовець" #GetTitleKHTO_CAP
- FIRST_LAWSPEAKER_OGO_CAP:0 "першого закономовця" #GetTitleOGO_CAP
- FIRST_LAWSPEAKER_OMU_CAP:0 "першому закономовцю" #GetTitleOMU_CAP
- FIRST_LAWSPEAKER_KLY_CAP:0 "перший закономовце" #GetTitleKLY_CAP
- FIRST_LAWSPEAKER_KYM_CAP:0 "першим закономовцем" #GetTitleKYM_CAP
- FIRST_LAWSPEAKER_PRO_CAP:0 "першого закономовця" #GetTitlePRO_CAP
- 
- FIRST_LAWSPEAKER_fem_KHTO_CAP:0 "перша закономовиця" #GetTitleKHTO_CAP
- FIRST_LAWSPEAKER_fem_OGO_CAP:0 "першої закономовиці" #GetTitleOGO_CAP
- FIRST_LAWSPEAKER_fem_OMU_CAP:0 "першій закономовиці" #GetTitleOMU_CAP
- FIRST_LAWSPEAKER_fem_KLY_CAP:0 "перша закономовице" #GetTitleKLY_CAP
- FIRST_LAWSPEAKER_fem_KYM_CAP:0 "першою закономовицею" #GetTitleKYM_CAP
- FIRST_LAWSPEAKER_fem_PRO_CAP:0 "першу закономовицю" #GetTitlePRO_CAP
- 
- SUPREME_VIZIER_KHTO_CAP:0 "верховний візир" #GetTitleKHTO_CAP
- SUPREME_VIZIER_OGO_CAP:0 "верховного візира" #GetTitleOGO_CAP
- SUPREME_VIZIER_OMU_CAP:0 "верховному візиру" #GetTitleOMU_CAP
- SUPREME_VIZIER_KLY_CAP:0 "верховний візире" #GetTitleKLY_CAP
- SUPREME_VIZIER_KYM_CAP:0 "верховним візирем" #GetTitleKYM_CAP
- SUPREME_VIZIER_PRO_CAP:0 "верховного візира" #GetTitlePRO_CAP
- 
- SUPREME_VIZIER_fem_KHTO_CAP:0 "верховна візира" #GetTitleKHTO_CAP
- SUPREME_VIZIER_fem_OGO_CAP:0 "верховної візири" #GetTitleOGO_CAP
- SUPREME_VIZIER_fem_OMU_CAP:0 "верховній візирі" #GetTitleOMU_CAP
- SUPREME_VIZIER_fem_KLY_CAP:0 "верховна візире" #GetTitleKLY_CAP
- SUPREME_VIZIER_fem_KYM_CAP:0 "верховною візирою" #GetTitleKYM_CAP
- SUPREME_VIZIER_fem_PRO_CAP:0 "верховну візиру" #GetTitlePRO_CAP
- 
- CHAIRMAN_KHTO_CAP:0 "голова" #GetTitleKHTO_CAP
- CHAIRMAN_OGO_CAP:0 "голови" #GetTitleOGO_CAP
- CHAIRMAN_OMU_CAP:0 "голові" #GetTitleOMU_CAP
- CHAIRMAN_KLY_CAP:0 "голово" #GetTitleKLY_CAP
- CHAIRMAN_KYM_CAP:0 "головою" #GetTitleKYM_CAP
- CHAIRMAN_PRO_CAP:0 "голову" #GetTitlePRO_CAP
- 
- CHAIRMAN_fem_KHTO_CAP:0 "голова" #GetTitleKHTO_CAP
- CHAIRMAN_fem_OGO_CAP:0 "голови" #GetTitleOGO_CAP
- CHAIRMAN_fem_OMU_CAP:0 "голові" #GetTitleOMU_CAP
- CHAIRMAN_fem_KLY_CAP:0 "голово" #GetTitleKLY_CAP
- CHAIRMAN_fem_KYM_CAP:0 "головою" #GetTitleKYM_CAP
- CHAIRMAN_fem_PRO_CAP:0 "голову" #GetTitlePRO_CAP
- 
- CONSULESS_KHTO_CAP:0 "консулеса" #GetTitleKHTO_CAP
- CONSULESS_OGO_CAP:0 "консулеси" #GetTitleOGO_CAP
- CONSULESS_OMU_CAP:0 "консулесі" #GetTitleOMU_CAP
- CONSULESS_KLY_CAP:0 "консулесо" #GetTitleKLY_CAP
- CONSULESS_KYM_CAP:0 "консулесою" #GetTitleKYM_CAP
- CONSULESS_PRO_CAP:0 "консулесу" #GetTitlePRO_CAP
- 
- KAISER_KHTO_CAP:0 "кайзер" #GetTitleKHTO_CAP
- KAISER_OGO_CAP:0 "кайзера" #GetTitleOGO_CAP
- KAISER_OMU_CAP:0 "кайзеру" #GetTitleOMU_CAP
- KAISER_KLY_CAP:0 "кайзере" #GetTitleKLY_CAP
- KAISER_KYM_CAP:0 "кайзером" #GetTitleKYM_CAP
- KAISER_PRO_CAP:0 "кайзера" #GetTitlePRO_CAP
- 
- KAISERIN_KHTO_CAP:0 "кайзерин" #GetTitleKHTO_CAP
- KAISERIN_OGO_CAP:0 "кайзерин" #GetTitleOGO_CAP
- KAISERIN_OMU_CAP:0 "кайзерин" #GetTitleOMU_CAP
- KAISERIN_KLY_CAP:0 "кайзерине" #GetTitleKLY_CAP
- KAISERIN_KYM_CAP:0 "кайзерин" #GetTitleKYM_CAP
- KAISERIN_PRO_CAP:0 "кайзерин" #GetTitlePRO_CAP
- 
- FIELD_MARSHAL_KHTO_CAP:0 "фельдмаршал" #GetTitleKHTO_CAP
- FIELD_MARSHAL_OGO_CAP:0 "фельдмаршала" #GetTitleOGO_CAP
- FIELD_MARSHAL_OMU_CAP:0 "фельдмаршалу" #GetTitleOMU_CAP
- FIELD_MARSHAL_KLY_CAP:0 "фельдмаршале" #GetTitleKLY_CAP
- FIELD_MARSHAL_KYM_CAP:0 "фельдмаршалом" #GetTitleKYM_CAP
- FIELD_MARSHAL_PRO_CAP:0 "фельдмаршала" #GetTitlePRO_CAP
- 
- LORD_HIGH_ADMIRAL_KHTO_CAP:0 "лорд вищий адмірал" #GetTitleKHTO_CAP
- LORD_HIGH_ADMIRAL_OGO_CAP:0 "лорда вищого адмірала" #GetTitleOGO_CAP
- LORD_HIGH_ADMIRAL_OMU_CAP:0 "лорду вищиму адміралу" #GetTitleOMU_CAP
- LORD_HIGH_ADMIRAL_KLY_CAP:0 "лорд вищий адмірале" #GetTitleKLY_CAP
- LORD_HIGH_ADMIRAL_KYM_CAP:0 "лордом вищим адміралом" #GetTitleKYM_CAP
- LORD_HIGH_ADMIRAL_PRO_CAP:0 "лорда вищого адмірала" #GetTitlePRO_CAP
- 
- SUPREME_ADMIRAL_KHTO_CAP:0 "верховний адмірал" #GetTitleKHTO_CAP
- SUPREME_ADMIRAL_OGO_CAP:0 "верховного адмірала" #GetTitleOGO_CAP
- SUPREME_ADMIRAL_OMU_CAP:0 "верховномк адміралу" #GetTitleOMU_CAP
- SUPREME_ADMIRAL_KLY_CAP:0 "верховний адмірале" #GetTitleKLY_CAP
- SUPREME_ADMIRAL_KYM_CAP:0 "верховним адміралом" #GetTitleKYM_CAP
- SUPREME_ADMIRAL_PRO_CAP:0 "верховного адмірала" #GetTitlePRO_CAP
- 
- CAPTAIN_GENERAL_KHTO_CAP:0 "генерал-капітан" #GetTitleKHTO_CAP
- CAPTAIN_GENERAL_OGO_CAP:0 "генерал-капітана" #GetTitleOGO_CAP
- CAPTAIN_GENERAL_OMU_CAP:0 "генерал-капітану" #GetTitleOMU_CAP
- CAPTAIN_GENERAL_KLY_CAP:0 "генерал-капітане" #GetTitleKLY_CAP
- CAPTAIN_GENERAL_KYM_CAP:0 "генерал-капітаном" #GetTitleKYM_CAP
- CAPTAIN_GENERAL_PRO_CAP:0 "генерал-капітана" #GetTitlePRO_CAP
- 
- ARCHPIRATE_KHTO_CAP:0 "архипірат" #GetTitleKHTO_CAP
- ARCHPIRATE_OGO_CAP:0 "архипірата" #GetTitleOGO_CAP
- ARCHPIRATE_OMU_CAP:0 "архипірату" #GetTitleOMU_CAP
- ARCHPIRATE_KLY_CAP:0 "архипірате" #GetTitleKLY_CAP
- ARCHPIRATE_KYM_CAP:0 "архипіратом" #GetTitleKYM_CAP
- ARCHPIRATE_PRO_CAP:0 "архипірата" #GetTitlePRO_CAP
- 
- PIRATE_DAIMYO_KHTO_CAP:0 "піратський даймьо" #GetTitleKHTO_CAP
- PIRATE_DAIMYO_OGO_CAP:0 "піратського даймьо" #GetTitleOGO_CAP
- PIRATE_DAIMYO_OMU_CAP:0 "піратському даймьо" #GetTitleOMU_CAP
- PIRATE_DAIMYO_KLY_CAP:0 "піратський даймьо" #GetTitleKLY_CAP
- PIRATE_DAIMYO_KYM_CAP:0 "піратським даймьо" #GetTitleKYM_CAP
- PIRATE_DAIMYO_PRO_CAP:0 "піратського даймьо" #GetTitlePRO_CAP
- 
- CAPTAIN_fem_KHTO_CAP:0 "капітанша" #GetTitleKHTO_CAP
- CAPTAIN_fem_OGO_CAP:0 "капітанши" #GetTitleOGO_CAP
- CAPTAIN_fem_OMU_CAP:0 "капітанці" #GetTitleOMU_CAP
- CAPTAIN_fem_KLY_CAP:0 "капітанко" #GetTitleKLY_CAP
- CAPTAIN_fem_KYM_CAP:0 "капітаншою" #GetTitleKYM_CAP
- CAPTAIN_fem_PRO_CAP:0 "капітаншу" #GetTitlePRO_CAP
- 
- GRAND_CAPTAIN_fem_KHTO_CAP:0 "гранд-капітанша" #GetTitleKHTO_CAP
- GRAND_CAPTAIN_fem_OGO_CAP:0 "гранд-капітанши" #GetTitleOGO_CAP
- GRAND_CAPTAIN_fem_OMU_CAP:0 "гранд-капітанці" #GetTitleOMU_CAP
- GRAND_CAPTAIN_fem_KLY_CAP:0 "гранд-капітанко" #GetTitleKLY_CAP
- GRAND_CAPTAIN_fem_KYM_CAP:0 "гранд-капітаншою" #GetTitleKYM_CAP
- GRAND_CAPTAIN_fem_PRO_CAP:0 "гранд-капітаншу" #GetTitlePRO_CAP
- 
- ADMIRAL_fem_KHTO_CAP:0 "адміралтеса" #GetTitleKHTO_CAP
- ADMIRAL_fem_OGO_CAP:0 "адміралтеси" #GetTitleOGO_CAP
- ADMIRAL_fem_OMU_CAP:0 "адміралтесі" #GetTitleOMU_CAP
- ADMIRAL_fem_KLY_CAP:0 "адміралтесо" #GetTitleKLY_CAP
- ADMIRAL_fem_KYM_CAP:0 "адміралтесою" #GetTitleKYM_CAP
- ADMIRAL_fem_PRO_CAP:0 "адміралтесу" #GetTitlePRO_CAP
- 
- POPE_ELECTOR_KHTO_CAP:0 "папа-курфюрст" #GetTitleKHTO_CAP
- POPE_ELECTOR_OGO_CAP:0 "папи-курфюрста" #GetTitleOGO_CAP
- POPE_ELECTOR_OMU_CAP:0 "папі-курфюрсту" #GetTitleOMU_CAP
- POPE_ELECTOR_KLY_CAP:0 "папа-курфюрсте" #GetTitleKLY_CAP
- POPE_ELECTOR_KYM_CAP:0 "папою-курфюрстом" #GetTitleKYM_CAP
- POPE_ELECTOR_PRO_CAP:0 "папу-курфюрста" #GetTitlePRO_CAP
- 
- POPETTE_ELECTOR_KHTO_CAP:0 "папеса-курфюрста" #GetTitleKHTO_CAP
- POPETTE_ELECTOR_OGO_CAP:0 "папеси-курфюрсти" #GetTitleOGO_CAP
- POPETTE_ELECTOR_OMU_CAP:0 "папесі-курфюрсті" #GetTitleOMU_CAP
- POPETTE_ELECTOR_KLY_CAP:0 "папеса-курфюрста" #GetTitleKLY_CAP
- POPETTE_ELECTOR_KYM_CAP:0 "папесою-курфюрстою" #GetTitleKYM_CAP
- POPETTE_ELECTOR_PRO_CAP:0 "папесу-курфюрсту" #GetTitlePRO_CAP
- 
- ELECTOR_PALATINE_KHTO_CAP:0 "виборний пфальцграф" #GetTitleKHTO_CAP
- ELECTOR_PALATINE_OGO_CAP:0 "виборного пфальцграфа" #GetTitleOGO_CAP
- ELECTOR_PALATINE_OMU_CAP:0 "виборному пфальцграфу" #GetTitleOMU_CAP
- ELECTOR_PALATINE_KLY_CAP:0 "виборний пфальцграфе" #GetTitleKLY_CAP
- ELECTOR_PALATINE_KYM_CAP:0 "виборним пфальцграфом" #GetTitleKYM_CAP
- ELECTOR_PALATINE_PRO_CAP:0 "виборного пфальцграфа" #GetTitlePRO_CAP
- 
- ELECTRESS_PALATINE_KHTO_CAP:0 "виборна пфальцграфиня" #GetTitleKHTO_CAP
- ELECTRESS_PALATINE_OGO_CAP:0 "виборної пфальцграфині" #GetTitleOGO_CAP
- ELECTRESS_PALATINE_OMU_CAP:0 "виборній пфальцграфині" #GetTitleOMU_CAP
- ELECTRESS_PALATINE_KLY_CAP:0 "виборна пфальцграфине" #GetTitleKLY_CAP
- ELECTRESS_PALATINE_KYM_CAP:0 "виборною пфальцграфинею" #GetTitleKYM_CAP
- ELECTRESS_PALATINE_PRO_CAP:0 "виборну пфальцграфиню" #GetTitlePRO_CAP
- 
- COUNT_PALATINE_KHTO_CAP:0 "пфальцграф" #GetTitleKHTO_CAP
- COUNT_PALATINE_OGO_CAP:0 "пфальцграфа" #GetTitleOGO_CAP
- COUNT_PALATINE_OMU_CAP:0 "пфальцграфу" #GetTitleOMU_CAP
- COUNT_PALATINE_KLY_CAP:0 "пфальцграфе" #GetTitleKLY_CAP
- COUNT_PALATINE_KYM_CAP:0 "пфальцграфом" #GetTitleKYM_CAP
- COUNT_PALATINE_PRO_CAP:0 "пфальцграфа" #GetTitlePRO_CAP
- 
- KING_PALATINE_KHTO_CAP:0 "пфальцкайзер" #GetTitleKHTO_CAP
- KING_PALATINE_OGO_CAP:0 "пфальцкайзера" #GetTitleOGO_CAP
- KING_PALATINE_OMU_CAP:0 "пфальцкайзеру" #GetTitleOMU_CAP
- KING_PALATINE_KLY_CAP:0 "пфальцкайзере" #GetTitleKLY_CAP
- KING_PALATINE_KYM_CAP:0 "пфальцкайзером" #GetTitleKYM_CAP
- KING_PALATINE_PRO_CAP:0 "пфальцкайзера" #GetTitlePRO_CAP
- 
- COUNTESS_PALATINE_KHTO_CAP:0 "пфальцграфиня" #GetTitleKHTO_CAP
- COUNTESS_PALATINE_OGO_CAP:0 "пфальцграфині" #GetTitleOGO_CAP
- COUNTESS_PALATINE_OMU_CAP:0 "пфальцграфині" #GetTitleOMU_CAP
- COUNTESS_PALATINE_KLY_CAP:0 "пфальцграфине" #GetTitleKLY_CAP
- COUNTESS_PALATINE_KYM_CAP:0 "пфальцграфинею" #GetTitleKYM_CAP
- COUNTESS_PALATINE_PRO_CAP:0 "пфальцграфиню" #GetTitlePRO_CAP
- 
- QUEEN_PALATINE_KHTO_CAP:0 "пфальцкенігін" #GetTitleKHTO_CAP
- QUEEN_PALATINE_OGO_CAP:0 "пфальцкенігін" #GetTitleOGO_CAP
- QUEEN_PALATINE_OMU_CAP:0 "пфальцкенігін" #GetTitleOMU_CAP
- QUEEN_PALATINE_KLY_CAP:0 "пфальцкенігіне" #GetTitleKLY_CAP
- QUEEN_PALATINE_KYM_CAP:0 "пфальцкенігін" #GetTitleKYM_CAP
- QUEEN_PALATINE_PRO_CAP:0 "пфальцкенігін" #GetTitlePRO_CAP
- 
- HERCEG_KHTO_CAP:0 "князь" #GetTitleKHTO_CAP
- HERCEG_OGO_CAP:0 "князя" #GetTitleOGO_CAP
- HERCEG_OMU_CAP:0 "князю" #GetTitleOMU_CAP
- HERCEG_KLY_CAP:0 "князю" #GetTitleKLY_CAP
- HERCEG_KYM_CAP:0 "князем" #GetTitleKYM_CAP
- HERCEG_PRO_CAP:0 "князя" #GetTitlePRO_CAP
- 
- PRINCE_HERCEG_KHTO_CAP:0 "великий князь" #GetTitleKHTO_CAP
- PRINCE_HERCEG_OGO_CAP:0 "великого князя" #GetTitleOGO_CAP
- PRINCE_HERCEG_OMU_CAP:0 "великому князю" #GetTitleOMU_CAP
- PRINCE_HERCEG_KLY_CAP:0 "великий князю" #GetTitleKLY_CAP
- PRINCE_HERCEG_KYM_CAP:0 "великим князем" #GetTitleKYM_CAP
- PRINCE_HERCEG_PRO_CAP:0 "великого князя" #GetTitlePRO_CAP
- 
- HERCEGI_KHTO_CAP:0 "княгиня" #GetTitleKHTO_CAP
- HERCEGI_OGO_CAP:0 "княгині" #GetTitleOGO_CAP
- HERCEGI_OMU_CAP:0 "княгині" #GetTitleOMU_CAP
- HERCEGI_KLY_CAP:0 "княгине" #GetTitleKLY_CAP
- HERCEGI_KYM_CAP:0 "княгинею" #GetTitleKYM_CAP
- HERCEGI_PRO_CAP:0 "княгиню" #GetTitlePRO_CAP
- 
- PRINCESS_HERCEGI_KHTO_CAP:0 "велика княгиня" #GetTitleKHTO_CAP
- PRINCESS_HERCEGI_OGO_CAP:0 "великої княгині" #GetTitleOGO_CAP
- PRINCESS_HERCEGI_OMU_CAP:0 "великій княгині" #GetTitleOMU_CAP
- PRINCESS_HERCEGI_KLY_CAP:0 "велика княгинею" #GetTitleKLY_CAP
- PRINCESS_HERCEGI_KYM_CAP:0 "великою княгиня" #GetTitleKYM_CAP
- PRINCESS_HERCEGI_PRO_CAP:0 "велику княгиню" #GetTitlePRO_CAP
- 
- CONSUL_ELECTOR_KHTO_CAP:0 "консул-курфюрст" #GetTitleKHTO_CAP
- CONSUL_ELECTOR_OGO_CAP:0 "консула-курфюрста" #GetTitleOGO_CAP
- CONSUL_ELECTOR_OMU_CAP:0 "консулу-курфюрсту" #GetTitleOMU_CAP
- CONSUL_ELECTOR_KLY_CAP:0 "консул-курфюрсте" #GetTitleKLY_CAP
- CONSUL_ELECTOR_KYM_CAP:0 "консулом-курфюрстом" #GetTitleKYM_CAP
- CONSUL_ELECTOR_PRO_CAP:0 "консула-курфюрста" #GetTitlePRO_CAP
- 
- GRAND_CONSUL_ELECTOR_KHTO_CAP:0 "великий консул-курфюрст" #GetTitleKHTO_CAP
- GRAND_CONSUL_ELECTOR_OGO_CAP:0 "великого консула-курфюрста" #GetTitleOGO_CAP
- GRAND_CONSUL_ELECTOR_OMU_CAP:0 "великому консулу-курфюрсту" #GetTitleOMU_CAP
- GRAND_CONSUL_ELECTOR_KLY_CAP:0 "великий консул-курфюрсте" #GetTitleKLY_CAP
- GRAND_CONSUL_ELECTOR_KYM_CAP:0 "великим консулом-курфюрстом" #GetTitleKYM_CAP
- GRAND_CONSUL_ELECTOR_PRO_CAP:0 "великого консула-курфюрста" #GetTitlePRO_CAP
- 
- GREAT_CONSUL_ELECTOR_KHTO_CAP:0 "найвеличніший консул-курфюрст" #GetTitleKHTO_CAP
- GREAT_CONSUL_ELECTOR_OGO_CAP:0 "найвеличнішого консула-курфюрста" #GetTitleOGO_CAP
- GREAT_CONSUL_ELECTOR_OMU_CAP:0 "найвеличнішому консулу-курфюрсту" #GetTitleOMU_CAP
- GREAT_CONSUL_ELECTOR_KLY_CAP:0 "найвеличніший консул-курфюрсте" #GetTitleKLY_CAP
- GREAT_CONSUL_ELECTOR_KYM_CAP:0 "найвеличнішим консулом-курфюрстом" #GetTitleKYM_CAP
- GREAT_CONSUL_ELECTOR_PRO_CAP:0 "найвеличнішого консула-курфюрста" #GetTitlePRO_CAP
- 
- CONSULESS_ELECTOR_KHTO_CAP:0 "консулесса-курфюрста" #GetTitleKHTO_CAP
- CONSULESS_ELECTOR_OGO_CAP:0 "консулесси-курфюрсти" #GetTitleOGO_CAP
- CONSULESS_ELECTOR_OMU_CAP:0 "консулессі-курфюрсті" #GetTitleOMU_CAP
- CONSULESS_ELECTOR_KLY_CAP:0 "консулесса-курфюрста" #GetTitleKLY_CAP
- CONSULESS_ELECTOR_KYM_CAP:0 "консулессою-курфюрстою" #GetTitleKYM_CAP
- CONSULESS_ELECTOR_PRO_CAP:0 "консулессу-курфюрсту" #GetTitlePRO_CAP
- 
- GRAND_CONSULESS_ELECTOR_KHTO_CAP:0 "велика консулесса-курфюрста" #GetTitleKHTO_CAP
- GRAND_CONSULESS_ELECTOR_OGO_CAP:0 "великої консулесси-курфюрсти" #GetTitleOGO_CAP
- GRAND_CONSULESS_ELECTOR_OMU_CAP:0 "великій консулессі-курфюрсті" #GetTitleOMU_CAP
- GRAND_CONSULESS_ELECTOR_KLY_CAP:0 "велика консулесса-курфюрста" #GetTitleKLY_CAP
- GRAND_CONSULESS_ELECTOR_KYM_CAP:0 "великою консулессою-курфюрстою" #GetTitleKYM_CAP
- GRAND_CONSULESS_ELECTOR_PRO_CAP:0 "велику консулессу-курфюрсту" #GetTitlePRO_CAP
- 
- GREAT_CONSULESS_ELECTOR_KHTO_CAP:0 "найвеличніша консулесса-курфюрста" #GetTitleKHTO_CAP
- GREAT_CONSULESS_ELECTOR_OGO_CAP:0 "найвеличнішої консулесси-курфюрсти" #GetTitleOGO_CAP
- GREAT_CONSULESS_ELECTOR_OMU_CAP:0 "найвеличнішій консулессі-курфюрсті" #GetTitleOMU_CAP
- GREAT_CONSULESS_ELECTOR_KLY_CAP:0 "найвеличніша консулесса-курфюрста" #GetTitleKLY_CAP
- GREAT_CONSULESS_ELECTOR_KYM_CAP:0 "найвеличнішою консулессою-курфюрстою" #GetTitleKYM_CAP
- GREAT_CONSULESS_ELECTOR_PRO_CAP:0 "найвеличнішу консулессу-курфюрсту" #GetTitlePRO_CAP
- 
- regent_KHTO_CAP:0 "регент" #GetTitleKHTO_CAP
- regent_OGO_CAP:0 "регента" #GetTitleOGO_CAP
- regent_OMU_CAP:0 "регенту" #GetTitleOMU_CAP
- regent_KLY_CAP:0 "регенте" #GetTitleKLY_CAP
- regent_KYM_CAP:0 "регентом" #GetTitleKYM_CAP
- regent_PRO_CAP:0 "регента" #GetTitlePRO_CAP
- 
- COUNT_KHTO_CAP:0 "граф" #GetTitleKHTO_CAP
- COUNT_OGO_CAP:0 "графа" #GetTitleOGO_CAP
- COUNT_OMU_CAP:0 "графу" #GetTitleOMU_CAP
- COUNT_KLY_CAP:0 "графе" #GetTitleKLY_CAP
- COUNT_KYM_CAP:0 "графом" #GetTitleKYM_CAP
- COUNT_PRO_CAP:0 "графа" #GetTitlePRO_CAP
- 
- COUNT_PALATINE_KHTO_CAP:0 "пфальцграф" #GetTitleKHTO_CAP
- COUNT_PALATINE_OGO_CAP:0 "пфальцграфа" #GetTitleOGO_CAP
- COUNT_PALATINE_OMU_CAP:0 "пфальцграфу" #GetTitleOMU_CAP
- COUNT_PALATINE_KLY_CAP:0 "пфальцграфе" #GetTitleKLY_CAP
- COUNT_PALATINE_KYM_CAP:0 "пфальцграфом" #GetTitleKYM_CAP
- COUNT_PALATINE_PRO_CAP:0 "пфальцграфа" #GetTitlePRO_CAP
- 
- KING_PALATINE_KHTO_CAP:0 "пфальцкайзер" #GetTitleKHTO_CAP
- KING_PALATINE_OGO_CAP:0 "пфальцкайзера" #GetTitleOGO_CAP
- KING_PALATINE_OMU_CAP:0 "пфальцкайзеру" #GetTitleOMU_CAP
- KING_PALATINE_KLY_CAP:0 "пфальцкайзере" #GetTitleKLY_CAP
- KING_PALATINE_KYM_CAP:0 "пфальцкайзером" #GetTitleKYM_CAP
- KING_PALATINE_PRO_CAP:0 "пфальцкайзера" #GetTitlePRO_CAP
- 
- COUNTESS_PALATINE_KHTO_CAP:0 "пфальцграфиня" #GetTitleKHTO_CAP
- COUNTESS_PALATINE_OGO_CAP:0 "пфальцграфині" #GetTitleOGO_CAP
- COUNTESS_PALATINE_OMU_CAP:0 "пфальцграфині" #GetTitleOMU_CAP
- COUNTESS_PALATINE_KLY_CAP:0 "пфальцграфине" #GetTitleKLY_CAP
- COUNTESS_PALATINE_KYM_CAP:0 "пфальцграфинею" #GetTitleKYM_CAP
- COUNTESS_PALATINE_PRO_CAP:0 "пфальцграфиню" #GetTitlePRO_CAP
- 
- QUEEN_PALATINE_KHTO_CAP:0 "пфальцкенігін" #GetTitleKHTO_CAP
- QUEEN_PALATINE_OGO_CAP:0 "пфальцкенігін" #GetTitleOGO_CAP
- QUEEN_PALATINE_OMU_CAP:0 "пфальцкенігін" #GetTitleOMU_CAP
- QUEEN_PALATINE_KLY_CAP:0 "пфальцкенігіне" #GetTitleKLY_CAP
- QUEEN_PALATINE_KYM_CAP:0 "пфальцкенігін" #GetTitleKYM_CAP
- QUEEN_PALATINE_PRO_CAP:0 "пфальцкенігін" #GetTitlePRO_CAP
- 
- MONSHU_KHTO_CAP:0 "моншу" #GetTitleKHTO_CAP
- MONSHU_OGO_CAP:0 "моншу" #GetTitleOGO_CAP
- MONSHU_OMU_CAP:0 "моншу" #GetTitleOMU_CAP
- MONSHU_KLY_CAP:0 "моншу" #GetTitleKLY_CAP
- MONSHU_KYM_CAP:0 "моншу" #GetTitleKYM_CAP
- MONSHU_PRO_CAP:0 "моншу" #GetTitlePRO_CAP
- 
- HIGH_MONSHU_KHTO_CAP:0 "моншу-сьоґун" #GetTitleKHTO_CAP
- HIGH_MONSHU_OGO_CAP:0 "моншу-сьоґуна" #GetTitleOGO_CAP
- HIGH_MONSHU_OMU_CAP:0 "моншу-сьоґуну" #GetTitleOMU_CAP
- HIGH_MONSHU_KLY_CAP:0 "моншу-сьоґуне" #GetTitleKLY_CAP
- HIGH_MONSHU_KYM_CAP:0 "моншу-сьоґуном" #GetTitleKYM_CAP
- HIGH_MONSHU_PRO_CAP:0 "моншу-сьоґуна" #GetTitlePRO_CAP
- 
- HIGH_MONSHUESS_KHTO_CAP:0 "моншу-сьоґунка" #GetTitleKHTO_CAP
- HIGH_MONSHUESS_OGO_CAP:0 "моншу-сьоґунки" #GetTitleOGO_CAP
- HIGH_MONSHUESS_OMU_CAP:0 "моншу-сьоґунці" #GetTitleOMU_CAP
- HIGH_MONSHUESS_KLY_CAP:0 "моншу-сьоґунко" #GetTitleKLY_CAP
- HIGH_MONSHUESS_KYM_CAP:0 "моншу-сьоґункою" #GetTitleKYM_CAP
- HIGH_MONSHUESS_PRO_CAP:0 "моншу-сьоґунку" #GetTitlePRO_CAP
- 
- SHINRAN_KHTO_CAP:0 "сінран" #GetTitleKHTO_CAP
- SHINRAN_OGO_CAP:0 "сінрана" #GetTitleOGO_CAP
- SHINRAN_OMU_CAP:0 "сінрану" #GetTitleOMU_CAP
- SHINRAN_KLY_CAP:0 "сінране" #GetTitleKLY_CAP
- SHINRAN_KYM_CAP:0 "сінраном" #GetTitleKYM_CAP
- SHINRAN_PRO_CAP:0 "сінрана" #GetTitlePRO_CAP
- 
- FIRST_RANGER_KHTO_CAP:0 "лорд-рейнджер" #GetTitleKHTO_CAP
- FIRST_RANGER_OGO_CAP:0 "лорда-рейнджера" #GetTitleOGO_CAP
- FIRST_RANGER_OMU_CAP:0 "лорду-рейнджеру" #GetTitleOMU_CAP
- FIRST_RANGER_KLY_CAP:0 "лорд-рейнджере" #GetTitleKLY_CAP
- FIRST_RANGER_KYM_CAP:0 "лордом-рейнджером" #GetTitleKYM_CAP
- FIRST_RANGER_PRO_CAP:0 "лорда-рейнджера" #GetTitlePRO_CAP
- 
- KNIGHT_KING_KHTO_CAP:0 "лицарський король" #GetTitleKHTO_CAP
- KNIGHT_KING_OGO_CAP:0 "лицарського короля" #GetTitleOGO_CAP
- KNIGHT_KING_OMU_CAP:0 "лицарському королю" #GetTitleOMU_CAP
- KNIGHT_KING_KLY_CAP:0 "лицарський королю" #GetTitleKLY_CAP
- KNIGHT_KING_KYM_CAP:0 "лицарським королем" #GetTitleKYM_CAP
- KNIGHT_KING_PRO_CAP:0 "лицарського короля" #GetTitlePRO_CAP
- 
- KNIGHT_QUEEN_KHTO_CAP:0 "лицарська королева" #GetTitleKHTO_CAP
- KNIGHT_QUEEN_OGO_CAP:0 "лицарської королеви" #GetTitleOGO_CAP
- KNIGHT_QUEEN_OMU_CAP:0 "лицарській королеві" #GetTitleOMU_CAP
- KNIGHT_QUEEN_KLY_CAP:0 "лицарська королево" #GetTitleKLY_CAP
- KNIGHT_QUEEN_KYM_CAP:0 "лицарською королевою" #GetTitleKYM_CAP
- KNIGHT_QUEEN_PRO_CAP:0 "лицарську королеву" #GetTitlePRO_CAP
- 
- LORD_COMMANDER_KHTO_CAP:0 "лорд-командувач" #GetTitleKHTO_CAP
- LORD_COMMANDER_OGO_CAP:0 "лорда-командувача" #GetTitleOGO_CAP
- LORD_COMMANDER_OMU_CAP:0 "лорду-командувачу" #GetTitleOMU_CAP
- LORD_COMMANDER_KLY_CAP:0 "лорд-командувачу" #GetTitleKLY_CAP
- LORD_COMMANDER_KYM_CAP:0 "лордом-командувачем" #GetTitleKYM_CAP
- LORD_COMMANDER_PRO_CAP:0 "лорда-командувача" #GetTitlePRO_CAP
- 
- LADY_COMMANDER_KHTO_CAP:0 "леді-командувачка" #GetTitleKHTO_CAP
- LADY_COMMANDER_OGO_CAP:0 "леді-командувачки" #GetTitleOGO_CAP
- LADY_COMMANDER_OMU_CAP:0 "леді-командувачці" #GetTitleOMU_CAP
- LADY_COMMANDER_KLY_CAP:0 "леді-командувачко" #GetTitleKLY_CAP
- LADY_COMMANDER_KYM_CAP:0 "леді-командувачкою" #GetTitleKYM_CAP
- LADY_COMMANDER_PRO_CAP:0 "леді-командувачку" #GetTitlePRO_CAP
- 
- MAGISTER_HOCHMEISTER_KHTO_CAP:0 "великий магистр" #GetTitleKHTO_CAP
- MAGISTER_HOCHMEISTER_OGO_CAP:0 "великого магистра" #GetTitleOGO_CAP
- MAGISTER_HOCHMEISTER_OMU_CAP:0 "великому магистру" #GetTitleOMU_CAP
- MAGISTER_HOCHMEISTER_KLY_CAP:0 "великий магистре" #GetTitleKLY_CAP
- MAGISTER_HOCHMEISTER_KYM_CAP:0 "великим магистром" #GetTitleKYM_CAP
- MAGISTER_HOCHMEISTER_PRO_CAP:0 "великого магистра" #GetTitlePRO_CAP
- 
- DEUTSCHMEISTER_KHTO_CAP:0 "гросмейстер Тевтонського ордену" #GetTitleKHTO_CAP
- DEUTSCHMEISTER_OGO_CAP:0 "гросмейстера Тевтонського ордену" #GetTitleOGO_CAP
- DEUTSCHMEISTER_OMU_CAP:0 "гросмейстеру Тевтонського ордену" #GetTitleOMU_CAP
- DEUTSCHMEISTER_KLY_CAP:0 "гросмейстере Тевтонського ордену" #GetTitleKLY_CAP
- DEUTSCHMEISTER_KYM_CAP:0 "гросмейстером Тевтонського ордену" #GetTitleKYM_CAP
- DEUTSCHMEISTER_PRO_CAP:0 "гросмейстера Тевтонського ордену" #GetTitlePRO_CAP
- 
- TRAPPIST_KHTO_CAP:0 "траппіст" #GetTitleKHTO_CAP
- TRAPPIST_OGO_CAP:0 "траппіста" #GetTitleOGO_CAP
- TRAPPIST_OMU_CAP:0 "траппісту" #GetTitleOMU_CAP
- TRAPPIST_KLY_CAP:0 "траппісте" #GetTitleKLY_CAP
- TRAPPIST_KYM_CAP:0 "траппістом" #GetTitleKYM_CAP
- TRAPPIST_PRO_CAP:0 "траппіста" #GetTitlePRO_CAP
- 
- TRAPPISTINE_KHTO_CAP:0 "траппістка" #GetTitleKHTO_CAP
- TRAPPISTINE_OGO_CAP:0 "траппістки" #GetTitleOGO_CAP
- TRAPPISTINE_OMU_CAP:0 "траппістці" #GetTitleOMU_CAP
- TRAPPISTINE_KLY_CAP:0 "траппістко" #GetTitleKLY_CAP
- TRAPPISTINE_KYM_CAP:0 "траппісткою" #GetTitleKYM_CAP
- TRAPPISTINE_PRO_CAP:0 "траппістку" #GetTitlePRO_CAP
- 
- ARCH_TRAPPIST_KHTO_CAP:0 "архітраппіст" #GetTitleKHTO_CAP
- ARCH_TRAPPIST_OGO_CAP:0 "архітраппіста" #GetTitleOGO_CAP
- ARCH_TRAPPIST_OMU_CAP:0 "архітраппісту" #GetTitleOMU_CAP
- ARCH_TRAPPIST_KLY_CAP:0 "архітраппісте" #GetTitleKLY_CAP
- ARCH_TRAPPIST_KYM_CAP:0 "архітраппістом" #GetTitleKYM_CAP
- ARCH_TRAPPIST_PRO_CAP:0 "архітраппіста" #GetTitlePRO_CAP
- 
- ARCH_TRAPPISTINE_KHTO_CAP:0 "архітраппістка" #GetTitleKHTO_CAP
- ARCH_TRAPPISTINE_OGO_CAP:0 "архітраппістки" #GetTitleOGO_CAP
- ARCH_TRAPPISTINE_OMU_CAP:0 "архітраппістці" #GetTitleOMU_CAP
- ARCH_TRAPPISTINE_KLY_CAP:0 "архітраппістко" #GetTitleKLY_CAP
- ARCH_TRAPPISTINE_KYM_CAP:0 "архітраппісткою" #GetTitleKYM_CAP
- ARCH_TRAPPISTINE_PRO_CAP:0 "архітраппістку" #GetTitlePRO_CAP
- 
- BREWMASTER_KHTO_CAP:0 "бровар" #GetTitleKHTO_CAP
- BREWMASTER_OGO_CAP:0 "броваря" #GetTitleOGO_CAP
- BREWMASTER_OMU_CAP:0 "броварю" #GetTitleOMU_CAP
- BREWMASTER_KLY_CAP:0 "броварю" #GetTitleKLY_CAP
- BREWMASTER_KYM_CAP:0 "броварем" #GetTitleKYM_CAP
- BREWMASTER_PRO_CAP:0 "броваря" #GetTitlePRO_CAP
- 
- BREWMISTRESS_KHTO_CAP:0 "броварниця" #GetTitleKHTO_CAP
- BREWMISTRESS_OGO_CAP:0 "броварниці" #GetTitleOGO_CAP
- BREWMISTRESS_OMU_CAP:0 "броварниці" #GetTitleOMU_CAP
- BREWMISTRESS_KLY_CAP:0 "броварнице" #GetTitleKLY_CAP
- BREWMISTRESS_KYM_CAP:0 "броварницею" #GetTitleKYM_CAP
- BREWMISTRESS_PRO_CAP:0 "броварницю" #GetTitlePRO_CAP
- 
- COMMANDER_EMPEROR_KHTO_CAP:0 "імперський командувач" #GetTitleKHTO_CAP
- COMMANDER_EMPEROR_OGO_CAP:0 "імперського командувача" #GetTitleOGO_CAP
- COMMANDER_EMPEROR_OMU_CAP:0 "імперському командувачу" #GetTitleOMU_CAP
+ BROTHER_OGO_CAP:0 "Брата" #GetTitleOGO_CAP
+ BROTHER_OMU_CAP:0 "Брату" #GetTitleOMU_CAP
+ BROTHER_KYM_CAP:0 "Братом" #GetTitleKYM_CAP
+ BROTHER_KHTO_CAP:0 "Брат" #GetTitleKHTO_CAP
+ BROTHER_PRO_CAP:0 "Брата" #GetTitlePRO_CAP
+ BROTHER_KLY_CAP:0 "Брате" #GetTitleKLY_CAP
+
+ MARSHAL_OGO_CAP:0 "Маршала" #GetTitleOGO_CAP
+ MARSHAL_KHTO_CAP:0 "Маршал" #GetTitleKHTO_CAP
+ MARSHAL_OMU_CAP:0 "Маршалу" #GetTitleOMU_CAP
+ MARSHAL_KYM_CAP:0 "Маршалом" #GetTitleKYM_CAP
+ MARSHAL_PRO_CAP:0 "Маршала" #GetTitlePRO_CAP
+ MARSHAL_KLY_CAP:0 "Маршале" #GetTitleKLY_CAP
+
+ SERENE_MARSHAL_OGO_CAP:0 "Світлішого маршала" #GetTitleOGO_CAP
+ SERENE_MARSHAL_KHTO_CAP:0 "Світліший маршал" #GetTitleKHTO_CAP
+ SERENE_MARSHAL_OMU_CAP:0 "Світлішому маршалу" #GetTitleOMU_CAP
+ SERENE_MARSHAL_KYM_CAP:0 "Світлішим маршалом" #GetTitleKYM_CAP
+ SERENE_MARSHAL_PRO_CAP:0 "Світлішого маршала" #GetTitlePRO_CAP
+ SERENE_MARSHAL_KLY_CAP:0 "Світліший маршале" #GetTitleKLY_CAP
+
+ MOST_SERENE_MARSHAL_OGO_CAP:0 "Найсвітлішого маршала" #GetTitleOGO_CAP
+ MOST_SERENE_MARSHAL_KHTO_CAP:0 "Найсвітліший маршал" #GetTitleKHTO_CAP
+ MOST_SERENE_MARSHAL_OMU_CAP:0 "Найсвітлішому маршалу" #GetTitleOMU_CAP
+ MOST_SERENE_MARSHAL_KYM_CAP:0 "Найсвітлішим маршалом" #GetTitleKYM_CAP
+ MOST_SERENE_MARSHAL_PRO_CAP:0 "Найсвітлішого маршала" #GetTitlePRO_CAP
+ MOST_SERENE_MARSHAL_KLY_CAP:0 "Найсвітліший маршале" #GetTitleKLY_CAP
+
+ TRIBAL_LEADER_KHTO_CAP:0 "Племінний лідер" #GetTitleKHTO_CAP
+ TRIBAL_LEADER_OGO_CAP:0 "Племінного лідера" #GetTitleOGO_CAP
+ TRIBAL_LEADER_OMU_CAP:0 "Племінному лідеру" #GetTitleOMU_CAP
+ TRIBAL_LEADER_KLY_CAP:0 "Племінний лідере" #GetTitleKLY_CAP
+ TRIBAL_LEADER_KYM_CAP:0 "Племінним лідером" #GetTitleKYM_CAP
+ TRIBAL_LEADER_PRO_CAP:0 "Племінного лідера" #GetTitlePRO_CAP
+
+ CALIPH_KHTO_CAP:0 "Халіф" #GetTitleKHTO_CAP
+ CALIPH_OGO_CAP:0 "Халіфа" #GetTitleOGO_CAP
+ CALIPH_OMU_CAP:0 "Халіфу" #GetTitleOMU_CAP
+ CALIPH_KLY_CAP:0 "Халіфе" #GetTitleKLY_CAP
+ CALIPH_KYM_CAP:0 "Халіфом" #GetTitleKYM_CAP
+ CALIPH_PRO_CAP:0 "Халіфа" #GetTitlePRO_CAP
+
+ CALIPHA_KHTO_CAP:0 "Халіфа" #GetTitleKHTO_CAP
+ CALIPHA_OGO_CAP:0 "Халіфи" #GetTitleOGO_CAP
+ CALIPHA_OMU_CAP:0 "Халіфі" #GetTitleOMU_CAP
+ CALIPHA_KLY_CAP:0 "Халіфе" #GetTitleKLY_CAP
+ CALIPHA_KYM_CAP:0 "Халіфою" #GetTitleKYM_CAP
+ CALIPHA_PRO_CAP:0 "Халіфу" #GetTitlePRO_CAP
+
+ FIRST_LAWSPEAKER_KHTO_CAP:0 "Перший закономовець" #GetTitleKHTO_CAP
+ FIRST_LAWSPEAKER_OGO_CAP:0 "Першого закономовця" #GetTitleOGO_CAP
+ FIRST_LAWSPEAKER_OMU_CAP:0 "Першому закономовцю" #GetTitleOMU_CAP
+ FIRST_LAWSPEAKER_KLY_CAP:0 "Перший закономовце" #GetTitleKLY_CAP
+ FIRST_LAWSPEAKER_KYM_CAP:0 "Першим закономовцем" #GetTitleKYM_CAP
+ FIRST_LAWSPEAKER_PRO_CAP:0 "Першого закономовця" #GetTitlePRO_CAP
+
+ FIRST_LAWSPEAKER_fem_KHTO_CAP:0 "Перша закономовиця" #GetTitleKHTO_CAP
+ FIRST_LAWSPEAKER_fem_OGO_CAP:0 "Першої закономовиці" #GetTitleOGO_CAP
+ FIRST_LAWSPEAKER_fem_OMU_CAP:0 "Першій закономовиці" #GetTitleOMU_CAP
+ FIRST_LAWSPEAKER_fem_KLY_CAP:0 "Перша закономовице" #GetTitleKLY_CAP
+ FIRST_LAWSPEAKER_fem_KYM_CAP:0 "Першою закономовицею" #GetTitleKYM_CAP
+ FIRST_LAWSPEAKER_fem_PRO_CAP:0 "Першу закономовицю" #GetTitlePRO_CAP
+
+ SUPREME_VIZIER_KHTO_CAP:0 "Верховний візир" #GetTitleKHTO_CAP
+ SUPREME_VIZIER_OGO_CAP:0 "Верховного візира" #GetTitleOGO_CAP
+ SUPREME_VIZIER_OMU_CAP:0 "Верховному візиру" #GetTitleOMU_CAP
+ SUPREME_VIZIER_KLY_CAP:0 "Верховний візире" #GetTitleKLY_CAP
+ SUPREME_VIZIER_KYM_CAP:0 "Верховним візирем" #GetTitleKYM_CAP
+ SUPREME_VIZIER_PRO_CAP:0 "Верховного візира" #GetTitlePRO_CAP
+
+ SUPREME_VIZIER_fem_KHTO_CAP:0 "Верховна візира" #GetTitleKHTO_CAP
+ SUPREME_VIZIER_fem_OGO_CAP:0 "Верховної візири" #GetTitleOGO_CAP
+ SUPREME_VIZIER_fem_OMU_CAP:0 "Верховній візирі" #GetTitleOMU_CAP
+ SUPREME_VIZIER_fem_KLY_CAP:0 "Верховна візире" #GetTitleKLY_CAP
+ SUPREME_VIZIER_fem_KYM_CAP:0 "Верховною візирою" #GetTitleKYM_CAP
+ SUPREME_VIZIER_fem_PRO_CAP:0 "Верховну візиру" #GetTitlePRO_CAP
+
+ CHAIRMAN_KHTO_CAP:0 "Голова" #GetTitleKHTO_CAP
+ CHAIRMAN_OGO_CAP:0 "Голови" #GetTitleOGO_CAP
+ CHAIRMAN_OMU_CAP:0 "Голові" #GetTitleOMU_CAP
+ CHAIRMAN_KLY_CAP:0 "Голово" #GetTitleKLY_CAP
+ CHAIRMAN_KYM_CAP:0 "Головою" #GetTitleKYM_CAP
+ CHAIRMAN_PRO_CAP:0 "Голову" #GetTitlePRO_CAP
+
+ CHAIRMAN_fem_KHTO_CAP:0 "Голова" #GetTitleKHTO_CAP
+ CHAIRMAN_fem_OGO_CAP:0 "Голови" #GetTitleOGO_CAP
+ CHAIRMAN_fem_OMU_CAP:0 "Голові" #GetTitleOMU_CAP
+ CHAIRMAN_fem_KLY_CAP:0 "Голово" #GetTitleKLY_CAP
+ CHAIRMAN_fem_KYM_CAP:0 "Головою" #GetTitleKYM_CAP
+ CHAIRMAN_fem_PRO_CAP:0 "Голову" #GetTitlePRO_CAP
+
+ CONSULESS_KHTO_CAP:0 "Консулеса" #GetTitleKHTO_CAP
+ CONSULESS_OGO_CAP:0 "Консулеси" #GetTitleOGO_CAP
+ CONSULESS_OMU_CAP:0 "Консулесі" #GetTitleOMU_CAP
+ CONSULESS_KLY_CAP:0 "Консулесо" #GetTitleKLY_CAP
+ CONSULESS_KYM_CAP:0 "Консулесою" #GetTitleKYM_CAP
+ CONSULESS_PRO_CAP:0 "Консулесу" #GetTitlePRO_CAP
+
+ KAISER_KHTO_CAP:0 "Кайзер" #GetTitleKHTO_CAP
+ KAISER_OGO_CAP:0 "Кайзера" #GetTitleOGO_CAP
+ KAISER_OMU_CAP:0 "Кайзеру" #GetTitleOMU_CAP
+ KAISER_KLY_CAP:0 "Кайзере" #GetTitleKLY_CAP
+ KAISER_KYM_CAP:0 "Кайзером" #GetTitleKYM_CAP
+ KAISER_PRO_CAP:0 "Кайзера" #GetTitlePRO_CAP
+
+ KAISERIN_KHTO_CAP:0 "Кайзерин" #GetTitleKHTO_CAP
+ KAISERIN_OGO_CAP:0 "Кайзерин" #GetTitleOGO_CAP
+ KAISERIN_OMU_CAP:0 "Кайзерин" #GetTitleOMU_CAP
+ KAISERIN_KLY_CAP:0 "Кайзерине" #GetTitleKLY_CAP
+ KAISERIN_KYM_CAP:0 "Кайзерин" #GetTitleKYM_CAP
+ KAISERIN_PRO_CAP:0 "Кайзерин" #GetTitlePRO_CAP
+
+ FIELD_MARSHAL_KHTO_CAP:0 "Фельдмаршал" #GetTitleKHTO_CAP
+ FIELD_MARSHAL_OGO_CAP:0 "Фельдмаршала" #GetTitleOGO_CAP
+ FIELD_MARSHAL_OMU_CAP:0 "Фельдмаршалу" #GetTitleOMU_CAP
+ FIELD_MARSHAL_KLY_CAP:0 "Фельдмаршале" #GetTitleKLY_CAP
+ FIELD_MARSHAL_KYM_CAP:0 "Фельдмаршалом" #GetTitleKYM_CAP
+ FIELD_MARSHAL_PRO_CAP:0 "Фельдмаршала" #GetTitlePRO_CAP
+
+ LORD_HIGH_ADMIRAL_KHTO_CAP:0 "Лорд вищий адмірал" #GetTitleKHTO_CAP
+ LORD_HIGH_ADMIRAL_OGO_CAP:0 "Лорда вищого адмірала" #GetTitleOGO_CAP
+ LORD_HIGH_ADMIRAL_OMU_CAP:0 "Лорду вищиму адміралу" #GetTitleOMU_CAP
+ LORD_HIGH_ADMIRAL_KLY_CAP:0 "Лорд вищий адмірале" #GetTitleKLY_CAP
+ LORD_HIGH_ADMIRAL_KYM_CAP:0 "Лордом вищим адміралом" #GetTitleKYM_CAP
+ LORD_HIGH_ADMIRAL_PRO_CAP:0 "Лорда вищого адмірала" #GetTitlePRO_CAP
+
+ SUPREME_ADMIRAL_KHTO_CAP:0 "Верховний адмірал" #GetTitleKHTO_CAP
+ SUPREME_ADMIRAL_OGO_CAP:0 "Верховного адмірала" #GetTitleOGO_CAP
+ SUPREME_ADMIRAL_OMU_CAP:0 "Верховномк адміралу" #GetTitleOMU_CAP
+ SUPREME_ADMIRAL_KLY_CAP:0 "Верховний адмірале" #GetTitleKLY_CAP
+ SUPREME_ADMIRAL_KYM_CAP:0 "Верховним адміралом" #GetTitleKYM_CAP
+ SUPREME_ADMIRAL_PRO_CAP:0 "Верховного адмірала" #GetTitlePRO_CAP
+
+ CAPTAIN_GENERAL_KHTO_CAP:0 "Генерал-капітан" #GetTitleKHTO_CAP
+ CAPTAIN_GENERAL_OGO_CAP:0 "Генерал-капітана" #GetTitleOGO_CAP
+ CAPTAIN_GENERAL_OMU_CAP:0 "Генерал-капітану" #GetTitleOMU_CAP
+ CAPTAIN_GENERAL_KLY_CAP:0 "Генерал-капітане" #GetTitleKLY_CAP
+ CAPTAIN_GENERAL_KYM_CAP:0 "Генерал-капітаном" #GetTitleKYM_CAP
+ CAPTAIN_GENERAL_PRO_CAP:0 "Генерал-капітана" #GetTitlePRO_CAP
+
+ ARCHPIRATE_KHTO_CAP:0 "Архипірат" #GetTitleKHTO_CAP
+ ARCHPIRATE_OGO_CAP:0 "Архипірата" #GetTitleOGO_CAP
+ ARCHPIRATE_OMU_CAP:0 "Архипірату" #GetTitleOMU_CAP
+ ARCHPIRATE_KLY_CAP:0 "Архипірате" #GetTitleKLY_CAP
+ ARCHPIRATE_KYM_CAP:0 "Архипіратом" #GetTitleKYM_CAP
+ ARCHPIRATE_PRO_CAP:0 "Архипірата" #GetTitlePRO_CAP
+
+ PIRATE_DAIMYO_KHTO_CAP:0 "Піратський даймьо" #GetTitleKHTO_CAP
+ PIRATE_DAIMYO_OGO_CAP:0 "Піратського даймьо" #GetTitleOGO_CAP
+ PIRATE_DAIMYO_OMU_CAP:0 "Піратському даймьо" #GetTitleOMU_CAP
+ PIRATE_DAIMYO_KLY_CAP:0 "Піратський даймьо" #GetTitleKLY_CAP
+ PIRATE_DAIMYO_KYM_CAP:0 "Піратським даймьо" #GetTitleKYM_CAP
+ PIRATE_DAIMYO_PRO_CAP:0 "Піратського даймьо" #GetTitlePRO_CAP
+
+ CAPTAIN_fem_KHTO_CAP:0 "Капітанша" #GetTitleKHTO_CAP
+ CAPTAIN_fem_OGO_CAP:0 "Капітанши" #GetTitleOGO_CAP
+ CAPTAIN_fem_OMU_CAP:0 "Капітанці" #GetTitleOMU_CAP
+ CAPTAIN_fem_KLY_CAP:0 "Капітанко" #GetTitleKLY_CAP
+ CAPTAIN_fem_KYM_CAP:0 "Капітаншою" #GetTitleKYM_CAP
+ CAPTAIN_fem_PRO_CAP:0 "Капітаншу" #GetTitlePRO_CAP
+
+ GRAND_CAPTAIN_fem_KHTO_CAP:0 "Гранд-капітанша" #GetTitleKHTO_CAP
+ GRAND_CAPTAIN_fem_OGO_CAP:0 "Гранд-капітанши" #GetTitleOGO_CAP
+ GRAND_CAPTAIN_fem_OMU_CAP:0 "Гранд-капітанці" #GetTitleOMU_CAP
+ GRAND_CAPTAIN_fem_KLY_CAP:0 "Гранд-капітанко" #GetTitleKLY_CAP
+ GRAND_CAPTAIN_fem_KYM_CAP:0 "Гранд-капітаншою" #GetTitleKYM_CAP
+ GRAND_CAPTAIN_fem_PRO_CAP:0 "Гранд-капітаншу" #GetTitlePRO_CAP
+
+ ADMIRAL_fem_KHTO_CAP:0 "Адміралтеса" #GetTitleKHTO_CAP
+ ADMIRAL_fem_OGO_CAP:0 "Адміралтеси" #GetTitleOGO_CAP
+ ADMIRAL_fem_OMU_CAP:0 "Адміралтесі" #GetTitleOMU_CAP
+ ADMIRAL_fem_KLY_CAP:0 "Адміралтесо" #GetTitleKLY_CAP
+ ADMIRAL_fem_KYM_CAP:0 "Адміралтесою" #GetTitleKYM_CAP
+ ADMIRAL_fem_PRO_CAP:0 "Адміралтесу" #GetTitlePRO_CAP
+
+ POPE_ELECTOR_KHTO_CAP:0 "Папа-курфюрст" #GetTitleKHTO_CAP
+ POPE_ELECTOR_OGO_CAP:0 "Папи-курфюрста" #GetTitleOGO_CAP
+ POPE_ELECTOR_OMU_CAP:0 "Папі-курфюрсту" #GetTitleOMU_CAP
+ POPE_ELECTOR_KLY_CAP:0 "Папа-курфюрсте" #GetTitleKLY_CAP
+ POPE_ELECTOR_KYM_CAP:0 "Папою-курфюрстом" #GetTitleKYM_CAP
+ POPE_ELECTOR_PRO_CAP:0 "Папу-курфюрста" #GetTitlePRO_CAP
+
+ POPETTE_ELECTOR_KHTO_CAP:0 "Папеса-курфюрста" #GetTitleKHTO_CAP
+ POPETTE_ELECTOR_OGO_CAP:0 "Папеси-курфюрсти" #GetTitleOGO_CAP
+ POPETTE_ELECTOR_OMU_CAP:0 "Папесі-курфюрсті" #GetTitleOMU_CAP
+ POPETTE_ELECTOR_KLY_CAP:0 "Папеса-курфюрста" #GetTitleKLY_CAP
+ POPETTE_ELECTOR_KYM_CAP:0 "Папесою-курфюрстою" #GetTitleKYM_CAP
+ POPETTE_ELECTOR_PRO_CAP:0 "Папесу-курфюрсту" #GetTitlePRO_CAP
+
+ ELECTOR_PALATINE_KHTO_CAP:0 "Виборний пфальцграф" #GetTitleKHTO_CAP
+ ELECTOR_PALATINE_OGO_CAP:0 "Виборного пфальцграфа" #GetTitleOGO_CAP
+ ELECTOR_PALATINE_OMU_CAP:0 "Виборному пфальцграфу" #GetTitleOMU_CAP
+ ELECTOR_PALATINE_KLY_CAP:0 "Виборний пфальцграфе" #GetTitleKLY_CAP
+ ELECTOR_PALATINE_KYM_CAP:0 "Виборним пфальцграфом" #GetTitleKYM_CAP
+ ELECTOR_PALATINE_PRO_CAP:0 "Виборного пфальцграфа" #GetTitlePRO_CAP
+
+ ELECTRESS_PALATINE_KHTO_CAP:0 "Виборна пфальцграфиня" #GetTitleKHTO_CAP
+ ELECTRESS_PALATINE_OGO_CAP:0 "Виборної пфальцграфині" #GetTitleOGO_CAP
+ ELECTRESS_PALATINE_OMU_CAP:0 "Виборній пфальцграфині" #GetTitleOMU_CAP
+ ELECTRESS_PALATINE_KLY_CAP:0 "Виборна пфальцграфине" #GetTitleKLY_CAP
+ ELECTRESS_PALATINE_KYM_CAP:0 "Виборною пфальцграфинею" #GetTitleKYM_CAP
+ ELECTRESS_PALATINE_PRO_CAP:0 "Виборну пфальцграфиню" #GetTitlePRO_CAP
+
+ COUNT_PALATINE_KHTO_CAP:0 "Пфальцграф" #GetTitleKHTO_CAP
+ COUNT_PALATINE_OGO_CAP:0 "Пфальцграфа" #GetTitleOGO_CAP
+ COUNT_PALATINE_OMU_CAP:0 "Пфальцграфу" #GetTitleOMU_CAP
+ COUNT_PALATINE_KLY_CAP:0 "Пфальцграфе" #GetTitleKLY_CAP
+ COUNT_PALATINE_KYM_CAP:0 "Пфальцграфом" #GetTitleKYM_CAP
+ COUNT_PALATINE_PRO_CAP:0 "Пфальцграфа" #GetTitlePRO_CAP
+
+ KING_PALATINE_KHTO_CAP:0 "Пфальцкайзер" #GetTitleKHTO_CAP
+ KING_PALATINE_OGO_CAP:0 "Пфальцкайзера" #GetTitleOGO_CAP
+ KING_PALATINE_OMU_CAP:0 "Пфальцкайзеру" #GetTitleOMU_CAP
+ KING_PALATINE_KLY_CAP:0 "Пфальцкайзере" #GetTitleKLY_CAP
+ KING_PALATINE_KYM_CAP:0 "Пфальцкайзером" #GetTitleKYM_CAP
+ KING_PALATINE_PRO_CAP:0 "Пфальцкайзера" #GetTitlePRO_CAP
+
+ COUNTESS_PALATINE_KHTO_CAP:0 "Пфальцграфиня" #GetTitleKHTO_CAP
+ COUNTESS_PALATINE_OGO_CAP:0 "Пфальцграфині" #GetTitleOGO_CAP
+ COUNTESS_PALATINE_OMU_CAP:0 "Пфальцграфині" #GetTitleOMU_CAP
+ COUNTESS_PALATINE_KLY_CAP:0 "Пфальцграфине" #GetTitleKLY_CAP
+ COUNTESS_PALATINE_KYM_CAP:0 "Пфальцграфинею" #GetTitleKYM_CAP
+ COUNTESS_PALATINE_PRO_CAP:0 "Пфальцграфиню" #GetTitlePRO_CAP
+
+ QUEEN_PALATINE_KHTO_CAP:0 "Пфальцкенігін" #GetTitleKHTO_CAP
+ QUEEN_PALATINE_OGO_CAP:0 "Пфальцкенігін" #GetTitleOGO_CAP
+ QUEEN_PALATINE_OMU_CAP:0 "Пфальцкенігін" #GetTitleOMU_CAP
+ QUEEN_PALATINE_KLY_CAP:0 "Пфальцкенігіне" #GetTitleKLY_CAP
+ QUEEN_PALATINE_KYM_CAP:0 "Пфальцкенігін" #GetTitleKYM_CAP
+ QUEEN_PALATINE_PRO_CAP:0 "Пфальцкенігін" #GetTitlePRO_CAP
+
+ HERCEG_KHTO_CAP:0 "Князь" #GetTitleKHTO_CAP
+ HERCEG_OGO_CAP:0 "Князя" #GetTitleOGO_CAP
+ HERCEG_OMU_CAP:0 "Князю" #GetTitleOMU_CAP
+ HERCEG_KLY_CAP:0 "Князю" #GetTitleKLY_CAP
+ HERCEG_KYM_CAP:0 "Князем" #GetTitleKYM_CAP
+ HERCEG_PRO_CAP:0 "Князя" #GetTitlePRO_CAP
+
+ PRINCE_HERCEG_KHTO_CAP:0 "Великий князь" #GetTitleKHTO_CAP
+ PRINCE_HERCEG_OGO_CAP:0 "Великого князя" #GetTitleOGO_CAP
+ PRINCE_HERCEG_OMU_CAP:0 "Великому князю" #GetTitleOMU_CAP
+ PRINCE_HERCEG_KLY_CAP:0 "Великий князю" #GetTitleKLY_CAP
+ PRINCE_HERCEG_KYM_CAP:0 "Великим князем" #GetTitleKYM_CAP
+ PRINCE_HERCEG_PRO_CAP:0 "Великого князя" #GetTitlePRO_CAP
+
+ HERCEGI_KHTO_CAP:0 "Княгиня" #GetTitleKHTO_CAP
+ HERCEGI_OGO_CAP:0 "Княгині" #GetTitleOGO_CAP
+ HERCEGI_OMU_CAP:0 "Княгині" #GetTitleOMU_CAP
+ HERCEGI_KLY_CAP:0 "Княгине" #GetTitleKLY_CAP
+ HERCEGI_KYM_CAP:0 "Княгинею" #GetTitleKYM_CAP
+ HERCEGI_PRO_CAP:0 "Княгиню" #GetTitlePRO_CAP
+
+ PRINCESS_HERCEGI_KHTO_CAP:0 "Велика княгиня" #GetTitleKHTO_CAP
+ PRINCESS_HERCEGI_OGO_CAP:0 "Великої княгині" #GetTitleOGO_CAP
+ PRINCESS_HERCEGI_OMU_CAP:0 "Великій княгині" #GetTitleOMU_CAP
+ PRINCESS_HERCEGI_KLY_CAP:0 "Велика княгинею" #GetTitleKLY_CAP
+ PRINCESS_HERCEGI_KYM_CAP:0 "Великою княгиня" #GetTitleKYM_CAP
+ PRINCESS_HERCEGI_PRO_CAP:0 "Велику княгиню" #GetTitlePRO_CAP
+
+ CONSUL_ELECTOR_KHTO_CAP:0 "Консул-курфюрст" #GetTitleKHTO_CAP
+ CONSUL_ELECTOR_OGO_CAP:0 "Консула-курфюрста" #GetTitleOGO_CAP
+ CONSUL_ELECTOR_OMU_CAP:0 "Консулу-курфюрсту" #GetTitleOMU_CAP
+ CONSUL_ELECTOR_KLY_CAP:0 "Консул-курфюрсте" #GetTitleKLY_CAP
+ CONSUL_ELECTOR_KYM_CAP:0 "Консулом-курфюрстом" #GetTitleKYM_CAP
+ CONSUL_ELECTOR_PRO_CAP:0 "Консула-курфюрста" #GetTitlePRO_CAP
+
+ GRAND_CONSUL_ELECTOR_KHTO_CAP:0 "Великий консул-курфюрст" #GetTitleKHTO_CAP
+ GRAND_CONSUL_ELECTOR_OGO_CAP:0 "Великого консула-курфюрста" #GetTitleOGO_CAP
+ GRAND_CONSUL_ELECTOR_OMU_CAP:0 "Великому консулу-курфюрсту" #GetTitleOMU_CAP
+ GRAND_CONSUL_ELECTOR_KLY_CAP:0 "Великий консул-курфюрсте" #GetTitleKLY_CAP
+ GRAND_CONSUL_ELECTOR_KYM_CAP:0 "Великим консулом-курфюрстом" #GetTitleKYM_CAP
+ GRAND_CONSUL_ELECTOR_PRO_CAP:0 "Великого консула-курфюрста" #GetTitlePRO_CAP
+
+ GREAT_CONSUL_ELECTOR_KHTO_CAP:0 "Найвеличніший консул-курфюрст" #GetTitleKHTO_CAP
+ GREAT_CONSUL_ELECTOR_OGO_CAP:0 "Найвеличнішого консула-курфюрста" #GetTitleOGO_CAP
+ GREAT_CONSUL_ELECTOR_OMU_CAP:0 "Найвеличнішому консулу-курфюрсту" #GetTitleOMU_CAP
+ GREAT_CONSUL_ELECTOR_KLY_CAP:0 "Найвеличніший консул-курфюрсте" #GetTitleKLY_CAP
+ GREAT_CONSUL_ELECTOR_KYM_CAP:0 "Найвеличнішим консулом-курфюрстом" #GetTitleKYM_CAP
+ GREAT_CONSUL_ELECTOR_PRO_CAP:0 "Найвеличнішого консула-курфюрста" #GetTitlePRO_CAP
+
+ CONSULESS_ELECTOR_KHTO_CAP:0 "Консулесса-курфюрста" #GetTitleKHTO_CAP
+ CONSULESS_ELECTOR_OGO_CAP:0 "Консулесси-курфюрсти" #GetTitleOGO_CAP
+ CONSULESS_ELECTOR_OMU_CAP:0 "Консулессі-курфюрсті" #GetTitleOMU_CAP
+ CONSULESS_ELECTOR_KLY_CAP:0 "Консулесса-курфюрста" #GetTitleKLY_CAP
+ CONSULESS_ELECTOR_KYM_CAP:0 "Консулессою-курфюрстою" #GetTitleKYM_CAP
+ CONSULESS_ELECTOR_PRO_CAP:0 "Консулессу-курфюрсту" #GetTitlePRO_CAP
+
+ GRAND_CONSULESS_ELECTOR_KHTO_CAP:0 "Велика консулесса-курфюрста" #GetTitleKHTO_CAP
+ GRAND_CONSULESS_ELECTOR_OGO_CAP:0 "Великої консулесси-курфюрсти" #GetTitleOGO_CAP
+ GRAND_CONSULESS_ELECTOR_OMU_CAP:0 "Великій консулессі-курфюрсті" #GetTitleOMU_CAP
+ GRAND_CONSULESS_ELECTOR_KLY_CAP:0 "Велика консулесса-курфюрста" #GetTitleKLY_CAP
+ GRAND_CONSULESS_ELECTOR_KYM_CAP:0 "Великою консулессою-курфюрстою" #GetTitleKYM_CAP
+ GRAND_CONSULESS_ELECTOR_PRO_CAP:0 "Велику консулессу-курфюрсту" #GetTitlePRO_CAP
+
+ GREAT_CONSULESS_ELECTOR_KHTO_CAP:0 "Найвеличніша консулесса-курфюрста" #GetTitleKHTO_CAP
+ GREAT_CONSULESS_ELECTOR_OGO_CAP:0 "Найвеличнішої консулесси-курфюрсти" #GetTitleOGO_CAP
+ GREAT_CONSULESS_ELECTOR_OMU_CAP:0 "Найвеличнішій консулессі-курфюрсті" #GetTitleOMU_CAP
+ GREAT_CONSULESS_ELECTOR_KLY_CAP:0 "Найвеличніша консулесса-курфюрста" #GetTitleKLY_CAP
+ GREAT_CONSULESS_ELECTOR_KYM_CAP:0 "Найвеличнішою консулессою-курфюрстою" #GetTitleKYM_CAP
+ GREAT_CONSULESS_ELECTOR_PRO_CAP:0 "Найвеличнішу консулессу-курфюрсту" #GetTitlePRO_CAP
+
+ regent_KHTO_CAP:0 "Регент" #GetTitleKHTO_CAP
+ regent_OGO_CAP:0 "Регента" #GetTitleOGO_CAP
+ regent_OMU_CAP:0 "Регенту" #GetTitleOMU_CAP
+ regent_KLY_CAP:0 "Регенте" #GetTitleKLY_CAP
+ regent_KYM_CAP:0 "Регентом" #GetTitleKYM_CAP
+ regent_PRO_CAP:0 "Регента" #GetTitlePRO_CAP
+
+ COUNT_KHTO_CAP:0 "Граф" #GetTitleKHTO_CAP
+ COUNT_OGO_CAP:0 "Графа" #GetTitleOGO_CAP
+ COUNT_OMU_CAP:0 "Графу" #GetTitleOMU_CAP
+ COUNT_KLY_CAP:0 "Графе" #GetTitleKLY_CAP
+ COUNT_KYM_CAP:0 "Графом" #GetTitleKYM_CAP
+ COUNT_PRO_CAP:0 "Графа" #GetTitlePRO_CAP
+
+ COUNT_PALATINE_KHTO_CAP:0 "Пфальцграф" #GetTitleKHTO_CAP
+ COUNT_PALATINE_OGO_CAP:0 "Пфальцграфа" #GetTitleOGO_CAP
+ COUNT_PALATINE_OMU_CAP:0 "Пфальцграфу" #GetTitleOMU_CAP
+ COUNT_PALATINE_KLY_CAP:0 "Пфальцграфе" #GetTitleKLY_CAP
+ COUNT_PALATINE_KYM_CAP:0 "Пфальцграфом" #GetTitleKYM_CAP
+ COUNT_PALATINE_PRO_CAP:0 "Пфальцграфа" #GetTitlePRO_CAP
+
+ KING_PALATINE_KHTO_CAP:0 "Пфальцкайзер" #GetTitleKHTO_CAP
+ KING_PALATINE_OGO_CAP:0 "Пфальцкайзера" #GetTitleOGO_CAP
+ KING_PALATINE_OMU_CAP:0 "Пфальцкайзеру" #GetTitleOMU_CAP
+ KING_PALATINE_KLY_CAP:0 "Пфальцкайзере" #GetTitleKLY_CAP
+ KING_PALATINE_KYM_CAP:0 "Пфальцкайзером" #GetTitleKYM_CAP
+ KING_PALATINE_PRO_CAP:0 "Пфальцкайзера" #GetTitlePRO_CAP
+
+ COUNTESS_PALATINE_KHTO_CAP:0 "Пфальцграфиня" #GetTitleKHTO_CAP
+ COUNTESS_PALATINE_OGO_CAP:0 "Пфальцграфині" #GetTitleOGO_CAP
+ COUNTESS_PALATINE_OMU_CAP:0 "Пфальцграфині" #GetTitleOMU_CAP
+ COUNTESS_PALATINE_KLY_CAP:0 "Пфальцграфине" #GetTitleKLY_CAP
+ COUNTESS_PALATINE_KYM_CAP:0 "Пфальцграфинею" #GetTitleKYM_CAP
+ COUNTESS_PALATINE_PRO_CAP:0 "Пфальцграфиню" #GetTitlePRO_CAP
+
+ QUEEN_PALATINE_KHTO_CAP:0 "Пфальцкенігін" #GetTitleKHTO_CAP
+ QUEEN_PALATINE_OGO_CAP:0 "Пфальцкенігін" #GetTitleOGO_CAP
+ QUEEN_PALATINE_OMU_CAP:0 "Пфальцкенігін" #GetTitleOMU_CAP
+ QUEEN_PALATINE_KLY_CAP:0 "Пфальцкенігіне" #GetTitleKLY_CAP
+ QUEEN_PALATINE_KYM_CAP:0 "Пфальцкенігін" #GetTitleKYM_CAP
+ QUEEN_PALATINE_PRO_CAP:0 "Пфальцкенігін" #GetTitlePRO_CAP
+
+ MONSHU_KHTO_CAP:0 "Моншу" #GetTitleKHTO_CAP
+ MONSHU_OGO_CAP:0 "Моншу" #GetTitleOGO_CAP
+ MONSHU_OMU_CAP:0 "Моншу" #GetTitleOMU_CAP
+ MONSHU_KLY_CAP:0 "Моншу" #GetTitleKLY_CAP
+ MONSHU_KYM_CAP:0 "Моншу" #GetTitleKYM_CAP
+ MONSHU_PRO_CAP:0 "Моншу" #GetTitlePRO_CAP
+
+ HIGH_MONSHU_KHTO_CAP:0 "Моншу-сьоґун" #GetTitleKHTO_CAP
+ HIGH_MONSHU_OGO_CAP:0 "Моншу-сьоґуна" #GetTitleOGO_CAP
+ HIGH_MONSHU_OMU_CAP:0 "Моншу-сьоґуну" #GetTitleOMU_CAP
+ HIGH_MONSHU_KLY_CAP:0 "Моншу-сьоґуне" #GetTitleKLY_CAP
+ HIGH_MONSHU_KYM_CAP:0 "Моншу-сьоґуном" #GetTitleKYM_CAP
+ HIGH_MONSHU_PRO_CAP:0 "Моншу-сьоґуна" #GetTitlePRO_CAP
+
+ HIGH_MONSHUESS_KHTO_CAP:0 "Моншу-сьоґунка" #GetTitleKHTO_CAP
+ HIGH_MONSHUESS_OGO_CAP:0 "Моншу-сьоґунки" #GetTitleOGO_CAP
+ HIGH_MONSHUESS_OMU_CAP:0 "Моншу-сьоґунці" #GetTitleOMU_CAP
+ HIGH_MONSHUESS_KLY_CAP:0 "Моншу-сьоґунко" #GetTitleKLY_CAP
+ HIGH_MONSHUESS_KYM_CAP:0 "Моншу-сьоґункою" #GetTitleKYM_CAP
+ HIGH_MONSHUESS_PRO_CAP:0 "Моншу-сьоґунку" #GetTitlePRO_CAP
+
+ SHINRAN_KHTO_CAP:0 "Сінран" #GetTitleKHTO_CAP
+ SHINRAN_OGO_CAP:0 "Сінрана" #GetTitleOGO_CAP
+ SHINRAN_OMU_CAP:0 "Сінрану" #GetTitleOMU_CAP
+ SHINRAN_KLY_CAP:0 "Сінране" #GetTitleKLY_CAP
+ SHINRAN_KYM_CAP:0 "Сінраном" #GetTitleKYM_CAP
+ SHINRAN_PRO_CAP:0 "Сінрана" #GetTitlePRO_CAP
+
+ FIRST_RANGER_KHTO_CAP:0 "Лорд-рейнджер" #GetTitleKHTO_CAP
+ FIRST_RANGER_OGO_CAP:0 "Лорда-рейнджера" #GetTitleOGO_CAP
+ FIRST_RANGER_OMU_CAP:0 "Лорду-рейнджеру" #GetTitleOMU_CAP
+ FIRST_RANGER_KLY_CAP:0 "Лорд-рейнджере" #GetTitleKLY_CAP
+ FIRST_RANGER_KYM_CAP:0 "Лордом-рейнджером" #GetTitleKYM_CAP
+ FIRST_RANGER_PRO_CAP:0 "Лорда-рейнджера" #GetTitlePRO_CAP
+
+ KNIGHT_KING_KHTO_CAP:0 "Лицарський король" #GetTitleKHTO_CAP
+ KNIGHT_KING_OGO_CAP:0 "Лицарського короля" #GetTitleOGO_CAP
+ KNIGHT_KING_OMU_CAP:0 "Лицарському королю" #GetTitleOMU_CAP
+ KNIGHT_KING_KLY_CAP:0 "Лицарський королю" #GetTitleKLY_CAP
+ KNIGHT_KING_KYM_CAP:0 "Лицарським королем" #GetTitleKYM_CAP
+ KNIGHT_KING_PRO_CAP:0 "Лицарського короля" #GetTitlePRO_CAP
+
+ KNIGHT_QUEEN_KHTO_CAP:0 "Лицарська королева" #GetTitleKHTO_CAP
+ KNIGHT_QUEEN_OGO_CAP:0 "Лицарської королеви" #GetTitleOGO_CAP
+ KNIGHT_QUEEN_OMU_CAP:0 "Лицарській королеві" #GetTitleOMU_CAP
+ KNIGHT_QUEEN_KLY_CAP:0 "Лицарська королево" #GetTitleKLY_CAP
+ KNIGHT_QUEEN_KYM_CAP:0 "Лицарською королевою" #GetTitleKYM_CAP
+ KNIGHT_QUEEN_PRO_CAP:0 "Лицарську королеву" #GetTitlePRO_CAP
+
+ LORD_COMMANDER_KHTO_CAP:0 "Лорд-командувач" #GetTitleKHTO_CAP
+ LORD_COMMANDER_OGO_CAP:0 "Лорда-командувача" #GetTitleOGO_CAP
+ LORD_COMMANDER_OMU_CAP:0 "Лорду-командувачу" #GetTitleOMU_CAP
+ LORD_COMMANDER_KLY_CAP:0 "Лорд-командувачу" #GetTitleKLY_CAP
+ LORD_COMMANDER_KYM_CAP:0 "Лордом-командувачем" #GetTitleKYM_CAP
+ LORD_COMMANDER_PRO_CAP:0 "Лорда-командувача" #GetTitlePRO_CAP
+
+ LADY_COMMANDER_KHTO_CAP:0 "Леді-командувачка" #GetTitleKHTO_CAP
+ LADY_COMMANDER_OGO_CAP:0 "Леді-командувачки" #GetTitleOGO_CAP
+ LADY_COMMANDER_OMU_CAP:0 "Леді-командувачці" #GetTitleOMU_CAP
+ LADY_COMMANDER_KLY_CAP:0 "Леді-командувачко" #GetTitleKLY_CAP
+ LADY_COMMANDER_KYM_CAP:0 "Леді-командувачкою" #GetTitleKYM_CAP
+ LADY_COMMANDER_PRO_CAP:0 "Леді-командувачку" #GetTitlePRO_CAP
+
+ MAGISTER_HOCHMEISTER_KHTO_CAP:0 "Великий магистр" #GetTitleKHTO_CAP
+ MAGISTER_HOCHMEISTER_OGO_CAP:0 "Великого магистра" #GetTitleOGO_CAP
+ MAGISTER_HOCHMEISTER_OMU_CAP:0 "Великому магистру" #GetTitleOMU_CAP
+ MAGISTER_HOCHMEISTER_KLY_CAP:0 "Великий магистре" #GetTitleKLY_CAP
+ MAGISTER_HOCHMEISTER_KYM_CAP:0 "Великим магистром" #GetTitleKYM_CAP
+ MAGISTER_HOCHMEISTER_PRO_CAP:0 "Великого магистра" #GetTitlePRO_CAP
+
+ DEUTSCHMEISTER_KHTO_CAP:0 "Гросмейстер Тевтонського ордену" #GetTitleKHTO_CAP
+ DEUTSCHMEISTER_OGO_CAP:0 "Гросмейстера Тевтонського ордену" #GetTitleOGO_CAP
+ DEUTSCHMEISTER_OMU_CAP:0 "Гросмейстеру Тевтонського ордену" #GetTitleOMU_CAP
+ DEUTSCHMEISTER_KLY_CAP:0 "Гросмейстере Тевтонського ордену" #GetTitleKLY_CAP
+ DEUTSCHMEISTER_KYM_CAP:0 "Гросмейстером Тевтонського ордену" #GetTitleKYM_CAP
+ DEUTSCHMEISTER_PRO_CAP:0 "Гросмейстера Тевтонського ордену" #GetTitlePRO_CAP
+
+ TRAPPIST_KHTO_CAP:0 "Траппіст" #GetTitleKHTO_CAP
+ TRAPPIST_OGO_CAP:0 "Траппіста" #GetTitleOGO_CAP
+ TRAPPIST_OMU_CAP:0 "Траппісту" #GetTitleOMU_CAP
+ TRAPPIST_KLY_CAP:0 "Траппісте" #GetTitleKLY_CAP
+ TRAPPIST_KYM_CAP:0 "Траппістом" #GetTitleKYM_CAP
+ TRAPPIST_PRO_CAP:0 "Траппіста" #GetTitlePRO_CAP
+
+ TRAPPISTINE_KHTO_CAP:0 "Траппістка" #GetTitleKHTO_CAP
+ TRAPPISTINE_OGO_CAP:0 "Траппістки" #GetTitleOGO_CAP
+ TRAPPISTINE_OMU_CAP:0 "Траппістці" #GetTitleOMU_CAP
+ TRAPPISTINE_KLY_CAP:0 "Траппістко" #GetTitleKLY_CAP
+ TRAPPISTINE_KYM_CAP:0 "Траппісткою" #GetTitleKYM_CAP
+ TRAPPISTINE_PRO_CAP:0 "Траппістку" #GetTitlePRO_CAP
+
+ ARCH_TRAPPIST_KHTO_CAP:0 "Архітраппіст" #GetTitleKHTO_CAP
+ ARCH_TRAPPIST_OGO_CAP:0 "Архітраппіста" #GetTitleOGO_CAP
+ ARCH_TRAPPIST_OMU_CAP:0 "Архітраппісту" #GetTitleOMU_CAP
+ ARCH_TRAPPIST_KLY_CAP:0 "Архітраппісте" #GetTitleKLY_CAP
+ ARCH_TRAPPIST_KYM_CAP:0 "Архітраппістом" #GetTitleKYM_CAP
+ ARCH_TRAPPIST_PRO_CAP:0 "Архітраппіста" #GetTitlePRO_CAP
+
+ ARCH_TRAPPISTINE_KHTO_CAP:0 "Архітраппістка" #GetTitleKHTO_CAP
+ ARCH_TRAPPISTINE_OGO_CAP:0 "Архітраппістки" #GetTitleOGO_CAP
+ ARCH_TRAPPISTINE_OMU_CAP:0 "Архітраппістці" #GetTitleOMU_CAP
+ ARCH_TRAPPISTINE_KLY_CAP:0 "Архітраппістко" #GetTitleKLY_CAP
+ ARCH_TRAPPISTINE_KYM_CAP:0 "Архітраппісткою" #GetTitleKYM_CAP
+ ARCH_TRAPPISTINE_PRO_CAP:0 "Архітраппістку" #GetTitlePRO_CAP
+
+ BREWMASTER_KHTO_CAP:0 "Бровар" #GetTitleKHTO_CAP
+ BREWMASTER_OGO_CAP:0 "Броваря" #GetTitleOGO_CAP
+ BREWMASTER_OMU_CAP:0 "Броварю" #GetTitleOMU_CAP
+ BREWMASTER_KLY_CAP:0 "Броварю" #GetTitleKLY_CAP
+ BREWMASTER_KYM_CAP:0 "Броварем" #GetTitleKYM_CAP
+ BREWMASTER_PRO_CAP:0 "Броваря" #GetTitlePRO_CAP
+
+ BREWMISTRESS_KHTO_CAP:0 "Броварниця" #GetTitleKHTO_CAP
+ BREWMISTRESS_OGO_CAP:0 "Броварниці" #GetTitleOGO_CAP
+ BREWMISTRESS_OMU_CAP:0 "Броварниці" #GetTitleOMU_CAP
+ BREWMISTRESS_KLY_CAP:0 "Броварнице" #GetTitleKLY_CAP
+ BREWMISTRESS_KYM_CAP:0 "Броварницею" #GetTitleKYM_CAP
+ BREWMISTRESS_PRO_CAP:0 "Броварницю" #GetTitlePRO_CAP
+
+ COMMANDER_EMPEROR_KHTO_CAP:0 "Імперський командувач" #GetTitleKHTO_CAP
+ COMMANDER_EMPEROR_OGO_CAP:0 "Імперського командувача" #GetTitleOGO_CAP
+ COMMANDER_EMPEROR_OMU_CAP:0 "Імперському командувачу" #GetTitleOMU_CAP
  COMMANDER_EMPEROR_KLY_CAP:0 "ªімперський командуваче" #GetTitleKLY_CAP
- COMMANDER_EMPEROR_KYM_CAP:0 "імперським командувачем" #GetTitleKYM_CAP
- COMMANDER_EMPEROR_PRO_CAP:0 "імперського командувача" #GetTitlePRO_CAP
- 
- GRAND_MISTRESS_KHTO_CAP:0 "великий магистр" #GetTitleKHTO_CAP
- GRAND_MISTRESS_OGO_CAP:0 "великого магистра" #GetTitleOGO_CAP
- GRAND_MISTRESS_OMU_CAP:0 "великому магистру" #GetTitleOMU_CAP
- GRAND_MISTRESS_KLY_CAP:0 "великий магистре" #GetTitleKLY_CAP
- GRAND_MISTRESS_KYM_CAP:0 "великим магистром" #GetTitleKYM_CAP
- GRAND_MISTRESS_PRO_CAP:0 "великого магистра" #GetTitlePRO_CAP
- 
- ABBESS_KHTO_CAP:0 "абатиса" #GetTitleKHTO_CAP
- ABBESS_OGO_CAP:0 "абатиси" #GetTitleOGO_CAP
- ABBESS_OMU_CAP:0 "абатисі" #GetTitleOMU_CAP
- ABBESS_KLY_CAP:0 "абатисе" #GetTitleKLY_CAP
- ABBESS_KYM_CAP:0 "абатисою" #GetTitleKYM_CAP
- ABBESS_PRO_CAP:0 "абатису" #GetTitlePRO_CAP
- 
- MOTHER_SUPERIOR_KHTO_CAP:0 "настоятелька" #GetTitleKHTO_CAP
- MOTHER_SUPERIOR_OGO_CAP:0 "настоятельку" #GetTitleOGO_CAP
- MOTHER_SUPERIOR_OMU_CAP:0 "настоятельці" #GetTitleOMU_CAP
- MOTHER_SUPERIOR_KLY_CAP:0 "настоятелько" #GetTitleKLY_CAP
- MOTHER_SUPERIOR_KYM_CAP:0 "настоятелькою" #GetTitleKYM_CAP
- MOTHER_SUPERIOR_PRO_CAP:0 "настоятельку" #GetTitlePRO_CAP
- 
- HEIR_fem_KHTO_CAP:0 "спадкоємиця" #GetTitleKHTO_CAP
- HEIR_fem_OGO_CAP:0 "спадкоємиці" #GetTitleOGO_CAP
- HEIR_fem_OMU_CAP:0 "спадкоємиці" #GetTitleOMU_CAP
- HEIR_fem_KLY_CAP:0 "спадкоємице" #GetTitleKLY_CAP
- HEIR_fem_KYM_CAP:0 "спадкоємицею" #GetTitleKYM_CAP
- HEIR_fem_PRO_CAP:0 "спадкоємицю" #GetTitlePRO_CAP
- 
+ COMMANDER_EMPEROR_KYM_CAP:0 "Імперським командувачем" #GetTitleKYM_CAP
+ COMMANDER_EMPEROR_PRO_CAP:0 "Імперського командувача" #GetTitlePRO_CAP
+
+ GRAND_MISTRESS_KHTO_CAP:0 "Великий магистр" #GetTitleKHTO_CAP
+ GRAND_MISTRESS_OGO_CAP:0 "Великого магистра" #GetTitleOGO_CAP
+ GRAND_MISTRESS_OMU_CAP:0 "Великому магистру" #GetTitleOMU_CAP
+ GRAND_MISTRESS_KLY_CAP:0 "Великий магистре" #GetTitleKLY_CAP
+ GRAND_MISTRESS_KYM_CAP:0 "Великим магистром" #GetTitleKYM_CAP
+ GRAND_MISTRESS_PRO_CAP:0 "Великого магистра" #GetTitlePRO_CAP
+
+ ABBESS_KHTO_CAP:0 "Абатиса" #GetTitleKHTO_CAP
+ ABBESS_OGO_CAP:0 "Абатиси" #GetTitleOGO_CAP
+ ABBESS_OMU_CAP:0 "Абатисі" #GetTitleOMU_CAP
+ ABBESS_KLY_CAP:0 "Абатисе" #GetTitleKLY_CAP
+ ABBESS_KYM_CAP:0 "Абатисою" #GetTitleKYM_CAP
+ ABBESS_PRO_CAP:0 "Абатису" #GetTitlePRO_CAP
+
+ MOTHER_SUPERIOR_KHTO_CAP:0 "Настоятелька" #GetTitleKHTO_CAP
+ MOTHER_SUPERIOR_OGO_CAP:0 "Настоятельку" #GetTitleOGO_CAP
+ MOTHER_SUPERIOR_OMU_CAP:0 "Настоятельці" #GetTitleOMU_CAP
+ MOTHER_SUPERIOR_KLY_CAP:0 "Настоятелько" #GetTitleKLY_CAP
+ MOTHER_SUPERIOR_KYM_CAP:0 "Настоятелькою" #GetTitleKYM_CAP
+ MOTHER_SUPERIOR_PRO_CAP:0 "Настоятельку" #GetTitlePRO_CAP
+
+ HEIR_fem_KHTO_CAP:0 "Спадкоємиця" #GetTitleKHTO_CAP
+ HEIR_fem_OGO_CAP:0 "Спадкоємиці" #GetTitleOGO_CAP
+ HEIR_fem_OMU_CAP:0 "Спадкоємиці" #GetTitleOMU_CAP
+ HEIR_fem_KLY_CAP:0 "Спадкоємице" #GetTitleKLY_CAP
+ HEIR_fem_KYM_CAP:0 "Спадкоємицею" #GetTitleKYM_CAP
+ HEIR_fem_PRO_CAP:0 "Спадкоємицю" #GetTitlePRO_CAP
 
