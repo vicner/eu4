@@ -1,5 +1,5 @@
 ﻿l_ukrainian:
- ###На питання в чому? "" 
+ ###На питання в чому? 
  UNITED_PROVINCES_DE_CAP:0 "Сполучених провінціях" #GetGovernmentDE_CAP
  FEDERAL_KINGDOM_DE_CAP:0 "Федеральному королівстві" #GetGovernmentDE_CAP
  FEDERAL_EMPIRE_DE_CAP:0 "Федеральній імперії" #GetGovernmentDE_CAP
@@ -739,3 +739,4 @@
  SYNTH_GOV_OMU_CAP:0 "Машинному інтелекту" #GetGovernmentOMU_CAP
  SYNTH_GOV_KYM_CAP:0 "Машинним інтелектом" #GetGovernmentKYM_CAP
  SYNTH_GOV_DE_CAP:0 "Машинному інтелекті" #GetGovernmentDE_CAP
+

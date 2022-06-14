@@ -739,3 +739,4 @@
  SYNTH_GOV_OMU:0 "машинному інтелекту" #GetGovernmentOMU
  SYNTH_GOV_KYM:0 "машинним інтелектом" #GetGovernmentKYM
  SYNTH_GOV_DE:0 "машинному інтелекті" #GetGovernmentDE
+
