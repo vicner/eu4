@@ -2765,7 +2765,7 @@
  COMMANDER_EMPEROR_KHTO_CAP:0 "Імперський командувач" #GetTitleKHTO_CAP
  COMMANDER_EMPEROR_OGO_CAP:0 "Імперського командувача" #GetTitleOGO_CAP
  COMMANDER_EMPEROR_OMU_CAP:0 "Імперському командувачу" #GetTitleOMU_CAP
- COMMANDER_EMPEROR_KLY_CAP:0 "ªімперський командуваче" #GetTitleKLY_CAP
+ COMMANDER_EMPEROR_KLY_CAP:0 "Імперський командуваче" #GetTitleKLY_CAP
  COMMANDER_EMPEROR_KYM_CAP:0 "Імперським командувачем" #GetTitleKYM_CAP
  COMMANDER_EMPEROR_PRO_CAP:0 "Імперського командувача" #GetTitlePRO_CAP
 
