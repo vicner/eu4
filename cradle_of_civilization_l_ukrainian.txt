@@ -817,7 +817,7 @@
  OUTLINER_ARMY_QUEUE:0 "Будується для цієї армії:\n$INF$ £infantry_icon_small£ / $CAV$ £cavalry_icon_small£ / $ART$ £artillery_icon_small£\n"
  OUTLINER_NAVY_QUEUE:0 "Будується для цього флоту:\n$HEAVY$ £big_ship_icon_small£ / $LIGHT$ £light_ship_icon_small£ / $GALLEY$ £galley_icon_small£ / $TRANSPORT$ £transport_icon_small£\n"
  ADVISOR_RELIGION:0 "Релігія радника: §Y$RELIGION$§!"
- ADVISOR_CULTURE:0 "Культура радника: §Y$CULTURE$§!§z§!§Yа§!"
+ ADVISOR_CULTURE:0 "Культура радника: §Y$CULTURE$§zа§!"
  NO_ADVISOR_RELIGION:0 "Релігія радника"
  NO_ADVISOR_CULTURE:0 "Культура радника"
  pasha_state:0 "Паша"
