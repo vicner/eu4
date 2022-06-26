@@ -197,7 +197,7 @@
  chin_people_small:0 "чин" #CulturePeopleSmall
  cosmopolitan_french_people_small:0 "французи" #CulturePeopleSmall
  cree_people_small:0 "крі" #CulturePeopleSmall
- creek_people_small:0 "кріки" #CulturePeopleSmall
+ creek_people_small:0 "крі" #CulturePeopleSmall
  croatian_people_small:0 "хорвати" #CulturePeopleSmall
  czech_people_small:0 "чехи" #CulturePeopleSmall
  dakota_people_small:0 "дакоти" #CulturePeopleSmall
@@ -642,7 +642,7 @@
  chin_people_cap:0 "Чин" #CulturePeopleCap
  cosmopolitan_french_people_cap:0 "Французи" #CulturePeopleCap
  cree_people_cap:0 "Крі" #CulturePeopleCap
- creek_people_cap:0 "Кріки" #CulturePeopleCap
+ creek_people_cap:0 "Крі" #CulturePeopleCap
  croatian_people_cap:0 "Хорвати" #CulturePeopleCap
  czech_people_cap:0 "Чехи" #CulturePeopleCap
  dakota_people_cap:0 "Дакоти" #CulturePeopleCap

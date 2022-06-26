@@ -75,7 +75,7 @@
  TAG_OGO_COL:0 "Колумбії" #GetTagOGO
  TAG_OGO_CNN:0 "Коннахта" #GetTagOGO
  TAG_OGO_COR:0 "Корсики" #GetTagOGO
- TAG_OGO_CRE:0 "Кріків" #GetTagOGO
+ TAG_OGO_CRE:0 "Крі" #GetTagOGO
  TAG_OGO_CRI:0 "Крима" #GetTagOGO
  TAG_OGO_CRN:0 "Корнуола" #GetTagOGO
  TAG_OGO_CRO:0 "Хорватії" #GetTagOGO
@@ -888,7 +888,7 @@
  TAG_KUDY_COL:0 "Колумбію" #GetTagKUDY
  TAG_KUDY_CNN:0 "Коннахт" #GetTagKUDY
  TAG_KUDY_COR:0 "Корсику" #GetTagKUDY
- TAG_KUDY_CRE:0 "Кріків" #GetTagKUDY
+ TAG_KUDY_CRE:0 "Крі" #GetTagKUDY
  TAG_KUDY_CRI:0 "Крим" #GetTagKUDY
  TAG_KUDY_CRN:0 "Корнуол" #GetTagKUDY
  TAG_KUDY_CRO:0 "Хорватію" #GetTagKUDY
@@ -1701,7 +1701,7 @@
  TAG_KYM_COL:0 "Колумбією" #GetTagKYM
  TAG_KYM_CNN:0 "Коннахтом" #GetTagKYM
  TAG_KYM_COR:0 "Корсикою" #GetTagKYM
- TAG_KYM_CRE:0 "Кріками" #GetTagKYM
+ TAG_KYM_CRE:0 "Крі" #GetTagKYM
  TAG_KYM_CRI:0 "Кримом" #GetTagKYM
  TAG_KYM_CRN:0 "Корнуолом" #GetTagKYM
  TAG_KYM_CRO:0 "Хорватією" #GetTagKYM
@@ -2514,7 +2514,7 @@
  TAG_DE_COL:0 "Колумбії" #GetTagDE
  TAG_DE_CNN:0 "Коннахті" #GetTagDE
  TAG_DE_COR:0 "Корсиці" #GetTagDE
- TAG_DE_CRE:0 "Кріках" #GetTagDE
+ TAG_DE_CRE:0 "Крі" #GetTagDE
  TAG_DE_CRI:0 "Криму" #GetTagDE
  TAG_DE_CRN:0 "Корнуолі" #GetTagDE
  TAG_DE_CRO:0 "Хорватії" #GetTagDE
@@ -3327,7 +3327,7 @@
  TAG_OMU_COL:0 "Колумбії" #GetTagOMU
  TAG_OMU_CNN:0 "Коннахту" #GetTagOMU
  TAG_OMU_COR:0 "Корсиці" #GetTagOMU
- TAG_OMU_CRE:0 "Крікам" #GetTagOMU
+ TAG_OMU_CRE:0 "Крі" #GetTagOMU
  TAG_OMU_CRI:0 "Криму" #GetTagOMU
  TAG_OMU_CRN:0 "Корнуолу" #GetTagOMU
  TAG_OMU_CRO:0 "Хорватії" #GetTagOMU
@@ -4140,7 +4140,7 @@
  TAG_KLY_COL:0 "Колумбіє" #GetTagKLY
  TAG_KLY_CNN:0 "Коннахте" #GetTagKLY
  TAG_KLY_COR:0 "Корсико" #GetTagKLY
- TAG_KLY_CRE:0 "Кріки" #GetTagKLY
+ TAG_KLY_CRE:0 "Крі" #GetTagKLY
  TAG_KLY_CRI:0 "Криме" #GetTagKLY
  TAG_KLY_CRN:0 "Корнуоле" #GetTagKLY
  TAG_KLY_CRO:0 "Хорватіє" #GetTagKLY
