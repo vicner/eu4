@@ -34,7 +34,7 @@
  TRADE_NODE_NOT_YET_DISCOVERED:0 "У цьому торговому вузлі ще не було відкрито жодної провінції."
  TRADE_NODE_LOCATION_NOT_YET_DISCOVERED:0 "Місцеположення торгового вузла ще не відкрито."
  TRADE_MULTI_EXPLA:0 "І множиться на §Y$MUL$§! через модифікатор торгової сили  $VAL$ в цьому вузлі."
- TRADE_POWER_CAPITAL:0 "Головне торгове місто в області: $VAL$"
+ TRADE_POWER_CAPITAL:0 "Головне торгове місто в окрузі: $VAL$"
  TRADE_POWER_TAKE:0 "Торговці держави §Y$COUNTRY$§W збирають §Y$VAL$§W¤ з цього торгового вузла."
  TRADE_POWER_PIRATES_TAKE:0 "Держава §Y$COUNTRY$§W збирає §Y$VAL$§W¤ з цього торгового вузла."
  TRADE_POWER_TAKE_STATE:0 "Вдале керівництво приносить §Y$VALOTHER$§W¤ прибутку на користь держави."
