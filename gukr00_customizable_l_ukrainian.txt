@@ -233,22 +233,22 @@
  string_sublime_porteSCHO:0 "Блискучу Порту" #GеtStаtеFоrmSCHO
  string_crownSCHO:0 "Kорону" #GеtStаtеFоrmSCHO
  string_councilSCHO:0 "Раду" #GеtStаtеFоrmSCHO
- string_govtnameSCHO:0 "[This.GovernmentSCHO]" #GеtStаtеFоrmSCHO
+ string_govtnameSCHO:0 "[This.GetGovernmentSCHO]" #GеtStаtеFоrmSCHO
  #[Корону] кому/чому?
  string_sublime_porteOMU:0 "Блискучій Порті" #GеtStаtеFоrmOMU
  string_crownOMU:0 "Kороні" #GеtStаtеFоrmOMU
  string_councilOMU:0 "Раді" #GеtStаtеFоrmOMU
- string_govtnameOMU:0 "[This.GovernmentOMU]" #GеtStаtеFоrmOMU
+ string_govtnameOMU:0 "[This.GetGovernmentOMU]" #GеtStаtеFоrmOMU
  #Немає [Корони]
  string_sublime_porteNEMA:0 "Блискучої Порти" #GеtStаtеFоrmNEMA
  string_crownNEMA:0 "Kорони" #GеtStаtеFоrmNEMA
  string_councilNEMA:0 "Ради" #GеtStаtеFоrmNEMA
- string_govtnameNEMA:0 "[This.GovernmentOGO]" #GеtStаtеFоrmNEMA
+ string_govtnameNEMA:0 "[This.GetGovernmentOGO]" #GеtStаtеFоrmNEMA
  #Ким/чим? [Короною]
  string_sublime_porteKYM:0 "Блискучої Портою" #GеtStаtеFоrmKYM
  string_crownKYM:0 "Kороною" #GеtStаtеFоrmKYM
  string_councilKYM:0 "Радою" #GеtStаtеFоrmKYM
- string_govtnameKYM:0 "[This.GovernmentKYM]" #GеtStаtеFоrmKYM
+ string_govtnameKYM:0 "[This.GetGovernmentKYM]" #GеtStаtеFоrmKYM
 
 ###Локалізації у файлах інтерфейсу: \Europa Universalis IV\interface
  NAME_GUKR:0 "Назва" #укр. локалізація
