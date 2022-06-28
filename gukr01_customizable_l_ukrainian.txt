@@ -1,23 +1,23 @@
 ﻿l_ukrainian:
  #Відмінки для кастомної локалізації Парадоксів [GetUsableName].
  ###--GetUsableNameDE
- plural_country_name_DE:0 "[This.GetAdjective]. [This.GovernmentDE]"
+ plural_country_name_DE:0 "[This.GetAdjective]. [This.GetGovernmentDE]"
  already_has_proper_name_DE:0 "[This.GetTagDE]"
  PLC_country_string_DE:0 "Річі Посполитій"
  ###--GetUsableNameOMU
- plural_country_name_OMU:0 "[This.GetAdjective]. [This.GovernmentOMU]"
+ plural_country_name_OMU:0 "[This.GetAdjective]. [This.GetGovernmentOMU]"
  already_has_proper_name_OMU:0 "[This.GetTagOMU]"
  PLC_country_string_OMU:0 "Річі Посполитій"
  ###--GetUsableNameOGO
- plural_country_name_OGO:0 "[This.GetAdjective]. [This.GovernmentOGO]"
+ plural_country_name_OGO:0 "[This.GetAdjective]. [This.GetGovernmentOGO]"
  already_has_proper_name_OGO:0 "[This.GetTagOGO]"
  PLC_country_string_OGO:0 "Річі Посполитої"
  ###--GetUsableNameSCHO
- plural_country_name_SCHO:0 "[This.GetAdjective]. [This.GovernmentSCHO]"
+ plural_country_name_SCHO:0 "[This.GetAdjective]. [This.GetGovernmentSCHO]"
  already_has_proper_name_SCHO:0 "[This.GetTagSCHO]"
  PLC_country_string_SCHO:0 "Річ Посполиту"
  ###--GetUsableNameKYM
- plural_country_name_KYM:0 "[This.GetAdjective]. [This.GovernmentKYM]"
+ plural_country_name_KYM:0 "[This.GetAdjective]. [This.GetGovernmentKYM]"
  already_has_proper_name_KYM:0 "[This.GetTagKYM]"
  PLC_country_string_KYM:0 "Річчю Посполитою"
  ###
@@ -27,19 +27,19 @@
  already_has_proper_name_DE_CAP:0 "[This.GetTagDE_CAP]"
  PLC_country_string_DE_CAP:0 "Річі Посполитій"
  ###--GetUsableNameOMU_CAP
- plural_country_name_OMU_CAP:0 "[This.GetAdjective]. [This.GovernmentOMU_CAP]"
+ plural_country_name_OMU_CAP:0 "[This.GetAdjective]. [This.GetGovernmentOMU_CAP]"
  already_has_proper_name_OMU_CAP:0 "[This.GetTagOMU_CAP]"
  PLC_country_string_OMU_CAP:0 "Річі Посполитій"
  ###--GetUsableNameOGO_CAP
- plural_country_name_OGO_CAP:0 "[This.GetAdjective]. [This.GovernmentOGO_CAP]"
+ plural_country_name_OGO_CAP:0 "[This.GetAdjective]. [This.GetGovernmentOGO_CAP]"
  already_has_proper_name_OGO_CAP:0 "[This.GetTagOGO_CAP]"
  PLC_country_string_OGO_CAP:0 "Річі Посполитої"
  ###--GetUsableNameSCHO_CAP
- plural_country_name_SCHO_CAP:0 "[This.GetAdjective]. [This.GovernmentSCHO_CAP]"
+ plural_country_name_SCHO_CAP:0 "[This.GetAdjective]. [This.GetGovernmentSCHO_CAP]"
  already_has_proper_name_SCHO_CAP:0 "[This.GetTagSCHO_CAP]"
  PLC_country_string_SCHO_CAP:0 "Річ Посполиту"
  ###--GetUsableNameKYM_CAP
- plural_country_name_KYM_CAP:0 "[This.GetAdjective]. [This.GovernmentKYM_CAP]"
+ plural_country_name_KYM_CAP:0 "[This.GetAdjective]. [This.GetGovernmentKYM_CAP]"
  already_has_proper_name_KYM_CAP:0 "[This.GetTagKYM_CAP]"
  PLC_country_string_KYM_CAP:0 "Річчю Посполитою"
  
