@@ -1350,7 +1350,7 @@
  sankin_kotai_palaces:0 "Палаци Санкін-Котай"
  mausoleum_at_halicarnassus:0 "Мавзолей у Галікарнасі"
  heddal_stave_church:0 "Ставкірка в Хеддалі"
- belem_tower:0 "Башта Белен"
+ belem_tower:0 "Беленська башта"
  el_escorial:0 "Ескоріальський монастир"
  potosi:0 "Серро-Рико-де-Потосі"
  kaaba:0 "Кааба"
