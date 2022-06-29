@@ -3812,7 +3812,7 @@
  WILL_BE_DISCOVERED:0 "Новини про відкриття провінції §Y$PROVINCE$§! поширяться серед усіх."
  WILL_DISCOVER:0 "§Y$COUNTRY$§! відкриє округу §Y$VAL$§!."
  WILL_BE_UNDISCOVERED:0 "Провінція §Y$PROVINCE$§! буде всіма забута."
- WILL_UNDISCOVER:0 "§Y$COUNTRY$§! не зможе досдідити округу §Y$VAL$§!."
+ WILL_UNDISCOVER:0 "§Y$COUNTRY$§! не зможе дослідити округу §Y$VAL$§!."
  japan.EVTNAME1:2 "Падіння Кіото"
  japan.EVTDESC1:0 "[new_shogunate.Monarch.GetName] вщент розгромивши сьоґуна, увінчав свою блискучу кампанію новим званням, змусивши Імператора визнати [new_shogunate.Monarch.GetHerHim] новим Сьоґуном. [new_shogunate.Monarch.GetName] отримує титул спадкового військового диктатора Японії.\n\nТільки час покаже, чи стане [new_shogunate.Monarch.Dynasty.GetName] успішнішим за свого попередника у справі об'єднання ворогуючих кланів."
  japan.EVTOPTA1:0 "Ми переможемо!"
