@@ -380,7 +380,7 @@
  war_goal_take_core_desc:0 "Мета війни – загарбати національну провінцію $PROV$."
  war_goal_take_border:0 "Захопити прикордонну провінцію $PROV$"
  war_goal_take_border_desc:0 "Мета війни – загарбати прикордонну провінцію $PROV$."
- war_goal_take_province:0 "Захопити $PROV$"
+ war_goal_take_province:0 "Захопити провінцію $PROV$"
  war_goal_take_province_desc:0 "Мета війни – загарбати провінцію $PROV$."
  war_goal_take_capital:0 "Захопити столицю $CAPITAL$"
  war_goal_take_capital_desc:0 "Мета війни – загарбати столицю держави $COUNTRY$."

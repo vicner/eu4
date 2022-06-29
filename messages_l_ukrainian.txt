@@ -6896,7 +6896,7 @@
  DRILL_SKILL_GAIN_2:0 "Наші зусилля окупилися."
  DRILL_SKILL_GAIN_3:1 "Займаючись муштрою армії $ARMY$,"
  DRILL_SKILL_GAIN_4:0 "$GENERAL$ покращив своє вміння"
- DRILL_SKILL_GAIN_5:1 "$SKILL$ ($FIRE$£military_view_icon_fire£ / $SHOCK$£military_view_icon_shock£ / $MANEUVER$£military_view_icon_maneuver£ / $SIEGE$£military_view_icon_siege£ )."
+ DRILL_SKILL_GAIN_5:1 "$SKILL$ ($FIRE$£military_view_icon_fire / $SHOCK$£military_view_icon_shock / $MANEUVER$£military_view_icon_maneuver / $SIEGE$£military_view_icon_siege )."
  DRILL_SKILL_GAIN_6:0 "Нехай це нове знання принесе перемогу в наших війнах!"
  DRILL_SKILL_GAIN_LOG:0 "$GENERAL$ покращив своє вміння $SKILL$."
  DRILL_SKILL_GAIN_BTN1:0 "Гаразд"
