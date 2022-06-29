@@ -1602,7 +1602,7 @@
  great_project_can_be_upgraded_delayed:0 "Наступні великі проекти можуть бути модернізовані:\n$LIST$"
  PEACE_OPTION_REQUIRES_OTHER_PEACE_OPTION:0 "Не можна вимагати цього, не вимагаючи також $TREATYTYPE$."
  COMMA:0 ", "
- AND_LIST:0 ", і "
+ AND_LIST:0 " і "
  OR_LIST:0 ", або "
  MODIFIER_RELATION_WITH_SAME_CULTURE:0 "Думка від тієї ж культури"
  MODIFIER_RELATION_WITH_SAME_CULTURE_GROUP:0 "Думка від тієї ж культурної групи"
