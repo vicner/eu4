@@ -136,9 +136,9 @@
  PROV4780:0 "Охрид"
  PROV_ADJ4780:0 "Охридськ"
  # Cultures
- slovene:0 "Словенськ"
- bosnian:0 "Боснійськ"
- frisian:0 "Фризьк"
+ slovene:0 "Словенськ"
+ bosnian:0 "Боснійськ"
+ frisian:0 "Фризьк"
  # Areas
  western_sicily_area:0 "Західна Сицилія"
  western_sicily_area_name:0 "Західна Сицилія"
@@ -311,8 +311,8 @@
  COB:0 "Кобург"
  COB_ADJ:0 "Кобургськ"
  #Cultures
- sorbian:0 "Лужицьк"
- lower_saxon:0 "Нижньосаксонськ"
+ sorbian:0 "Лужицьк"
+ lower_saxon:0 "Нижньосаксонськ"
  # Perugia
  PGA:0 "Перуджа"
  PGA_ADJ:0 "Перуджійськ"
