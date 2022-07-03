@@ -195,7 +195,7 @@
  chengdu:0 "Ченду"
  zambezi:0 "Замбезі"
  african_great_lakes:0 "Великі озера"
- kongo:1 "Конго"
+ kongo:1 "Конґо"
  TRADE_COMPANY_INDIA_British_trade_company_south_india:0 "[Root.GetAdjective]е Бомбейське президентство"
  TRADE_COMPANY_INDIA_British_trade_company_coromandel:0 "[Root.GetAdjective]е Мадраське президентство"
  TRADE_COMPANY_INDIA_British_East_India_Company:1 "[Root.GetAdjective]е Бенгальське президентство"

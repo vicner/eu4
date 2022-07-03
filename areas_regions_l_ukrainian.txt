@@ -758,7 +758,7 @@
  shire_area:0 "Шір"
  shire_area_name:0 "Малаві"
  shire_area_adj:0 "Малавійськ"
- coastal_kongo:0 "Узбережжя Конго"
+ coastal_kongo:0 "Узбережжя Конґо"
  coastal_kongo_name:0 "Сойо"
  coastal_kongo_adj:0 "Сойонськ"
  lower_kasai:0 "Нижня Касаї"
