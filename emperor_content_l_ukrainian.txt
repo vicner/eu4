@@ -556,7 +556,7 @@
  advisor_antiliaisons:0 "Сувора позиція"
  advisor_spurious_accusations:0 "Брехливі звинувачення"
  new_court_flavour_events.35.name:0 "[exile_country.GetAdjective]ий вигнанець"
- new_court_flavour_events.35.desc:1 "[Root.fleeing_advisor.GetName], політичний вигнанець з [exile_country.GetUsableNameOGO], з'явився при нашому дворі. Він стверджує, що він – [Root.GetExileAdvisorAAnTitle] і пропонує свої послуги [Root.GetAdjective]ому урядові в обмін на захист від [exile_country.GetRulerAdjAndTitleOGO]. Чи повинні ми його прихистити?"
+ new_court_flavour_events.35.desc:1 "[Root.fleeing_advisor.GetName], політичний вигнанець з [exile_country.GetUsableNameOGO], з'явився при нашому дворі. Він стверджує, що він – [Root.GetExileAdvisorAAnTitle] і пропонує свої послуги [Root.GetAdjective]ому урядові в обмін на захист від [exile_country.GetAdjective][exile_country.Monarch.GetMEndOjiOgo] [exile_country.Monarch.GetTitleOGO]. Чи повинні ми його прихистити?"
  new_court_flavour_events.35.A:0 "Його послуги знадобляться."
  new_court_flavour_events.35.B:0 "У нас немає для нього місця."
  new_court_flavour_events.36.name:0 "[exile_country.GetAdjective]і вигнанці"
