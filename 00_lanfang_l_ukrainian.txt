@@ -285,7 +285,7 @@
  siamese_rev.3.t:0 "Атака на [siam_foreign_missionary_country.GetAdjective]их місіонерів"
  siamese_rev.3.d:1 "[siam_foreign_missionary_country.Religion.ReligionAdjective_CAP] місіонери, що діють під [siam_foreign_missionary_country.GetAdjective]им захистом, зазнали нападу з боку [siam_foreign_missionary_province.Religion.ReligionOGO] з провінції [siam_foreign_missionary_province.GetName]. Місіонери закликають [Root.GetAdjective]ий уряд запропонувати їм захист від натовпу, щоб вони могли проповідувати, тоді як люди вимагають вигнання місіонерів та можливості спокійно сповідувати свою [siam_foreign_missionary_province.Religion.ReligionAdjectiveJAKU] віру."
  siamese_rev.3.a:0 "Ми повинні дозволити їм проповідувати."
- siamese_rev.3.b:0 "Вони становлять загрозу для [Root.Religion.ReligionAdjective]ої віри."
+ siamese_rev.3.b:0 "Вони становлять загрозу для [Root.Religion.ReligionAdjectiveKOJI] віри."
  EST_VAL_SIA_RESTRICTED_FOREIGN_MISSIONARIES:0 "Заборонили іноземних місіонерів"
  siam_allowed_misionaries:0 "Захистили місіонерів"
  siam_denied_misionaries:0 "Атакували місіонерів"
