@@ -498,7 +498,7 @@
  flavor_ada.8.a:0 "They shall be damned!"
  ###HEIR CULT###
  fetishist_flavor.600.t:0 "Культ [Root.Heir.GetTitleOGO]"
- fetishist_flavor.600.desc:0 "За традицією наш[Root.Monarch.GеtМЕndА] [Root.Monarch.GetTitleKHTO] є провідником для культу [Root.GetTagOGO]. Але традиції не є непорушними та можуть змінюватися з часом, і тому рішення про культ нашого спадкоємця також стало важливим питанням."
+ fetishist_flavor.600.desc:0 "За традицією наш[Root.Monarch.GetMEndA] [Root.Monarch.GetTitleKHTO] є провідником для культу [Root.GetTagOGO]. Але традиції не є непорушними та можуть змінюватися з часом, і тому рішення про культ нашого спадкоємця також стало важливим питанням."
  fetishist_flavor.600.a:0 "[Root.Heir.GetName] слідуватиме культу Йемайї."
  fetishist_flavor.600.b:0 "[Root.Heir.GetName] слідуватиме культу Руг."
  fetishist_flavor.600.c:0 "[Root.Heir.GetName] слідуватиме культу Ньяме."
