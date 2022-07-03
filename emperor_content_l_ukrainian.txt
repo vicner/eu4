@@ -564,7 +564,7 @@
  new_court_flavour_events.36.A:0 "Ми їх приймемо."
  new_court_flavour_events.36.B:0 "У нас немає для них вільних місць."
  new_court_flavour_events.37.name:0 "Вигнанці [From.Get_UV] [From.GetUsableNameDE]"
- new_court_flavour_events.37.desc:0 "Наші очі та вуха [From.Get_UV] [From.GetUsableNameDE] повідомляють, що [From.GetRulerTitleOrRegencySm] приймає багатьох політичних ворогів наш[Root.Monarch.GetMEndOjiOgo] [Root.Monarch.GetTitleOGO], які раніше були вигнані з [Root.GetAdjective]ого двору або поїхали в пошуках кращих можливостей. Зараз вони наполягають на рішучих діях проти нинішнього [Root.GetAdjective]ого "режиму" і надають активну допомогу [From.GetRulerAdjAndTitleOMU] для досягнення цієї мети."
+ new_court_flavour_events.37.desc:0 "Наші очі та вуха [From.Get_UV] [From.GetUsableNameDE] повідомляють, що [From.GetRulerTitleOrRegency] приймає багатьох політичних ворогів наш[Root.Monarch.GetMEndOjiOgo] [Root.Monarch.GetTitleOGO], які раніше були вигнані з [Root.GetAdjective]ого двору або поїхали в пошуках кращих можливостей. Зараз вони наполягають на рішучих діях проти нинішнього [Root.GetAdjective]ого "режиму" і надають активну допомогу, яку потребує [From.GetRulerAdjAndTitle] для досягнення цієї мети."
  new_court_flavour_events.37.option:0 "Як вони сміють!"
  opinion_took_in_exiles:0 "Прихистили у вигнанні"
  opinion_turned_away_exiles:0 "Відмовили в притулку"
