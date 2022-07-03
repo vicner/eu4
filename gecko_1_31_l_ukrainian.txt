@@ -6,4 +6,4 @@
  undisclosed_tactics:0 "Нерозкрита тактика"
  undiscovered_territory:0 "Невідкрита територія"
  TRIBAL_DEVELOPMENT_TITLE:0 "Племінний розвиток"
- CLICK_MAP_TO_ADD_CARPETSIEGE_AREAS:1 "Клацніть на мапі, щоб додати/вилучити області для автономної облоги."
+ CLICK_MAP_TO_ADD_CARPETSIEGE_AREAS:1 "Клацніть на мапі, щоб додати/вилучити округи для автономної облоги."
