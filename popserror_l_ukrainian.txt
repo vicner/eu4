@@ -1,9 +1,9 @@
-﻿l_english:
+﻿l_ukrainian:
  POPS_invalid-email:0 "Неправильна елетронна поштою"
  POPS_account-exists:0 "Обліковий рахунок з такою поштою вже існує"
  POPS_dynamodb-failure:0 "Невдале підключення"
- POPS_ua:0 "Неможливо"
- POPS_not-authorized:0 "Вказані електронна адреса та пароль не збігаються"
+ POPS_ua:0 "Непридатно"
+ POPS_not-authorized:0 "Вказані електронна пошта та пароль не збігаються"
  POPS_UNEXPECTED_ERROR:0 "Невдала спроба входу. Блск, перевірте ваше Інтернет-з'єднання і спробуйте знову."
 # These should "never" happen, we should have validated before we sent the data
  POPS_bad-password-length:0 "Занадто короткий пароль" #Might be too long to, but upper limit is 128 chars (at the time of writing)
