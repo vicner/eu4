@@ -15,7 +15,7 @@
  NEW_ACHIEVEMENT_1_8_DESC:0 "Виграйте війну."
  NEW_ACHIEVEMENT_1_9_NAME:0 "Нове вбрання короля"
  NEW_ACHIEVEMENT_1_9_DESC:0 "Поваліть Австрію і станьте імператором Священної Римської Імперії."
- NEW_ACHIEVEMENT_1_10_NAME:0 "З-під низу"
+ NEW_ACHIEVEMENT_1_10_NAME:0 "Попідниззя"
  NEW_ACHIEVEMENT_1_10_DESC:0 "Збудуйте колонію в Австралії."
  NEW_ACHIEVEMENT_1_11_NAME:0 "Хіба це не шлях до Індії?"
  NEW_ACHIEVEMENT_1_11_DESC:0 "Відкрийте Америку від імені Кастилії або Еспанії."
