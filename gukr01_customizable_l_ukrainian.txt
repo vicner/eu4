@@ -67,13 +67,13 @@
  
  
  ### [GetRulerAdjAndTitle]: The [English King] / The [Pope] / The [English Regency Council]
- string_ruler_adj_and_title_ogo:0 "[This.GetAdjective][This.Monarch.GetMEndOjiOgo] [This.Monarch.GetTitleOGO]"
+ string_ruler_adj_and_title_ogo:0 "[This.GetAdjective][This.GetMEndOjiOgo] [This.Monarch.GetTitleOGO]"
  string_adj_and_regency_council_ogo:0 "[This.GetAdjective]ої Регентської ради"
- string_ruler_adj_and_title_omu:0 "[This.GetAdjective][This.Monarch.GetMEndIjOmu] [This.Monarch.GetTitleOMU]"
+ string_ruler_adj_and_title_omu:0 "[This.GetAdjective][This.GetMEndIjOmu] [This.Monarch.GetTitleOMU]"
  string_adj_and_regency_council_omu:0 "[This.GetAdjective]ій Регентській раді"
- string_ruler_adj_and_title_kym:0 "[This.GetAdjective][This.Monarch.GetMEndOJuYM] [This.Monarch.GetTitleKYM]"
+ string_ruler_adj_and_title_kym:0 "[This.GetAdjective][This.GetMEndOJuYM] [This.Monarch.GetTitleKYM]"
  string_adj_and_regency_council_kym:0 "[This.GetAdjective]ою Регентською радою"
- string_ruler_adj_and_title_pro:0 "[This.GetAdjective][This.Monarch.GetMEndUOgo] [This.Monarch.GetTitlePRO]"
+ string_ruler_adj_and_title_pro:0 "[This.GetAdjective][This.GetMEndUOgo] [This.Monarch.GetTitlePRO]"
  string_adj_and_regency_council_pro:0 "[This.GetAdjective]у Регентську раду"
 
  
