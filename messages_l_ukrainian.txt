@@ -3301,7 +3301,7 @@
  CURIACONTROLLER_SETUP:0 "Ми починаємо контролювати Папу"
  CURIACONTROLLER_HEADER:0 "Новини Святого престолу:"
  CURIACONTROLLER_1:0 "Мудрий вибір!"
- CURIACONTROLLER_2:0 "$Папський конклав обрав папу"
+ CURIACONTROLLER_2:0 "Папський конклав обрав папу"
  CURIACONTROLLER_3:0 "$POPE$"
  CURIACONTROLLER_4:0 "Він лояльний до нас, тож ми зараз"
  CURIACONTROLLER_5:0 "КОНТРОЛЮЄМО ПАПУ"
