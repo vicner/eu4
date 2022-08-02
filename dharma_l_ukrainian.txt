@@ -462,7 +462,7 @@
  CULTURE_VIEW_GROUP_CONTAINS:0 "§Y$GROUP$§zа§W культурна група містить такі культури:\n"
  CANNOT_CHANGE_LEVEL_LOCKED:1 "Ви не можете змінити реформу на цьому рівні через те, що впроваджується реформа $REFORM|Y$."
  FROM_REFORM:0 "Реформа $REFORM|Y$"
- LOSE_REFORMS:1 "Втратити $NUM|Y$ урядових реформ.\n"
+ LOSE_REFORMS:1 "Втратити урядові реформи ($NUM|Y$).\n"
  ASSIMILATED_CULTURES:0 "Асиміляція культур"
  ASSIMILATED_CULTURE_GROUPS:0 "Асиміляція групи культур"
  ASSIMILATEDCULTURE_TITLE:0 "Культуру асимільовано"
