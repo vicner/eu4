@@ -3272,7 +3272,7 @@
  CV_GOVREBELS_ONSIEGEWON:0 "Ефекти при захопленні провінцій"
  BASE_FACTOR:0 "Основний фактор: "
  CLAIMINFO:0 "§Y$COUNTRY$§! має претензію на цю провінцію."
- CLAIMINFO_PERMANENT:0 "§Y$COUNTRY$§! має одвічну претензію на цю провінцію."
+ CLAIMINFO_PERMANENT:0 "§Y$COUNTRY$§! має довічну претензію на цю провінцію."
  CLAIMINFO_DELAYED_START:0 "§Y$COUNTRY$§! має право вважати цю провінцію своєю."
  CLAIMINFO_DELAYED_PERMANENT:0 "Ця претензія вічна і ніколи не зникне."
  CLAIMINFO_DELAYED_PEACE:0 "Ця претензія дійсна до $DATE|Y$."
