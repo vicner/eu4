@@ -760,7 +760,7 @@
  GALLEY_BONUS_INLAND_SEA_DESC:0 "У внутрішніх морях галери наносять на $VAL|%=+1$ більше ушкоджень іншим видам кораблів."
  GALLEY_BONUS_NOT_INLAND_SEA_DESC:1 "Ці води НЕ є внутрішніми або прибережними, тому галери тут матимуть $VAL|%=+1$ штрафу гральної кістки."
  INSUFFICIENT_SUPPORT_TITLE:0 "§YНеефективна підтримка§!"
- INSUFFICIENT_SUPPORT_DESC:1 "Надто високе співвідношення кавалерії до піхоти (§Y$RATIO$%§!). Це знижує військову тактику кавалерійських полків на §R$PENALTY$%§!."
+ INSUFFICIENT_SUPPORT_DESC:1 "Надто високе співвідношення кавалерії до піхоти (§Y$RATIO$%§!). Це знижуватиме військову тактику кавалерійських полків на §R$PENALTY$%§!."
  INSUFFICIENT_SUPPORT_UNIT_DESC_YES:0 "@$TAG$$NAME$ отримує штраф (макс. співвідношення – $MAX|%1R$)."
  INSUFFICIENT_SUPPORT_UNIT_DESC_NO:0 "@$TAG$$NAME$ НЕ отримує штраф (макс. співвідношення – $MAX|%1G$)."
  FE_IRONMAN_MULTIPLAYER:0 "Режим 'Ironman' не доступний для мережевої гри."
