@@ -673,5 +673,5 @@
  TRIGGER_WAS_NOT_HUMILIATED_BY:0 "Держава $TAG|Y$ не було недавно принижено державою $BY|Y$."
  TRIGGER_IS_HIRING_CONDOTTIERE_FROM:0 "Держава $TAG|Y$ винаймає кондотьєрів з держави $FROM|Y$."
  TRIGGER_IS_NOT_HIRING_CONDOTTIERE_FROM:0 "Держава $TAG|Y$ не винаймає кондотьєрів з держави $FROM|Y$."
- HAVE_LESS_ADMIN_EFICIENCY:1 "Число адміністративної ефективності менше $VALUE|Y$"
- HAVE_MORE_ADMIN_EFICIENCY:1 "Число адміністративної ефективності щонайменше $VALUE|Y$"
+ HAVE_LESS_ADMIN_EFICIENCY:1 "Адміністративна ефективність менше $VALUE|Y$"
+ HAVE_MORE_ADMIN_EFICIENCY:1 "Адміністративна ефективність щонайменше $VALUE|Y$"
