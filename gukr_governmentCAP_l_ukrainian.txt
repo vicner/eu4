@@ -739,4 +739,22 @@
  SYNTH_GOV_OMU_CAP:0 "Машинному інтелекту" #GetGovernmentOMU_CAP
  SYNTH_GOV_KYM_CAP:0 "Машинним інтелектом" #GetGovernmentKYM_CAP
  SYNTH_GOV_DE_CAP:0 "Машинному інтелекті" #GetGovernmentDE_CAP
+ 
+ ILKHANATE_SCHO_CAP:0 "Ільханат" #GetGovernmentSCHO_CAP
+ ILKHANATE_OGO_CAP:0 "Ільханата" #GetGovernmentOGO_CAP
+ ILKHANATE_OMU_CAP:0 "Ільханату" #GetGovernmentOMU_CAP
+ ILKHANATE_KYM_CAP:0 "Ільханатом" #GetGovernmentKYM_CAP
+ ILKHANATE_DE_CAP:0 "Ільханаті" #GetGovernmentDE_CAP
+ 
+ KHEDIVATE_SCHO_CAP:0 "Хедіват" #GetGovernmentSCHO_CAP
+ KHEDIVATE_OGO_CAP:0 "Хедівата" #GetGovernmentOGO_CAP
+ KHEDIVATE_OMU_CAP:0 "Хедівату" #GetGovernmentOMU_CAP
+ KHEDIVATE_KYM_CAP:0 "Хедіватом" #GetGovernmentKYM_CAP
+ KHEDIVATE_DE_CAP:0 "Хедіваті" #GetGovernmentDE_CAP
+ 
+ MONASTIC_EMPIRE_SCHO_CAP:0 "Чернеча федерація" #GetGovernmentSCHO_CAP
+ MONASTIC_EMPIRE_OGO_CAP:0 "Чернечої федерації" #GetGovernmentOGO_CAP
+ MONASTIC_EMPIRE_OMU_CAP:0 "Чернечій федерації" #GetGovernmentOMU_CAP
+ MONASTIC_EMPIRE_KYM_CAP:0 "Чернечою федерацією" #GetGovernmentKYM_CAP
+ MONASTIC_EMPIRE_DE_CAP:0 "Чернечій федерації" #GetGovernmentDE_CAP
 
