@@ -1,11 +1,11 @@
-﻿l_english:
+﻿l_ukrainian:
  SUBSCRIPTION:0 "Підписка на DLC"
  SUB_MESSAGE_subscription_TITLE:0 "Підписка тепер доступна в Steam"
  SUB_MESSAGE_subscription_DESC:0 "Підписка на Europa Universalis IV надасть вам доступ до всіх доповнень та іншого контенту за невеликий щомісячний внесок. Підписки тепер доступні лише на сторінці Europa Universalis IV у магазині Steam."
  SUB_MESSAGE_NO_ACTION:0 "Гаразд"
  GOTO_STEAM:0 "Перейти до Steam"
- VIEW_SUBSCRIPTION:0 "Переглянути підписку"
  SUB_BANNER_NEW_SUB_INACTIVE:0 "Підпишіться на всі коли-небудь випущені DLC!"
  SUB_BANNER_NEW_SUB_ACTIVE:0 "Підписка активна!"
  SUB_BANNER_BUTTON_VIEW_NEW_SUB_INACTIVE:0 "Перейти до Steam"
+ SUB_BANNER_BUTTON_VIEW_NEW_SUB_ACTIVE:0 "Керувати"
  
