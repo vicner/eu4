@@ -739,4 +739,21 @@
  SYNTH_GOV_OMU:0 "машинному інтелекту" #GetGovernmentOMU
  SYNTH_GOV_KYM:0 "машинним інтелектом" #GetGovernmentKYM
  SYNTH_GOV_DE:0 "машинному інтелекті" #GetGovernmentDE
-
+ 
+ ILKHANATE_SCHO:0 "ільханат" #GetGovernmentSCHO
+ ILKHANATE_OGO:0 "ільханата" #GetGovernmentOGO
+ ILKHANATE_OMU:0 "ільханату" #GetGovernmentOMU
+ ILKHANATE_KYM:0 "ільханатом" #GetGovernmentKYM
+ ILKHANATE_DE:0 "ільханаті" #GetGovernmentDE
+ 
+ KHEDIVATE_SCHO:0 "хедіват" #GetGovernmentSCHO
+ KHEDIVATE_OGO:0 "хедівата" #GetGovernmentOGO
+ KHEDIVATE_OMU:0 "хедівату" #GetGovernmentOMU
+ KHEDIVATE_KYM:0 "хедіватом" #GetGovernmentKYM
+ KHEDIVATE_DE:0 "хедіваті" #GetGovernmentDE
+ 
+ MONASTIC_EMPIRE_SCHO:0 "чернеча федерація" #GetGovernmentSCHO
+ MONASTIC_EMPIRE_OGO:0 "чернечої федерації" #GetGovernmentOGO
+ MONASTIC_EMPIRE_OMU:0 "чернечій федерації" #GetGovernmentOMU
+ MONASTIC_EMPIRE_KYM:0 "чернечою федерацією" #GetGovernmentKYM
+ MONASTIC_EMPIRE_DE:0 "чернечій федерації" #GetGovernmentDE
