@@ -246,6 +246,7 @@
  ARCHDUKE:0 "Ерцгерцог"
  ARCHDUCHESS:0 "Ерцгерцогиня"
  ARCHKING:0 "Ерцкороль"
+ ARCHQUEEN:0 "Ерцкоролева"
  VIZIER:0 "Візир"
  GRANDVIZIER:0 "Головний візир"
  GRANDVIZIER_fem:0 "Головний візир"
