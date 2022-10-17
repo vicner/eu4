@@ -375,7 +375,7 @@
  WEJOINEDHRE_SETUP:0 "Ми приєдналися до Імперії."
  WEJOINEDHRE_HEADER:0 "$MESSENGER$"
  WEJOINEDHRE_1:0 "Ми приєдналися до Імперії"
- WEJOINEDHRE_2:0 "$MONARCHTITLE$, Ми приєдналися до Імперії"
+ WEJOINEDHRE_2:0 "$MONARCHTITLE$, ми приєдналися до Імперії"
  WEJOINEDHRE_3:0 "на чолі з державою $LEADER$."
  WEJOINEDHRE_4:0 "Разом ми досягнемо слави нашої віри."
  WEJOINEDHRE_LOG:0 "Ми увійшли до складу Імперії"
