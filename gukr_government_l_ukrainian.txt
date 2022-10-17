@@ -444,7 +444,7 @@
  REVOLUTIONARY_PEASANT_REPUBLIC_KYM:0 "селянською хунтою" #GetGovernmentKYM
  FREE_CITY_KYM:0 "вільним містом" #GetGovernmentKYM
  SERENE_REPUBLIC_KYM:0 "найсвітлішою республікою" #GetGovernmentKYM
- ###Версия 1.28 "" 
+ ###Версія 1.28 "" 
  PIRATE_REPUBLIC_DE:0 "піратcькій pecпубліці" #GetGovernmentDE
  PIRATE_CONFEDERACY_DE:0 "піратcькій кoнфeдepaції" #GetGovernmentDE
  GRAND_PIRATE_CONFEDERACY_DE:0 "великій піратcькій кoнфeдepaції" #GetGovernmentDE
@@ -518,19 +518,19 @@
  REVOLUTIONARY_DANISH_REPUBLIC_SCHO:0 "Sikkerhedtinget" #GetGovernmentSСНО
  REVOLUTIONARY_DANISH_REPUBLIC_KYM:0 "Sikkerhedtinget" #GetGovernmentКYМ
  
- GOV_REVOLUTIONARY_REPUBLIC_SCHO:0 "революційна республіка" #GetGovernmentSCHO
+ GOV_REVOLUTIONARY_REPUBLIC_SCHO:0 "революційну республіку" #GetGovernmentSCHO
  GOV_REVOLUTIONARY_REPUBLIC_OGO:0 "революційної республіки" #GetGovernmentOGO
  GOV_REVOLUTIONARY_REPUBLIC_OMU:0 "революційній республіці" #GetGovernmentOMU
  GOV_REVOLUTIONARY_REPUBLIC_KYM:0 "революційною республікою" #GetGovernmentKYM
  GOV_REVOLUTIONARY_REPUBLIC_DE:0 "революційній республіці" #GetGovernmentDE
  
- KAISERREICH_SCHO:0 "імперія" #GetGovernmentSCHO
+ KAISERREICH_SCHO:0 "імперію" #GetGovernmentSCHO
  KAISERREICH_OGO:0 "імперії" #GetGovernmentOGO
  KAISERREICH_OMU:0 "імперії" #GetGovernmentOMU
  KAISERREICH_KYM:0 "імперією" #GetGovernmentKYM
  KAISERREICH_DE:0 "імперії" #GetGovernmentDE
  
- STRATOCRACY_SCHO:0 "стратократія" #GetGovernmentSCHO
+ STRATOCRACY_SCHO:0 "стратократію" #GetGovernmentSCHO
  STRATOCRACY_OGO:0 "стратократії" #GetGovernmentOGO
  STRATOCRACY_OMU:0 "стратократії" #GetGovernmentOMU
  STRATOCRACY_KYM:0 "стратократією" #GetGovernmentKYM
@@ -560,7 +560,7 @@
  COMMONWEALTH_KYM:0 "співдружністю" #GetGovernmentKYM
  COMMONWEALTH_DE:0 "співдружності" #GetGovernmentDE
  
- MILITARY_GOVERNMENT_SCHO:0 "військова республіка" #GetGovernmentSCHO
+ MILITARY_GOVERNMENT_SCHO:0 "військову республіку" #GetGovernmentSCHO
  MILITARY_GOVERNMENT_OGO:0 "військової республіки" #GetGovernmentOGO
  MILITARY_GOVERNMENT_OMU:0 "військовій республіці" #GetGovernmentOMU
  MILITARY_GOVERNMENT_KYM:0 "військовою республікою" #GetGovernmentKYM
@@ -596,19 +596,19 @@
  ELECTORATE_BISHOPRIC_KYM:0 "єпископством-курфюрством" #GetGovernmentKYM
  ELECTORATE_BISHOPRIC_DE:0 "єпископстві-курфюрстві" #GetGovernmentDE
  
- ELECTORAL_REPUBLIC_SCHO:0 "республіка-курфюрство" #GetGovernmentSCHO
+ ELECTORAL_REPUBLIC_SCHO:0 "республіку-курфюрство" #GetGovernmentSCHO
  ELECTORAL_REPUBLIC_OGO:0 "республіки-курфюрства" #GetGovernmentOGO
  ELECTORAL_REPUBLIC_OMU:0 "республіці-курфюрстві" #GetGovernmentOMU
  ELECTORAL_REPUBLIC_KYM:0 "республікою-курфюрством" #GetGovernmentKYM
  ELECTORAL_REPUBLIC_DE:0 "республіці-курфюрстві" #GetGovernmentDE
  
- GRAND_ELECTORAL_REPUBLIC_SCHO:0 "велика республіка-курфюрство" #GetGovernmentSCHO
+ GRAND_ELECTORAL_REPUBLIC_SCHO:0 "велику республіку-курфюрство" #GetGovernmentSCHO
  GRAND_ELECTORAL_REPUBLIC_OGO:0 "великої республіки-курфюрства" #GetGovernmentOGO
  GRAND_ELECTORAL_REPUBLIC_OMU:0 "великій республіці-курфюрству" #GetGovernmentOMU
  GRAND_ELECTORAL_REPUBLIC_KYM:0 "великою республікою-курфюрством" #GetGovernmentKYM
  GRAND_ELECTORAL_REPUBLIC_DE:0 "великій республіці-курфюрстві" #GetGovernmentDE
  
- GREAT_ELECTORAL_REPUBLIC_SCHO:0 "найвеличніша республіка-курфюрство" #GetGovernmentSCHO
+ GREAT_ELECTORAL_REPUBLIC_SCHO:0 "найвеличнішу республіку-курфюрство" #GetGovernmentSCHO
  GREAT_ELECTORAL_REPUBLIC_OGO:0 "найвеличнішої республіки-курфюрства" #GetGovernmentOGO
  GREAT_ELECTORAL_REPUBLIC_OMU:0 "найвеличнішій республіці-курфюрству" #GetGovernmentOMU
  GREAT_ELECTORAL_REPUBLIC_KYM:0 "найвеличнішою республікою-курфюрством" #GetGovernmentKYM
@@ -632,7 +632,7 @@
  KINGDOM_PALATINE_KYM:0 "пфальцокоролівством" #GetGovernmentKYM
  KINGDOM_PALATINE_DE:0 "пфальцокоролівстві" #GetGovernmentDE
  
- IKKO_IKKI_COMMUNE_SCHO:0 "республіка Ікко-іккі" #GetGovernmentSCHO
+ IKKO_IKKI_COMMUNE_SCHO:0 "республіку Ікко-іккі" #GetGovernmentSCHO
  IKKO_IKKI_COMMUNE_OGO:0 "республіки Ікко-іккі" #GetGovernmentOGO
  IKKO_IKKI_COMMUNE_OMU:0 "республіці Ікко-іккі" #GetGovernmentOMU
  IKKO_IKKI_COMMUNE_KYM:0 "республікою Ікко-іккі" #GetGovernmentKYM
@@ -674,19 +674,19 @@
  DIVINE_PROTECTORS_KYM:0 "божественним протекторатом" #GetGovernmentKYM
  DIVINE_PROTECTORS_DE:0 "божественному протектораті" #GetGovernmentDE
  
- BLACK_KNIGHTS_SCHO:0 "лицарі Адріана" #GetGovernmentSCHO
+ BLACK_KNIGHTS_SCHO:0 "лицарів Адріана" #GetGovernmentSCHO
  BLACK_KNIGHTS_OGO:0 "лицарів Адріана" #GetGovernmentOGO
  BLACK_KNIGHTS_OMU:0 "лицарям Адріана" #GetGovernmentOMU
  BLACK_KNIGHTS_KYM:0 "лицарями Адріана" #GetGovernmentKYM
  BLACK_KNIGHTS_DE:0 "лицарях Адріана" #GetGovernmentDE
  
- BLACK_LONG_KNIGHTS_SCHO:0 "лицарі Адріана" #GetGovernmentSCHO
+ BLACK_LONG_KNIGHTS_SCHO:0 "лицарів Адріана" #GetGovernmentSCHO
  BLACK_LONG_KNIGHTS_OGO:0 "лицарів Адріана" #GetGovernmentOGO
  BLACK_LONG_KNIGHTS_OMU:0 "лицарям Адріана" #GetGovernmentOMU
  BLACK_LONG_KNIGHTS_KYM:0 "лицарями Адріана" #GetGovernmentKYM
  BLACK_LONG_KNIGHTS_DE:0 "лицарях Адріана" #GetGovernmentDE
  
- BLACK_WATCH_SCHO:0 "варта Адріана" #GetGovernmentSCHO
+ BLACK_WATCH_SCHO:0 "варту Адріана" #GetGovernmentSCHO
  BLACK_WATCH_OGO:0 "варти Адріана" #GetGovernmentOGO
  BLACK_WATCH_OMU:0 "варті Адріана" #GetGovernmentOMU
  BLACK_WATCH_KYM:0 "вартою Адріана" #GetGovernmentKYM
@@ -698,7 +698,7 @@
  SOVREIGN_MONASTIC_ORDER_KYM:0 "суверенним військовим орденом" #GetGovernmentKYM
  SOVREIGN_MONASTIC_ORDER_DE:0 "суверенному військовому ордені" #GetGovernmentDE
  
- SOVREIGN_MONASTIC_CONFEDERATION_SCHO:0 "суверенна лицарська конфедерація" #GetGovernmentSCHO
+ SOVREIGN_MONASTIC_CONFEDERATION_SCHO:0 "суверенну лицарську конфедерацію" #GetGovernmentSCHO
  SOVREIGN_MONASTIC_CONFEDERATION_OGO:0 "суверенної лицарської конфедерації" #GetGovernmentOGO
  SOVREIGN_MONASTIC_CONFEDERATION_OMU:0 "суверенній лицарській конфедерації" #GetGovernmentOMU
  SOVREIGN_MONASTIC_CONFEDERATION_KYM:0 "суверенною лицарською конфедерацією" #GetGovernmentKYM
@@ -722,13 +722,13 @@
  TRAPPIST_STATE_KYM:0 "орденом траппістів" #GetGovernmentKYM
  TRAPPIST_STATE_DE:0 "ордені траппістів" #GetGovernmentDE
  
- MONASTIC_STATE_SCHO:0 "чернеча держава" #GetGovernmentSCHO
+ MONASTIC_STATE_SCHO:0 "чернечу державу" #GetGovernmentSCHO
  MONASTIC_STATE_OGO:0 "чернечої держави" #GetGovernmentOGO
  MONASTIC_STATE_OMU:0 "чернечій державі" #GetGovernmentOMU
  MONASTIC_STATE_KYM:0 "чернечою державою" #GetGovernmentKYM
  MONASTIC_STATE_DE:0 "чернечій державі" #GetGovernmentDE
  
- BREWING_EMPIRE_SCHO:0 "пивна імперія" #GetGovernmentSCHO
+ BREWING_EMPIRE_SCHO:0 "пивну імперію" #GetGovernmentSCHO
  BREWING_EMPIRE_OGO:0 "пивної імперії" #GetGovernmentOGO
  BREWING_EMPIRE_OMU:0 "пивній імперії" #GetGovernmentOMU
  BREWING_EMPIRE_KYM:0 "пивною імперією" #GetGovernmentKYM
@@ -752,7 +752,7 @@
  KHEDIVATE_KYM:0 "хедіватом" #GetGovernmentKYM
  KHEDIVATE_DE:0 "хедіваті" #GetGovernmentDE
  
- MONASTIC_EMPIRE_SCHO:0 "чернеча федерація" #GetGovernmentSCHO
+ MONASTIC_EMPIRE_SCHO:0 "чернечу федерацію" #GetGovernmentSCHO
  MONASTIC_EMPIRE_OGO:0 "чернечої федерації" #GetGovernmentOGO
  MONASTIC_EMPIRE_OMU:0 "чернечій федерації" #GetGovernmentOMU
  MONASTIC_EMPIRE_KYM:0 "чернечою федерацією" #GetGovernmentKYM
