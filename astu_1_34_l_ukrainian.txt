@@ -1,0 +1,3 @@
+﻿l_ukrainian:
+ GREAT_PROJECT_PROVINCE:0 "§Y$PROJECT$§W в провінції §Y$PROVINCE$§W\n"
+ 
