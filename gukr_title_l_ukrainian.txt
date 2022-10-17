@@ -24,6 +24,7 @@
  GRAND_DUKE_OGO:0 "великого герцога" #GetTitleOGO
  ARCHDUKE_OGO:0 "ерцгерцога" #GetTitleOGO
  ARCHKING_OGO:0 "ерцкороля" #GetTitleOGO
+ ARCHQUEEN_OGO:0 "ерцкоролеви" #GetTitleOGO
  PRINCE_OGO:0 "князя" #GetTitleOGO
  BAN_TITLE_OGO:0 "бана" #GetTitleOGO
  KRALJ_OGO:0 "краля" #GetTitleOGO
@@ -226,6 +227,7 @@
  GRAND_DUKE_OMU:0 "великому герцогові" #GetTitleOMU
  ARCHDUKE_OMU:0 "ерцгерцогу" #GetTitleOMU
  ARCHKING_OMU:0 "ерцкоролю" #GetTitleOMU
+ ARCHQUEEN_OMU:0 "ерцкоролеві" #GetTitleOMU
  PRINCE_OMU:0 "князю" #GetTitleOMU
  BAN_TITLE_OMU:0 "бану" #GetTitleOMU
  KRALJ_OMU:0 "кралю" #GetTitleOMU
@@ -428,6 +430,7 @@
  GRAND_DUKE_KYM:0 "великим герцогом" #GetTitleKYM
  ARCHDUKE_KYM:0 "ерцгерцогом" #GetTitleKYM
  ARCHKING_KYM:0 "ерцкоролем" #GetTitleKYM
+ ARCHQUEEN_KYM:0 "ерцкоролевою" #GetTitleKYM
  PRINCE_KYM:0 "князем" #GetTitleKYM
  BAN_TITLE_KYM:0 "баном" #GetTitleKYM
  KRALJ_KYM:0 "кралем" #GetTitleKYM
@@ -631,6 +634,7 @@
  GRAND_DUKE_KHTO:0 "великий герцог" #GetTitleKHTO
  ARCHDUKE_KHTO:0 "ерцгерцог" #GetTitleKHTO
  ARCHKING_KHTO:0 "ерцкороль" #GetTitleKHTO
+ ARCHQUEEN_KHTO:0 "ерцкоролева" #GetTitleKHTO
  PRINCE_KHTO:0 "князь" #GetTitleKHTO
  BAN_TITLE_KHTO:0 "бан" #GetTitleKHTO
  KRALJ_KHTO:0 "краль" #GetTitleKHTO
@@ -834,6 +838,7 @@
  GRAND_DUKE_PRO:0 "великого герцога" #GetTitlePRO
  ARCHDUKE_PRO:0 "ерцгерцога" #GetTitlePRO
  ARCHKING_PRO:0 "ерцкороля" #GetTitlePRO
+ ARCHQUEEN_PRO:0 "ерцкоролеву" #GetTitlePRO
  PRINCE_PRO:0 "князя" #GetTitlePRO
  BAN_TITLE_PRO:0 "бана" #GetTitlePRO
  KRALJ_PRO:0 "краля" #GetTitlePRO
@@ -1037,6 +1042,7 @@
  GRAND_DUKE_KLY:0 "великий герцогу" #GetTitleKLY
  ARCHDUKE_KLY:0 "ерцгерцогу" #GetTitleKLY
  ARCHKING_KLY:0 "ерцкоролю" #GetTitleKLY
+ ARCHQUEEN_KLY:0 "ерцкоролево" #GetTitleKLY
  PRINCE_KLY:0 "князю" #GetTitleKLY
  BAN_TITLE_KLY:0 "бане" #GetTitleKLY
  KRALJ_KLY:0 "кралю" #GetTitleKLY

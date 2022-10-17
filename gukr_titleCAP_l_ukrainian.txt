@@ -24,6 +24,7 @@
  GRAND_DUKE_OGO_CAP:0 "Великого герцога" #GetTitleOGO_CAP
  ARCHDUKE_OGO_CAP:0 "Ерцгерцога" #GetTitleOGO_CAP
  ARCHKING_OGO_CAP:0 "Ерцкороля" #GetTitleOGO_CAP
+ ARCHQUEEN_OGO_CAP:0 "Ерцкоролеви" #GetTitleOGO_CAP
  PRINCE_OGO_CAP:0 "Князя" #GetTitleOGO_CAP
  BAN_TITLE_OGO_CAP:0 "Бана" #GetTitleOGO_CAP
  KRALJ_OGO_CAP:0 "Краля" #GetTitleOGO_CAP
@@ -226,6 +227,7 @@
  GRAND_DUKE_OMU_CAP:0 "Великому герцогові" #GetTitleOMU_CAP
  ARCHDUKE_OMU_CAP:0 "Ерцгерцогу" #GetTitleOMU_CAP
  ARCHKING_OMU_CAP:0 "Ерцкоролю" #GetTitleOMU_CAP
+ ARCHQUEEN_OMU_CAP:0 "Ерцкоролеві" #GetTitleOMU_CAP
  PRINCE_OMU_CAP:0 "Князю" #GetTitleOMU_CAP
  BAN_TITLE_OMU_CAP:0 "Бану" #GetTitleOMU_CAP
  KRALJ_OMU_CAP:0 "Кралю" #GetTitleOMU_CAP
@@ -428,6 +430,7 @@
  GRAND_DUKE_KYM_CAP:0 "Великим герцогом" #GetTitleKYM_CAP
  ARCHDUKE_KYM_CAP:0 "Ерцгерцогом" #GetTitleKYM_CAP
  ARCHKING_KYM_CAP:0 "Ерцкоролем" #GetTitleKYM_CAP
+ ARCHQUEEN_KYM_CAP:0 "Ерцкоролевою" #GetTitleKYM_CAP
  PRINCE_KYM_CAP:0 "Князем" #GetTitleKYM_CAP
  BAN_TITLE_KYM_CAP:0 "Баном" #GetTitleKYM_CAP
  KRALJ_KYM_CAP:0 "Кралем" #GetTitleKYM_CAP
@@ -631,6 +634,7 @@
  GRAND_DUKE_KHTO_CAP:0 "Великий герцог" #GetTitleKHTO_CAP
  ARCHDUKE_KHTO_CAP:0 "Ерцгерцог" #GetTitleKHTO_CAP
  ARCHKING_KHTO_CAP:0 "Ерцкороль" #GetTitleKHTO_CAP
+ ARCHQUEEN_KHTO_CAP:0 "Ерцкоролева" #GetTitleKHTO_CAP
  PRINCE_KHTO_CAP:0 "Князь" #GetTitleKHTO_CAP
  BAN_TITLE_KHTO_CAP:0 "Бан" #GetTitleKHTO_CAP
  KRALJ_KHTO_CAP:0 "Краль" #GetTitleKHTO_CAP
@@ -834,6 +838,7 @@
  GRAND_DUKE_PRO_CAP:0 "Великого герцога" #GetTitlePRO_CAP
  ARCHDUKE_PRO_CAP:0 "Ерцгерцога" #GetTitlePRO_CAP
  ARCHKING_PRO_CAP:0 "Ерцкороля" #GetTitlePRO_CAP
+ ARCHQUEEN_PRO_CAP:0 "Ерцкоролеву" #GetTitlePRO_CAP
  PRINCE_PRO_CAP:0 "Князя" #GetTitlePRO_CAP
  BAN_TITLE_PRO_CAP:0 "Бана" #GetTitlePRO_CAP
  KRALJ_PRO_CAP:0 "Краля" #GetTitlePRO_CAP
@@ -1037,6 +1042,7 @@
  GRAND_DUKE_KLY_CAP:0 "Великий герцогу" #GetTitleKLY_CAP
  ARCHDUKE_KLY_CAP:0 "Ерцгерцогу" #GetTitleKLY_CAP
  ARCHKING_KLY_CAP:0 "Ерцкоролю" #GetTitleKLY_CAP
+ ARCHQUEEN_KLY_CAP:0 "Ерцкоролево" #GetTitleKLY_CAP
  PRINCE_KLY_CAP:0 "Князю" #GetTitleKLY_CAP
  BAN_TITLE_KLY_CAP:0 "Бане" #GetTitleKLY_CAP
  KRALJ_KLY_CAP:0 "Кралю" #GetTitleKLY_CAP
