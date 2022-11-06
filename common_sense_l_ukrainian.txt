@@ -912,7 +912,7 @@
  subject_interaction_events.3.a:0 "[From.Monarch.GetName] держави [From.Country.GetName] відправи[From.GetMEndVLa] нам золото і солдатів!"
  subject_interaction_events.3.b:0 "[From.Monarch.GetName] відмови[From.GetMEndVLa]ся  нам допомагати!"
  subject_interaction_events.4.t:0 "Некомпетентність родича"
- subject_interaction_events.4.d:1 "Наш[incompetent_cousin_country.GetMEndA] улюблен[incompetent_cousin_country.GetMEndAYJ] кузен[incompetent_cousin_country.GetMEndA], що править  нашим васалом [incompetent_cousin_country.GetTagKYM], вияви[incompetent_cousin_country.GetMEndVLa]ся некомпетентн[incompetent_cousin_country.GetMEndOJuYM] блазнем, ми не можемо довірити [incompetent_cousin_country.GetMJIJOMU] подальше управління країною."
+ subject_interaction_events.4.d:1 "Наш[incompetent_cousin_country.GetMEndA] улюблен[incompetent_cousin_country.GetMEndAYJ] кузен[incompetent_cousin_country.GetMEndA], що править  нашим васалом [incompetent_cousin_country.GetTagKYM], вияви[incompetent_cousin_country.GetMEndVLa]ся некомпетентн[incompetent_cousin_country.GetMEndOJuYM] блазнем, ми не можемо довірити [incompetent_cousin_country.GetMJiJOMU] подальше управління країною."
  subject_interaction_events.4.a:0 "Спробуйте знайти хорошого правителя для мого васала."
  subject_interaction_events.4.b:0 "Це може принести смуту в державу. Залиште все як є."
  subject_interaction_events.5.t:0 "Компетентний кузен"
