@@ -65,7 +65,7 @@
  LEDGER_GOODS_LOCATIONS:0 "Розташування товарів"
  LEDGER_MILITARYPOWER:0 "Військова потужність"
  LEDGER_PRESTIGE:0 "Престиж"
- LEDGER_ALLIANCE:0 "Альянс"
+ LEDGER_ALLIANCE:0 "Союз"
  LEDGER_RM:0 "Шлюб"
  LEDGER_SUBJECT:0 "Суб'єкт"
  LEDGER_UNION:0 "Унія"
