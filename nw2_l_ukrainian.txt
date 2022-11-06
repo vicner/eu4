@@ -2,7 +2,7 @@
  ALLOW_ATTACH:0 "Союзники\nможуть приєднуватися"
  DIPLO_ALLY_IN_WAR:0 "Союзник у війні: "
  DIPLO_COALITION_WAR:0 "Коаліційна війна: "
- DIPLO_ALLIANCE_WINNING_WAR:0 "Воєнний рахунок альянсу: "
+ DIPLO_ALLIANCE_WINNING_WAR:0 "Воєнний рахунок союзу: "
  DIPLO_SEPARATE_PEACE:0 "Сепаратний мир: "
  TAG_IS_LESSER_SUBJECT:0 "Держава $SUBJECT$ - $SUBJECTTYPE$ держави $OVERLORD$."
  TAG_IS_COLONIAL_SUBJECT2:0 "§Y$WHO$§! є колоніальною автономією держави §Y$TARGET$§!, їхнє бажання свободи становить §Y$VAL$%§!."
