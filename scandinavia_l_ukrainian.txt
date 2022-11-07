@@ -1,20 +1,20 @@
-﻿l_english:
- EVTOPTL5060:0 "Curse you, comet sense!"
+﻿l_ukrainian:
+ EVTOPTL5060:0 "Хай тобі... в кометному сенсі!"
  ###MONUMENTS###
  falun_copper_mine:0 "Копальня Велика Мідна гора"
  visby_city:0 "Вісбю"
- kronborg:0 "Замок Кронборг"
+ kronborg:0 "Замок Кронборґ"
  trakai_castle:0 "Тракайський замок"
  salvador_da_bahia:0 "Салвадор-да-Байя"
- mbanza_kongo:0 "М'Банза-Конго"
- harar_jugol:0 "Харар Джугол"
+ mbanza_kongo:0 "М'Банза-Конґо"
+ harar_jugol:0 "Харер Джугол"
  dujiangyan:0 "Дуцзян'янь"
  ###MERCENARIES###
- merc_hakkapeliita_cavalry:1 "§JХаккапелійтська кавалерія§!"
- merc_large_hakkapeliita_cavalry:1 "§JХаккапелійтська армія§!"
- merc_guerilla_hakkapeliita_cavalry:1 "§JХаккапелійтські застрільники§!"
- merc_elite_hakkapeliita_cavalry:1 "§JЕлітні хаккапелійтти§!"
- merc_prussian_volunteer_army:1 "§JПрусська добровольча армія§!"
+ merc_hakkapeliita_cavalry:1 "§JГаккапелітська кавалерія§!"
+ merc_large_hakkapeliita_cavalry:1 "§JГаккапелітська армія§!"
+ merc_guerilla_hakkapeliita_cavalry:1 "§JГаккапелітські застрільники§!"
+ merc_elite_hakkapeliita_cavalry:1 "§JЕлітні гаккапеліти§!"
+ merc_prussian_volunteer_army:1 "§JПруська добровольча армія§!"
  FREE_OF_ARMY_PROFESSIONALISM_COST:0 "§JЦя найманська компанія більше не зменшує після найму §Yпрофесіоналізм армії§!.§!"
  ###SCRIPTED TRIGGERS###
  is_free_merc_company_tt:0 Це §YВільна компанія§!."
