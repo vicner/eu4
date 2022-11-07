@@ -997,7 +997,7 @@
  CULTURE_ALREADY_SELECTED:0 "Культура $CULTURE|Y$ вже обрана"
  SELECT_CULTURE_DESIGNER:0 "Обрати культуру $CULTURE|Y$ своєю основною культурою"
  CANNOT_CONCENTRATE_DEVELOPMENT_WRONG_SUBJECT_TYPE:0 "Суб'єкти $SUBJECTTYPE|Y$ не можуть концентрувати свій розвиток"
- SELECT_EDICT_FOR_PROVINCE:0 "Виберіть едикт для провінції $PROVINCE$:"
+ SELECT_EDICT_FOR_PROVINCE:0 "Виберіть едикт для $PROVINCE$:"
  IF_COLONY_SIZE_IS_X:0 "Якщо колонія має принаймні $SIZE|Y$ провінції:"
  active_religious_turmoil:0 "Релігійні потрясіння"
  CONTINUE_BUTTON_STATS:0 "Повернутися до гри"
