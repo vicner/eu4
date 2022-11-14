@@ -275,7 +275,7 @@
  TAG_OGO_VEN:0 "Венеції" #GetTagOGO
  TAG_OGO_VIE:0 "В'єнтьяна" #GetTagOGO
  TAG_OGO_VIJ:0 "Віджаянагари" #GetTagOGO
- TAG_OGO_WLS:0 "Уельса" #GetTagOGO
+ TAG_OGO_WLS:0 "Ўельса" #GetTagOGO
  TAG_OGO_WUR:0 "Вюртемберга" #GetTagOGO
  TAG_OGO_YAR:0 "Ярославля" #GetTagOGO
  TAG_OGO_YOR:0 "Андхри" #GetTagOGO
@@ -1088,7 +1088,7 @@
  TAG_KUDY_VEN:0 "Венецію" #GetTagKUDY
  TAG_KUDY_VIE:0 "В'єнтьян" #GetTagKUDY
  TAG_KUDY_VIJ:0 "Віджаянагару" #GetTagKUDY
- TAG_KUDY_WLS:0 "Уельс" #GetTagKUDY
+ TAG_KUDY_WLS:0 "Ўельс" #GetTagKUDY
  TAG_KUDY_WUR:0 "Вюртемберг" #GetTagKUDY
  TAG_KUDY_YAR:0 "Ярославль" #GetTagKUDY
  TAG_KUDY_YOR:0 "Андхру" #GetTagKUDY
@@ -1901,7 +1901,7 @@
  TAG_KYM_VEN:0 "Венецією" #GetTagKYM
  TAG_KYM_VIE:0 "В'єнтьяном" #GetTagKYM
  TAG_KYM_VIJ:0 "Віджаянагарою" #GetTagKYM
- TAG_KYM_WLS:0 "Уельсом" #GetTagKYM
+ TAG_KYM_WLS:0 "Ўельсом" #GetTagKYM
  TAG_KYM_WUR:0 "Вюртембергом" #GetTagKYM
  TAG_KYM_YAR:0 "Ярославлем" #GetTagKYM
  TAG_KYM_YOR:0 "Андхрою" #GetTagKYM
@@ -2714,7 +2714,7 @@
  TAG_DE_VEN:0 "Венеції" #GetTagDE
  TAG_DE_VIE:0 "В'єнтьяні" #GetTagDE
  TAG_DE_VIJ:0 "Віджаянагарі" #GetTagDE
- TAG_DE_WLS:0 "Уельсі" #GetTagDE
+ TAG_DE_WLS:0 "Ўельсі" #GetTagDE
  TAG_DE_WUR:0 "Вюртемберзі" #GetTagDE
  TAG_DE_YAR:0 "Ярославлі" #GetTagDE
  TAG_DE_YOR:0 "Андхрі" #GetTagDE
@@ -3527,7 +3527,7 @@
  TAG_OMU_VEN:0 "Венеції" #GetTagOMU
  TAG_OMU_VIE:0 "В'єнтьяну" #GetTagOMU
  TAG_OMU_VIJ:0 "Віджаянагарі" #GetTagOMU
- TAG_OMU_WLS:0 "Уельсу" #GetTagOMU
+ TAG_OMU_WLS:0 "Ўельсу" #GetTagOMU
  TAG_OMU_WUR:0 "Вюртембергу" #GetTagOMU
  TAG_OMU_YAR:0 "Ярославлю" #GetTagOMU
  TAG_OMU_YOR:0 "Андхрі" #GetTagOMU
@@ -4340,7 +4340,7 @@
  TAG_KLY_VEN:0 "Венеціє" #GetTagKLY
  TAG_KLY_VIE:0 "В'єнтьяне" #GetTagKLY
  TAG_KLY_VIJ:0 "Віджаянагаро" #GetTagKLY
- TAG_KLY_WLS:0 "Уельсе" #GetTagKLY
+ TAG_KLY_WLS:0 "Ўельсе" #GetTagKLY
  TAG_KLY_WUR:0 "Вюртембергу" #GetTagKLY
  TAG_KLY_YAR:0 "Ярославлю" #GetTagKLY
  TAG_KLY_YOR:0 "Андхро" #GetTagKLY
