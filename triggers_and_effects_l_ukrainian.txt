@@ -589,7 +589,7 @@
  HAVE_RULER_FLAG:0 "Має прапор правителя '§Y$FLAG$§W'."
  ADD_ARMYPROF_EFFECT:0 "Професіоналізм армії $DIRECTION$ на $PERC|2$\n"
  SET_ARMYPROF_EFFECT:0 "Професіоналізм армії встановлюється на $PERC|Y$\n"
- GOVERNMENT_POWER_EFFECT:0 "$DIRECTION$ $VALUE$ $NAME$.\n"
+ GOVERNMENT_POWER_EFFECT:0 "$NAME$ $DIRECTION$ на $VALUE$.\n"
  TRIG_NOT_USES_RELIGIOUS_SCHOOLS:0 "Релігія $RELIGION$ не має релігійних шкіл.\n"
  TRIG_USES_RELIGIOUS_SCHOOLS:0 "Релігія $RELIGION$ має релігійні школи.\n"
  TRIG_NOT_HAS_RELIGIOUS_SCHOOL:0 "Держава $COUNTRY$ не має релігійної школи.\n"
