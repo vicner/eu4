@@ -503,7 +503,7 @@
  trade_policy_events.10.d:1 "[trade_province.GetFancyTradeGood] з провінції [trade_province.GetName] останнім часом приносить гарний прибуток як на закордонних, так і на внутрішніх ринках. Настільки гарний, що це породило нове покоління підприємців і економічні спекуляції."
  trade_policy_events.10.a:0 "Ми маємо втрутитися, щоб уникнути прикрощів."
  trade_policy_events.10.b:0 "Полегшимо правила, щоби дійсно допомогти місцевим підприємцям."
- trade_policy_events.11.t:0 "На [trade_province.GetFancyTradeGood_LOW] немає попиту"
+ trade_policy_events.11.t:0 "[trade_province.GetFancyTradeGood] не користується попитом"
  trade_policy_events.11.d:0 "Провінція [trade_province.GetName] довгий час жила за рахунок місцевого виробництва товару [trade_province.GetFancyTradeGood_LOW], але останнім часом торговці були змушені продавати свою продукцію за зниженими цінами. Складно сказати, чи пов'язано це з тимчасовими примхами моди або більш довготривалими змінами, але зрозуміло, що місцева торгівля страждає."
  trade_policy_events.11.a:0 "Шкода."
  trade_policy_events.12.t:0 "Поширення ідей"
