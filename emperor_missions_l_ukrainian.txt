@@ -2349,7 +2349,7 @@
  full_annexation_tooltip:0 "§RВибір цього варіанту призведе до повної анексії держави [Root.GetName].§!"
 
  fla_flemish_cloth_trigger_tooltip:0 "Усі приналежні провінції в регіоні §YНижні землі§! мають §Yмануфактури§!"
- emp_pap_rebuild_the_papal_treasury_effect_tooltip:0 "Прибуток від папської десятини збільшується на §G20%§! на §Y20§! років."
+ emp_pap_rebuild_the_papal_treasury_effect_tooltip:0 "Дохід від папської десятини збільшується на §G20%§! на §Y20§! років."
  pap_higher_curia_contribution_hidden_modifier:0 "Базова:"
  desc_pap_higher_curia_contribution_hidden_modifier:0 ""
 
