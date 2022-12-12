@@ -76,7 +76,7 @@
  AI_RULER_CONDOTTIERI:0 "Надавати перевагу кондотьєрам."
  AI_RULER_RANDOM_TROOP_MOVES:0 "Час-від-часу віддавати випадкові накази військам."
  AI_RULER_LOWER_AUTONOMY:0 "Прагнути меншу автономію для пригноблених."
- AI_RULER_RAZE:0 "Любити розоряти і грабувати."
+ AI_RULER_RAZE:0 "Любити грабувати і спустошувати."
  AI_RULER_FAIR_FIGHTS:0 "Схильний обирати рівних по силі супротивників."
  AI_RULER_MORE_ENEMY_STRENGTH:0 "Переоцінювати силу ворожих військ."
  AI_RULER_LESS_ENEMY_STRENGTH:0 "Недооцінювати силу ворожих військ."
