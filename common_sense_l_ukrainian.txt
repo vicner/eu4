@@ -166,7 +166,7 @@
  opinion_condemn_witchtrials_bad:0 "Суди над відьмами заборонено"
  opinion_allows_witchtrials_good:0 "Суди над відьмами дозволено"
  opinion_allows_witchtrials_bad:0 "Суди над відьмами дозволено"
- RAZE_POWER_GAIN:0 "Бали за руйнування"
+ RAZE_POWER_GAIN:0 "Бали за спустошення"
  MODIFIER_LOOT_AMOUNT:0 "Швидкість пограбувань"
  opinion_erased_rival_pope:0 "Рішення ворожого Папи скасовано"
  opinion_erased_pope:0 "Рішення нашого Папи скасовано"

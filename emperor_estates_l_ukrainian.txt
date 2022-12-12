@@ -457,7 +457,7 @@
  estate_burghers_reduce_corruption:0 "Знизити корупцію"
  estate_burghers_protect_against_piracy:0 "Захиститися від піратства"
  estate_nomadic_tribes_give_us_money:0 "Компенсувати внески стану"
- estate_nomadic_tribes_raze_a_province:1 "Знищити наших ворогів"
+ estate_nomadic_tribes_raze_a_province:1 "Спустошити наших ворогів"
  estate_nomadic_tribes_restore_horde_unity:0 "Відновити єдність"
  estate_nomadic_tribes_befriend_rival_of_rival:1 "Подружитися з суперниками [rival_country.GetUsableNameOGO]"
  estate_nomadic_tribes_relations_with_X:0 "Поліпшити стосунки з [agenda_country.GetUsableNameKYM]"
@@ -749,7 +749,7 @@
  someone_has_100_looted_province:0 "Будь-яка держава:\n Має думку щонайменше §Y-100§! стосовно §Y[Root.GetTagOGO]§! – §YЗруйнували наші провінції§!"
  someone_has_75_looted_province:0 "Будь-яка держава:\n Має думку щонайменше §Y-75§! стосовно §Y[Root.GetTagOGO]§! – §YЗруйнували наші провінції§!"
  someone_has_50_looted_province:0 "Будь-яка держава:\n Має думку щонайменше §Y-50§! стосовно §Y[Root.GetTagOGO]§! – §YЗруйнували наші провінції§!"
- someone_has_25_looted_province:0 "Будь-яка держава:\n Має думку щонайменше §Y-25§! стосовно §Y[Root.GetTagOGO]§! – §YЗруйнували наші провінції§!"
+ someone_has_25_looted_province:0 "Будь-яка держава:\n Має думку щонайменше §Y-25§! стосовно §Y[Root.GetTagOGO]§! – §YСпустошили наші провінції§!"
 
  estate_burghers_monopoly_of_textiles_revoke_tooltip:0 "Дохід від виробництва §Yтканини§! та §Yшовку§! відновлено"
  estate_burghers_monopoly_of_dyes_revoke_tooltip:0 "Дохід від виробництва §Yбарвників§! відновлено"
@@ -988,7 +988,7 @@
 
  estate_nomadic_tribes_hire_advisor_desc:0 "[Root.NomadicNZ_CAP] воліють, щоб [Root.Monarch.GetTitleKHTO] найня[Root.GetMEndVLa] нового військового радника."
  estate_nomadic_tribes_fire_advisor_desc:0 "[Root.Mil_Advisor.GetTitle] [Root.Mil_Advisor.GetName] образи[Root.Mil_Advisor.GetAMEndVLa] [Root.NomadicNZ]. Вони вимагають, щоби ми [Root.Mil_Advisor.GetHerHis] звільнили!"
- estate_nomadic_tribes_raze_a_province_desc:0 "Воїни [Root.NomadicRD] жадають наживи! Вони вимагають, щоби ми сплюндрували наших ворогів!"
+ estate_nomadic_tribes_raze_a_province_desc:0 "Воїни [Root.NomadicRD] жадають наживи! Вони вимагають, щоби ми спустошили наших ворогів!"
  estate_nomadic_tribes_restore_horde_unity_desc:0 "[Root.NomadicNZ_CAP] оплакують слабкість, яку приносять наші розбіжності. Вони закликають нас об'єднати [Root.GetGovernmentSCHO] будь-якими засобами."
  estate_nomadic_tribes_befriend_rival_of_rival_desc:0 "[Root.NomadicNZ_CAP] стурбовані загрозою, яка йде від наших суперників [rival_country.GetUsableNameOGO]. Вони рекомендують нам знайти спільну мову з суперниками останніх [agenda_country.GetUsableNameKYM], щоби протистояти їм разом."
  estate_nomadic_tribes_relations_with_X_desc:0 "[Root.NomadicNZ_CAP] розглядають [agenda_country.GetUsableNameSCHO] як цінного потенційного союзника. Вони рекомендують нам прагнути до тісніших зв'язків з ними."
