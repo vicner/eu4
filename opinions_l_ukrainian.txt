@@ -154,7 +154,7 @@
  secularized_monastic_order:0 "Секуляризував монастирський орден"
  secularized_bishopric:0 "Секуляризована єпархія"
  share_advanced_neighbor:0 "Розвиненіший сусід"
- razed_province:0 "Зруйнував наші провінції"
+ razed_province:0 "Спустошили наші провінції"
  pirated_us:0 "Піратствував проти нас"
  opinion_emperor_tus_refused:0 "Відмовився поступитися Імператору"
  opinion_papal_tus_refused:0 "Відмовився поступитися Імператору"
