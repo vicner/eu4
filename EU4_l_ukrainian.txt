@@ -5014,7 +5014,7 @@
  alert_age_can_spend_splendor_delayed:0 "Поточний рівень вашої Величі дозволяє купити здібності."
  alert_can_enact_decree_instant:0 "§YМожна прийняти указ!§!"
  alert_can_enact_decree_delayed:0 "Поточний рівень вашої меритократії дозволяє приймати укази."
- alert_can_use_russian_ability_instant:0 "§YМожна застосувати руську здібність!§!"
+ alert_can_use_russian_ability_instant:0 "§YМожна застосувати царську здібність!§!"
  alert_can_use_russian_ability_delayed:0 "Ви можете скористатися здібністю $POWERS|Y$."
  alert_can_use_cossacks_ability_instant:0 "§YМожна застосувати козацьку здібність!§!"
  alert_can_use_cossacks_ability_delayed:0 "Ви можете скористатися здібністю $POWERS|Y$."
