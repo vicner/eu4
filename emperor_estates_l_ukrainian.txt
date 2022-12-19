@@ -3,7 +3,7 @@
  estate_nobles_land_rights:0 "Розширення володінь стану $ESTATE_NAME$"
  estate_nobles_nobility_primacy:0 "Верховенство стану $ESTATE_NAME$"
  estate_nobles_officer_corp:0 "$ESTATE_NAME$ в офіцерському корпусі"
- estate_nobles_levies:0 "Збільшення числа рекрутів"
+ estate_nobles_levies:0 "Збільшення набору"
  estate_nobles_advisors:0 "Радники-аристократи"
  estate_nobles_right_of_counsel:0 "Право на захист"
  estate_nobles_french_strong_duchies:0 "Сильні французькі герцогства"
