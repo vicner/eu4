@@ -297,7 +297,7 @@
  FACTIONS:0 "Доступні фракції: "
  mechanic_is_trading_city_yes:1 "Є §Yторговим містом§!."
  mechanic_free_city_yes:1 "Є §Yвільним містом§!."
- ability_russian_mechanic:0 "Російський уряд"
+ ability_russian_mechanic:0 "Царський уряд"
  ability_feudal_theocracy_mechanic:1 "Феодальна теократія"
  monarchy_mechanic:0 "Монархія"
  republic_mechanic:0 "Республіка"
