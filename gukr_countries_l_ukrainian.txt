@@ -561,7 +561,7 @@
  TAG_OGO_OKA:0 "Одоєва" #GetTagOGO
  TAG_OGO_ICE:0 "Ісландії" #GetTagOGO
  TAG_OGO_SLO:0 "Нітри" #GetTagOGO
- TAG_OGO_HSC:0 "Гелдома" #GetTagOGO
+ TAG_OGO_HSC:0 "Ґелдома" #GetTagOGO
  TAG_OGO_ROM:0 "Римської імперії" #GetTagOGO
  TAG_OGO_DTT:0 "Дитмаршена" #GetTagOGO
  TAG_OGO_GLH:0 "Золотої Орди" #GetTagOGO
@@ -1374,7 +1374,7 @@
  TAG_KUDY_OKA:0 "Одоєв" #GetTagKUDY
  TAG_KUDY_ICE:0 "Ісландію" #GetTagKUDY
  TAG_KUDY_SLO:0 "Нітру" #GetTagKUDY
- TAG_KUDY_HSC:0 "Гелдом" #GetTagKUDY
+ TAG_KUDY_HSC:0 "Ґелдом" #GetTagKUDY
  TAG_KUDY_ROM:0 "Римську імперію" #GetTagKUDY
  TAG_KUDY_DTT:0 "Дитмаршен" #GetTagKUDY
  TAG_KUDY_GLH:0 "Золоту Орду" #GetTagKUDY
@@ -2187,7 +2187,7 @@
  TAG_KYM_OKA:0 "Одоєвом" #GetTagKYM
  TAG_KYM_ICE:0 "Ісландією" #GetTagKYM
  TAG_KYM_SLO:0 "Нітрою" #GetTagKYM
- TAG_KYM_HSC:0 "Гелдомом" #GetTagKYM
+ TAG_KYM_HSC:0 "Ґелдомом" #GetTagKYM
  TAG_KYM_ROM:0 "Римською імперією" #GetTagKYM
  TAG_KYM_DTT:0 "Дитмаршеном" #GetTagKYM
  TAG_KYM_GLH:0 "Золотою Ордою" #GetTagKYM
@@ -3000,7 +3000,7 @@
  TAG_DE_OKA:0 "Одоєві" #GetTagDE
  TAG_DE_ICE:0 "Ісландії" #GetTagDE
  TAG_DE_SLO:0 "Нітрі" #GetTagDE
- TAG_DE_HSC:0 "Гелдомі" #GetTagDE
+ TAG_DE_HSC:0 "Ґелдомі" #GetTagDE
  TAG_DE_ROM:0 "Римській імперії" #GetTagDE
  TAG_DE_DTT:0 "Дитмаршені" #GetTagDE
  TAG_DE_GLH:0 "Золотій Орді" #GetTagDE
@@ -3813,7 +3813,7 @@
  TAG_OMU_OKA:0 "Одоєву" #GetTagOMU
  TAG_OMU_ICE:0 "Ісландії" #GetTagOMU
  TAG_OMU_SLO:0 "Нітрі" #GetTagOMU
- TAG_OMU_HSC:0 "Гелдому" #GetTagOMU
+ TAG_OMU_HSC:0 "Ґелдому" #GetTagOMU
  TAG_OMU_ROM:0 "Римській імперії" #GetTagOMU
  TAG_OMU_DTT:0 "Дитмаршену" #GetTagOMU
  TAG_OMU_GLH:0 "Золотій Орді" #GetTagOMU
@@ -4626,7 +4626,7 @@
  TAG_KLY_OKA:0 "Одоєве" #GetTagKLY
  TAG_KLY_ICE:0 "Ісландіє" #GetTagKLY
  TAG_KLY_SLO:0 "Нітро" #GetTagKLY
- TAG_KLY_HSC:0 "Гелдоме" #GetTagKLY
+ TAG_KLY_HSC:0 "Ґелдоме" #GetTagKLY
  TAG_KLY_ROM:0 "Римська імперіє" #GetTagKLY
  TAG_KLY_DTT:0 "Дитмаршене" #GetTagKLY
  TAG_KLY_GLH:0 "Золота Ордо" #GetTagKLY
