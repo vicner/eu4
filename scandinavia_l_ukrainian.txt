@@ -4482,13 +4482,13 @@
  
  #Ideas 
  lit_new_magdeburg_laws:0 "Нове магдебурзьке право"
- lit_new_magdeburg_laws_desc:0 "One of the consequences of Lithuania's drift towards the west is the introduction of German city laws to many urban areas of the country. Magdeburg laws in their custom local form will govern many different economic and political aspects of urbanization of the country, from city planning to trade and taxation."
+ lit_new_magdeburg_laws_desc:0 "Одним з наслідків литовського зближення з Заходом – запровадження німецького міського права в багатьох урбанізованих районах держави. Магдебурзьке право, адаптоване до місцевих умов, впорядкує багато різноманітних економічних та політичних аспектів урбанізації держави – від планування до торгівлі та оподаткування."
  LIT2_ideas:0 "Литовські ідеї"
  LIT2_ideas_start:0 "Литовські традиції"
  LIT2_ideas_bonus:0 "Литовські амбіції"
- PLC_LIT_ideas:0 "Ідеї ЛПД"
- PLC_LIT_ideas_start:0 "Традиції ЛПД"
- PLC_LIT_ideas_bonus:0 "Амбіції ЛПД"
+ PLC_LIT_ideas:0 "Ідеї ЛПРП"
+ PLC_LIT_ideas_start:0 "Традиції ЛПРП"
+ PLC_LIT_ideas_bonus:0 "Амбіції ЛПРП"
  
  #Namechange
  LPC:0 "Литовсько-польська Річ Посполита"
