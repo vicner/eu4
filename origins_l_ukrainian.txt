@@ -1173,7 +1173,7 @@
  son_third_branch_mission_desc:0 "[Root.GetSelectableMissionDescription]"
  son_fourth_branch_mission_title:0 "[Root.GetSelectableMissionTitle]"
  son_fourth_branch_mission_desc:0 "[Root.GetSelectableMissionDescription]"
- SELECTABLE_MISSION_TITLE:0 "Branching Mission"
+ SELECTABLE_MISSION_TITLE:0 "Галужена місія"
  SELECTABLE_MISSION_DESCRIPTION:0 "This mission is a §YBranching Mission§!. Through events or through other missions, this mission will be replaced with a new, final version."
  selectable_mission_trigger_tt:0 "This mission cannot be completed as it is a §YBranching Mission§!."
  son_religious_triggers_tt:0 "\nЯкщо §Y[Root.GetName]§! обере шлях §Yнавернення§!, для завершення цієї місії необхідно буде виконати такі умови:"
