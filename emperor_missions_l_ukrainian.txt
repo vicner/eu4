@@ -2271,7 +2271,7 @@
  gen_trade_spanish_conquest:0 "Еспанські завоювання"
  emp_mlo_swiss_mercs_trigger_tooltip:0 "Держава §Y[Root.GetName]§! виграла війну, використовуючи найманців із §YШвейцарії§! або §YРомандії§!."
  emp_gen_safety_at_home_and_abroad_trigger:0 "Усі сусідні держави, які володіють провінціями в регіоні §YІталія§!:\n   Одна з наступних умов має бути виконана:\n      Союз з §Y[Root.GetTagKYM]§!\n      Військо менше ніж §Y[Root.Get_UV] [Root.GetTagOGO]§!"
- add_5_crown_land_share:0 "§Y[Root.GetName]§! отримає §G5§! королівських землеволодіннь."
+ add_5_crown_land_share:0 "§Y[Root.GetName]§! отримає §G5§! коронних земель."
  VAL_HAB_BALANCED_ESTATES:0 "Збалансованість станів: §G$VAL$§!"
  VAL_BUR_APPEASED_ESTATES:0 "Заспокоєність станів: §G$VAL$§!"
  VAL_BAV_DEALT_WITH_ILLUMINATI:0 "Розібралися з ілюмінатами: §G$VAL$§!"
