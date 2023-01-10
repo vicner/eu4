@@ -80,7 +80,7 @@
  CONFIRMFABRICATECLAIM:0 "Фабрикувати претензії"
  CONFIRMFABRICATECLAIMDESC:0 "Бажаєте сфабрикувати претензії на провінцію $PROV|Y$?"
  CONFIRMCHANGECULTURE:0 "Змінити культуру!"
- CONFIRMCHANGECULTURETEXT:0 "Бажаєте зробити §Y$CULTURE$§zу§W культуру основною в провінції §Y$PROV$§W!?"
+ CONFIRMCHANGECULTURETEXT:0 "Бажаєте зробити §Y$CULTURE$§z§!§Yу§W культуру основною в провінції §Y$PROV$§W!?"
  CONFIRMCHANGECULTURECOST:0 "Це коштуватиме §Y$COST$§W балів ($TYPE$)."
  CONFIRMCANCELCHANGECULTURE:0 "Скасувати зміну культури!"
  CONFIRMCANCELCHANGECULTUREDESC:0 "Бажаєте скасувати зміну культури в провінції §Y$PROV$§W?"
