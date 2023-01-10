@@ -682,7 +682,7 @@
  COT_DESCRIPTION_SHORT:0 "$TYPE$ центр торгівлі $LEVEL|Y$ рівня ($NAME|Y$)\n"
  COT_UPGRADE_DOWNGRADE:0 "Клацніть ЛКМ або ПКМ для підвищення або зниження."
  COT_DESCRIPTION:0 "$DESCRIPTION$\n$NAME|Y$ надає такі переваги:\n\n$MODIFIERS$\n"
- COT_CLICK_TO_UPGRADE:0 "Клацніть ЛКМ, щоби покращити цей центр на $NAME|Y$ за $COST|Y$¤ престижу."
+ COT_CLICK_TO_UPGRADE:0 "Клацніть ЛКМ, щоби покращити цей центр на $NAME|Y$ за $COST|Y$¤."
  COT_RIGHT_CLICK_TO_DOWNGRADE:0 "Клацніть ПКМ для зниження до рівня $NAME|Y$ за $COST|R$ престижу."
  COT_RIGHT_CLICK_TO_DOWNGRADE_SUBJECT:0 "Клацніть ПКМдля зниження до рівня $NAME|Y$ за $COST|R$ престижу. Знизивши рівень центру торгівлі свого суб'єкта ви підвищите його бажання свободи на §R$LIBERTY_DESIRE$%§!."
  COT_MIN_LEVEL:0 "§RВи не можете знизити рівень центру торгівлі, оскільки він вже найнижчий!§!"
