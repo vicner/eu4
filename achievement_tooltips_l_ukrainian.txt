@@ -11,7 +11,7 @@
  achievement_lion_of_the_north_tooltip:0 "Очолив Протестантську Лігу та здобув перемогу у над Імператором у Війні Ліг."
  achievement_even_better_than_piet_heyn_tooltip:0 "Пограбував золотий флот більш ніж на 100 золотих за один захід."
  achievement_on_the_edge_of_madness_tooltip_95_doom:0 "Граючи за Ацтеків досяг 95 балів приреченості протягом 20 років, не досягаючи 100 балів."
- achievement_magellans_voyage_tooltip:0 "Здійснив першу навколосвітню подорож."
+ achievement_magellans_voyage_tooltip:0 "Бути першою державою, яка здійснила навколосвітню подорож."
  voting_streak:0 "Успішно провів поправку в парламенті"
  achievement_the_continuation_of_diplomacy_tooltip:0 "Здобув провінцію через погрозу війни."
  achievement_time_bandit_tooltip:0 "Вкрав мапу в іншої країни."
@@ -61,3 +61,4 @@
  achievement_purify_the_temple_tooltip:1 "Використали §YРозграбувати єретичну церкву§! проти держави §Y[118.Owner.GetName]§! і розграбували церкву в провінції §Y[118.GetName]§!."
  has_celebrated_festival_tooltip:0 "Відсвяткували фестиваль."
  achievement_the_freest_man_in_the_world_tooltip:0 "Жодна колоніальна провінція у світі не виробляє §Yрабів§!."
+ achievement_mehmet_ambition_tooltip:0 "Owned by §Y[Root.GetName]§! or its §YCore Eyalet§! subjects."
