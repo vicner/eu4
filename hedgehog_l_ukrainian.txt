@@ -147,7 +147,7 @@
  ancestor_fierce_negotiator_personality:0 "Запеклий перемовець"
  desc_ancestor_fierce_negotiator_personality:0 ""
  MIGRATION_BASE_COST:0 "Базова вартість: §Y50§!\n"
- MIGRATION_MULTIPLIER:0 "Поза племінних земель: §Yx§!$MULT|Y$\n"
+ MIGRATION_MULTIPLIER:0 "Поза племінними землями: §Yx§!$MULT|Y$\n"
  MIGRATION_MODIFIER:0 "Додатково модифікується:\n$MOD$"
  NATIVE_TRIBES_CANT_COLONISE:0 "§RТубільні племена не можуть колонізувати.§!"
  FEDERATION_ADVANCEMENT_NO_FEDERATION:0 "§RНе входить до складу федерації.§!"
