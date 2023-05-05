@@ -590,6 +590,7 @@
  ADD_ARMYPROF_EFFECT:0 "Професіоналізм армії $DIRECTION$ на $PERC|2$\n"
  SET_ARMYPROF_EFFECT:0 "Професіоналізм армії встановлюється на $PERC|Y$\n"
  GOVERNMENT_POWER_EFFECT:0 "$NAME$ $DIRECTION$ на $VALUE$.\n"
+ ADD_GOVERNMENT_POWER_SCALED_TO_SEATS:0 "$DIRECTION$ $VALUE|G$ $NAME$ від місць у парламенті."
  TRIG_NOT_USES_RELIGIOUS_SCHOOLS:0 "Релігія $RELIGION$ не має релігійних шкіл.\n"
  TRIG_USES_RELIGIOUS_SCHOOLS:0 "Релігія $RELIGION$ має релігійні школи.\n"
  TRIG_NOT_HAS_RELIGIOUS_SCHOOL:0 "Держава $COUNTRY$ не має релігійної школи.\n"
