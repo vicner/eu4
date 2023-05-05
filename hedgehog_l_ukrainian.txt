@@ -47,7 +47,7 @@
  IS_ALREADY_ANCESTOR:1 "$WHO|Y$ вже є предком."
  ANCESTOR_DIP_COST:1 "Ви не маєте $VAL|Y$£dip£ балів."
  CONFIRM_PICK_ANCESTOR_DESC:0 "Впевнені, що хочете зробити $MONARCH|Y$ частиною вашої родової історії? Це матиме такі ефекти:\n$EFFECT$\n\nЦе коштуватиме $COST|Y$£dip£ балів."
- CONFIRM_PICK_ANCESTOR:0 "Підтвердьте вибір предка"
+ CONFIRM_PICK_ANCESTOR:0 "Затвердіть вибір предка"
  SETTLE_PROVINCE_EFFECT:0 "$TAG$ заселить провінцію $PROV$.\n"
  ALREADY_TRIBAL_LAND_OF:0 "§R$PROV|Y$ вже є племінною землею племені $WHO|Y$.§!\n"
  MIGRATORY_TRIBE_NOT_ON_PROVINCE:0 "§!Плем'я не перебуває у провінції $PROV|Y$.§!\n"
