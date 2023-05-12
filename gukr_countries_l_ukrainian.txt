@@ -103,11 +103,11 @@
  TAG_OGO_GEO:0 "Грузії" #GetTagOGO
  TAG_OGO_GER:0 "Німеччини" #GetTagOGO
  TAG_OGO_GOL:0 "Великої Орди" #GetTagOGO
- TAG_OGO_GOT:0 "Готланда" #GetTagOGO
- TAG_OGO_GRA:0 "Гранади" #GetTagOGO
+ TAG_OGO_GOT:0 "Ґотланда" #GetTagOGO
+ TAG_OGO_GRA:0 "Ґранади" #GetTagOGO
  TAG_OGO_GRE:0 "Греції" #GetTagOGO
- TAG_OGO_GUJ:0 "Гуджарата" #GetTagOGO
- TAG_OGO_GUY:0 "Гієні" #GetTagOGO
+ TAG_OGO_GUJ:0 "Ґуджарата" #GetTagOGO
+ TAG_OGO_GUY:0 "Ґієні" #GetTagOGO
  TAG_OGO_HAB:0 "Австрії" #GetTagOGO
  TAG_OGO_HAI:0 "Ено" #GetTagOGO
  TAG_OGO_HAM:0 "Гамбурга" #GetTagOGO
@@ -275,7 +275,7 @@
  TAG_OGO_VEN:0 "Венеції" #GetTagOGO
  TAG_OGO_VIE:0 "В'єнтьяна" #GetTagOGO
  TAG_OGO_VIJ:0 "Віджаянагари" #GetTagOGO
- TAG_OGO_WLS:0 "Уельса" #GetTagOGO
+ TAG_OGO_WLS:0 "Ўельса" #GetTagOGO
  TAG_OGO_WUR:0 "Вюртемберга" #GetTagOGO
  TAG_OGO_YAR:0 "Ярославля" #GetTagOGO
  TAG_OGO_YOR:0 "Андхри" #GetTagOGO
@@ -561,7 +561,7 @@
  TAG_OGO_OKA:0 "Одоєва" #GetTagOGO
  TAG_OGO_ICE:0 "Ісландії" #GetTagOGO
  TAG_OGO_SLO:0 "Нітри" #GetTagOGO
- TAG_OGO_HSC:0 "Гелдома" #GetTagOGO
+ TAG_OGO_HSC:0 "Ґелдома" #GetTagOGO
  TAG_OGO_ROM:0 "Римської імперії" #GetTagOGO
  TAG_OGO_DTT:0 "Дитмаршена" #GetTagOGO
  TAG_OGO_GLH:0 "Золотої Орди" #GetTagOGO
@@ -916,11 +916,11 @@
  TAG_KUDY_GEO:0 "Грузію" #GetTagKUDY
  TAG_KUDY_GER:0 "Німеччину" #GetTagKUDY
  TAG_KUDY_GOL:0 "Велику Орду" #GetTagKUDY
- TAG_KUDY_GOT:0 "Готланд" #GetTagKUDY
- TAG_KUDY_GRA:0 "Гранаду" #GetTagKUDY
+ TAG_KUDY_GOT:0 "Ґотланд" #GetTagKUDY
+ TAG_KUDY_GRA:0 "Ґранаду" #GetTagKUDY
  TAG_KUDY_GRE:0 "Грецію" #GetTagKUDY
- TAG_KUDY_GUJ:0 "Гуджарат" #GetTagKUDY
- TAG_KUDY_GUY:0 "Гієнь" #GetTagKUDY
+ TAG_KUDY_GUJ:0 "Ґуджарат" #GetTagKUDY
+ TAG_KUDY_GUY:0 "Ґієнь" #GetTagKUDY
  TAG_KUDY_HAB:0 "Австрію" #GetTagKUDY
  TAG_KUDY_HAI:0 "Ено" #GetTagKUDY
  TAG_KUDY_HAM:0 "Гамбург" #GetTagKUDY
@@ -1088,7 +1088,7 @@
  TAG_KUDY_VEN:0 "Венецію" #GetTagKUDY
  TAG_KUDY_VIE:0 "В'єнтьян" #GetTagKUDY
  TAG_KUDY_VIJ:0 "Віджаянагару" #GetTagKUDY
- TAG_KUDY_WLS:0 "Уельс" #GetTagKUDY
+ TAG_KUDY_WLS:0 "Ўельс" #GetTagKUDY
  TAG_KUDY_WUR:0 "Вюртемберг" #GetTagKUDY
  TAG_KUDY_YAR:0 "Ярославль" #GetTagKUDY
  TAG_KUDY_YOR:0 "Андхру" #GetTagKUDY
@@ -1374,7 +1374,7 @@
  TAG_KUDY_OKA:0 "Одоєв" #GetTagKUDY
  TAG_KUDY_ICE:0 "Ісландію" #GetTagKUDY
  TAG_KUDY_SLO:0 "Нітру" #GetTagKUDY
- TAG_KUDY_HSC:0 "Гелдом" #GetTagKUDY
+ TAG_KUDY_HSC:0 "Ґелдом" #GetTagKUDY
  TAG_KUDY_ROM:0 "Римську імперію" #GetTagKUDY
  TAG_KUDY_DTT:0 "Дитмаршен" #GetTagKUDY
  TAG_KUDY_GLH:0 "Золоту Орду" #GetTagKUDY
@@ -1729,11 +1729,11 @@
  TAG_KYM_GEO:0 "Грузією" #GetTagKYM
  TAG_KYM_GER:0 "Німеччиною" #GetTagKYM
  TAG_KYM_GOL:0 "Великою Ордою" #GetTagKYM
- TAG_KYM_GOT:0 "Готландом" #GetTagKYM
- TAG_KYM_GRA:0 "Гранадою" #GetTagKYM
+ TAG_KYM_GOT:0 "Ґотландом" #GetTagKYM
+ TAG_KYM_GRA:0 "Ґранадою" #GetTagKYM
  TAG_KYM_GRE:0 "Грецією" #GetTagKYM
- TAG_KYM_GUJ:0 "Гуджаратом" #GetTagKYM
- TAG_KYM_GUY:0 "Гієнню" #GetTagKYM
+ TAG_KYM_GUJ:0 "Ґуджаратом" #GetTagKYM
+ TAG_KYM_GUY:0 "Ґієнню" #GetTagKYM
  TAG_KYM_HAB:0 "Австрією" #GetTagKYM
  TAG_KYM_HAI:0 "Ено" #GetTagKYM
  TAG_KYM_HAM:0 "Гамбургом" #GetTagKYM
@@ -1901,7 +1901,7 @@
  TAG_KYM_VEN:0 "Венецією" #GetTagKYM
  TAG_KYM_VIE:0 "В'єнтьяном" #GetTagKYM
  TAG_KYM_VIJ:0 "Віджаянагарою" #GetTagKYM
- TAG_KYM_WLS:0 "Уельсом" #GetTagKYM
+ TAG_KYM_WLS:0 "Ўельсом" #GetTagKYM
  TAG_KYM_WUR:0 "Вюртембергом" #GetTagKYM
  TAG_KYM_YAR:0 "Ярославлем" #GetTagKYM
  TAG_KYM_YOR:0 "Андхрою" #GetTagKYM
@@ -2187,7 +2187,7 @@
  TAG_KYM_OKA:0 "Одоєвом" #GetTagKYM
  TAG_KYM_ICE:0 "Ісландією" #GetTagKYM
  TAG_KYM_SLO:0 "Нітрою" #GetTagKYM
- TAG_KYM_HSC:0 "Гелдомом" #GetTagKYM
+ TAG_KYM_HSC:0 "Ґелдомом" #GetTagKYM
  TAG_KYM_ROM:0 "Римською імперією" #GetTagKYM
  TAG_KYM_DTT:0 "Дитмаршеном" #GetTagKYM
  TAG_KYM_GLH:0 "Золотою Ордою" #GetTagKYM
@@ -2542,11 +2542,11 @@
  TAG_DE_GEO:0 "Грузії" #GetTagDE
  TAG_DE_GER:0 "Німеччині" #GetTagDE
  TAG_DE_GOL:0 "Великій Орді" #GetTagDE
- TAG_DE_GOT:0 "Готланді" #GetTagDE
- TAG_DE_GRA:0 "Гранаді" #GetTagDE
+ TAG_DE_GOT:0 "Ґотланді" #GetTagDE
+ TAG_DE_GRA:0 "Ґранаді" #GetTagDE
  TAG_DE_GRE:0 "Греції" #GetTagDE
- TAG_DE_GUJ:0 "Гуджараті" #GetTagDE
- TAG_DE_GUY:0 "Гієні" #GetTagDE
+ TAG_DE_GUJ:0 "Ґуджараті" #GetTagDE
+ TAG_DE_GUY:0 "Ґієні" #GetTagDE
  TAG_DE_HAB:0 "Австрії" #GetTagDE
  TAG_DE_HAI:0 "Ено" #GetTagDE
  TAG_DE_HAM:0 "Гамбурзі" #GetTagDE
@@ -2714,7 +2714,7 @@
  TAG_DE_VEN:0 "Венеції" #GetTagDE
  TAG_DE_VIE:0 "В'єнтьяні" #GetTagDE
  TAG_DE_VIJ:0 "Віджаянагарі" #GetTagDE
- TAG_DE_WLS:0 "Уельсі" #GetTagDE
+ TAG_DE_WLS:0 "Ўельсі" #GetTagDE
  TAG_DE_WUR:0 "Вюртемберзі" #GetTagDE
  TAG_DE_YAR:0 "Ярославлі" #GetTagDE
  TAG_DE_YOR:0 "Андхрі" #GetTagDE
@@ -3000,7 +3000,7 @@
  TAG_DE_OKA:0 "Одоєві" #GetTagDE
  TAG_DE_ICE:0 "Ісландії" #GetTagDE
  TAG_DE_SLO:0 "Нітрі" #GetTagDE
- TAG_DE_HSC:0 "Гелдомі" #GetTagDE
+ TAG_DE_HSC:0 "Ґелдомі" #GetTagDE
  TAG_DE_ROM:0 "Римській імперії" #GetTagDE
  TAG_DE_DTT:0 "Дитмаршені" #GetTagDE
  TAG_DE_GLH:0 "Золотій Орді" #GetTagDE
@@ -3355,11 +3355,11 @@
  TAG_OMU_GEO:0 "Грузії" #GetTagOMU
  TAG_OMU_GER:0 "Німеччині" #GetTagOMU
  TAG_OMU_GOL:0 "Великій Орді" #GetTagOMU
- TAG_OMU_GOT:0 "Готланду" #GetTagOMU
- TAG_OMU_GRA:0 "Гранаді" #GetTagOMU
+ TAG_OMU_GOT:0 "Ґотланду" #GetTagOMU
+ TAG_OMU_GRA:0 "Ґранаді" #GetTagOMU
  TAG_OMU_GRE:0 "Греції" #GetTagOMU
- TAG_OMU_GUJ:0 "Гуджарату" #GetTagOMU
- TAG_OMU_GUY:0 "Гієні" #GetTagOMU
+ TAG_OMU_GUJ:0 "Ґуджарату" #GetTagOMU
+ TAG_OMU_GUY:0 "Ґієні" #GetTagOMU
  TAG_OMU_HAB:0 "Австрії" #GetTagOMU
  TAG_OMU_HAI:0 "Ено" #GetTagOMU
  TAG_OMU_HAM:0 "Гамбургу" #GetTagOMU
@@ -3527,7 +3527,7 @@
  TAG_OMU_VEN:0 "Венеції" #GetTagOMU
  TAG_OMU_VIE:0 "В'єнтьяну" #GetTagOMU
  TAG_OMU_VIJ:0 "Віджаянагарі" #GetTagOMU
- TAG_OMU_WLS:0 "Уельсу" #GetTagOMU
+ TAG_OMU_WLS:0 "Ўельсу" #GetTagOMU
  TAG_OMU_WUR:0 "Вюртембергу" #GetTagOMU
  TAG_OMU_YAR:0 "Ярославлю" #GetTagOMU
  TAG_OMU_YOR:0 "Андхрі" #GetTagOMU
@@ -3813,7 +3813,7 @@
  TAG_OMU_OKA:0 "Одоєву" #GetTagOMU
  TAG_OMU_ICE:0 "Ісландії" #GetTagOMU
  TAG_OMU_SLO:0 "Нітрі" #GetTagOMU
- TAG_OMU_HSC:0 "Гелдому" #GetTagOMU
+ TAG_OMU_HSC:0 "Ґелдому" #GetTagOMU
  TAG_OMU_ROM:0 "Римській імперії" #GetTagOMU
  TAG_OMU_DTT:0 "Дитмаршену" #GetTagOMU
  TAG_OMU_GLH:0 "Золотій Орді" #GetTagOMU
@@ -4168,11 +4168,11 @@
  TAG_KLY_GEO:0 "Грузіє" #GetTagKLY
  TAG_KLY_GER:0 "Німеччино" #GetTagKLY
  TAG_KLY_GOL:0 "Велика Ордо" #GetTagKLY
- TAG_KLY_GOT:0 "Готланде" #GetTagKLY
- TAG_KLY_GRA:0 "Гранадо" #GetTagKLY
+ TAG_KLY_GOT:0 "Ґотланде" #GetTagKLY
+ TAG_KLY_GRA:0 "Ґранадо" #GetTagKLY
  TAG_KLY_GRE:0 "Греціє" #GetTagKLY
- TAG_KLY_GUJ:0 "Гуджарате" #GetTagKLY
- TAG_KLY_GUY:0 "Гієне" #GetTagKLY
+ TAG_KLY_GUJ:0 "Ґуджарате" #GetTagKLY
+ TAG_KLY_GUY:0 "Ґієне" #GetTagKLY
  TAG_KLY_HAB:0 "Австріє" #GetTagKLY
  TAG_KLY_HAI:0 "Ено" #GetTagKLY
  TAG_KLY_HAM:0 "Гамбургу" #GetTagKLY
@@ -4340,7 +4340,7 @@
  TAG_KLY_VEN:0 "Венеціє" #GetTagKLY
  TAG_KLY_VIE:0 "В'єнтьяне" #GetTagKLY
  TAG_KLY_VIJ:0 "Віджаянагаро" #GetTagKLY
- TAG_KLY_WLS:0 "Уельсе" #GetTagKLY
+ TAG_KLY_WLS:0 "Ўельсе" #GetTagKLY
  TAG_KLY_WUR:0 "Вюртембергу" #GetTagKLY
  TAG_KLY_YAR:0 "Ярославлю" #GetTagKLY
  TAG_KLY_YOR:0 "Андхро" #GetTagKLY
@@ -4626,7 +4626,7 @@
  TAG_KLY_OKA:0 "Одоєве" #GetTagKLY
  TAG_KLY_ICE:0 "Ісландіє" #GetTagKLY
  TAG_KLY_SLO:0 "Нітро" #GetTagKLY
- TAG_KLY_HSC:0 "Гелдоме" #GetTagKLY
+ TAG_KLY_HSC:0 "Ґелдоме" #GetTagKLY
  TAG_KLY_ROM:0 "Римська імперіє" #GetTagKLY
  TAG_KLY_DTT:0 "Дитмаршене" #GetTagKLY
  TAG_KLY_GLH:0 "Золота Ордо" #GetTagKLY
