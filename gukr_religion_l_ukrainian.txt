@@ -954,11 +954,11 @@
  hussite_name_CHYM_CAP:0 "Гусизмом"  #ReligionNameCHYM_CAP
  dreamtime_name_CHYM_CAP:0 "Альчерою"  #ReligionNameCHYM_CAP
  #Прикметник релігійної групи ""
- christian_adj:0 "християнськими"  #ReligionGroupAdjective
- muslim_adj:0 "ісламськими"  #ReligionGroupAdjective
- eastern_adj:0 "східними"  #ReligionGroupAdjective
- dharmic_adj:0 "дхармічними"  #ReligionGroupAdjective
- pagan_adj:0 "язичницькими"  #ReligionGroupAdjective
- jewish_group_adj:0 "юдейськими"  #ReligionGroupAdjective
- zoroastrian_group_adj:0 "зороастрійськими"  #ReligionGroupAdjective
+ christian_adj:0 "християнськ"  #ReligionGroupAdjective
+ muslim_adj:0 "ісламськ"  #ReligionGroupAdjective
+ eastern_adj:0 "східн"  #ReligionGroupAdjective
+ dharmic_adj:0 "дхармічн"  #ReligionGroupAdjective
+ pagan_adj:0 "язичницьк"  #ReligionGroupAdjective
+ jewish_group_adj:0 "юдейськ"  #ReligionGroupAdjective
+ zoroastrian_group_adj:0 "зороастрійськ"  #ReligionGroupAdjective
 
