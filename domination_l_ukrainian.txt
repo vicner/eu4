@@ -22,11 +22,11 @@
  fra_ducal_lands_avignon_desc:0 "Avignon has always been a thorn in our southeastern border. Despite our best efforts, it has always eluded our jurisdiction, instead pertaining its allegiance to the Papal States. We must decide on our approach in this delicate matter, assuming the Holy Father holds authority over Christendom."
  fra_crown_naples_title:0 "Crown of Naples"
  fra_crown_naples_desc:0 "The southern Italian kingdom of Naples and its territories constitute a great control point of the trade flowing through the Mediterranean. We must secure those territories for ourselves and benefit from that trade."
- fra_branch_mission_4_3_title:0 "Розгалужена місія"
+ fra_branch_mission_4_3_title:0 "Галужена місія"
  fra_branch_mission_4_3_desc:1 " " #deliberately empty
- fra_branch_mission_4_4_title:0 "Розгалужена місія"
+ fra_branch_mission_4_4_title:0 "Галужена місія"
  fra_branch_mission_4_4_desc:0 " " #deliberately empty 
- fra_branch_mission_5_3_title:0 "Розгалужена місія"
+ fra_branch_mission_5_3_title:0 "Галужена місія"
  fra_branch_mission_5_3_desc:0 " " #deliberately empty 
  fra_city_lights_title:0 "City of Lights"
  fra_city_lights_desc:0 "[118.GetName] has always been the heart of one of the world's most populated religions. As such, we must bring it under our banner and enjoy the effects of basking in the glory, as the conquerors of [118.GetName]!"
@@ -38,13 +38,13 @@
  fra_shield_of_outremer_desc:0 "Our influence in the Levant has grown to unprecedented levels. For the first time in centuries we are able to proclaim the restoration of Outremer, the shining star of our faith in the Levant."
  fra_pilgrimage_jerusalem_title:1 "Crusade for Jerusalem"
  fra_pilgrimage_jerusalem_desc:0 "The road to Jerusalem lays full of enemies and foreign conquerors. It falls upon our shoulders to rescue and deliver her back to the warm embrace of our religion. Deus vult!"
- fra_branch_mission_1_4_title:0 "Розгалужена місія"
+ fra_branch_mission_1_4_title:0 "Галужена місія"
  fra_branch_mission_1_4_desc:0 " " #deliberately empty 
- fra_branch_mission_2_5_title:0 "Розгалужена місія"
+ fra_branch_mission_2_5_title:0 "Галужена місія"
  fra_branch_mission_2_5_desc:0 " " #deliberately empty 
- fra_branch_mission_2_6_title:0 "Розгалужена місія"
+ fra_branch_mission_2_6_title:0 "Галужена місія"
  fra_branch_mission_2_6_desc:0 " " #deliberately empty 
- fra_branch_mission_3_5_title:0 "Розгалужена місія"
+ fra_branch_mission_3_5_title:0 "Галужена місія"
  fra_branch_mission_3_5_desc:0 " " #deliberately empty 
  fra_raise_slave_ships_title:1 "Arsenal des Galères"
  fra_raise_slave_ships_desc:0 "If we are to supplement our expansionist tendencies around the Mediterranean and beyond, we must secure proper naval infrastructure and a steady flow of able-bodied men."
@@ -54,7 +54,7 @@
  fra_throne_naples_desc:0 "The Neapolitan succession is a complex and contentious matter. Naples itself aspires to independence, but both France and the Iberian princes also stake a claim to it. This matter must be put to rest." #old  
  fra_kingdoms_spain_title:0 "Kingdoms of Spain"
  fra_kingdoms_spain_desc:0 "Iberia is home to some of Europe's most illustrious and prestigious dynasties. Nations which wield tremendous political and military power, we must tread carefully and decide whether we shall treat them as friends or foes."
- fra_branch_mission_2_9_title:0 "Розгалужена місія"
+ fra_branch_mission_2_9_title:0 "Галужена місія"
  fra_branch_mission_2_9_desc:0 " " #deliberately empty 
  fra_secure_alpine_pass_title:0 "Secure the Alpine Pass"
  fra_secure_alpine_pass_desc:0 "The mountain line between our domain and Italy, the Alps, have securely defended Italy's inhabitants for centuries. If we are to conquer the Italian domains, we must cross this obstacle and secure the passes leading through the precipices."
@@ -74,7 +74,7 @@
  fra_expand_french_domain_desc:0 "Italy has always been torn between great Empires. The region, once a de facto part of the Holy Roman Empire, must lie securely within our grasp, lest we risk its alliance with our political and military opposition."
  fra_sway_electorate_title:0 "Sway the Electorate"
  fra_sway_electorate_desc:0 "Emperorship is not a title easily achieved, especially by a non-member of the Holy Roman Empire. Greasing a few palms and whispering the right words will certainly assist us in our efforts, however. "
- fra_branch_mission_1_5_title:0 "Розгалужена місія"
+ fra_branch_mission_1_5_title:0 "Галужена місія"
  fra_branch_mission_1_5_desc:0 " " #deliberately empty 
  fra_push_imperial_line_title:0 "Push the Imperial Line"
  fra_push_imperial_line_desc:0 "The borders of the so-called Holy Roman Empire in the East are, at best, a laughable affair. They are neither secure, defensible nor manned by soldiers that can measure up to ours. It will fall and crumble before the might of the French army."
