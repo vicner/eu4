@@ -3354,9 +3354,9 @@
  NORTH_SEA_EMPIRE:0 "Імперія Північного моря"
  NORTH_SEA_EMPIRE_ADJ:0 "Норвезьк"
  ###CULTURES###
- baltic_german:0 "Балтійськ"
- norse:0 "Норвезьк"
- livonian:0 "Лівонськ"
+ baltic_german:0 "Балтійськ"
+ norse:0 "Норвезьк"
+ livonian:0 "Лівонськ"
  ###IMPERIAL INCIDENTS###
  incident_teutonic_order_wants_to_join:0 "Тевтонський орден та Імперія"
  incident_teutonic_order_wants_to_join_emperor_alert:0 "[TEU.Monarch.GetTitle] [TEU.GetTagOGO] бажає приєднатися до Священної Римської Імперії."
