@@ -5594,10 +5594,10 @@
  eng_abolish_adjustments_of_laws_desc:0 "Коригування нашого зводу законів більше не потрібні. Пришов час їх позбутися."
  eng_end_the_law_discussions_title:0 "Завершення коригування законодавства"
  eng_end_the_law_discussions_desc:0 "Внесення нових актів до нашого законодавства лягає тяжким тягарем на нашу бюрократію. Прийшов час покласти край подібній практиці."
- eng_end_the_law_discussions_at:0 "§YБільше не будуть доступні питання парламенту, які змінюють наші національні ідеї.§!"
+ eng_end_the_law_discussions_at:0 "§YБільше не будуть доступні пропозиції парламенту, які змінюють наші національні ідеї.§!"
  eng_start_the_law_discussions_title:0 "Відновити коригування законодавства"
  eng_start_the_law_discussions_desc:0 "Наша ситуація знову вимагає гнучкого коригування національного законодавства."
- eng_start_the_law_discussions_at:0 "§YЗнову доступні питання парламенту, які змінюють наші національні ідеї.§!"
+ eng_start_the_law_discussions_at:0 "§YЗнову доступні пропозиції парламенту, які змінюють наші національні ідеї.§!"
  ###BRITISH MODIFIERS###
  eng_the_crown_of_ireland:0 "Корона Ірландії"
  desc_eng_the_crown_of_ireland:1 "Зі створенням Ірландії як справжнього королівства, престиж наш[Root.GetMEndOjiOgo] [Root.Monarch.GetTitleOGO] як належн[Root.GetMEndOjiOgo] правител[Root.GetMEndIajKy] Ірландії є безсумнівним."
@@ -7147,26 +7147,26 @@
  
  #New Monuments 
  
- palace_of_the_popes:0 "Palace of the Popes"
+ palace_of_the_popes:0 "Папський палац"
  #
- edinburgh_castle:0 "Edinburgh Castle"
- enabled_via_mission:0 "Enabled via mission reward"
+ edinburgh_castle:0 "Единбурзький замок"
+ enabled_via_mission:0 "Активується через виконання місії"
  #
- aljaferia_palace:0 "Aljafería Palace"
- empower_inquisitors_tt:0 "Every level of our §YInquisitor§! advisor will grant us the following reward: \nEstablish Holy Order Cost: §G-5%§!"
+ aljaferia_palace:0 "Палац Альхаферія"
+ empower_inquisitors_tt:0 "Кожний рівень радника типу §Yінквізітор§! даватиме нам таку нагороду: \nВартість заснування Святого ордену: §G-5%§!"
  #
  divrigi_hospital_mosque:0 "Divrigi Hospital & Mosque"
- fewer_plagues_tt:0 "[Root.Owner.GetAdjective] citizens will be less likely to be struck by plagues"
+ fewer_plagues_tt:0 "[Root.Owner.GetAdjective]е населення буде менше схильне до зараження чумою"
  #
- st_basil_cathedral:0 "Saint Basil Cathedral"
- orthodox_icon_events_bonuses_tt:0 "Flavor events related to §YOrthodox Icons§! will yield supplementary bonuses"
+ st_basil_cathedral:0 "Собор Василія Блаженного"
+ orthodox_icon_events_bonuses_tt:0 "Події, приналежні до §Yправославних ікон§! приносимуть додаткові бонуси"
  #
- grand_canal_1:0 "Hangzhou Grand Canal"
- grand_canal_2:0 "Suzhou Grand Canal"
- grand_canal_3:0 "Zhenjiang Grand Canal"
- grand_canal_4:0 "Nanjing Grand Canal"
+ grand_canal_1:0 "Великий Ханчжоўський канал "
+ grand_canal_2:0 "Великий Сучжоўський канал"
+ grand_canal_3:0 "Великий Чженьцзянський канал"
+ grand_canal_4:0 "Великий Нанкінський канал"
  #
- imperial_city_kyoto:0 "Imperial City of Kyoto"
+ imperial_city_kyoto:0 "Імперське місто Кіото"
  
  
  #Missing Loc 
@@ -7177,19 +7177,19 @@
  brapru_enable_construction_kiel_canal_tt:0 "\nEnables the construction of the §YKiel Canal§!"
  #Change Name and Color Decisions
  
- restore_name_decision_title:0 "Restore Our Name"
- restore_name_decision_desc:0 "This National Decision allows for the restoration of our proper current name. \n\nIt will be available for §Y10§! років after adopting a new name."
+ restore_name_decision_title:0 "Відновити наше ім'я"
+ restore_name_decision_desc:0 "Ця національна постанова дозволяє відновлення нашого правильного імені. \n\nБуде доступно впродовж §Y10§! років після зміни імені."
  
- restore_color_decision_title:0 "Restore our Color"
- restore_color_decision_desc:0 "This National Decision allows for the restoration of our proper current color. \n\nIt will be available for §Y10§! років after adopting a new name."
+ restore_color_decision_title:0 "Відновити наші кольори"
+ restore_color_decision_desc:0 "Ця національна постанова дозволяє відновлення нашого правильного кольору. \n\nБуде доступно впродовж §Y10§! років після зміни імені."
  
  #Ship-related loc 
- geobukseon_ship:0 "Bonus from Geobukseon"
- man_of_war_ship:0 "Bonus from Man o' War"
- galleon_ship:0 "Bonus from Galleon"
- galleass_ship:0 "Bonus from Galleass"
- caravel_ship:0 "Bonus from Caravel"
- voc_indiamen_ship:0 "Bonus from VOC Indiamen"
+ geobukseon_ship:0 "Бонус від Кобуксона"
+ man_of_war_ship:0 "Бонус від мановара"
+ galleon_ship:0 "Бонус від галеона"
+ galleass_ship:0 "Бонус від галеаса"
+ caravel_ship:0 "Бонус від каравели"
+ voc_indiamen_ship:0 "Бонус від ост-індійця"
  
  
  
