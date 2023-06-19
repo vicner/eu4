@@ -1405,7 +1405,7 @@
  pro_king_of_france:0 "Король Франції"
  desc_pro_king_of_france:0 "Наші солдати відважно билися за нашу перемогу; Франція – наша!"
  toulon_dockyards:0 "Корабельні Тулона"
- desc_toulon_dockyards:0 "Корабельні і арсенал у Тулоні – наша найважливіша військово-морська база. Звідси ми будемо панувати над Середземномор'ям."
+ desc_toulon_dockyards:0 "Корабельні і арсенал в Тулоні – наша найважливіша військово-морська база. Звідси ми будемо панувати над Середземномор'ям."
  pro_la_marseillaise:0 "La Marseillaise – Марсельєза"
  desc_pro_la_marseillaise:0 "Aux armes, citoyens\nFormez vos bataillons\nMarchons, marchons!\nQu'un sang impur\nAbreuve nos sillons\n\nГромадо, в бій ставай!\nДо лав, батьки й сини!\nРушай! Рушай!\nХай чорна кров напоїть борозни!"
  pro_la_marseillaise_2:0 "La Marseillaise – Марсельєза"
