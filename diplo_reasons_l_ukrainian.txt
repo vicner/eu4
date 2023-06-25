@@ -102,7 +102,7 @@
  DIPLO_THEY_WON_WAR:0 "Держава $WHO$ перемогла у війні: "
  DIPLO_WAR_STALLED:0 "Війна застопорилася: "
  DIPLO_RIVAL_COLONIST:0 "Держава $WHO$ – суперник у колоніальних перегонах: "
- DIPLO_WAR_UNOCCUPIED_FORTS:1 "Вимога провінції $PROV$ без окупації навколишніх фортець, зв'язаних з нею суходолом: "
+ DIPLO_WAR_UNOCCUPIED_FORTS:1 "Вимога провінції $PROV$ без окупації навколишніх фортець, з'єднаних з нею суходолом: "
  DIPLO_WAR_INCONCLUSIVE:0 "Треба щонайменше $VAL$ воєнного рахунку, щоб висунути вимоги: "
  DIPLO_UNREASONABLE_DEMANDS:0 "Безпричинні вимоги: "
  DIPLO_UNDESIRABLE_PEACE:0 "Небажані умови: "
