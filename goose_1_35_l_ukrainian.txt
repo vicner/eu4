@@ -92,7 +92,7 @@
  MODIFIER_NO_COST_FOR_REINFORCING:0 "No cost for reinforcing"
  LOOT_RECOVERY_DATE_AFTER:0 "This province was last looted on $LAST_LOOT_DATE|Y$. It's recovering by §G$PERCENTAGE$%§! monthly, unless it is looted again."
  holy_order_short:0 "Орден"
- holy_order_full:0 "Духовний орден"
+ holy_order_full:0 "Святий орден"
  coordinator_office_short:0 "Office"
  coordinator_office_full:0 "Grand Coordinator Office"
  EVERY_OWNED_OR_SUBJECT_PROV:0 "Every province owned or owned by subjects"
