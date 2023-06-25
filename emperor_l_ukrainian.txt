@@ -485,7 +485,7 @@
  HAS_ESTATE_LOANS:0 "Має позики від станів"
  HAS_NO_ESTATE_LOANS:0 "Не має позик від станів"
  GRANT_PRIVILEGE:3 "Привілей $PRIVILEGE|Y$ буде надано стану $ESTATE|Y$, що призведе до таких ефектів:\n$EFFECT$\n$MODIFIERS$"
- REVOKE_PRIVILEGE:2 "Привілей $PRIVILEGE|Y$ буде відкликано в стана $ESTATE|Y$, що призведе до таких ефектів:\n$EFFECT$\n$MODIFIERS$"
+ REVOKE_PRIVILEGE:2 "Привілей $PRIVILEGE|Y$ буде відкликано в стана $ESTATE|Y$, що призведе до таких наслідків:\n$EFFECT$\n$MODIFIERS$"
  # Provoke revolts
  PROVOKE_REVOLT:0 "Спровокувати повстання"
  PROVOKE_REVOLT_INSTANT:0 "Спровокувати заколотників до негайного повстання. Вони будуть на $EXTRA$ сильніші звичайного, і загалом матимуть $SIZE|Y$ полків."
@@ -832,7 +832,7 @@
  investigate_heresy:0 "Розслідувати єресь"
  MIL_CONST_MERCENARY_TIP:0 "$MERC|Y$ будуть розміщені тут $DATE|Y$."
  building_soldier_households:0 "Солдатські квартири"
- building_ramparts:0 "Бастіони"
+ building_ramparts:0 "Фортифікації"
  GOODS_BONUS:0 "Буде ефективніше в провінціях з $LIST$.\n"
  building_impressment_offices:0 "Контори примусового вербування"
  MERCENARY_COMPANY_LOCAL:0 "Місцеві"
