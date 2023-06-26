@@ -85,7 +85,7 @@
  LEDGER_EMPLOYER:0 "Роботодавець"
  LEDGER_HOME:0 "Дім"
  LEDGER_TECH_GROUP:0 "Технологічна група"
- LEDGER_SKILL:0 "Майстерність"
+ LEDGER_SKILL:0 "Рівень"
  LEDGER_TYPE:0 "Тип"
  LEDGER_NATION_ARMIES:0 "Національна армія"
  LEDGER_REGION_CONTINENT:0 "Регіон/Континент"

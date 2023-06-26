@@ -199,7 +199,7 @@
  CONFIRMDOFDESC:0 "Ви впевнені, що хочете заявити права на титул Захисника Віри?"
  SUPPORTED_RELATIONS:0 "Дипломатичні зв'язки"
  SUPPORTED_RELATIONS_NONE:0 "Немає дипломатичних зв'язків."
- MAX_RELATIONS:0 "Ви можете мати $VALUE$ дипломатичних відносин без штрафу, завдяки:"
+ MAX_RELATIONS:0 "Ви можете мати $VALUE$ дипло стосунків без штрафу, завдяки:"
  GUARANTEEING:0 "Гарант"
  LEADING_UNION:0 "Лідер унії"
  LEADING_VASSAL:0 "Сюзерен васала"
