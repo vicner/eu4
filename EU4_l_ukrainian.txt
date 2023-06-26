@@ -3460,7 +3460,7 @@
  MMDEATH_UNION_INHERIT:0 "Шанс держави $OVERLORD|Y$ успадкувати державу $SUBJECT|Y$: §Y$VAL$%§!"
  MDEATH_INHERIT_STABILITY:0 "Стабільність: "
  MDEATH_INHERIT_CULTURE:0 "Спільна культурна група: "
- MDEATH_INHERIT_SKILL:0 "Дипломатичні здібності: "
+ MDEATH_INHERIT_SKILL:0 "Дипломатичні вміння: "
  MDEATH_INHERIT_LUCK:0 "Щаслива країна: "
  MDEATH_INHERIT_SIZE_2:0 "Розмір країни: "
  MDEATH_INHERIT_YEARS:0 "Неможливо успадкувати, якщо унія не була стабільною протягом §Y$VAL$§! років.§Y"
