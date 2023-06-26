@@ -1044,7 +1044,7 @@
  ND_CONSORT_COST:0 "Цей консорт коштує $VAL$, завдяки таким чинникам:\n"
  ND_HAS_ELECTIONS:0 "Тип уряду"
  ND_CONSORT_COST_MODIFIER:0 "є консорт"
- ND_SKILL_COST:0 "Уміння: $COST$\n"
+ ND_SKILL_COST:0 "Вміння: $COST$\n"
  ND_STATS_COST:1 "Навички правителя $RULER$: $VALUE$"
  ND_IDEAS_COST:0 "Національні ідеї: $VALUE$"
  ND_TOO_MUCH_ADM_COST:0 "Адміністративні ідеї перевищують ліміт §Y$LIMIT$%§!: $VALUE$"
