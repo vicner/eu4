@@ -193,7 +193,7 @@
  DIPLO_DEFENSIVE_BAD_WARSCORE:0 "Це оборонна війна і ваш воєнний рахунок менше $VAL$: "
  DIPLO_DIPLOMATIC_REP:0 "$WHO$а дипломатична репутація: "
  DIPLO_FED_DIPLOMATIC_REP:0 "$WHO$а загальна дипломатична репутація: "
- DIPLO_DIPLOMATIC_SKILL:0 "$WHO$е дипломатичні вміння: "
+ DIPLO_DIPLOMATIC_SKILL:0 "$WHO$і дипломатичні вміння: "
  DIPLO_DIPLOMATIC_SKILL_MODIFIERS:0 "Модифікатори $WHO$их дипломатичних вмінь: "
  DIPLO_DIPLOMATIC_SKILL_DIFF:0 "Відмінності дипломатичної майстерності між державами $WHO$ та $WHO2$: "
  DIPLO_DIPLOMATIC_SKILL_MODIFIERS_DIFF:0 "Модифікатори відмінності дипломатичної майстерності держав $WHO$ та $WHO2$: "
