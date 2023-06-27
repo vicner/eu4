@@ -214,7 +214,7 @@
  STOP_ALLOW_FOREIGN_ARMIES_DESC:0 "Заборонити арміям союзників завантажуватись на цей флот."
  CARDINAL_NAME:0 "Кардинал провінції $LOC|Y$"
  katsina:0 "Кацина"
- english_channel:0 "Ла-Манш"
+ english_channel:0 "Англійський канал"
  champagne:0 "Шампань"
  saxony:0 "Саксонія"
  rheinland:0 "Рейнланд"
