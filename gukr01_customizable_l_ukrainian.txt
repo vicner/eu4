@@ -45,7 +45,7 @@
  
  ### [GetRulerTitleOrRegency]: ([король] / [Регентська рада]), з маленької:
  string_ruler_title_sm:0 "[This.Monarch.GetTitleKHTO]"
- #string_regency_council_2:0 "Регентська рада" – Р-Рада завжди з великої
+ #string_regency_council_2:0 "Регентська рада" ## Р-Рада завжди з великої
  string_ruler_title_ogo:0 "[This.Monarch.GetTitleOGO]"
  string_regency_council_2_ogo:0 "Регентської ради"
  string_ruler_title_omu:0 "[This.Monarch.GetTitleOMU]"
@@ -56,7 +56,7 @@
  string_regency_council_2_pro:0 "Регентську раду"
  ## З великої:
  string_ruler_title_cap:0 "[This.Monarch.GetTitle]"
- #string_regency_council_2:0 "Регентська рада" – Р-Рада завжди з великої
+ #string_regency_council_2:0 "Регентська рада" ## Р-Рада завжди з великої
  string_ruler_title_ogo_cap:0 "[This.Monarch.GetTitleOGO_CAP]"
  #
  string_ruler_title_omu_cap:0 "[This.Monarch.GetTitleOMU_CAP]"
