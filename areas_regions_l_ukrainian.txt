@@ -2225,7 +2225,7 @@
  chilean_sea_area:0 "Чилійське море"
  gulf_of_panama_area:0 "Панамська затока"
  bay_of_biscay_area:0 "Біскайська затока"
- english_channel_area:0 "Ла-Манш"
+ english_channel_area:0 "Англійський канал"
  caribbean_sea_area:0 "Карибське море"
  gulf_of_mexico_area:0 "Мексиканська затока"
  sea_of_labrador_area:0 "Лабрадорське море"
