@@ -1495,7 +1495,7 @@
  SOWDISCONTENTTHEM_2:0 "$MONARCHTITLE$, ці безчесні шарлатани з держави"
  SOWDISCONTENTTHEM_3:0 "$WHO$"
  SOWDISCONTENTTHEM_4:0 "посіяли невдоволення серед нашого населення."
- SOWDISCONTENTTHEM_5:0 "Це стане причиною безладів у нашій державі на довгі роки."
+ SOWDISCONTENTTHEM_5:0 "Це стане причиною заворушень у нашій державі на довгі роки."
  SOWDISCONTENTTHEM_LOG:0 "Держава $WHO$ посіяла невдоволення серед нашого населення."
  SOWDISCONTENTTHEM_BTN1:0 "Гаразд"
  SOWDISCONTENTTHEM_BTN2:0 "Гаразд"

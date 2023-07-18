@@ -409,8 +409,8 @@
  estate_vaisyas_recruit_minister_desc:0 "[Root.EstateDecisionDescription]"
  estate_vaisyas_commision_merchant_ships_for_war_desc:0 "[Root.EstateDecisionDescription]"
  ###AUTO COMPLETION EFFECT###
- auto_complete_first_string:0 "Автоматично виконати наступний порядок денний стану"
- auto_complete_second_string:0 "якщо активне."
+ auto_complete_first_string:0 "Автоматично виконає поточний порядок денний стану"
+ auto_complete_second_string:0 ", якщо він активний."
  auto_complete_estate_agenda_estate_nobles_tt:0 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetNobilityName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
  auto_complete_estate_agenda_estate_brahmins_tt:0 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetBrahminsName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
  auto_complete_estate_agenda_estate_burghers_tt:0 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetBurghersName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
