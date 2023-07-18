@@ -1885,7 +1885,7 @@
  MODIFIER_LIGHT_SHIP_NUMBER_OF_CANNONS_MODIFIER:0 "Гармати легкого судна"
  MODIFIER_GALLEY_NUMBER_OF_CANNONS_MODIFIER:0 "Гармати галери"
  MODIFIER_TRANSPORT_NUMBER_OF_CANNONS_MODIFIER:0 "Гармати транспорта"
- MODIFIER_ESTATE_LOYALTY_CHANGE_ON_REVOKED:0 "Зміна лояльності стана після скасування привілею"
+ MODIFIER_ESTATE_LOYALTY_CHANGE_ON_REVOKED:0 "Зміна лояльності стану після скасування привілею"
  MODIFIER_ESTATE_INTERACTION_COOLDOWN_MODIFIER:0 "Затримка активування взаємодій зі станами"
  MODIFIER_ALL_ESTATE_POSSIBLE_PRIVILEGES:0 "Макс. привілеїв на стан"
  CANNOT_CREATE_JANISSARIES_NOT_STATE:0 "Неможна набирати яничарів на територіях, спочатку зробіть тут володіння."
