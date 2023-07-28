@@ -1350,7 +1350,7 @@
  EVTOPTA5055:0 "Спробувати викорінити проблему."
  EVTOPTB5055:0 "Не звертати уваги."
  EVTNAME5056:0 "Дипломатична образа"
- EVTDESC5056:1 "Недбалий тон, з яким [Root.Monarch.GetTitleKHTO] [Root.Monarch.GetName] вимови[Root.GetMEndVLa] фразу сильно образив [insulted_party.GetAdjective]ого [insulted_party.Monarch.GetTitleOGO]. Буде складно заспокоїти [insulted_party.GetMJOGO] не втративши обличчя."
+ EVTDESC5056:1 "Недбалий тон, з яким [Root.Monarch.GetTitleKHTO] [Root.Monarch.GetName] вимови[Root.GetMEndVLa] фразу, сильно образив [insulted_party.GetAdjective]ого [insulted_party.Monarch.GetTitlePRO]. Буде складно [insulted_party.GetMJOGO] заспокоїти не втративши обличчя."
  EVTOPTA5056:0 "Ми про це не забудемо."
  EVTOPTB5056:0 "Спробувати послабити напруженість."
  EVTNAME5057:0 "Посилення обороноздатності"
