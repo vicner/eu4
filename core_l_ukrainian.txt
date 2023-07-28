@@ -564,7 +564,7 @@
  MENU_BAR_DISK_QUOTA:0 "Доступно $AVAIL$ з $TOTAL$"
  FE_CONTENT:0 "Контент"
  CULTURE_CONSTRUCTIONS:0 "Асиміляція культур"
- CORE_CONSTRUCTIONS:0 "Націоналізація провінцій"
+ CORE_CONSTRUCTIONS:0 "Націоналізація"
  ADVISOR_FIRE:0 "Звільнити радника"
  NO_ADVISOR_HIRED:0 "Ви не наймали жодного $POWER$ радника"
  ECOVIEW_MAINT_TP_PENALTY:0 "Торгова сила легких кораблів: $VAL$"
