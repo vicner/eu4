@@ -124,8 +124,8 @@
  gain_consort_aspect:1 "§YОдружитися з місцевою дворянкою§!"
  desc_gain_consort_aspect:0 "У країні є багато відповідних завидних наречених, готових вийти заміж за нашого монарха. З огляду на нашу нинішню відсутність дружини, ми повинні розглянути цей список претенденток."
  gain_consort_aspect_tt:0 "[Root.Monarch.GetName] одружується з нов[Root.Consort.GetCEndOJuYM] консортом. Шанси отримання нового спадкоємця збільшаться на §G100%§! протягом §Y15 років§!."
- a_new_consort_heir_modifier:0 "Нов[Root.Consort.GetCEndAYJ] королівськ[Root.Consort.GetCEndAYJ] консорт"
- desc_a_new_consort_heir_modifier:0 "У нас незабаром з'явиться новий спадкоємець завдяки нов[Root.Consort.GetCEndIjOmu] консорту [Root.Monarch.GetTitleOGO]."
+ a_new_consort_heir_modifier:0 "Новий королівський консорт" ##Це показується у повідомленнях, де кастомні змінні не працюють.
+ desc_a_new_consort_heir_modifier:0 "У нас незабаром з'явиться новий спадкоємець завдяки нов[Root.Consort.GetCEndIjOmu] [Root.Consort.GetTitleConsortOMU] [Root.Monarch.GetTitleOGO]."
  dissolve_monasteries_aspect:0 "§YРозпустити монастирі§!"
  desc_dissolve_monasteries_aspect:0 "Папистське чернецтво є застарілим і єретичним. Ми повинні розпустити більше інших неконформістських релігійних громад, позбавити їх своїх земель та конфіскувати їхні цінності."
  dissolve_monasteries_aspect_tt:0 "§Y[Root.GetChurchOrFallbackName]§! втратить §Y10§! впливу на §Y15 років§!."
