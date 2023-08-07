@@ -57,7 +57,7 @@
  fra_branch_mission_2_9_title:0 "Галужена місія"
  fra_branch_mission_2_9_desc:0 " " #deliberately empty 
  fra_secure_alpine_pass_title:0 "Убезпечити Альпійський перехід"
- fra_secure_alpine_pass_desc:0 "The mountain line between our domain and Italy, the Alps, have securely defended Italy's inhabitants for centuries. If we are to conquer the Italian domains, we must cross this obstacle and secure the passes leading through the precipices."
+ fra_secure_alpine_pass_desc:0 "Гірський хребет між нашим доменом та Італією – Альпи – надійно захищав жителів Італії сторіччями. Якщо ми збираємося завоювати італійські держави, ми мусимо перетнути цю заваду і заволодіти проходами через хі кручі."
  fra_league_cambrai_title:0 "Камбрейська ліга"
  fra_league_cambrai_desc:0 "A mundane attempt orchestrated by some minor Italian powers is nowhere near powerful enough to halt our advance within Italy. We must crush all opposing forces and secure the region for the French crown!"
  fra_golden_march_title:0 "Золота марка"
@@ -2675,7 +2675,7 @@
  mevlevi_order:0 "Мевлеві"
  mevlevi_order_desc:0 "Заснований у Коньї послідовниками Джелаль-ад-Дін Мухаммадом Балхі, Оден Мевлеві – сунітське відгалудження суфізму. Члени Ордену присвячують себе вивченню Корана і робіт Джалаледдіна Румі."
  bektashi_order:0 "Бекташі"
- bektashi_order_desc:0 "Орден Бекташі – молода шиїтське відгалудження суфізму. Народжений в Анатолії, Орден Бекташі – послідовники Чотирнадцяти безгрішних, на додаток до Дванадцяти імамів."
+ bektashi_order_desc:0 "Орден Бекташі – молоде шиїтське відгалуження суфізму. Народжений в Анатолії, Орден Бекташі – послідовники Чотирнадцяти безгрішних, на додаток до Дванадцяти імамів."
  ###OTTOMAN MISSIONS###
  tur_the_crescent_fleet_title:0 "Флот півмісяця"
  tur_the_crescent_fleet_desc:0 "The first navy of our great [Root.GovernmentName] was established in 1323 after capturing the town of Karamürsel. Ever since our navy has been growing.\nYet our rivals on the sea such as the last Knights Hospitaller, the Genoese Trade Republic and the Doges of Venice are still a threat to our security. Building up our fleet is of great priority if we do not want to fall behind our enemies."
@@ -2760,7 +2760,7 @@
  tur_alliance_exchange_population_and_historical_friendship_tt:1 "Якщо ми виконаємо цю місію, бувши allied to or while бувши the overlord of §YGranada§! або §YAndalusia§!:"
  tur_alliance_exchange_population_and_historical_friendship_at:0 "§Y[GetGranadaOrAndalusia]§! becomes a mutual historical friend of §Y[Root.GetName]§!\n§Y[GetGranadaOrAndalusia]§! gains §YTurkish§! as an accepted culture until it gets demoted\n§Y[Root.GetName]§! gains §YAndalusian§! as an accepted culture until it gets demoted\nUp to §Y10§! provinces of §Y[GetGranadaOrAndalusia]§! gain §G1§! random development\nUp to §Y5§! provinces of §Y[Root.GetName]§! gain §G2§! random development"
  tur_allied_married_to_gra_and_tt:0 "Has an alliance and a royal marriage with either §YAndalusia§! або §YGranada§!."
- tur_develop_constantinople_title:0 "Розвикок Константінійє"
+ tur_develop_constantinople_title:0 "Розвиток Константінійє"
  tur_develop_constantinople_desc:0 "Konstantiniyye was victim to many sackings, looting and raiding. It is up to us to restore this great city to the glory it truly deserves."
  tur_rebuild_the_hagia_sophia_title:0 "Перетворення Ая-Софії"
  tur_rebuild_the_hagia_sophia_desc:0 "Once a great church of the Orthodox faith, it is now in [Root.Religion.GetName] control. Its original use as House of God for Orthodoxy is no longer adequate. Instead, it shall become a [Root.Religion.GetName] temple with the [Root.Monarch.GetTitle] as its protector."
