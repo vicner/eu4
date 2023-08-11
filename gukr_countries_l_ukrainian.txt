@@ -5815,3 +5815,64 @@
  TAG_KLY_INN:0 "Інну" #GetTagKLY
  TAG_KLY_WAM:0 "Вампаноаги" #GetTagKLY
  TAG_KLY_AGQ:0 "Алгонкіни" #GetTagKLY
+### Вер. 1.35 "Домінування"
+#Держави"у родовому відмінку"
+ TAG_OGO_AVE:0 "Анжуйського королівства" #GetTagOGO
+ TAG_OGO_AV0 :0 "Анжуйської республіки" #GetTagOGO
+ TAG_OGO_AV1:0 "Анжуйської священної держави" #GetTagOGO
+ TAG_OGO_AV2:0 "Анжуйського герцогства" #GetTagOGO
+ TAG_OGO_AV3:0 "Анжуйської імперії" #GetTagOGO
+ TAG_OGO_AV4:0 "Анжуйської держави" #GetTagOGO
+ TAG_OGO_EIC:0 "Ост-Індійської компанії" #GetTagOGO
+ TAG_OGO_JPS:0 "Сьоґуната" #GetTagOGO
+ TAG_OGO_JPE:0 "Японської імперії" #GetTagOGO
+#Держави,"що відповідають на запитання "Куди?"
+ TAG_KUDY_AVE:0 "Анжуйське королівство" #GetTagKUDY
+ TAG_KUDY_AV0 :0 "Анжуйську республіку" #GetTagKUDY
+ TAG_KUDY_AV1:0 "Анжуйську священну державу" #GetTagKUDY
+ TAG_KUDY_AV2:0 "Анжуйське герцогство" #GetTagKUDY
+ TAG_KUDY_AV3:0 "Анжуйську імперію" #GetTagKUDY
+ TAG_KUDY_AV4:0 "Анжуйську державу" #GetTagKUDY
+ TAG_KUDY_EIC:0 "Ост-Індійську компанію" #GetTagKUDY
+ TAG_KUDY_JPS:0 "Сьоґунат" #GetTagKUDY
+ TAG_KUDY_JPE:0 "Японську імперію" #GetTagKUDY
+ #Держави, що" відповідають на запитання "Чим?""
+ TAG_KYM_AVE:0 "Анжуйським королівством" #GetTagKYM
+ TAG_KYM_AV0 :0 "Анжуйською республікою" #GetTagKYM
+ TAG_KYM_AV1:0 "Анжуйською священною державою" #GetTagKYM
+ TAG_KYM_AV2:0 "Анжуйським герцогством" #GetTagKYM
+ TAG_KYM_AV3:0 "Анжуйською імперією" #GetTagKYM
+ TAG_KYM_AV4:0 "Анжуйською державою" #GetTagKYM
+ TAG_KYM_EIC:0 "Ост-Індійською компанією" #GetTagKYM
+ TAG_KYM_JPS:0 "Сьоґунатом" #GetTagKYM
+ TAG_KYM_JPE:0 "Японською імперією" #GetTagKYM
+ #Держави, що" відповідають на запитання "Де?""
+ TAG_DE_AVE:0 "Анжуйському королівстві" #GetTagDE
+ TAG_DE_AV0 :0 "Анжуйській республіці" #GetTagDE
+ TAG_DE_AV1:0 "Анжуйській священній державі" #GetTagDE
+ TAG_DE_AV2:0 "Анжуйському герцогстві" #GetTagDE
+ TAG_DE_AV3:0 "Анжуйській імперії" #GetTagDE
+ TAG_DE_AV4:0 "Анжуйській державі" #GetTagDE
+ TAG_DE_EIC:0 "Ост-Індійській компанії" #GetTagDE
+ TAG_DE_JPS:0 "Сьоґунаті" #GetTagDE
+ TAG_DE_JPE:0 "Японській імперії" #GetTagDE
+ #Держави, що" відповідають на запитання "Кому?""
+ TAG_OMU_AVE:0 "Анжуйському королівству" #GetTagOMU
+ TAG_OMU_AV0 :0 "Анжуйській республіці" #GetTagOMU
+ TAG_OMU_AV1:0 "Анжуйській священній державі" #GetTagOMU
+ TAG_OMU_AV2:0 "Анжуйському герцогству" #GetTagOMU
+ TAG_OMU_AV3:0 "Анжуйській імперії" #GetTagOMU
+ TAG_OMU_AV4:0 "Анжуйській державі" #GetTagOMU
+ TAG_OMU_EIC:0 "Ост-Індійській компанії" #GetTagOMU
+ TAG_OMU_JPS:0 "Сьоґунату" #GetTagOMU
+ TAG_OMU_JPE:0 "Японській імперії" #GetTagOMU
+#Держави "у Кличному відмінку"""
+ TAG_KLY_AVE:0 "Анжуйське королівство" #GetTagKLY
+ TAG_KLY_AV0 :0 "Анжуйська республіко" #GetTagKLY
+ TAG_KLY_AV1:0 "Анжуйська священна державо" #GetTagKLY
+ TAG_KLY_AV2:0 "Анжуйське герцогство" #GetTagKLY
+ TAG_KLY_AV3:0 "Анжуйська імперіє" #GetTagKLY
+ TAG_KLY_AV4:0 "Анжуйська державо" #GetTagKLY
+ TAG_KLY_EIC:0 "Ост-Індійська компаніє" #GetTagKLY
+ TAG_KLY_JPS:0 "Сьоґунате" #GetTagKLY
+ TAG_KLY_JPE:0 "Японська імперіє" #GetTagKLY

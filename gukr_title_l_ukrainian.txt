@@ -2144,7 +2144,7 @@
  ###Ha запитання Дaти кoму? "" 
  YEKHE_KHAGAN_OMU:0 "іх хаану" #GetTitleConsortOMU
  YEKHE_KHANUM_OMU:0 "іх хаанум" #GetTitleConsortOMU
- PRINCE_CONSORT_OMU:0 "принцеві-консорту" #GetTitleConsortOMU
+ PRINCE_CONSORT_OMU:0 "принцесі-консорту" #GetTitleConsortOMU
  QUEEN_CONSORT_OMU:0 "королеві-консорту" #GetTitleConsortOMU
  EMPRESS_CONSORT_OMU:0 "імператриці-консорту" #GetTitleConsortOMU
  MARGRAVE_CONSORT_OMU:0 "маркграфові-консорту" #GetTitleConsortOMU
