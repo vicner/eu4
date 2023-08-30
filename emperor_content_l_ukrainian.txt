@@ -1619,7 +1619,7 @@
  inti_paganism_string:0 "Язичництво Інті"
  nahuatl_paganism_string:0 "Язичництво Науатля"
  mayan_paganism_string:0 "Язичництво Майя"
- norse_paganism_string:0 "Норвезьке язичництво"
+ norse_paganism_string:0 "Скандинавське язичництво"
  tengrianism_string:0 "Тенгріанство"
  judaism_string:0 "Юдаїзм"
  zoroastrianism_string:0 "Зороастризм"
