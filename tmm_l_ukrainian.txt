@@ -141,7 +141,7 @@
  TIER_0_DESCRIPTION:0 "Незначний"
  TIER_1_DESCRIPTION:0 "Примітний"
  TIER_2_DESCRIPTION:0 "Значний"
- TIER_3_DESCRIPTION:0 "Чудовий"
+ TIER_3_DESCRIPTION:0 "Величний"
  MATCHING_TIER_DESCRIPTION:0 "Ваш $TYPE$ на цей час має рівень $TIERDESCRIPTION$. Це дає такі ефекти:"
  BETTER_TIER_DESCRIPTION:0 "Якщо ви покращите ваш $TYPE$ до рівня $TIERDESCRIPTION$, ви отримаєте такі ефекти:"
  WORSE_TIER_DESCRIPTION:1 "$TIERDESCRIPTION$: Ваш $TYPE$ вже перевершив цей рівень."
