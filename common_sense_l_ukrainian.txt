@@ -1068,7 +1068,7 @@
  SUBJECT_MUST_BE_REGENCY:0 "Васалом повинна керувати регентська рада."
  YOU_CANT_HAVE_REGENCY:0 "Ви не можете зробити це, поки країною керує регентська рада."
  SAME_DYNASTY_ALREADY:0 "Династія $DYNASTY$ вже править у державі $COUNTRY$."
- NEED_POSITIVE_PRESTIGE:0 "Необхідно мати позитивний престиж."
+ NEED_POSITIVE_PRESTIGE:1 "§R- Необхідно мати позитивний престиж.§!"
  THEY_ARE_IN_DEBT:0 "Вони в боргах."
  NEED_POSITIVE_OPINION_OF_US:0 "Їхня думка про нас має бути позитивною."
  MUST_HAVE_LESS_LIBERTY_DESIRE:0 "Бажання свободи має бути нижче §Y$VAL$§!."
