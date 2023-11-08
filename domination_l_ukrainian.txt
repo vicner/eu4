@@ -5,7 +5,7 @@
  fra_burg_succession_title:0 "Бургундська спадщина"
  fra_burg_succession_desc:0 "Випанки з герцогства Бургундія уявляють себе великою державою, але насправді вони просто васали. Ми повинні нагадати їм про цей факт." #old 
  fra_border_empire_title:0 "Віч-на-віч з Імперією"
- fra_border_empire_desc:0 "Священна Римська Імперія є найбільшою перешкодою для французької експансії та шпичкою в нашому боці. Імперію потрібно або скасувати, проклавши шлях нашим амбіціям, або ж узяти під [Root.GetAdjective]ий контроль." #old  
+ fra_border_empire_desc:0 "Священна Римська Імперія є найбільшою перешкодою для французької експансії та шпичкою в нашому боці. Імперію потрібно або скасувати, проклавши шлях нашим амбіціям, або ж узяти під [Root.GetAdjective]ий контроль." #old 
  fra_chateux_loire_valley_title:0 "Шато долини Луари"
  fra_chateux_loire_valley_desc:0 "На початку XV століття в нашій країні відбулися численні досягнення в галузі архітектури. Ми повинні використати наші знання з користю та розвивати багато прекрасних краєвидів нашої країни."
  fra_armorican_peninsula_title:0 "Півострів Арморика"
@@ -51,7 +51,7 @@
  fra_crossroad_continents_title:0 "Роздоріжжя континентів"
  fra_crossroad_continents_desc:0 "Сицилія лежить серед Середземного моря, водоймища, найважливішого як для торгівлі, так і для ведення війни. Її захист лише посилить наш вплив у навколишньому регіоні."
  fra_throne_naples_title:0 "Трон Неаполя"
- fra_throne_naples_desc:0 "Неаполітанська спадщина – складне і суперечливе питання. Сам Неаполь прагне до незалежності, але на нього претендують і Франція, і іберійські князі. Це питання має бути вирішене остаточно." #old  
+ fra_throne_naples_desc:0 "Неаполітанська спадщина – складне і суперечливе питання. Сам Неаполь прагне до незалежності, але на нього претендують і Франція, і іберійські князі. Це питання має бути вирішене остаточно." #old 
  fra_kingdoms_spain_title:0 "Королівства Еспанії"
  fra_kingdoms_spain_desc:0 "Іберія є батьківщиною деяких найвідоміших і найпрестижніших династій Європи. Це держави, які володіють величезною політичною та військовою силою, тому ми повинні діяти обережно і визначитись, чи будемо ми ставитися до них як до друзів, чи як до ворогів."
  fra_branch_mission_2_9_title:0 "Галужена місія"
@@ -443,7 +443,7 @@
  fra_alternatively_10_dev_spread_and_tt:0 "\nІнакше, §G10§! £adm£ £dip£ £mil£ розвитку буде розподілено серед §Yбургундських§! провінцій, а також:"
  fra_alternatively_10_dev_spread_and_2tt:0 "\n§G10§! £adm£ £dip£ £mil£ розвитку буде розподілено серед §Yбургундських§! провінцій, а також:"
  fra_complete_via_opinion_alliance_and_trust_tt:1 "\nЗрештою, якщо ми виконаємо місію через думку та союз з Короною @BUR Бургундії, вони будуть більш схильні стати на наш бік під час імперського інциденту §YБургундська спадщина§!"
- fra_enable_war_on_the_empire_cb_tt:0 "Активує  Casus Belli §YВійна з Імперією§!, який дозволяє нам завойовувати імперські землі за §Yзниженою ціною§!"
+ fra_enable_war_on_the_empire_cb_tt:0 "Активує Casus Belli §YВійна з Імперією§!, який дозволяє нам завойовувати імперські землі за §Yзниженою ціною§!"
  fra_if_completed_via_control_tt:1 "Якщо ми виконаємо місію після §Gоблог§! провінцій під час війни, вони будуть набагато дешевші в мирному договорі"
  fra_alternatively_lose_10_devastation_and_gain_tt:0 "\nЯкщо ж ми виконаємо місію, в мирний час обидві провінції втратять §G10§! розрухи, а також:"
  fra_every_french_province_changes_to_francien_tt:0 "Усю §Yфранцузьку§! культурну групу буде асимільовано у §Yфранкійську§! просуваючи концепт §Yлінгва франка§!"
@@ -1093,7 +1093,7 @@
  flavor_mng.44.g:0 "... all of them! None shall be spared."
  
  flavor_mng.45.t:0 "Expanding the Jinyiwei"
- flavor_mng.45.d:1 "Also known as the Embroidered Uniform Guard, the Jinyiwei serve as the pure expression of law and order within the empire. Being the Emperor's secret police, their authority is even above all other forms of the judiciary system. They can arrest and punish anyone them deem an enemy of the state, and not even high ranking nobles or the relatives of the Emperor themselves are out of their reach. However difficult their task may be, it would be sensible to empower their influence and give them the necessary tools to preserve order within our borders.  "
+ flavor_mng.45.d:1 "Also known as the Embroidered Uniform Guard, the Jinyiwei serve as the pure expression of law and order within the empire. Being the Emperor's secret police, their authority is even above all other forms of the judiciary system. They can arrest and punish anyone them deem an enemy of the state, and not even high ranking nobles or the relatives of the Emperor themselves are out of their reach. However difficult their task may be, it would be sensible to empower their influence and give them the necessary tools to preserve order within our borders."
  flavor_mng.45.a:0 "This is sound policy."
  flavor_mng.45.b:0 "Let's not upset current affairs."
  
@@ -2900,7 +2900,7 @@
  tur_restructure_the_administration_desc:0 "The millets - the "personal law" of the confessional groups living in our empire - have never been standardized. Instead, they were free for the ruling pashas to interpret and to place.\nThe millets of our government need to be reformed as they are too autonomous."
  tur_remove_pashas_from_power_title:0 "Опір пашам"
  tur_remove_pashas_from_power_desc:0 "With the stagnation of our empire, many Pashas grew decadent and too ambitious for their own good. We must make sure that those who are loyal to us stay in power while the revolting ones get removed."
- tur_remove_pashas_from_power_ct:0 "Лихо §YЗанепад пашів§! діяло впродовж  §Y5 років§!."
+ tur_remove_pashas_from_power_ct:0 "Лихо §YЗанепад пашів§! діяло впродовж §Y5 років§!."
  tur_remove_pashas_from_power_tt:0 "Покінчити з лихом §YЗанепад пашів§!."
  tur_regulate_the_harem_title:0 "Врегулювати гарем"
  tur_regulate_the_harem_desc:0 "The Harem is a powerful political entity within our realm. Originally intended to secure a guarantee heir, the concubines and eunuchs of the harem have expanded their influence far beyond of what any slave should be capable of.\nIf the authority of the Sultan shall not be jeopardized then the harem needs to be regulated."
@@ -4745,7 +4745,7 @@
  rus_reform_the_military_at:1 "Win §Y40§! battles, either land or naval (§Y[Root.GetNumWonBattles]/§Y40§!)"
  rus_reform_the_military_bt:1 "Win §Y40§! battles, either land or naval (§Y0§!/§Y40§!)\n§YThis counter starts when the mission 'Handle the Streltsy' has been completed.§!"
  rus_control_fur_trade_title:0 "Control the Fur Trade"
- rus_control_fur_trade_desc:0 "Fur; the soft gold of the North and of Siberia. The demands for good fur will never run out. We must make sure that we have a monopoly over the Fur trade.  "
+ rus_control_fur_trade_desc:0 "Fur; the soft gold of the North and of Siberia. The demands for good fur will never run out. We must make sure that we have a monopoly over the Fur trade."
  rus_peters_reforms_title:0 "The Table of Ranks"
  rus_peters_reforms_desc:0 "As final addition to the modernization of [Root.GetUsableName], we must overhaul the old hierarchical systems of the state in favor of a structure which promotes merit and discourages from ranks thanks to birth."
  nizam_i_cedid_reform:0 "Nizam-i Cedid"
@@ -6103,7 +6103,7 @@
  flavor_kor.16.c:0 "Врятувати Трипітаку"
  tripitaka_koreana:0 "Трипітака Кореана"
  desc_tripitaka_koreana:0 "Трипітака Кореана – корейська збірка священних буддійських писань. Ці писання були вирізьблені на дерев'яних друкарських формах і є предметом гордості корейських вчених і майстрів."
- tripitaka_koreana_tt:1 "§YТрипітаку Кореана§! буде вилучено з провінції  §Y[tripitaka_koreana_province.GetName]§!."
+ tripitaka_koreana_tt:1 "§YТрипітаку Кореана§! буде вилучено з провінції §Y[tripitaka_koreana_province.GetName]§!."
  flavor_kor.17.t:0 "Крадіжка Трипітаки Кореана"
  flavor_kor.17.d:0 "Лихо сталося, коли брами міста [tripitaka_koreana_province.GetName] впали, залишивши відкритим шлях до Трипітаки Кореана. Ворожі солдати захоплюють священну збірку Трипітака Кореана для сво[From.GetMEndJeJi] блюзнірськ[From.GetMEndOjiOgo] [From.Monarch.GetTitleOGO] і готуються перевезти його до міста [From.Capital.GetName]."
  flavor_kor.17.a:0 "Це велике приниження."
@@ -6263,7 +6263,7 @@
  conquer_china_cb_desc:1 "Китай буде нашим!"
  jap_war_against_mandate_holder_tt:0 "Якщо ми виконаємо місію розчавивши §YІмператора Китаю§! ми отримаємо таку нагороду:"
  jap_enable_fabricating_trib_CB_tt:0 "\nДозволяє провести таємну дипломатичну дію '§YСфабрикувати претензію данника§!'"
- jap_reward_if_EoC_tt:0 "Ми отримаємо таку додаткову винагороду, якщо ми виконаємо місію  як §YІмператор Китаю§!:"
+ jap_reward_if_EoC_tt:0 "Ми отримаємо таку додаткову винагороду, якщо ми виконаємо місію як §YІмператор Китаю§!:"
  jap_gold_4182_tt:1 "\nЯкщо ми виконаємо місію, коли провінція [1024.GetName] має принаймні §G8§! базового виробництва і не видобуває §Yзолото§!, ми також отримаємо таку нагороду:"
  jap_ginza_districts_tt:0 "Кожна провінція, якою володіємо ми або наш суб'єкт в §Yяпонському регіоні§!, отримає таку нагороду:"
  jap_increase_base_tax_grants_more_crown_land_tt:0 "\nDeveloping our provincial £adm£ will yield twice the §YКоронні землі§! bonus for 20 years"
@@ -7133,8 +7133,8 @@
  release_franconia_tt:1 "\nAll the lands we own in the §YUpper§! and §YLower Franconia§! areas will be ceded and released under @FKN Franconia independent from our authority"
  gain_15_ae_n_s_germany_tt:0 "\nEvery country whose capital is in the §YNorth§! або §YSouth German§! region отримає §R15§! до агресивного розширення against us"
  pru_accepting_cultures_reduces_3_AE_tt:0 "Відтепер, promoting a §YCulture§! will reduce our §Yагресивне розширення§! by §G-3§!"
- pru_200_dev_unlock_Ability_x_tt:2 "\n£no£ Ми отримаємо access to the '§YPolish Crown§!' splendor ability during the §YЕпоха Реформації§! якщо ми виконаємо місію  while directly or indirectly holding at least §Y200§! Development in the §YPolish§! region"
- pru_200_dev_unlock_Ability_tt:2 "\n£yes£ Ми отримаємо access to the '§YPolish Crown§!' splendor ability during the §YЕпоха Реформації§! якщо ми виконаємо місію  while directly holding at least §Y200§! Development in the §YPolish§! region"
+ pru_200_dev_unlock_Ability_x_tt:2 "\n£no£ Ми отримаємо access to the '§YPolish Crown§!' splendor ability during the §YЕпоха Реформації§! якщо ми виконаємо місію while directly or indirectly holding at least §Y200§! Development in the §YPolish§! region"
+ pru_200_dev_unlock_Ability_tt:2 "\n£yes£ Ми отримаємо access to the '§YPolish Crown§!' splendor ability during the §YЕпоха Реформації§! якщо ми виконаємо місію while directly holding at least §Y200§! Development in the §YPolish§! region"
  pru_adding_provinces_to_trade_c_merc_prod_tt:1 "\nAdding our provinces to a §YTrade Company§! will grant them §G1§! £dip£ Development for them as well as §G1§! Mercantilism for us"
  pru_dev_saxon_lands_tt:1 "\nDeveloping provinces with the §YSaxon§! або §YLower Saxon§! cultures will yield the following benefits to them for the next §Y20§! років:\n Місцева тривалість націоналізму: §G-3§!\nЗменшення місцевої автономії: §G-5%§!\nМісцеве зростання процвітання: §G+1§!\n"
  pru_unifying_germany_bb_gate_magnificent_tier_tt:1 "\nThe '§YMagnificent§!' tier of the §YBrandenburg Gate§! will further grant the following reward:\nMax Effective Absolutism: §G+10%§!"
