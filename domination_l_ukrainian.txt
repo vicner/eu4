@@ -1035,7 +1035,7 @@
  flavor_mng.32.b:0 "The nomadic era comes to a fruitful end..."
  
  flavor_mng.33.t:1 "The Karma Kagyu School and the [From.Monarch.Dynasty.GetName] Dynasty"
- flavor_mng.33.d:1 One of the largest lineages within the Kagyu school and one of the four major schools of thought that follow Tibetan Buddhism, the Karma Kagyu play a profound role in the internal politics between the slopes of the mountains of our homeland. Despite our seclusion, it also has its impact in external politics, some of its leaders having been advisors to the Emperor of China. Now, the ever-reaching influence of the Chinese Emperor finds itself knocking on our door, demanding submission and recognition of his authority within our realm."
+ flavor_mng.33.d:1 "One of the largest lineages within the Kagyu school and one of the four major schools of thought that follow Tibetan Buddhism, the Karma Kagyu play a profound role in the internal politics between the slopes of the mountains of our homeland. Despite our seclusion, it also has its impact in external politics, some of its leaders having been advisors to the Emperor of China. Now, the ever-reaching influence of the Chinese Emperor finds itself knocking on our door, demanding submission and recognition of his authority within our realm."
  flavor_mng.33.a:0 "We recognize the magnanimity of the Mandate holder!"
  flavor_mng.33.b:0 "Risking our independence? Such nonsense!"
  
