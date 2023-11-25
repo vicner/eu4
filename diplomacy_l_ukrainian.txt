@@ -718,7 +718,7 @@
  POWER_COST_NOT_IN_WARGOAL:1 "Не входить у вартість мети війни: $VAL|Y$£dip£ \n"
  POWER_COST_RIVAL:0 "Забирають у суперника: $VAL$\n"
  VASSAL_CANCEL_CONFIRM:0 "Бажаєте скасувати васалізацію держави $VASSAL|Y$?"
- VASSAL_CANCEL_PRESTIGE:0 "\nЦе коштуватиме нам $PRESTIGE|R$ Престижу."
+ VASSAL_CANCEL_PRESTIGE:0 "\nЦе коштуватиме нам $PRESTIGE|R$ престижу."
  VASSAL_CANCEL_OPINION:0 "\nОскільки вони лояльні, їхня думка про нас зменшиться на $OPINION|R$."
  VASSAL_CANCEL_CORES:0 "\nМи також втратимо усі претензії та усю націоналізацію в їхніх провінціях."
  PROTECTORATEBREAKDESC:0 "Бажаєте розірвати договір про протекторат з державою $COUNTRY$? \nЦе спричинить зниження нашої стабільності на §Y$STAB$§!, наш престиж зменшиться на $PRESTIGE|R$, стосунки між нами погіршаться."

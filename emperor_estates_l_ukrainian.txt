@@ -168,7 +168,7 @@
  nomadic_tribes_influence_modifier:0 "Вплив [Country.NomadicRD]"
  nomadic_tribes_privilege_slots:0 "Максимальні привілеї [Country.NomadicRD]"
  vaisyas_influence_modifier:0 "Вплив [Country.VaisyasRD]"
- vaisyas_loyalty_modifier:1 "Рівновага лояльності [Country.GetVaishyasName] Loyalty Equilibrium"
+ vaisyas_loyalty_modifier:1 "Рівновага лояльності [Country.GetVaishyasName]"
  vaisyas_privilege_slots:0 "Максимальні привілеї [Country.VaisyasRD]"
  jains_influence_modifier:0 "Вплив [Country.JainsRD]"
  jains_loyalty_modifier:1 "Рівновага лояльності [Country.JainsRD]"
