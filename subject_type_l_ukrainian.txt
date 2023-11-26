@@ -50,6 +50,7 @@
  subject_only_marry_other_overlord:0 "Ми – $MYSUBJECTTYPE$, тому лише $THEIRSUBJECTTYPES$, що належать іншому сюзерену, можуть укладати з нами шлюб"
  personal_union_no_overlord_dow:0 "Ви не можете оголошувати війни своїм державі, з якою знаходитеся в унії."
  colony_no_overlord_dow:0 "Ви не можете оголошувати війни своїм колоніям."
+ crown_colony_no_overlord_dow:0 "Ви не можете оголошувати війни своїм коронним колоніям."
  protectorate_no_overlord_dow:0 "Ви не можете оголошувати війни своїм протекторатам."
  relation_fight:0 "оголосити війну державі"
  relation_rival:0 "суперник"
