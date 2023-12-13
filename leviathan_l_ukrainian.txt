@@ -626,9 +626,11 @@
  blessing_manthras:0 "Мантри"
  blessing_dakhma:0 "Дахма"
  HOLY_SITE_421_DESC:1 "Бакинський Атешгях є одним із найважливіших храмів вогню зороастризму. Технічно розташований в Сурахані, він пов'язаний з містом Баку з давніх часів, оскільки його назва 'Вогні Багавана' походить від міста Баку. Вогонь виходить прямо з поверхні, а його полум'я палає безперервно, з шаленою силою. Кажуть, що в околицях досі живуть деякі 'вогнепоклонники'."
+ HOLY_SITE_4336_DESC:0 "The Ateshgah of Baku is one of the most important Fire Temples of the Zoroastrianism. While technically in Surakhani, it is binded to the city of Baku since antiquity, as it was also called 'The Fires of Baguan' in reference to the city of Baku. The fire emerges directly from the surface and its flames burn perpetually, with ferocious strength. It is said that some 'fire worshipers' still live in the vicinity."
  HOLY_SITE_441_DESC:1 "Кажуть, що пророк Заратустра народився в Хорезмі, тому округа і особливо її центр, стародавнє місто Хіва, вважаються священними як батьківщина зороастризму. Ісламські вторгнення завдали серйозної шкоди нашій релігії в регіоні, але осередки послідовників чинять опір і навіть серед мусульман регіону збереглося декілька зороастрійських традицій."
  HOLY_SITE_2223_DESC:2 "Неподалік від міста Карян, в окрузі Ларестан, горить ще один вогонь з Аташ Бахрам – Адур Фарнбаг. Він є найшанованішим серед трьох Вогнів Перемоги, два інших називаються Адур Гушнасп, присвячений воїнам, і Адур Бурзен-Міхр, присвячений землеробам."
  HOLY_SITE_2235_DESC:1 "На горі Реванд у Хорасані, неподалік міста Кашмар, горить Адур Бурзен-Міхр, один із трьох Аташ Бахрам або Вогнів Перемоги, пов'язаний зі станом землеробів. Важливий центр паломництва в давнину, його значення для зороастрійців не зникло й дотепер."
+ HOLY_SITE_2212_DESC:0 "When the Khorezm fell to the muslim forces, some worshipers fled to India and founded a community in Sanjan, carrying a sacred fire with them. A silsila, or traditional link, was formed between this new community and the original one in Persia from where the name Sanjan came from. Since 1297, the fire has moved around, first to the Bahrot Caves, then to the village of Bansda and finally to Navsari."
  HOLY_SITE_4430_DESC:1 "Коли Хорезм пав під натиском мусульман, деякі віряни втекли до Індії та заснували громаду в Санджані, забравши з собою священний вогонь. Сільсила, або традиційний зв'язок, утворився між цією новою громадою та первісною громадою в Персії, звідки й пішла назва Санджан. З 1297 року вогонь перемістився спочатку до печер гори Бахрот, потім до містечка Бансда і, нарешті, до Навсарі."
  pick_coptic_blessing:0 "Обрати благословення"
  pick_zoroastrian_blessing:0 "Обрати ритуал"
@@ -1849,3 +1851,8 @@
  hagia_sophia_tt:0 "Релігією провінції §Y[Root.GetName]§! є або §Yкатолицтво§!, §Yправослав'я§! або §Yміафізитство§! або належить до §Yмусульманської§! релігійної групи і є державною, або синкретичною релігією власника."
  mount_fuji_tt:0 "Релігією провінції §Y[Root.GetName]§! є або §Yсинтоїзм§! або §Yмахаяна§! і є державною, синкретичною, або гармонізованою релігією власника."
  
+ #Misc Loc
+
+
+ pegu_subject_ayu_tt:0 "\nIf we complete this mission while §YAyutthaya§! is a non-tributary subject, the following will also happen:"
+ pegu_subject_lna_tt:0 "\nIf we complete this mission while §YLan Na§! is a non-tributary subject, the following will also happen:"
