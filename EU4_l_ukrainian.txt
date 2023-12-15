@@ -895,7 +895,7 @@
  MODIFIER_POSSIBLE_CONDOTTIERI:0 "Можливі кондотьєри"
  MODIFIER_GLOBAL_SHIP_TRADE_POWER:1 "Торгова сила кораблів"
  MODIFIER_CAVALRY_FLANKING:0 "Кавалерійська атака з флангу"
- MODIFIER_SHOCK_DAMAGE_RECIEVED:0 "Втрати від натиску"
+ MODIFIER_SHOCK_DAMAGE_RECIEVED:0 "Втрати від натиску отримані"
  MODIFIER_MOVEMENT_SPEED:0 "Швидкість пересування"
  MODIFIER_SHIP_TRADE_POWER:0 "Торгова сила кораблів"
  MODIFIER_CAPTURE_SHIP_CHANCE:0 "Шанс на захоплення ворожих кораблів"
