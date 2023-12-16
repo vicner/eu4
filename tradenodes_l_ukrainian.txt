@@ -213,4 +213,4 @@
  TRADE_COMPANY_SOUTH_INDIA_Root_Culture_GetName:0 "[Root.Culture.GetName]а Конканська компанія"
  TRADE_COMPANY_DECCAN_Root_Culture_GetName:0 "[Root.Culture.GetName]а Деканська компанія"
  TRADE_COMPANY_COROMANDEL_Root_Culture_GetName:0 "[Root.Culture.GetName]а Коромандельська компанія"
- TRADE_COMPANY_NORTH_INDIA_Root_Culture_GetName:0 "[Root.Culture.GetName]а Північно-Індійська компанія" 
+ TRADE_COMPANY_NORTH_INDIA_Root_Culture_GetName:0 "[Root.Culture.GetName]а Північно-Індійська компанія"
