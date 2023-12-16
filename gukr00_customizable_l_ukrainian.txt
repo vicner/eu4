@@ -1358,3 +1358,7 @@
  EST_rangatiraMS_CAP:0 "Рангатіра" #NoblesMS_CAP
  EST_eikiMS_CAP:1 "'Еікі" #NoblesMS_CAP
  EST_ratuMS_CAP:1 "Рату" #NoblesMS_CAP
+ ### 1.35 - Domination + 1.36 - King of Kings ###
+ EST_janissariesRD:0 "яничарів" #JanissariesRD
+ EST_eunuchsRD:0 "євнухів" #EunuchsRD
+ EST_qizilbashRD:0 "кизилбаші" #QizilbashRD
