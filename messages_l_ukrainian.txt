@@ -6146,7 +6146,7 @@
  EMBRACEINST_OTHER_1:0 "Ми отримали звістку, що держава"
  EMBRACEINST_OTHER_2:0 "$COUNTRY$"
  EMBRACEINST_OTHER_3:0 "запровадила інституцію $INSTITUTION$, що прискорило їхній технологічний розвиток."
- EMBRACEINST_OTHER_4:0 "Це дає їм такі бонуси:"
+ EMBRACEINST_OTHER_4:0 "Це дасть їм такі бонуси:"
  EMBRACEINST_OTHER_5:0 "$BONUS$"
  EMBRACEINST_OTHER_6:0 "$EFFECT$"
  EMBRACEINST_OTHER_LOG:0 "Держава $COUNTRY$ запровадила інституцію $INSTITUTION$."

@@ -848,7 +848,7 @@
  UNLAWFUL_TERRITORY_HAS_OVERLORD:0 "§RДержава $COUNTRY|Y$ є §Yвасалом§! держави $OVERLORD|Y$, що має владу над їхньою територією.§!\n"
  MERCENARY_COMPANY_BUILD_COST:0 "Це коштуватиме $COST|Y$¤ і займе $TIME|Y$ днів."
  HIRE_MERCENARY_COMPANY:0 "Найняти $COMPANY|Y$ в провінції $PROVINCE|Y$\n"
- MACRO_MASS_BUILD_UNITS:0 "§YShift + ЛКМ§!, щоби набрати 5 $TYPE$ полків.\n§YCtrl + ЛКМ§!, щоби набрати 10 $TYPE$ полків."
+ MACRO_MASS_BUILD_UNITS:0 "§YShift + ЛКМ§!, щоби набрати 5 $TYPE$.\n§YCtrl + ЛКМ§!, щоби набрати 10 $TYPE$."
  USE_CURIA_TREASURY:0 "Використати скарбницю курії"
  CURIA_TREASURY_NOT_CURIA_CONTROLLER:0 "§RТільки той, хто контролює курію, може користуватись її скарбницею!§!"
  USE_CURIA_TREASURY_DESC:0 "Як той, хто контролює курію, ви маєте доступ до її скарбниці."
