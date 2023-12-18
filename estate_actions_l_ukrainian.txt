@@ -440,5 +440,5 @@
  auto_complete_estate_agenda_estate_ghulams_tt:1 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetGhilmanName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
  auto_complete_estate_agenda_all_tt:0 "§YАвтоматично виконати наступний порядок денний стану.§!"
  ###SPECIAL ESTATE ACTIONS###
- RAISE_COSSACK_HOST_COSSACKS_effect_tt:0 "У кожній приналежній §Yстеповій§! провінції можна підняти до §G5§! полків кавалерії §Yкозаків§!. Кожен кавалерійський полк коштуватиме нам §R1000§! рекрутів.\nМожна найняти до §G10§! полків, якщо стан §Y[Root.CossacksRD]§! буде мати щонайменше §Y60%§! впливу.\n§YНе можна перевищувати наш ліміт сухопутних військ.§!"
+ RAISE_COSSACK_HOST_COSSACKS_effect_tt:0 "У кожній приналежній §Yстеповій§! провінції можна підняти до §G5§! полків кавалерії §Yкозаків§!. Кожен кавалерійський полк коштуватиме нам §R1000§! рекрутів.\nМожна найняти до §G10§! полків, якщо стан §Y[Root.CossacksRD]§! матиме щонайменше §Y60%§! впливу.\n§YНе можна перевищувати наш ліміт сухопутних військ.§!"
  DEMAND_CONTRIBUTION_DHIMMI_effect_tt:0 "Кожна приналежна §Yчужовірна§! провінція отримає такі ефекти:"
