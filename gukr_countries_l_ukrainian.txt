@@ -518,7 +518,7 @@
  TAG_OGO_LVA:0 "Лівонії" #GetTagOGO
  TAG_OGO_EST:0 "Естонії" #GetTagOGO
  TAG_OGO_SMI:0 "Лапландії" #GetTagOGO
- TAG_OGO_ORM:0 "Ормуза" #GetTagOGO
+ TAG_OGO_ORM:0 "Гормуза" #GetTagOGO
  TAG_OGO_KRL:0 "Карелії" #GetTagOGO
  TAG_OGO_JAI:0 "Мальти" #GetTagOGO
  TAG_OGO_KUB:0 "Куби" #GetTagOGO
@@ -1331,7 +1331,7 @@
  TAG_KUDY_LVA:0 "Лівонію" #GetTagKUDY
  TAG_KUDY_EST:0 "Естонію" #GetTagKUDY
  TAG_KUDY_SMI:0 "Лапландію" #GetTagKUDY
- TAG_KUDY_ORM:0 "Ормуз" #GetTagKUDY
+ TAG_KUDY_ORM:0 "Гормуз" #GetTagKUDY
  TAG_KUDY_KRL:0 "Карелію" #GetTagKUDY
  TAG_KUDY_JAI:0 "Мальту" #GetTagKUDY
  TAG_KUDY_KUB:0 "Кубу" #GetTagKUDY
@@ -2144,7 +2144,7 @@
  TAG_KYM_LVA:0 "Лівонією" #GetTagKYM
  TAG_KYM_EST:0 "Естонією" #GetTagKYM
  TAG_KYM_SMI:0 "Лапландією" #GetTagKYM
- TAG_KYM_ORM:0 "Ормузом" #GetTagKYM
+ TAG_KYM_ORM:0 "Гормузом" #GetTagKYM
  TAG_KYM_KRL:0 "Карелією" #GetTagKYM
  TAG_KYM_JAI:0 "Мальтою" #GetTagKYM
  TAG_KYM_KUB:0 "Кубою" #GetTagKYM
@@ -2957,7 +2957,7 @@
  TAG_DE_LVA:0 "Лівонії" #GetTagDE
  TAG_DE_EST:0 "Естонії" #GetTagDE
  TAG_DE_SMI:0 "Лапландії" #GetTagDE
- TAG_DE_ORM:0 "Ормузі" #GetTagDE
+ TAG_DE_ORM:0 "Гормузі" #GetTagDE
  TAG_DE_KRL:0 "Карелії" #GetTagDE
  TAG_DE_JAI:0 "Мальті" #GetTagDE
  TAG_DE_KUB:0 "Кубі" #GetTagDE
@@ -3770,7 +3770,7 @@
  TAG_OMU_LVA:0 "Лівонії" #GetTagOMU
  TAG_OMU_EST:0 "Естонії" #GetTagOMU
  TAG_OMU_SMI:0 "Лапландії" #GetTagOMU
- TAG_OMU_ORM:0 "Ормузу" #GetTagOMU
+ TAG_OMU_ORM:0 "Гормузу" #GetTagOMU
  TAG_OMU_KRL:0 "Карелії" #GetTagOMU
  TAG_OMU_JAI:0 "Мальті" #GetTagOMU
  TAG_OMU_KUB:0 "Кубі" #GetTagOMU
@@ -4583,7 +4583,7 @@
  TAG_KLY_LVA:0 "Лівоніє" #GetTagKLY
  TAG_KLY_EST:0 "Естоніє" #GetTagKLY
  TAG_KLY_SMI:0 "Лапландіє" #GetTagKLY
- TAG_KLY_ORM:0 "Ормузе" #GetTagKLY
+ TAG_KLY_ORM:0 "Гормузе" #GetTagKLY
  TAG_KLY_KRL:0 "Кареліє" #GetTagKLY
  TAG_KLY_JAI:0 "Мальто" #GetTagKLY
  TAG_KLY_KUB:0 "Кубо" #GetTagKLY
