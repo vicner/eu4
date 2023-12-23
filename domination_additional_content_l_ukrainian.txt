@@ -39,7 +39,7 @@
  desc_ave_pax_angevina:1 "Wherever the eye meets the map they see the great extend of the Angevin Empire. An empire second to none, our people enjoy freedom, security and stability. Truly a Pax Angevina."
  desc_jap_firearm_production_modifier:1 "We are producing a steady supply of firearms, which also serves to boost our economy."
  desc_fra_reintegration_of_burgundian_lands_modifier:1 "Реінтеграція бургундської корони в наші володіння, безсумнівно, принесе великі адміністративні досягнення."
- desc_fra_victory_germany_modifier:1 "Наші зусиллях розтрощити німецьких ворогів увінчалися тріумфом!"
+ desc_fra_victory_germany_modifier:1 "Наші зусилля розтрощити німецьких ворогів увінчалися тріумфом!"
  desc_fra_french_buffer_modifier:1 "Провінції наших східних володінь ретельно охороняються та зміцнюються, діючи як щит від наших ворогів."
  desc_fra_imperial_messengers_modifier:1 "Our diplomats carry the imperial seal of conduct, unobstructed conducting diplomatic business across our entire domain."
  desc_fra_french_canadian_settlers_modifier:1 "Наші зусилля заселити нові землі принесуть величезний прибуток, коли ми створимо колоніальні суб'єкти."
