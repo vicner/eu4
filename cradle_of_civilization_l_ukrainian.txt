@@ -296,7 +296,7 @@
  desc_ulema_displeased:0 "Щоб зупинити корупцію серед керівників релігійних фондів, нам довелося обмежити права улемів."
  corrupt_sadrs:0 "Корумпований садр"
  desc_corrupt_sadrs:0 "Деякі з наших керівників релігійних фондів привласнювали собі частину грошей, які вони отримували, і використовували свій вплив, сприяючи тому, щоб їхні родичі платили менші податки."
- muslim_school_opinion_events.1.t:0 "[Root.GetReligiousSchool] і [school_opinion_increase_country.GetReligiousSchool] поважають один одного"
+ muslim_school_opinion_events.1.t:0 "[Root.GetReligiousSchool] і [school_opinion_increase_country.GetReligiousSchool] поважають одне одного"
  muslim_school_opinion_events.1.d:0 "[Root.GetReligiousSchool] і [school_opinion_increase_country.GetReligiousSchool] ніколи не мали розбіжностей у питаннях теології, здатних перейти в конфлікт, і обидва звичаї часто існують пліч-о-пліч.\n[Root.GetAdjective]а [Root.GetReligiousSchool] і [school_opinion_increase_country.GetAdjective]а [school_opinion_increase_country.GetReligiousSchool] довго співпрацювали на державному рівні, що призвело до нової ери взаєморозуміння і поваги."
  muslim_school_opinion_events.1.a:0 "Аллах великий."
  muslim_school_opinion_events.2.t:0 "[Root.GetReligiousSchool] і [school_opinion_increase_country.GetReligiousSchool] нормалізували відносини"
