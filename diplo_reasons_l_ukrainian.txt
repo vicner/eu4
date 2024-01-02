@@ -44,7 +44,7 @@
  DIPLO_THEOCRACY:0 "$WHO$ є теократією: "
  DIPLO_MONARCHY:0 "$WHO$ є монархією: "
  DIPLO_FREECITY:0 "$WHO$ є вільним містом: "
- DIPLO_GOV_RANK:0 "Ранг уряду держави $WHO$: "
+ DIPLO_GOV_RANK:0 "Ранг уряду $WHO$ої держави: "
  DIPLO_GOV_RANK_DIFF:0 "Різниця між рангами урядів держав: "
  DIPLO_HOSTILE_CORE_CREATION:0 "Ворожа націоналізація провінцій держави $WHO$ коштуватиме: "
  DIPLO_REVOLUTIONARY_WAR:0 "Це революційна війна: "
