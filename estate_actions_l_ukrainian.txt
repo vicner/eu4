@@ -421,8 +421,8 @@
  estate_qizilbash_grant_qizilbash_horses_desc:0 "[Root.EstateDecisionDescription]"
  estate_ghulams_promote_caucasian_troops_desc:0 "[Root.EstateDecisionDescription]"
  ###AUTO COMPLETION EFFECT###
- auto_complete_first_string:0 "Автоматично виконає поточний порядок денний стану"
- auto_complete_second_string:0 ", якщо він активний."
+ auto_complete_first_string:0 "Автоматично виконає поточний порядок денний стану,"
+ auto_complete_second_string:0 "якщо він активний."
  auto_complete_estate_agenda_estate_nobles_tt:0 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetNobilityName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
  auto_complete_estate_agenda_estate_brahmins_tt:0 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetBrahminsName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
  auto_complete_estate_agenda_estate_burghers_tt:0 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetBurghersName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
