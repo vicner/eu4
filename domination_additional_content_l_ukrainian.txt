@@ -46,7 +46,7 @@
  desc_fra_overseas_focus_modifier:1 "Торгівля – справа прибуткова. Ми опанували мистецтво укладання угод і готові отримати щедрі доходи та приріст капіталу."
  desc_fra_masters_of_india_modifier:1 "Багатство одного з найбагатших субконтинентів тепер знаходиться в наших руках."
  desc_fra_compagnie_francaise_modifier:1 "Тут знаходиться одна з найвідоміших і технологічно просунутих мануфактур Індії."
- desc_fra_growth_appanages:1 "A strong and loyal set of subjects and princes means a strong and stable French king."
+ desc_fra_growth_appanages:1 "Сильні та лояльні суб'єкти та князі – сильний та стабільний французький король."
  desc_fra_increased_crown_authority_modifier:1 "Час роздробленої Франції повільно добігає кінця..."
  desc_fra_catholic_supremacy_modifier:1 "Католицизм переміг. Наша віра – це осяйний маяк моральності та стійкості."
  desc_fra_heart_of_protestantism_modifier:1 "We are the bastion of Protestantism, eager to eradicate the heresy posed by other illegitimate faiths."
