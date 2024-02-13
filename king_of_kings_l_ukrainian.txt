@@ -791,7 +791,7 @@
  
  flavor_byz.1.b:0 "Spare the City. Reappropriate the Arsenal instead!"
 
- griko:0 "Гріко"
+ griko:0 "Грецьк"
  
  BYZ_justinians_empire_decision_title:0 "Імперія Юстиніана"
  BYZ_justinians_empire_decision_desc:0 "Відновлення кордонів в юстиніанових межах мало б великий престиж і означало б велике майбутнє. Треба до цього прагнути."
