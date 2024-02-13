@@ -104,7 +104,7 @@
  estate_rajput_land_rights:0 "Розширення володінь стану $ESTATE_NAME$"
  estate_church_inwards_perfection:0 "Внутрішня досконалість"
  estate_church_enforced_interfaith_dialogue:0 "Підтримка міжрелігійного діалогу"
- estate_church_enforced_one_faith:0 "Підтримка релегійної єдності"
+ estate_church_enforced_one_faith:0 "Підтримка релігійної єдності"
  estate_burghers_exclusive_trade_rights:0 "Виняткові торгові права"
  estate_vaisyas_exclusive_trade_rights:0 "Виняткові торгові права"
  estate_jains_exclusive_trade_rights:0 "Виняткові торгові права"
