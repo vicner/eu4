@@ -1180,7 +1180,7 @@
  consort_events.2.a.tt:0 "[origin_of_queens_family.GetName] є рідною провінцією сім'ї, з якої походить [Root.Consort.GetTitle]. Ця провінція буде менше схильна до бунтів, але їй будуть надані привілеї, які ускладнюють збір податків і навернення."
  consort_events.3.t:0 "Величезні очікування"
  consort_events.3.d:0 "Політичний шлюб у тій же мірі шлюбний союз, в якій і договір про взаємодопомогу. Династія [Root.Consort.Dynasty.GetName] очікує, що [Root.Monarch.GetTitleKHTO] прислухається до порад, які дає [Root.Consort.GetTitleKHTO] і буде активно захищати їх (ну та й [Root.GetMJOGO], звичайно) інтереси."
- consort_events.3.a:0 "Усе що завгодно для [Root.Consort.GetTitleKHTO]."
+ consort_events.3.a:0 "Усе що завгодно для [Root.Consort.GetTitleOGO]."
  consort_events.3.a.tt.0:0 "Родина [Root.Consort.Dynasty.GetName] запам'ятає, що ми прийшли на допомогу."
  consort_events.3.a.tt.1:0 "Корона профінансує розвиток деяких, що належать династії [Root.Consort.Dynasty.GetName], земель."
  consort_events.3.a.tt.2:0 "Корона виплатить частину записаних на династію [Root.Consort.Dynasty.GetName] боргів."
