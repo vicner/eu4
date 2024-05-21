@@ -66,7 +66,7 @@
  TAG_OGO_CEP:0 "Корфу" #GetTagOGO
  TAG_OGO_CHA:0 "Чампи" #GetTagOGO
  TAG_OGO_CHE:0 "Черокі" #GetTagOGO
- TAG_OGO_CHG:0 "Чагатая" #GetTagOGO
+ TAG_OGO_CHG:0 "Могулістана" #GetTagOGO
  TAG_OGO_CHK:0 "Чампасака" #GetTagOGO
  TAG_OGO_CHL:0 "Чилі" #GetTagOGO
  TAG_OGO_CHM:0 "Чімора" #GetTagOGO
@@ -473,7 +473,7 @@
  TAG_OGO_KIO:0 "Кайови" #GetTagOGO
  TAG_OGO_MIX:0 "Міштеків" #GetTagOGO
  TAG_OGO_SAL:0 "Саліші" #GetTagOGO
- TAG_OGO_TAR:0 "Тараско" #GetTagOGO
+ TAG_OGO_TAR:0 "Пурепеча" #GetTagOGO
  TAG_OGO_TLA:0 "Тлакоапи" #GetTagOGO
  TAG_OGO_TLX:0 "Тласкали" #GetTagOGO
  TAG_OGO_TOT:0 "Тотонаків" #GetTagOGO
@@ -879,7 +879,7 @@
  TAG_KUDY_CEP:0 "Корфу" #GetTagKUDY
  TAG_KUDY_CHA:0 "Чампу" #GetTagKUDY
  TAG_KUDY_CHE:0 "Черокі" #GetTagKUDY
- TAG_KUDY_CHG:0 "Чагатай" #GetTagKUDY
+ TAG_KUDY_CHG:0 "Могулістан" #GetTagKUDY
  TAG_KUDY_CHK:0 "Чампасак" #GetTagKUDY
  TAG_KUDY_CHL:0 "Чилі" #GetTagKUDY
  TAG_KUDY_CHM:0 "Чімор" #GetTagKUDY
@@ -1286,7 +1286,7 @@
  TAG_KUDY_KIO:0 "Кайову" #GetTagKUDY
  TAG_KUDY_MIX:0 "Міштеків" #GetTagKUDY
  TAG_KUDY_SAL:0 "Саліші" #GetTagKUDY
- TAG_KUDY_TAR:0 "Тараско" #GetTagKUDY
+ TAG_KUDY_TAR:0 "Пурепеча" #GetTagKUDY
  TAG_KUDY_TLA:0 "Тлакоапу" #GetTagKUDY
  TAG_KUDY_TLX:0 "Тласкалу" #GetTagKUDY
  TAG_KUDY_TOT:0 "Тотонаків" #GetTagKUDY
@@ -1692,7 +1692,7 @@
  TAG_KYM_CEP:0 "Корфу" #GetTagKYM
  TAG_KYM_CHA:0 "Чампою" #GetTagKYM
  TAG_KYM_CHE:0 "Черокі" #GetTagKYM
- TAG_KYM_CHG:0 "Чагатай" #GetTagKYM
+ TAG_KYM_CHG:0 "Могулістаном" #GetTagKYM
  TAG_KYM_CHK:0 "Чампасаком" #GetTagKYM
  TAG_KYM_CHL:0 "Чилі" #GetTagKYM
  TAG_KYM_CHM:0 "Чімором" #GetTagKYM
@@ -2099,7 +2099,7 @@
  TAG_KYM_KIO:0 "Кайовою" #GetTagKYM
  TAG_KYM_MIX:0 "Міштеками" #GetTagKYM
  TAG_KYM_SAL:0 "Саліші" #GetTagKYM
- TAG_KYM_TAR:0 "Тараско" #GetTagKYM
+ TAG_KYM_TAR:0 "Пурепеча" #GetTagKYM
  TAG_KYM_TLA:0 "Тлакоапою" #GetTagKYM
  TAG_KYM_TLX:0 "Тласкалою" #GetTagKYM
  TAG_KYM_TOT:0 "Тотонаками" #GetTagKYM
@@ -2505,7 +2505,7 @@
  TAG_DE_CEP:0 "Корфу" #GetTagDE
  TAG_DE_CHA:0 "Чампі" #GetTagDE
  TAG_DE_CHE:0 "Черокі" #GetTagDE
- TAG_DE_CHG:0 "Чагатаї" #GetTagDE
+ TAG_DE_CHG:0 "Могулістані" #GetTagDE
  TAG_DE_CHK:0 "Чампасаку" #GetTagDE
  TAG_DE_CHL:0 "Чилі" #GetTagDE
  TAG_DE_CHM:0 "Чіморі" #GetTagDE
@@ -2912,7 +2912,7 @@
  TAG_DE_KIO:0 "Кайові" #GetTagDE
  TAG_DE_MIX:0 "Міштеках" #GetTagDE
  TAG_DE_SAL:0 "Саліші" #GetTagDE
- TAG_DE_TAR:0 "Тараско" #GetTagDE
+ TAG_DE_TAR:0 "Пурепеча" #GetTagDE
  TAG_DE_TLA:0 "Тлакоапі" #GetTagDE
  TAG_DE_TLX:0 "Тласкалі" #GetTagDE
  TAG_DE_TOT:0 "Тотонаках" #GetTagDE
@@ -3318,7 +3318,7 @@
  TAG_OMU_CEP:0 "Корфу" #GetTagOMU
  TAG_OMU_CHA:0 "Чампі" #GetTagOMU
  TAG_OMU_CHE:0 "Черокі" #GetTagOMU
- TAG_OMU_CHG:0 "Чагатаю" #GetTagOMU
+ TAG_OMU_CHG:0 "Могулістану" #GetTagOMU
  TAG_OMU_CHK:0 "Чампасаку" #GetTagOMU
  TAG_OMU_CHL:0 "Чилі" #GetTagOMU
  TAG_OMU_CHM:0 "Чімору" #GetTagOMU
@@ -3725,7 +3725,7 @@
  TAG_OMU_KIO:0 "Кайові" #GetTagOMU
  TAG_OMU_MIX:0 "Міштекам" #GetTagOMU
  TAG_OMU_SAL:0 "Саліші" #GetTagOMU
- TAG_OMU_TAR:0 "Тараско" #GetTagOMU
+ TAG_OMU_TAR:0 "Пурепеча" #GetTagOMU
  TAG_OMU_TLA:0 "Тлакоапі" #GetTagOMU
  TAG_OMU_TLX:0 "Тласкалі" #GetTagOMU
  TAG_OMU_TOT:0 "Тотонакам" #GetTagOMU
@@ -4131,7 +4131,7 @@
  TAG_KLY_CEP:0 "Корфу" #GetTagKLY
  TAG_KLY_CHA:0 "Чампо" #GetTagKLY
  TAG_KLY_CHE:0 "Черокі" #GetTagKLY
- TAG_KLY_CHG:0 "Чагатає" #GetTagKLY
+ TAG_KLY_CHG:0 "Могулістане" #GetTagKLY
  TAG_KLY_CHK:0 "Чампасаку" #GetTagKLY
  TAG_KLY_CHL:0 "Чилі" #GetTagKLY
  TAG_KLY_CHM:0 "Чіморе" #GetTagKLY
@@ -4538,7 +4538,7 @@
  TAG_KLY_KIO:0 "Кайово" #GetTagKLY
  TAG_KLY_MIX:0 "Міштеки" #GetTagKLY
  TAG_KLY_SAL:0 "Саліші" #GetTagKLY
- TAG_KLY_TAR:0 "Тараско" #GetTagKLY
+ TAG_KLY_TAR:0 "Пурепеча" #GetTagKLY
  TAG_KLY_TLA:0 "Тлакоапо" #GetTagKLY
  TAG_KLY_TLX:0 "Тласкало" #GetTagKLY
  TAG_KLY_TOT:0 "Тотонаки" #GetTagKLY
