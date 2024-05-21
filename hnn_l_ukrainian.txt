@@ -60,6 +60,6 @@
  life_under_the_shadow_kingdom:0 "Життя у тіньовому королівстві"
  election_of_a_habsburg:0 "Вибори Габсбурга"
  autumn_in_aachen:0 "Осінь в Аахені"
- ninety-five_theses:0 "Дев'яносто п'ять тез"  #Мартин Лютер
+ ninety_five_theses:0 "Дев'яносто п'ять тез"  #Мартин Лютер
  imperial_diet:0 "Імперський сейм"
  charlemange_s_legacy:0 "Спадщина Карла Великого"
