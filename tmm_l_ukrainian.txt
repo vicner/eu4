@@ -2103,7 +2103,7 @@
  HAS_BEEN_ECLIPSED_BY_TRIGGER:0 "Занапащено державою $NAME|Y$"
  NOT_HAS_BEEN_ECLIPSED_BY_TRIGGER:0 "НЕ занапащено державою $NAME|Y$"
  RELEASE_ALL_POSSIBLE_COUNTRIES_EFFECT:0 "Усі можливі держави, які можливо виділити з держави $COUNTRY|Y$, було виділено."
- DEFINE_AND_HIRE_ADVISOR:0 "$TYPE$ $NAME|Y$, що належить до $CULTURE|Y$§Yої§! культури та сповідує $RELIGION|Y$, приєднається до нашої адміністрації.\n(Рівень: $SKILL|Y$, $EFFECT$)"
+ DEFINE_AND_HIRE_ADVISOR:0 "$TYPE$ $NAME|Y$, що належить до $CULTURE|Y$§z§!§Yої§! культури та сповідує $RELIGION|Y$, приєднається до нашої адміністрації.\n(Рівень: $SKILL|Y$, $EFFECT$)"
  DEFINE_AND_HIRE_ADVISOR2:0 "Найняти радника типу $TYPE$ з рівнем $SKILL|Y$($EFFECT$)$CULTURE_TEXT$$RELIGION_TEXT$$LOCATION$."
  STEER_TRADE_EFFECT:0 "Держава $COUNTRY|Y$ перенаправлятиме торгову силу державі $TARGET_COUNTRY|Y$."
  DISBAND_ALL_UNITS_EFFECT:0 "Розпустити всі підрозділи"
