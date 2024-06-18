@@ -145,7 +145,7 @@
  tributary_events.12.t:0 "Данина від держави [ningbo_country.GetName]"
  tributary_events.12.d:0 "Посол держави [ningbo_country.GetName] прибув з величезним подарунком як компенсацією за заподіяні неприємності в провінції [ningbo_province.GetCapitalName]. [ningbo_country.Monarch.GetTitle] суворо покарали своїх непокірних підлеглих і тепер особисто гарантують збереження миру під час передачі данини в майбутньому."
  tributary_events.12.a:0 "Розумний вибір."
- tributary_events.12.a.tt:0 "[Root.GetName] отримає весь річний дохід від держави [ningbo_country.GetName]."
+ tributary_events.12.a.tt:1 "Держава [Root.GetName] отримає §G[Root.money_to_give.GetValue]§! від держави [ningbo_country.GetName]."
  tributary_events.13.t:0 "Екзотичні товари з країни [exotic_tributary.GetName]"
  tributary_events.13.d:0 "Наш двір у столиці – місті [Root.Capital.GetCapitalName] дивується безлічі екзотичних товарів, привезених делегацією данника від держави [exotic_tributary.GetName]. Заповзятливі чиновники і торговці вже розпізнали попит і формують союзи для захоплення ринку. Якщо ми не будемо діяти швидко, то, схоже, напевно сформується мережа контрабандистів, яка поставлятиме екзотичні товари в столицю."
  tributary_events.13.a:0 "Дозволимо, але гарантуйте, що ми отримаємо частку!"
