@@ -709,7 +709,7 @@
  COT_NO_OF_LEVEL:0 "Немає центру торгівлі $LEVEL|Y$ рівня\n"
  COT_OF_LEVEL:0 "Щонайменше один центр торгівлі $LEVEL|Y$ рівня\n"
  COT_NO_OF_LEVEL_PROVINCE:0 "Немає центру торгівлі $LEVEL|Y$ рівня\n"
- COT_OF_LEVEL_PROVINCE:0 "Щонайменше один центр торгівлі $LEVEL|Y$ рівня\n"
+ COT_OF_LEVEL_PROVINCE:0 "Провінція має центр торгівлі $LEVEL|Y$ рівня\n"
  COT_LESS_THAN:0 "Майте менше $NUM|Y$ центрів торгівлі\n"
  COT_AT_LEAST:0 "Майте щонайменше $NUM|Y$ центрів торгівлі\n"
  COT_PROVINCE_GLOBAL_MODIFIER:0 "§Y$PROVINCE$:§! $NAME$"
