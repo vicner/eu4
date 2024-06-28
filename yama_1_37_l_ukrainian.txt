@@ -1,3 +1,0 @@
-﻿l_english:
- WindsOfChangeDLC:0 "Вітри змін"
- PROVINCE_TRADE_MODIFIER:0 "Модифікатор місцевої торгової сили"

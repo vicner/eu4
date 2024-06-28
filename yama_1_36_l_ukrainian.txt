@@ -13,7 +13,7 @@
  qizilbash_modifier:0 "Найнято кизилбаші"
  HAVE_AT_LEAST_QIZILBASH_THAN:0 "Кизилбаші щонайменше §Y$VALUE$§!.\n"
  MODIFIER_AMOUNT_OF_QIZILBASH:0 "Ліміт кизилбаші"
- MODIFIER_HAS_QIZILBASH:0 Держава може наймати кизилбаші"
+ MODIFIER_HAS_QIZILBASH:0 "Держава може наймати кизилбаші"
  qizilbash_regiment:0 "Бонус від кизилбаші"
  ONLY_QIZILBASH_MODIFIER:0 "§YВпливає лише на полки кизилбаші§!"
  mamluks:0 "Мамлюки"

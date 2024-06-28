@@ -1,7 +1,0 @@
-﻿l_english:
- GREAT_PROJECT_OUTLINER:0 "Великі проекти"
- OL_GREATPROJECT_CONSTRUCTION:0 "Зведення споруди $BUILDING$ в провінції $PROV$ завершиться $DATE$."
- EDICT_ALREADY_SELECTED:0 "Цей указ вже діє."
- EDICT_EFFECT_REMOVED:0 "§RКоли $EDICT$ видалено:§! $EFFECT$"
- FREE_CULTURES_DESC:0 "Безкоштовне просування культур: "
- FREELY_ACCEPTED_CULTURE_DESC:0 "Ця культура дає додатковий слот просунутої культури, якщо її прийнято."

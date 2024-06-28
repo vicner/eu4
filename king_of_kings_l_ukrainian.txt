@@ -2044,7 +2044,9 @@
  promoting_painting:0 "Просування мистецтва: живопис"
  desc_promoting_painting:0 "Ми зосереджені на створенні чудових картин, які документуватимуть події нашої цивілізації для майбутніх поколінь."
  persian_influence_current_reduction_bonus_tt:0 "[This.persian_influece_counter_tooltip.GetValue]"
- used_persian_influence_mechanic_tt:0 "Зменшіть вартість використання дипломатичної дії '§YДержава під культурним впливом§!' на §G-20.00§! (поточне зниження: §G[Root.GetTempElevationCostReduction]§!/§Y-200§!)."
+ used_persian_influence_mechanic_tt:1 "Зменшіть вартість використання дипломатичної дії '§YДержава під культурним впливом§!' на §G-20.00§! (поточне зниження: §G[Root.GetTempElevationCostReduction]§!/§Y-[Root.GetTempElevationCostReductionCap]§!)."
+ TWO_HUNDRED:0 "200"
+ FOUR_HUNDRED:0 "400"
  used_persian_influece_interaction_1:0 "Інвестований перський вплив"
  used_persian_influece_interaction_2:0 "Інвестований перський вплив"
  used_persian_influece_interaction_3:0 "Інвестований перський вплив"
@@ -3463,7 +3465,7 @@
  ARM1_ideas_start:0 "Великі вірменські традиції"
  ARM1_ideas_bonus:0 "Великі вірменські амбіції"
  apostolic_church1:0 "Apostolic Church"
- apostolic_church1_desc:0 "Armenia was the first nation to establish Christianity as its state religion in 301. The sense of having the first national church in the world brings us immense pride in our nation. Our religious faith has helped us maintain our identity and hope, especially thanks to Saint Mesrop Mashdots and his Armenian alphabet, which revolutionized the fate of our people. It was a fundamental step in strengthening Armenian statehood and identity."
+ apostolic_church1_desc:0 "Armenia was the first nation to establish Christianity as its state religion in 301. The sense of having the first national church in the world brings us immense pride in our nation. Our religious faith has helped us maintain our identity and hope, especially with thanks to the Saint Mesrop Mashdots and his Armenian alphabet, which revolutionized the fate of our people. It was a fundamental step in strengthening Armenian statehood and identity."
  land_reclamation1:0 "Land Reclamation"
  land_reclamation1_desc:0 "Armenia has been ravaged by war for centuries and torn apart by its neighbors. By reclaiming our lost lands and making them suitable for in-habitation along with restoring ruined churches and fortresses, we can ensure a stronger hold over our lands and improve the lives of our citizenry."
  melikdom_organization1:0 "Melikdom Organization"
@@ -4466,3 +4468,6 @@
  passive_effects_events.9.a:0 "Добре"
  
  has_unified_all_culture_fr_fr_tt:0 "Усі провінції §Y[Root.Culture.GetGroupName]ої§! культурної групи, які належать або нам, або нашим колоніям, або колоніям наших суб'єктів"
+ 
+ unlocked_state_madrasas_reform:0 "що розблоковує цю урядову реформу."
+ unlocked_karimi_stations_reform:0 "що розблоковує цю урядову реформу."

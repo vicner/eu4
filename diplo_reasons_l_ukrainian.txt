@@ -246,7 +246,7 @@
  DIPLO_LOW_MANPOWER:0 "$WHO$ має малий резерв рекрутів: "
  DIPLO_LOANS:0 "$WHO$ має борг $GOLD|0$¤: "
  DIPLO_DEBT:0 "Держава $WHO$ має борги: "
- DIPLO_TRADE_POWER_ASKED_FOR:0 "Запитаний торговий вплив: "
+ DIPLO_TRADE_POWER_ASKED_FOR:0 "Запрошена торгова сила: "
  DIPLO_ARMY_SIZE:0 "$WHO$і наземні сили: "
  DIPLO_NAVY_SIZE:0 "$WHO$і морські сили : "
  DIPLO_FELLOW_VASSAL:0 "$COUNTRY01$ є вірним підданим держави $COUNTRY02$: "
