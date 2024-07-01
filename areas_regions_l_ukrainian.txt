@@ -2842,3 +2842,4 @@
  apacheria_area:0 "Апачерія"
  apacheria_area_adj:0 "Апачерійськ"
  apacheria_area_area:0 "Апачерія"
+ 
