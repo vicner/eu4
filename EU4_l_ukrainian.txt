@@ -715,7 +715,7 @@
  quartering_of_troops:0 "Розквартирування військ"
  election_reform:0 "Реформа виборів"
  rotten_borough_reform:0 "Реформа занедбаних районів"
- issue_letters_of_marque:0 "Впровадження марки"
+ issue_letters_of_marque:0 "Видача каперських патентів"
  impressment_of_sailors:0 "Примусовий набір до флоту"
  expand_navy:0 "Збільшення флоту"
  treason_act:0 "Закон про зраду"
