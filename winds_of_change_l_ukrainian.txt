@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
 
  feo_black_sea_fleet_title:0 "Чорноморський флот"
  feo_black_sea_fleet_desc:0 "The Black Sea has been a hotspot of mercantile competition ever since the arrival of the Italians in the Crimean shores. Our Principality has seen a slow decline in maritime actions, being pushed around by the Ottomans, Italians, Hordes, as well as fellow Greeks. Creating a new fleet to combat these problems will be quite beneficial."
@@ -314,8 +314,8 @@
  
  #Ruler Personalities:
  merchant_basileus_personality:0 "Василевс торговців"
- desc_merchant_basileus_personality:0 "Цей правитель — василевс торговців, який зосередив усі свої зусилля на створенні позитивного бюджету своєї країни, а також на отриманні якомога більшого прибутку."
- feo_merchant_basileus_flag:0 "Відкрито спеціалізацію правителя — василевс торговців"
+ desc_merchant_basileus_personality:0 "Цей правитель – василевс торговців, який зосередив усі свої зусилля на створенні позитивного бюджету своєї країни, а також на отриманні якомога більшого прибутку."
+ feo_merchant_basileus_flag:0 "Відкрито спеціалізацію правителя – василевс торговців"
  
  #Mercenaries:
  merc_gavras_house_guards:0 "Охорона Гаврасів"
@@ -1024,7 +1024,7 @@
  ITA_to_the_rhine_desc:0 "Колись річка Рейн була природним кордоном між Римом і германськими племенами. Відновімо цей кордон і захистимо цей край, поки не будемо готові підкорити землі за ним."
  ITA_to_the_rhine_tt:0 "Це провінція межує або знаходиться поблизу річки §YРейн§!"
  ITA_galleasses_title:0 "Досконалий галеас"
- ITA_galleasses_desc:0 "Галеас — це адаптація важких галеонів до бойових стандартів середземноморських галер. Вдоскональмо цей винахід, щоб наші флоти могли гарантувати, що Середземне море є 'нашим морем'!"
+ ITA_galleasses_desc:0 "Галеас – це адаптація важких галеонів до бойових стандартів середземноморських галер. Вдоскональмо цей винахід, щоб наші флоти могли гарантувати, що Середземне море є 'нашим морем'!"
  ITA_reform_the_military_title:0 "Адаптувати армію"
  ITA_reform_the_military_desc:0 "Нинішній стан нашої армії є результатом багатовікового розвитку. Зусилля щодо уніфікації показали, що стандарти та традиції рекрутингу, як правило, відрізняються від держави до держави. Нам потрібен час, щоб реформувати цю систему відповідно до наших поточних потреб."
  ITA_economic_liberalism_title:0 "Економічний лібералізм"
@@ -1076,7 +1076,7 @@
  estate_burghers_ITA_promote_latin_merchants_desc:0 "Італія здавна була комерційним центром Європи. На жаль, це положення може бути втрачено, якщо ми не підтримаємо наших торговців у конкуренції з висхідною торгівлею на півночі."
 
  ITA_unlock_new_estate_privileges_that_will_be_decided:0 "Розблокувати привілей  '§YПідтримати латинських найманців§!' для стану §Y[Root.GetBurghersName]§!. Модифікатори, які він надасть буде визначено §Yгілкою місій§!, яку ми оберемо. Ці зміни буде видно під час підтвердження обраної гілки місій."
- ITA_upgrade_privilege_venice_version:0 "Посилити привілей '§YПідтримати латинських найманців§!' для стану §Y[Root.GetBurghersName]§!, що прибере штраф за §YМаксимум абсолютизму§! й уможливить [Root.GetVeniceUpgradeTooltip].
+ ITA_upgrade_privilege_venice_version:0 "Посилити привілей '§YПідтримати латинських найманців§!' для стану §Y[Root.GetBurghersName]§!, що прибере штраф за §YМаксимум абсолютизму§! й уможливить [Root.GetVeniceUpgradeTooltip]."
  ITA_venice_upgrade_dharma:0 "Вартість інвестицій у торгову компанію §G-15.0%§!"
  ITA_venice_upgrade_no_dharma:0 "§G-5.0%§! до місцевої вартості будівництва"
  ITA_permanent_claim_on_india:0 "Отримає §Yдовічні претензії§! на кожну §Yприбережну§! провінцію з §Yторговим центром§! в торгових вузлах §YАденська затока§!, §YГуджарат§! і §YКоромандел§!."
@@ -1102,13 +1102,13 @@
  cb_ita_dismantle_hre:0 "Розпустити Імперію"
  cb_ita_dismantle_hre_desc:0 "Священна Римська імперія не є ані священною, ані імперією, а тим більше не римською."
  ITA_roman_ambition_wargoal:0 "Захопити провінцію"
- ITA_roman_ambition_wargoal_desc:0 "Мета війни — захопити певну провінцію."
+ ITA_roman_ambition_wargoal_desc:0 "Мета війни – захопити певну провінцію."
  ITA_ROMAN_AMBITION_WARNAME:2 "$ORDER$ римська меліорація провінції $PROVINCE$"
  ITA_scramble_for_america_wargoal:0 "Захопити провінцію"
- ITA_scramble_for_america_wargoal_desc:0 "Мета війни — захопити певну провінцію."
+ ITA_scramble_for_america_wargoal_desc:0 "Мета війни – захопити певну провінцію."
  ITA_SCRAMBLE_FOR_AMERICA_WARNAME:2 "$ORDER$ бійка за провінцію $PROVINCE$"
  ITA_dismantle_hre_wargoal:0 "Захопити столицю"
- ITA_dismantle_hre_wargoal_desc:0 "Мета війни — захопити столицю."
+ ITA_dismantle_hre_wargoal_desc:0 "Мета війни – захопити столицю."
  ITA_HRE_DISMANTLEMENT_WARNAME:1 "$ORDER$ війна за демонтаж"
  
  ITA_higher_likelihood_of_entrepeneur_no_longer:1 "§Y[Root.Owner.GetName]§! втратить підвищені шанси на отримання особистості §YПідприємець§!."
@@ -1129,7 +1129,7 @@
  ITA_enhanced_emperorship:0 "Дипломатичне поглинання"
  desc_ITA_enhanced_emperorship:0 "Замість того, щоб знищити Священну Римську імперію шляхом завойовницької війни, ми вирішили захопити її зсередини. Розумне і підступне рішення."
  ITA_integration_with_southern_france:0 "Інтеграція з окситанцями"
- desc_ITA_integration_with_southern_france:0 "Окситанці — група, культурно близька до Латинської Італії. Їхня інтеграція до нашої держави є досить тривіальною."
+ desc_ITA_integration_with_southern_france:0 "Окситанці – група, культурно близька до Латинської Італії. Їхня інтеграція до нашої держави є досить тривіальною."
  ITA_conquest_of_britain:0 "Завоювання Британії"
  desc_ITA_conquest_of_britain:0 "Грізна англійська дерев'яна стіна не зможе протистояти нашій силі. Альбіон тепер у наших надійних руках."
  ITA_crusader_kings:0 "Королі-хрестоносці"
@@ -1379,7 +1379,7 @@
  GER_break_the_habsburgs_generic_title:0 "Розбити Габсбургів"
  GER_break_the_habsburgs_generic_desc:0 "Габсбурги традиційно були імператорами Священної Римської Імперії та залишалися найбільшою перешкодою на шляху до об’єднання Німеччини. Їхні заперечення повинні бути анульовані."
  GER_break_the_habsburgs_HAB_title:0 "Володіння Габсбургів"
- GER_break_the_habsburgs_HAB_desc:0 Володіння Габсбургів століттями були політичним центром Священної Римської Імперії. Інтеграція цих територій зміцнить легітимність нашої держави."
+ GER_break_the_habsburgs_HAB_desc:0 "Володіння Габсбургів століттями були політичним центром Священної Римської Імперії. Інтеграція цих територій зміцнить легітимність нашої держави."
  GER_silesia_title:0 "Промислова Сілезія"
  GER_silesia_desc:0 "На наших східних кордонах лежить Сілезія, земля, що вже зазнала значного впливу німецьких поселенців і містить багато покладів вугілля, особливо на сході. Наше першорядне завдання – перетворення її на нашу промислову базу."
  GER_secure_north_title:0 "Захистити Північ"
@@ -1406,7 +1406,7 @@
  estate_burghers_GER_turn_towards_mercantilism:0 "Підняти меркантилізм"
  estate_burghers_GER_turn_towards_mercantilism_desc:0 "Нам потрібно стати самодостатньою економікою. Мінімізувати нашу залежність від іноземних товарів і збільшити експорт наших товарів – ось що нам потрібно."
  estate_burghers_GER_customs_union:0 "Митний союз"
- estate_burghers_GER_customs_union_desc:1 "Безмитна торгівля — це, мабуть, найбільший подарунок, що може отримати торговець. Нехай наші економіки розвиваються."
+ estate_burghers_GER_customs_union_desc:1 "Безмитна торгівля – це, мабуть, найбільший подарунок, що може отримати торговець. Нехай наші економіки розвиваються."
  estate_nobles_GER_diploma_andreanum:0 "Відновити закон Андраша"
  estate_nobles_GER_diploma_andreanum_desc:1 "Закон Андраша дозволив німцям колонізувати Трансільванію. Ця оновлена ​​версія дозволить нам ще більше розширити наші території."
  GER_from_3_years_of_prod_income:0 "від §G3§! річних доходів від §Yвиробництва§!."
@@ -1432,10 +1432,10 @@
  cb_ger_scramble_for_africa:0 "Бійка за Африку"
  cb_ger_scramble_for_africa_desc:0 "Залишилися ще шматки Африки, на які можна заявити права. Відріжмо й собі шматок пирога."
  GER_claim_a_piece_wargoal:0 "Захопити провінцію"
- GER_claim_a_piece_wargoal_desc:0 "Мета війни — захопити певну провінцію."
+ GER_claim_a_piece_wargoal_desc:0 "Мета війни – захопити певну провінцію."
  GER_CLAIM_A_PIECE_WARNAME:2 "$ORDER$ бійка за провінцію $PROVINCE$"
  GER_scramble_for_africa_wargoal:0 "Захопити провінцію"
- GER_scramble_for_africa_wargoal_desc:0 "Мета війни — захопити певну провінцію."
+ GER_scramble_for_africa_wargoal_desc:0 "Мета війни – захопити певну провінцію."
  GER_SCRAMBLE_FOR_AFRICA_WARNAME:2 "$ORDER$ бійка за провінцію $PROVINCE$"
  
  GER_get_claims_on_provinces_in_coromandel_malacca_moluccas:1 "Отримає §Yдовічні претензії§! на кожну провінцію в торгових вузлах §YМалакка§!, §YМолуккські острови§! та §YКоромандел§!."
@@ -2107,7 +2107,7 @@
  reform_the_uscocchi:0 "Реформи ускоків"
  reform_the_uscocchi_desc:0 "Різні народи, які населяють наш кордон з германцями, надто довго були на заваді наших торговців. Але їхні прикордонні сутички та піратство на узбережжях можна перетворити й використати на користь нашого уряду."
  maggior_consiglio:0 "Maggior Consiglio"
- maggior_consiglio_desc:0 "Вища рада — органорган влади, який визначає ступінь повноважень, які може мати глава держави. Правильно орієнтуючись на політичній арені та потискаючи необхідні руки, ми зуміємо заручитися їхньою прихильністю до нашого правителя."
+ maggior_consiglio_desc:0 "Вища рада – органорган влади, який визначає ступінь повноважень, які може мати глава держави. Правильно орієнтуючись на політичній арені та потискаючи необхідні руки, ми зуміємо заручитися їхньою прихильністю до нашого правителя."
 
 #Event Insights
 
@@ -2377,7 +2377,7 @@
  ned_elite_naval_infantry:0 "Elite Naval Infantry"
  desc_ned_elite_naval_infantry:0 "Our many overseas operations have allowed us to further strengthen our marines."
  ned_black_devils_modifier:0 "Чорні дияволи"
- desc_ned_black_devils_modifier:0 "'Чорні дияволи' — найвідоміша морська піхота Нідерландів."
+ desc_ned_black_devils_modifier:0 "'Чорні дияволи' – найвідоміша морська піхота Нідерландів."
  ned_maximize_cargo_space:0 "Максимізувати вантажний простір"
  desc_ned_maximize_cargo_space:0 "Замість того, щоб оснащувати наші торгові кораблі гарматами та солдатами, давайте максимально збільшимо кількість вантажу, який ми можемо в них вмістити."
  ned_diversify_fluyts:0 "Diversify Fluyts"
@@ -2510,7 +2510,7 @@
  
  #Estate Privileges:
  estate_burghers_black_devils:0 "Чорні дияволи"
- estate_burghers_black_devils_desc:0 "Наша морська піхота поділена на безліч різних частин. Цього достатньо, щоб зберегти чисельність нашої морської піхоти, але якщо ми хочемо бути впевненими, що якість наших десантних операцій не погіршиться — нам треба подбати про те, щоб об'єднати наші корпуси морської піхоти в один."
+ estate_burghers_black_devils_desc:0 "Наша морська піхота поділена на безліч різних частин. Цього достатньо, щоб зберегти чисельність нашої морської піхоти, але якщо ми хочемо бути впевненими, що якість наших десантних операцій не погіршиться – нам треба подбати про те, щоб об'єднати наші корпуси морської піхоти в один."
  estate_burghers_maximize_cargo_space:0 "Максимізувати вантажний простір"
  estate_burghers_maximize_cargo_space_desc:0 "Замість того, щоб оснащувати наші торгові кораблі гарматами та солдатами, давайте максимально збільшимо кількість вантажу, який ми можемо в них вмістити."
  estate_burghers_diversify_fluyts:0 "Диверсифікувати флейти"
@@ -2530,7 +2530,7 @@
  fervor_stability_buffed_short:0 "Стабільність"
  fervor_diplomacy_buffed_short:0 "Дипломатія"
  
- #Великий проектs:
+ #Великі проекти:
  amsterdam_bourse:0 "Амстердамська біржа"
  golden_kremnica:1 "Золоте місто"
  venetian_arsenal_gp:0 "Венеційський арсенал"
@@ -2542,10 +2542,10 @@
  
  #Leader Personalities:
  us_heit_personality:0 "Us Heit"
- desc_us_heit_personality:0 "'Us Heit', що означає 'Отче наш', — відоме прізвисько, надане Вільяму Луї фон Нассау за його досягнення в боротьбі проти Еспанії та Священної Римської Імперії, та в забезпеченні незалежності Нідерландів."
+ desc_us_heit_personality:0 "'Us Heit', що означає 'Отче наш', – відоме прізвисько, надане Вільяму Луї фон Нассау за його досягнення в боротьбі проти Еспанії та Священної Римської Імперії, та в забезпеченні незалежності Нідерландів."
  us_heit_personality_die_desc:0 "[GetHerHisCap] досягнення залишаться в історії Нідерландів."
  bestevaer_personality:0 "Bestevaer"
- desc_bestevaer_personality:0 "'Bestevaer', що означає 'дідусь', — прізвисько легендарного адмірала Міхіеля де Рюйтера, одного з найвидатніших адміралів в історії, відомого своїми рейдами проти англійської Корони."
+ desc_bestevaer_personality:0 "'Bestevaer', що означає 'дідусь', – прізвисько легендарного адмірала Міхіеля де Рюйтера, одного з найвидатніших адміралів в історії, відомого своїми рейдами проти англійської Корони."
  bestevaer_personality_die_desc:0 "[GetHerHisCap] вороги можуть бути спокійні, оскільки [GetHerHis] рейди більше не грабуватимуть їхні порти."
  orangist_stadholder_personality:0 "Штатгальтер-оранжист"
  desc_orangist_stadholder_personality:1 "Політичний натхненник справи оранжистів. Наш правитель зробить усе для забезпечення влади своїх побратимів-оранжистів та зменшення впливу штатистів."
@@ -2890,7 +2890,7 @@
  hun_corviniana_insight_leviathan_tt:0 "\n§GВисвітлення події:§!\nЦя подія розповість про важливість бібліотеки Корвініана та правління Матвія Корвіна, який перетворив Угорщину на центр Ренесансу. Ми отримаємо безплатне оновлення великого проєкту §Yбібліотеки Корвініана§!, а також такий модифікатор:"
  hun_corviniana_insight_no_leviathan_tt:0 "\n§GВисвітлення події:§!\nЦя подія розповість про важливість бібліотеки Корвініана та правління Матвія Корвіна, який перетворив Угорщину на центр Ренесансу. Ми отримаємо §G3§! до рівня податків в провінції §Y[153.GetName]§!, а також такий модифікатор:"
  hun_naples_cb_tt_yes:0 "\n£yes£ Якщо ми виконаємо цю місію, коли існує держава @NAP §YНеаполь§! і вона §Tпідходить для особистої унії§!, ми також отримаємо:"
- hun_naples_cb_tt_no:0 "\n£no£ Якщо ми виконаємо цю місію, коли існує держава @NAP §YНеаполь§! і вона §Tпідходить для особистої унії§!, ми також отримаємо:
+ hun_naples_cb_tt_no:0 "\n£no£ Якщо ми виконаємо цю місію, коли існує держава @NAP §YНеаполь§! і вона §Tпідходить для особистої унії§!, ми також отримаємо:"
  hun_cb_plc_tt_yes:1 "£yes£ Якщо @PLC §YРіч Посполита§! §Tпідходить для особистої унії§!, ми отримаємо:"
  hun_cb_plc_tt_no:1 "£no£ Якщо @PLC §YРіч Посполита§! §Tпідходить для особистої унії§!, ми отримаємо:"
  hun_cb_poland_tt_yes:1 "£yes£ Якщо @POL §YПольща§! §Tпідходить для особистої унії§!, ми отримаємо:"
@@ -4559,21 +4559,21 @@
  desc_boh_lion_of_the_empire:0 "As the Lion of the Empire, our nation commands respect and fear. Let us use our dominant status to strengthen our position within it."
  boh_humiliated_habsburgs:0 "Принизили Габсбургів"
  desc_boh_humiliated_habsburgs:0 "Наша перемога над Габсбургами принизила та послабила їх. Це дає нам чудову можливість усунути їхній вплив на Священну Римську Імперію та повернути її собі."
- boh_otakars_legacy:0 "Otakar's Legacy"
+ boh_otakars_legacy:0 "Спадщина Отокара"
  desc_boh_otakars_legacy:0 "Having reclaimed lordship over Austria, we have proven that we deserve to be called the heirs of Otakar's enduring legacy."
  boh_spread_word_of_hus:0 "Spread the Word of Hus"
  desc_boh_spread_word_of_hus:0 "The teachings of Hus have spread far and wide, influencing our culture and society. Let us spread it beyond the borders of our nation."
  boh_purge_hussites:0 "Purge the Hussites"
  desc_boh_purge_hussites:0 "The Hussites have been purged, restoring stability and order to our lands."
- boh_early_industrialization:0 "Early Industrialization"
+ boh_early_industrialization:0 "Рання індустріалізація"
  desc_boh_early_industrialization:0 "Our wise investment into manufacturing and production has propelled our economy forward."
  boh_recovered_from_hussite_wars:0 "Recovered from the Hussite Wars"
  desc_boh_recovered_from_hussite_wars:0 "After decades of hardships, we have finally recovered from the devastation of the Hussite Wars."
  boh_pravda_vitezi:0 "Pravda Vítezí"
  desc_boh_pravda_vitezi:0 "'Pravda Vítezí' - Truth Prevails, is the guiding principle of our nation. As long as we stay true to it, nothing in this world will defeat us!"
- boh_workshop_of_the_world:0 "Майстерня миру"
+ boh_workshop_of_the_world:0 "Майстерня світу"
  desc_boh_workshop_of_the_world:0 "Завдяки інвестиціям у вдосконалення виробництва наша країна стала глобальним центром інновацій та виробництва."
- boh_workshop_of_the_world2:0 "Майстерня миру"
+ boh_workshop_of_the_world2:0 "Майстерня світу"
  desc_boh_workshop_of_the_world2:0 "Завдяки інвестиціям у вдосконалення виробництва наша країна стала глобальним центром інновацій та виробництва."
  boh_luxembourg_legacy:0 "Legacy of the Luxembourgs"
  desc_boh_luxembourg_legacy:0 "The Luxembourgs' legacy has left an indelible mark on our nation's history. As we now control the imperial crown once again, we have successfully reclaimed it!"
@@ -4657,7 +4657,7 @@
  BOH_RELIGION_BRANCHING:0 "Ефекти цієї місії залежать від того, як ми виконаємо місію '§YПокінчити з регентством§!'."
  boh_until_lose_war:0 "until we lose any war"
  boh_global_hegemon_tt_yes:0 "£yes£ Якщо ми виконаємо цю місію, маючи §Yнайбільшу армію§! і §Yнайбільший розвиток§! у світі, ми також отримаємо:"
- boh_global_hegemon_tt_no:0 "£no£ Якщо ми виконаємо цю місію, маючи §Yнайбільшу армію§! і §Yнайбільший розвиток§! у світі, ми також отримаємо:
+ boh_global_hegemon_tt_no:0 "£no£ Якщо ми виконаємо цю місію, маючи §Yнайбільшу армію§! і §Yнайбільший розвиток§! у світі, ми також отримаємо:"
  boh_biggest_eu_army:0 "Жодна країна зі столицею в §YЄвропі§! не має більшої армії ніж §Y[Root.GetName]§!."
  boh_biggest_eu_dev:0 "Жодна країна зі столицею в §YЄвропі§! не має більшого загального розвитку ніж §Y[Root.GetName]§!."
  boh_great_moravia_insight_tt:0 "\n§GВисвітлення події:\n§!Ця подія розблоковує рішення про створення @GMA §YВеликої Моравії§! як сформованої нації, дає нашому правителю §G2§! £mil£ stat, а також такий модифікатор:"
@@ -6571,7 +6571,7 @@
  cb_tim_crush_rebellion:0 "Ajami Rebellion"
  cb_tim_crush_rebellion_desc:0 "Muhammad bin Baysonqor has grown too ambitious for his own good."
  TIM_crush_rebellion:0 "Захопити провінцію"
- TIM_crush_rebellion_desc:0 "Мета війни — захопити певну провінцію."
+ TIM_crush_rebellion_desc:0 "Мета війни – захопити певну провінцію."
  TIM_CRUSH_REBELLION_WARNAME:0 "Ajami Rebellion"
  
  TIM_GURKANI:0 "Gurkani"
