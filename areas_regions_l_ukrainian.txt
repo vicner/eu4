@@ -1016,7 +1016,7 @@
  gulf_of_guinea_area_adj:0 "Бенінськ"
  west_africa_coast_area:0 "Західно-Африканське узбережжя"
  west_africa_coast_area_name:0 "Золотий берег"
- west_africa_coast_area_adj:0 "Золот. берег"
+ west_africa_coast_area_adj:0 "Золото-берегов"
  guinea_coast_area:0 "Гвінея"
  guinea_coast_area_name:0 "Гвінея"
  guinea_coast_area_adj:0 "Гвінейськ"
