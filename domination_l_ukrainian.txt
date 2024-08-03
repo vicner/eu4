@@ -6960,13 +6960,13 @@
  
  #Events 
  
- flavor_ara.12.t:0 "Арагонські інфанти" #Event for Арагон 
- flavor_ara.12.d:1 "Арагонські інфанти are the brothers and sisters of king Alfons V of Арагон, second ruler of the Trastámara dynasty, which was established in the country after the Compromise of Caspe in 1412. They are also cousins of the Castilian king Juan II and conspired since early in his reign to control him and seize power in Castile, with the support of a faction of relatives and allies among the Castilian nobility.\n\nThe situation deteriorated from 1437 when a new civil war broke out between the faction headed by the Арагонські інфанти, and the one headed by Álvaro de Luna and the heir to the throne Enrique, which is now coming to a resolution."
- flavor_ara.12.a:0 "Opportunity is knocking!"
- flavor_ara.12.b:0 "We shouldn't sacrifice peace..."
- flavor_ara.13.t:0 "Commercial Expansion in Alexandria"
- flavor_ara.13.d:0 "The trade that flows through the river Nile contains exorbitant amounts of value. To harness the amount of goods that flow through it will not only amount to unimaginable profits but also the introduction of new goods from faraway shores. The recent conquest of the Delta has led to the monopolization of many ventures that span all the way to India and beyond."
- flavor_ara.13.a:0 "This will positively influence our treasuries!"
+ flavor_ara.12.t:0 "Арагонські інфанти" #Event for Aragon 
+ flavor_ara.12.d:1 "Арагонські інфанти – брати та сестри короля Альфонса V Арагонського, іншого правителя династії Трастамара, яка встановилася у країні після Каспського компромісу у 1412 році. Вони також є двоюрідними братами кастильського короля Хуана II й з початку його правління змовилися контролювати його та захопити владу в Кастилії за підтримки фракції родичів і союзників серед кастильської знаті.\n\nСитуація погіршилася з 1437 року, коли спалахнула нова громадянська війна між фракцією, очолюваною Арагонськими інфантами, і фракцією, очолюваною Альваро де Луна та спадкоємцем престолу Енріке, яка зараз наближається до розв'язки."
+ flavor_ara.12.a:0 "Доля стукає у двері!"
+ flavor_ara.12.b:0 "Ми не поставимо мир під загрозу..."
+ flavor_ara.13.t:0 "Комерційне розширення в Александрії"
+ flavor_ara.13.d:0 "Через торгівлю, що протікає річкою Ніл, проходять неймовірні суми. Контроль над потоком товарів, що йдуть через нього, призведе не лише до неймовірних прибутків, а й до появи нових товарів із далеких берегів. Нещодавнє завоювання Дельти призвело до монополізації багатьох підприємств, що охоплюють територію аж до Індії та за її межами."
+ flavor_ara.13.a:0 "Це позитивно позначиться на нашій скарбниці!"
 
  #Tooltips 
  ara_claims_in_castile_tt:0 "\n Ми отримаємо постійні претензії на землі, якими володіє @CAS Кастилія\n "
@@ -6976,30 +6976,30 @@
  ara_become_p_republic_tt:1 "\nМи проголосимо §Yселянську республіку§!!\n "
  
  #Modifiers
- ara_iberian_struggle_modifier:0 "Iberian Struggle"
- desc_ara_iberian_struggle_modifier:0 "Centuries of infighting between the Iberian kingdoms are coming to an end."
- ara_a_new_power_modifier:0 "Hegemon of Iberia"
- desc_ara_a_new_power_modifier:0 "§Y[Root.GetName]§! has finally triumphed over the other Iberian kingdoms, establishing its hegemony over the region."
- ara_masters_med_modifier:0 "Masters of the Mediterranean"
- desc_ara_masters_med_modifier:0 "The effort to establish the hegemony of §Y[Root.GetName]§! over the Mediterranean has resulted in the triumph of our Navy as the most powerful in the entire sea."
- ara_governmental_restructuring_modifier:0 "Internal Reforms"
- desc_ara_governmental_restructuring_modifier:0 "We have overcome the War of the Remences, and now we are making the proper reforms that the country needs to recover."
- ara_crushed_the_catalan_estates_modifier:0 "Social Peace"
- desc_ara_crushed_the_catalan_nobles_modifier:0 "Our efforts to pacify the estates of our country have been successful, and now they are all rowing in the same direction."
- ara_unshackled_modifier:0 "Unshackled"
- desc_ara_unshackled_modifier:0 "The §Yremences§! are victorious in their war against the feudal lords, and now a bright future awaits our country!"
- ara_italian_influences_modifier:0 "Italian Influences"
- desc_ara_italian_influences_modifier:0 "Our country has become firmly established in Italy, and now its cultural influence is having a profound impact."
- ara_maritime_administration_modifier:0 "Maritime Administration"
- desc_ara_maritime_administration_modifier:0 "[Root.GetName] is increasingly focusing on its maritime endeavors, expanding its overseas administration in the process."
- diamond_district2:0 "Diamond District of Barcelona"
- desc_diamond_district2:0 "We are promoting business in Barcelona through their guilds, with sparkling results."
- spa_employ_galleon_modifier:0 "Taming the Vast Sea"
- desc_spa_employ_galleon_modifier:0 "Galleons are a key new development in shipbuilding engineering, becoming the workhorse of our Navy."
- ara_nile_production_monopoly_modifier:0 "Nile Production Monopoly"
- desc_ara_nile_production_monopoly_modifier:0 "The fertile lands of the Nile delta and valley are now making our country rich."
- ara_victory_over_provence_modifier:0 "Victory over Provence"
- desc_ara_victory_over_provence_modifier:0 "We have emerged victorious over our rivals!"
+ ara_iberian_struggle_modifier:0 "Іберійська боротьба"
+ desc_ara_iberian_struggle_modifier:0 "Багатовікова боротьба між Іберійськими королівствами добігає кінця."
+ ara_a_new_power_modifier:0 "Гегемон Іберії"
+ desc_ara_a_new_power_modifier:0 "Держава §Y[Root.GetName]§! нарешті здобула перемогу над іншими іберійськими королівствами, встановивши свою гегемонію над регіоном."
+ ara_masters_med_modifier:0 "Володарі Середземномор'я"
+ desc_ara_masters_med_modifier:0 "Спроба §Y[Root.GetAdjective]у§! встановити гегемонію над Середземним морем призвела до тріумфу нашого військового флоту як найпотужнішого на всьому морі."
+ ara_governmental_restructuring_modifier:0 "Внутрішні реформи"
+ desc_ara_governmental_restructuring_modifier:0 "Ми подолали Повстання Ременсів і тепер проводимо належні реформи, необхідні для відновлення країни."
+ ara_crushed_the_catalan_estates_modifier:0 "Суспільний спокій"
+ desc_ara_crushed_the_catalan_nobles_modifier:0 "Наші зусилля щодо умиротворення станів нашої країни мали успіх, і тепер всі вони рухаються в одному напрямку."
+ ara_unshackled_modifier:0 "Розірвані кайдани"
+ desc_ara_unshackled_modifier:0 "§YРеменси§! перемагають у війні з феодалами, і тепер нашу країну чекає світле майбутнє!"
+ ara_italian_influences_modifier:0 "Італійський вплив"
+ desc_ara_italian_influences_modifier:0 "Наша країна міцно влаштувалася в Італії, і тепер її культурний вплив має велике значення."
+ ara_maritime_administration_modifier:0 "Морська адміністрація"
+ desc_ara_maritime_administration_modifier:0 "[Root.GetName] все більше зосереджує свої зусилля у морському судноплавстві, розширюючи при цьому свою закордонну адміністрацію."
+ diamond_district2:0 "Діамантовий квартал Барселони"
+ desc_diamond_district2:0 "Ми просуваємо бізнес у Барселоні через їхні гільдії та досягаємо блискучих результатів."
+ spa_employ_galleon_modifier:0 "Приборкання безкрайнього моря"
+ desc_spa_employ_galleon_modifier:0 "Галеони - нове ключове досягнення в суднобудуванні, яке стало робочою силою нашого флоту."
+ ara_nile_production_monopoly_modifier:0 "Монополія на видобуток Нілу"
+ desc_ara_nile_production_monopoly_modifier:0 "Родючі землі дельти та долини Нілу роблять нашу країну багатою."
+ ara_victory_over_provence_modifier:0 "Перемога над Провансом"
+ desc_ara_victory_over_provence_modifier:0 "Ми здобули перемогу над суперниками!"
  #Personality 
  peasant_revolt_leader_personality:0 "Захисник маленьких людей"
  peasant_revolt_leader_personality_desc:0 "Захист маленьких людей від зловживань можновладців – сенс існування цього лідера."
@@ -7015,26 +7015,26 @@
  #Navarra
 
  #Reforms  
- courts_of_navarra:0 "Courts of Navarra"
- courts_of_navarra_desc:0 "The Cortes of Navarra are a deliberative assembly of the Kingdom of Navarra formed by knights, clergymen and representatives of the towns and cities of the realm. They are the keepers of the Old Laws, known as Fueros, and have the objective to keep in check the power of the monarch, while also serving the royal house in their needs."
+ courts_of_navarra:0 "Суди Наварри"
+ courts_of_navarra_desc:0 "Кортеси Наварри - дорадчі збори Королівства Наварра, створені лицарями, священнослужителями та представниками міст та селищ королівства. Вони є зберігачами Старих Законів, відомих як Фуерос, і мають на меті контролювати владу монарха, одночасно служачи королівському дому в його потребах."
  
  #Naval Doctrine 
- basque_marines:0 "Basque Marines"
- basque_marines_desc:0 "Our people have pursued whales to the very end of the world, raided coasts or brought precious goods from other lands for a very long time, learning the secrets of the ocean. These teachings have made our sailors fearless and reliable, a secure value in any navy that employs them."
+ basque_marines:0 "Баскська морська піхота"
+ basque_marines_desc:0 "Наші люди переслідували китів до самого краю світу, робили набіги на узбережжя або протягом тривалого часу привозили дорогоцінні товари з інших земель, пізнаючи таємниці океану. Ці вчення зробили наших моряків безстрашними та надійними, ефективним придбанням для будь-якого флоту, який їх найняв."
  
  #New Navarran Ideas 
- fearless_seamen:0 "Fearless Seamen"
- fearless_seamen_desc:0 "Our people have always looked to the sea with awe and fear, tempting them to embrace the richness it can bring. Brave, our forefathers founded communities that would live not only by the sea, but from it, developing impressive skills on the water. Our sailors are well known all across the Atlantic Coast."
- shipbuiling_experts:0 "Shipbuilding Experts"
- shipbuiling_experts_desc:0 "The sea kissing our shores has plenty of resources, waiting for those that dare grab them. For centuries, our coast has been full of ports and shipyards, tirelessly building ships to calm our thirst of marine adventures and endeavors."
- basque_ferocity:0 "Basque Ferocity"
- basque_ferocity_desc:0 "Even before the Battle of Roncesvalles, which the French still weep, or the campaigns of the Navarrese Company, our people have always been considered ferocious fighters. We should never let our enemies forget it."
+ fearless_seamen:0 "Безстрашні моряки"
+ fearless_seamen_desc:0 "Наші люди завжди дивилися на море з трепетом і страхом, яке спокушало їх прийняти багатства, котрі воно може принести. Хоробрі, наші предки заснували громади, які жили не лише біля моря, а й далеко від нього, розвиваючи разючі навички на воді. Наші моряки добре відомі по всьому Атлантичному узбережжю."
+ shipbuiling_experts:0 "Фахівці суднобудування"
+ shipbuiling_experts_desc:0 "Море, що цілує наші береги, таїть у собі безліч ресурсів, які чекають на тих, хто наважиться їх схопити. Протягом століть наше узбережжя наповнювалося портами та корабельнями, де невпинно будувалися кораблі для угамування спраги морських пригод і починань."
+ basque_ferocity:0 "Баскська лютість"
+ basque_ferocity_desc:0 "Навіть до битви при Ронсесвальєсі, яку французи все ще оплакують, або до походів Наваррської компанії наші люди завжди вважалися запеклими бійцями. Ми ніколи не повинні дозволити нашим ворогам забути про це."
  camara_de_comptos:0 "Cámara de Comptos"
- camara_de_comptos_desc:0 "During the reigns of our first French educated kings, ideas of how to administrate a realm were brought to Navarra. Thanks to this new knowledge, the Cámara de Comptos was born with the duty to control the monetary health of our nation."
- people_of_the_sea:0 "People of the Sea"
- people_of_the_sea_desc:0 "Our people are expert mariners, but we have to convert every skillful man of the sea into a possible sailor for our navies, should we need them in the wars to come. Their expertise will be an obvious advantage for this project."
- an_industrious_folk:0 "An Industrious Folk"
- an_industrious_folk_desc:0 "The land we live in might not be the richest, but Basques are an industrious people, working hard to achieve what they need from it. Be it by smelting our iron in the ironworks, converting the wood of our forests into charcoal or creating the best ships around. Our realm is bountiful thanks to the effort of our people."
+ camara_de_comptos_desc:0 "Під час правління наших перших французьких освічених королів до Наварри принесли ідеї про те, як керувати королівством. Завдяки цим новим знанням зародилася ідея створення лічильних палат, Cámara de Comptos, покликаних контролювати фінансовий добробут нашої нації."
+ people_of_the_sea:0 "Люди моря"
+ people_of_the_sea_desc:0 "Наші люди є досвідченими мореплавцями, але ми повинні перетворити кожного вмілого моряка на можливого моряка для нашого військового флоту, якщо вони нам знадобляться в майбутніх війнах. Їхній досвід буде очевидною перевагою для цього задуму."
+ an_industrious_folk:0 "Працьовитий народ"
+ an_industrious_folk_desc:0 "Земля, на якій ми живемо, можливо, і не найбагатша, але баски — працьовитий народ, який старанно працює, щоб отримати від неї те, що йому потрібно. Чи це виплавка заліза на металургійних заводах, перероблення деревини наших лісів на деревне вугілля чи створення найкращих кораблів у світі. Наша країна рясніє завдяки зусиллям нашого народу."
  
  #Portugal
  
