@@ -5323,7 +5323,7 @@
  gbr_ave_the_men_of_war_title:0 "Розширити Королівський флот"
  gbr_ave_the_men_of_war_desc:0 "Ми живемо та дихаємо завдяки нашій здатності проєктувати свою владу над морем. Ми повинні підготувати нашу націю до будівництва та розширення Королівського флоту."
  ave_eliminate_the_french_minors_title:1 "[Root.GetPreviewColorGBR]Убезпечити герцогські корони[Root.GetPreviewColorGBR_end]"
- ave_eliminate_the_french_minors_desc:0Хоча престолом Франції тепер керують з міста [Root.Capital.GetName], the French region still remains decentralized and fractured. The independent duchies of Provence and Brittany must bend their knee to [Root.GetUsableName]."
+ ave_eliminate_the_french_minors_desc:0 "Хоча престолом Франції тепер керують з міста [Root.Capital.GetName], французький регіон досі лишається децетралізованим і розділеним. Незалежні графства Прованс і Бретань мають схилити коліно перед [Root.GetUsableNameKYM]."
  ave_eliminate_the_french_minors_at:0 "Якщо ми виконаємо цю місію маючи §YФранцію§! за суб'єкта:"
  ave_eliminate_the_french_minors_ct:0 "Одна з наступних умов повинна бути виконана:\n    Суб'єкт §Y[Root.GetTagOGO]§! або її суб'єктів\n    Не володіє жодною провінцією в регіоні §YФранція§!"
  ave_conquer_iberia_title:1 "[Root.GetPreviewColorGBR]Еспанські королівства[Root.GetPreviewColorGBR_end]"
