@@ -26,7 +26,7 @@
  
  MALE_ENDING_YM:0 "им" #GetEndOJuYM
  FEMALE_ENDING_OJU:0 "ою" #GetEndOJuYM або !GetEndOYAYA
- EAEEndOJuYM.A:0 "[This.Adm_Advisor.GetAAEndOJuYM]"
+ EAEndOJuYM.A:0 "[This.Adm_Advisor.GetAAEndOJuYM]"
  EAEndOJuYM.D:0 "[This.Dip_Advisor.GetADEndOJuYM]"
  EAEndOJuYM.M:0 "[This.Mil_Advisor.GetAMEndOJuYM]"
  
